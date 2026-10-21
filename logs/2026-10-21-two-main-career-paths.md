@@ -80,3 +80,52 @@ Notionは編集していない。
 補足：[IBM 28卒コンサルティング事業本部DS](https://www.ibm.com/jp-ja/careers/career-opportunities)は分析・AIの専門性を採る明確な経路だが、[職種説明](https://www.ibm.com/jp-ja/careers/blog/2028-new-graduate-recruiting-positions)の主務はAI/機械学習/最適化による課題解決。アーキテクチャ担当を保証しない。[BCG X 28卒](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)もDSとAI Engineerは別職種で、DS採用からAI Engineerになる前提で選ばない。[PwCデジタルコンサルタント](https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html)はAI・分析・システムの幅があるが部署配属と実装の比率に幅がある。
 
 この結果からの**提案（決定ではない）**は、IT側をNRI/NTTデータ/IBM/PwCの直接経路として残し、AI側ではアクセンチュアAI＆Data、IBM AIイノベーター、EY AI＆データ、NECアナリティクスなどでDS経験と設計実装の両立を比べること。IT×DSはNTTデータ/アバナード等のデータ基盤職として別途比較し、DS経験で一般ITアーキテクト採用に有利だと推定しない。Notionは編集していない。
+
+## 追記：4セルを企業・職種・28卒入口まで広げた探索（同日）
+
+ユーザーは4セルの整理に同意し、Notionの志望度4以上の企業を優先しつつ、未掲載企業も含めて具体的な部署・職種・採用情報をさらに広く求めた。以下は**調査・提案**であり応募先の決定ではない。2026年10月21日に公開の公式資料を確認。Notionの志望度は本人の過去の記録で、世間一般の就職難易度ではない。28卒の選考は、職種別募集、会社単位の入口、インターン・プレエントリーだけを区別する。非公開のマイページ内日程や配属は未確認とする。
+
+### ITアーキテクト × 直接
+
+- [NRI AE/TE](https://working.nri.co.jp/recruit/contents/business/ourjobs/ourjobs_b.html)はアプリ／基盤アーキテクトへのキャリアが明示される。[28卒サイト](https://working.nri.co.jp/recruit/2028/index.html)はイベント・インターンが公開されるが本選考詳細は未確認。
+- [NTTデータ 業務SE／方式SE](https://nttdata-recruit.com/job/job_se.html)は顧客業務・システム方式の設計・構築。[公開募集要項](https://nttdata-recruit.com/recruit/requirements.html)は27卒用で28卒の募集条件は未確認。
+- [IBMコンサルティング事業本部 ITスペシャリスト](https://www.ibm.com/jp-ja/careers/blog/2028-new-graduate-recruiting-positions)は要件定義から構築・運用を担い、将来アーキテクトへ進む説明がある。[28卒の職種別募集](https://www.ibm.com/jp-ja/careers/career-opportunities)を確認。
+- [PwC ITソリューションコンサルタント](https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html)は業務アプリの構想から実行・効果創出。28卒国内本選考第1タームのESは**2026年11月15日23:59 JST**締切。文理・現在のITスキルを問わず、DSは採用要件でない。
+- [KPMG Technology Consulting](https://recruit.kpmg-consulting.jp/work/technologyconsulting)はIT設計・実行の仕事がある。[28卒新卒入口](https://recruit.kpmg-consulting.jp/new-graduate)はあるが、[FAQ](https://recruit.kpmg-consulting.jp/new-graduate/faq)では入社後12～18カ月の育成後に専門チームへ配属。希望部門に直接入れるとは言えない。
+- [デロイト コンサルティング](https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html)は28卒入口があるが、募集単位は幅広いコンサルタント。AI・エンジニアリング部門やFDEへの新卒配属は未確認。
+- Notion外の[日本総研 ITソリューション](https://www.jri.co.jp/recruit/new_graduates/)、[日鉄ソリューションズ SE](https://www.nssol.nipponsteel.com/recruiting/internship/)、[MUIT オープンコースSE](https://www.it.mufg.jp/recruiting/fresh/recruit/guideline.html)も候補。28卒は日本総研のエントリー、NSSOLのマイページ／イベント、MUITのメンバーサイトまで確認。MUIT公開募集要項のコース内容は27卒用。
+
+### AIアーキテクト × 直接
+
+- [IBM AIイノベーター](https://www.ibm.com/jp-ja/careers/blog/2028-new-graduate-recruiting-positions)はAIの構想、モデル選定・評価、API／既存システム統合と実装。28卒の独立職種として募集要項がある。
+- [BCG X 28卒 AI Engineer](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)はDSと別職種。関連領域の修士・博士課程と職歴条件を公開。[BCG Xの仕事紹介](https://careers.bcg.com/jp/ja/japan-bcgx)でForward Deployed AI Engineerの構築実装を確認したが、新卒入社時の担当範囲は個別求人で確認が必要。
+- [アバナード28卒エンジニア求人](https://www.avanade.com/ja-jp/career/job-details/R00347593)にはAIエンジニア、Data Platformエンジニア、ソフトウェアエンジニアなどの分野が併記され、システム設計・構築に携わる。2028年4月入社向けでプログラミング経験が望ましい。採用後の分野確約は確認できない。
+- [AWS 28卒ソリューションアーキテクト](https://aws.amazon.com/jp/careers/newgraduate/)は本選考受付開始。ただし設計助言の比率が高く、顧客システムの実装そのものを担う[Professional Services](https://aws.amazon.com/jp/careers/teams/professionalservices/)は28卒個別募集未確認。
+- [Microsoft Cloud Solution Architect](https://www.microsoft.com/ja-jp/mscorp/college/mskk-recruit-tech)はクラウド導入支援の職種だが、公開の募集は終了しており28卒本選考を確認できない。顧客システムの実装範囲も要確認。
+- [NRI AI Design／AXイノベーションセンター AIソリューション推進部](https://www.nri.com/jp/service/solution/solution_ai.html)はAI選定、既存システム連携、基盤構築・運用を扱う実在組織。ただし28卒の同部門指定採用は未確認。
+
+### ITアーキテクト × DSの強み
+
+- **該当する仕事はあるが、28卒でDS経験が選考上の明示要件で、かつITアーキテクトへの配属・経路が確定する募集は確認できなかった。** 分析職ではなく、データ基盤・データエンジニアリング職として候補を置く。
+- [EYSC AI&データ](https://www.eysc.jp/recruit/capabilities/tc/aid/)にはIoTデータ基盤の構想・開発・運用、データ加工・可視化・AI環境構築の実例がある。[28卒新卒入口](https://www.eysc.jp/recruit/new_graduate/entry/new/index.html)は本選考受付中。ただしAI&データへの配属は未確認。
+- [NTTデータ Data & Intelligence](https://www.nttdata.com/jp/ja/services/data-and-intelligence/)は分析基盤やデータ連携を実装。28卒はSEという広い入口で、DSによる選考上の優位や当該チーム配属は未確認。
+- Notion外の[McKinsey QuantumBlack 東京 Data Engineer](https://www.mckinsey.com/careers/search-jobs/jobs/dataengineer-quantumblackaibymckinsey-105274)は顧客データ品質・分析基盤・MLデータパイプラインを構築する公開求人。28卒新卒専用募集ではなく、応募資格・採用可能性は要確認。一般的なITアーキテクトではなくデータアーキテクチャ寄り。
+- Notion外の[TDSE 28卒エンジニア](https://www.tdse.jp/recruit/preentry/)はMLOps基盤、アプリ、DB設計・運用を担う。28卒はプレエントリー受付で、本選考日程は未公開。同社の知名度・選考難易度をNotionレベル4相当と断定しない。
+- Notion外の[住友商事グループ InsightEdge 28卒ソフトウェアエンジニア](https://herp.careers/v1/insightedge/Enkj0X4CKAA5)は分析系バックエンド、分析基盤の設計構築を担当する公開求人。[同社28卒データサイエンティスト](https://herp.careers/v1/insightedge/ULzcvO5ofDdd)とは別枠。後者は本番化時にアーキテクトチームと協働するが、本人自身のアーキテクト配属を意味しない。会社の採用管理サービス上の公式求人を検索結果で確認し、直接ページは取得制限のため全文読取不可。
+- [アバナード Data Platformエンジニア](https://www.avanade.com/ja-jp/career/job-details/R00347593)も28卒枠がある。ただし募集要件はプログラミング経験中心で、DS研究経験の採用上の評価や同分野への配属確約は確認できない。
+
+### AIアーキテクト × DSの強み
+
+- [アクセンチュア 28卒AI＆Dataアーキテクト](https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level)はAI・DSの専門性と、課題分析→ソリューション選定→アーキテクチャ→実装・運用を同じ職種説明で明示。4セル中、ユーザーの仮説を最も直接裏付ける28卒枠。ユーザーのCEO起点特別選考とは別の公開通常選考であり、結果は未確定。
+- [NEC アナリティクスコンサルティング統括部](https://jpn.nec.com/recruit/newgraduate/matching/department/602/)はデータサイエンティスト（SE職）が顧客へAIを導入し業務システムに組み込む。統計・ML・数理最適化とプログラム設計・開発力を活かせると明記。ただしページは27卒部門別募集で28卒同部門募集は未確認。分析業務の比重も大きい。
+- [IBM 28卒コンサルティング事業本部 データサイエンティスト募集要項](https://www.ibm.com/jp-ja/downloads/documents/jp-ja/1227c12efab8b25d)はML・数理最適化の経験を歓迎し、エンジニアリングも習得する意思を求める。分析・モデルを主務とし、AIアーキテクト配属は確認できない。
+- [日本総研 ITソリューション内データサイエンス](https://www.jri.co.jp/recruit/new_graduates/business/it_solutions/data_science/)はSMBCグループ向けにAIモデルの構築から本番実装まで行う。組織が目指すキャリアはデータサイエンティストであり、本人の実装・設計志向とずれ得る。
+- [デロイト リスクアドバイザリー 28卒AI・アナリティクスコンサルタント](https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-risk-advisory-students.html)は専門ユニット「デロイトアナリティクス＆デジタルガバナンス」へ入社時配属。仕事内容は課題特定、分析、インサイト、戦略・実行支援で、システムのアーキテクチャ設計は明記されず、本人の最終目標とは距離がある。
+- [BCG X 28卒Data Scientist](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)、[MUITデータサイエンスコース](https://www.it.mufg.jp/recruiting/fresh/recruit/guideline.html)、[InsightEdge 28卒DS](https://herp.careers/v1/insightedge/ULzcvO5ofDdd)もDS経歴の入口として実在。ただし各々AIシステム設計者への直接配属・昇格は確認できず、モデル・分析の比重を見極める必要がある。MUIT公開募集要項は27卒用。
+
+### 議論へ持ち込む暫定結論と未解決点
+
+- 4セルのうち、**AI×DSのアクセンチュア**は仕事内容と採用上の専門性が同じ28卒職種で結び付いている。**IT×直接**はNRI、NTTデータ、IBM、PwC等に明確な入口がある。**IT×DS**はデータ基盤へ絞れば仕事は見えるが、本人の研究が採用上評価されて一般ITアーキテクトへ進めるという連結は未証明。
+- [EYの実案件](https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-13/)では統計・AIモデルをDSユニット、既存システム連携やダッシュボード構築をデジタル・エンジニアリングユニットが分担。DS採用からシステム設計を担当できるとは限らない根拠。
+- 比較の次段階では、各社の「新卒時に部署を選べるか」「本人が設計・実装を担当する割合」「モデル開発の比率」「一般顧客向けかグループ内向けか」「研究から示せるプログラミング・クラウド・API経験」を確認する。
+- X等も補助的に検索したが、該当職種・28卒条件を職種単位で検証できる投稿は見つからず、今回の募集・期限の根拠には使わなかった。Notionは編集していない。
