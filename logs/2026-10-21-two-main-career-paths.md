@@ -65,3 +65,18 @@ Notionは編集していない。
 | [MURC デジタルイノベーション](https://www.murc.jp/service/digital/) | システム構想、要件整理、ベンダー選定、PMOが中心で、本人の直接構築志向より上流寄り。 | [28卒募集要項](https://career.murc.jp/information/requirements.html)は2027年2月頃掲載予定。 |
 
 補足：[PwC ITSCの旧年度選考体験談](https://www.onecareer.jp/companies/89/experiences/2025/165920/920911)ではアプリケーションを用いたワークが記載されるが、現行選考の保証には使わない。Xの断片的な投稿は公式募集要項と照合できず、職種・期限の根拠には用いない。Notion編集は行っていない。
+
+## 追記：ユーザーの訂正と2×2での再調査（同日）
+
+上部の「二つの主軸」は先の暫定整理。ユーザーはその後、**前回の整理が目的地と選考経路を混同していた**と指摘した。現在の議論の枠組みは「ITアーキテクト／AIアーキテクト」×「直接応募／研究で培ったデータサイエンスを採用上の強みとして使う」の4セル。優先順位と応募先は**未決定**。データサイエンス職に入ること自体を目的にしていない。
+
+| 到達先と入口 | 実在する候補と確認できたこと | 28卒・限界 |
+| --- | --- | --- |
+| ITアーキテクト × 直接 | [NRI AE/TE](https://working.nri.co.jp/recruit/contents/business/ourjobs/ourjobs_b.html)は業務アプリと基盤・処理方式の設計開発。[NTTデータ業務SE/方式SE](https://nttdata-recruit.com/job/job_se.html)も設計・開発。[IBM ITスペシャリスト](https://www.ibm.com/jp-ja/careers/career-opportunities)、[PwC ITソリューションコンサルタント](https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html)も該当。 | IBM/PwCは28卒募集職種。NRI/NTTデータは28卒の本選考要項・職種割当を別途確認する。DSは一般ITアーキテクト採用の明示要件とは限らない。 |
+| AIアーキテクト × 直接 | [IBM AIイノベーター28卒要項](https://www.ibm.com/downloads/documents/jp-ja/15db805fff4249c9)はAI構想、API・既存システム統合、実装。応募にはAIの自主学習・検証とプログラミングまたはシステム開発の成果物が必要。[BCG X 28卒AI Engineer](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)、[アバナード28卒AIエンジニア](https://www.avanade.com/ja-jp/career/job-details/R00347593)も候補。 | BCG Xは新卒AI EngineerとDSが別枠。仕事内容・配属の詳細は個別求人で確認する。アバナードはプログラミング経験を重視。 |
+| ITアーキテクト × DSの強み | 対象を広いSI全般ではなく**データ基盤・データアーキテクチャ**に寄せると接点がある。[NTTデータのデータ＆インテリジェンス](https://www.nttdata.com/jp/ja/services/data-and-intelligence/)は分析基盤とデータ連携の設計実装。[アバナード28卒Data Platformエンジニア](https://www.avanade.com/ja-jp/career/job-details/R00347593)は新卒入口がある。[NRI TE](https://working.nri.co.jp/recruit/contents/business/ourjobs/ourjobs_b.html)も基盤側だがDSを採用上の優遇要件とする資料は未確認。 | このセルで**DS経験が採用条件として明示され、かつ一般的なITアーキテクト職へ直結する28卒募集**は確認できなかった。アバナードの募集はプログラミング経験を重視。データ基盤への配属や将来の一般ITアーキテクト移行は保証されない。 |
+| AIアーキテクト × DSの強み | [アクセンチュア28卒AI＆Dataアーキテクト](https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level)はAIとDSの専門性を明示し、課題分析から設計・実装・運用まで。[NECアナリティクスコンサルティング統括部](https://jpn.nec.com/recruit/newgraduate/matching/department/602/)は「データサイエンティスト（SE職）」として統計・機械学習・最適化とプログラム設計開発を歓迎しAIシステム導入まで扱う。[EYSC AI＆データ](https://www.eysc.jp/recruit/new_graduate/capabilities/tc/aid-message/)はAI・データ経験とITソリューション導入が接続する。[日本総研のITソリューション内データサイエンス](https://www.jri.co.jp/recruit/new_graduates/business/it_solutions/data_science/)はデータ分析経験を望ましい条件とし本番実装も行う。 | アクセンチュア28卒は明確。NECの部門ページは27卒向けで28卒同部門の募集未確認。EYは28卒テクノロジーコンサルタントのAI＆データ配属が保証されない。日本総研は28卒エントリーがあるが公開の詳細コース募集は27卒。NEC/日本総研のDSはモデル開発が主務の一部となり、本人の希望との距離を確認する。 |
+
+補足：[IBM 28卒コンサルティング事業本部DS](https://www.ibm.com/jp-ja/careers/career-opportunities)は分析・AIの専門性を採る明確な経路だが、[職種説明](https://www.ibm.com/jp-ja/careers/blog/2028-new-graduate-recruiting-positions)の主務はAI/機械学習/最適化による課題解決。アーキテクチャ担当を保証しない。[BCG X 28卒](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)もDSとAI Engineerは別職種で、DS採用からAI Engineerになる前提で選ばない。[PwCデジタルコンサルタント](https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html)はAI・分析・システムの幅があるが部署配属と実装の比率に幅がある。
+
+この結果からの**提案（決定ではない）**は、IT側をNRI/NTTデータ/IBM/PwCの直接経路として残し、AI側ではアクセンチュアAI＆Data、IBM AIイノベーター、EY AI＆データ、NECアナリティクスなどでDS経験と設計実装の両立を比べること。IT×DSはNTTデータ/アバナード等のデータ基盤職として別途比較し、DS経験で一般ITアーキテクト採用に有利だと推定しない。Notionは編集していない。
