@@ -1,6 +1,6 @@
 # 就活戦略プロジェクト：引き継ぎ
 
-更新日：2026年10月22日
+更新日：2026年10月23日
 
 **開始時はGitルート・origin・作業状態を確認して `git pull --ff-only origin main`。** その後、[README.md](README.md)、[AGENTS.md](AGENTS.md)、[OPERATIONS.md](OPERATIONS.md)、[STRATEGY.md](STRATEGY.md)を読む。必要な経緯は[logs](logs/README.md)、職務・採用の根拠は[research](research/)にある。
 
@@ -11,6 +11,7 @@
 - 主な選考経路は、①一般のSE・IT専門職から**NRI、NTTデータ、IBM**、②神経科学研究・データ分析を強みにAI & Data領域から**アクセンチュア、EY、KPMG、Deloitte Consulting、PwC Consulting**。希望コースと注意点は[STRATEGY.md](STRATEGY.md)。
 - Big4では「AIアーキテクト×データサイエンスの強み」を主軸に比較する。希望チームの存在と、28卒採用からの配属確約は分けて扱う。
 - 「アクセンチュア以上を狙う」は本人の志望先を考える条件。企業・専門職の客観的な就職難易度順位は未確定。
+- 2026年10月23日に、8社をIT3社とAI5社に分けて比較する判断軸を定めた。「格」は希望部署・職種の年収、得られる市場価値、事業売上／権威、共に働く人の知的水準の4軸。比較結果と未公表情報は[8社の調査](research/2026-10-23-eight-role-comparison.md)。志望順位は未決定。
 
 ## 現在の資料・選考状況
 
@@ -25,9 +26,11 @@
 2. AIルート：自己分析の新しいトグルで、分析経験から顧客へのAI導入・全体設計へ進みたい理由を組み立てる。
 3. Big4の募集職種、希望部門への配属可能性、設計・実装と分析の比率、応募優先順位・期限を比較する。アクセンチュアの結果が判明したら戦略を更新する。
 4. ESは応募先と設問に合わせて作る。公開GitHubには個人情報や私的なES本文を置かない。運用詳細は[OPERATIONS.md](OPERATIONS.md)。
+5. 8社について「なぜ当社か」を希望部署の実務から具体化する。対象チームの売上・給与・人材比較で未公表の部分は、面接・座談会で仕事内容、若手の設計・実装比率、配属条件、レビュー体制を確かめる。
 
 ## 直近の記録
 
+- [志望度5の8社：違いと「格」の調査](logs/2026-10-23-eight-target-comparison.md)
 - [二本の戦略と運用を統合した記録](logs/2026-10-22-strategy-operation.md)
 - [Big4の希望部署とNotion更新](logs/2026-10-22-big4-cell4-target-teams.md)
 - [2×2と広い企業探索](logs/2026-10-21-two-main-career-paths.md)
