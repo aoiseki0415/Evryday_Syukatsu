@@ -1,6 +1,6 @@
 # 就活戦略プロジェクト：引き継ぎ
 
-更新日：2026年10月21日
+更新日：2026年10月22日
 
 この文書は別チャットのCodexが最初に読む現在地。運用ルールは [README.md](README.md) と [AGENTS.md](AGENTS.md)、詳しい経緯は [logs](logs/README.md) を参照する。Notionの内容は必要な時点で再確認する。
 
@@ -30,18 +30,20 @@
 - **追加の有力な確認対象：McKinsey QuantumBlack東京Data Engineer（105274）。** 分析用基盤・MLパイプライン・データ環境を構築。必須経験年数の記載はなくインターン等は歓迎。ただし**28卒受付・専攻適合・2028年入社は未確認**。同組織Architectは顧客システム設計を担当するが5年以上の専門経験、東京DSは実務2年以上で、いずれも新卒枠としない。Bain AISもAIとDS/実装の組織だが日本28卒専門入口未確認。一般新卒からの専門配属を推定しない。
 - **2026年10月21日の最新方向：Big4を今後の主な応募・比較対象として考える。** 個別の応募職種・順位はまだ決定していない。[Big4の2×2職種調査](research/2026-10-21-big4-2x2-roles.md)を参照。IT×直接はPwC ITソリューション、KPMG ITソリューション、EYテクノロジーが明瞭。AI×DSはKPMG Edge Technology「Data & AI」、Deloitte RA「AI・アナリティクス」、PwCデジタル、EYテクノロジー→AI & Dataを比較する。IT×DSに完全一致する募集はなく、データ基盤を経由する部分一致に限る。
 - Big4では**募集職種と配属先の対応の強さが異なる**。PwCはITSCとデジタルを別募集。KPMGは職種別コースを案内するが専門チーム配属は入社後12～18カ月の育成後。EYはテクノロジーコンサルタント共通入口で、若手はTCGとして複数案件を経験してからユニットへ正式配属。Deloitte Consultingは広いコンサルタント枠、Deloitte RA AI・アナリティクスは入社時から専門ユニット配属。部署の仕事内容を先に見て募集職種を選ぶ一方、配属確約の有無を別に確認する。
+- **2026年10月22日の決定：Big4では④「AIアーキテクト × DSの強み」を主軸にする。** [各社で狙う部署の再調査](research/2026-10-22-big4-cell4-target-teams.md)を参照。EYはTechnologyのAI & Data、KPMGはEdge Technology「Data & AI」からDXA Data & AIのData/AIソリューションアーキテクト側、DeloitteはRAではなくConsultingのEngineering, AI & Data内AI&D、PwCはDigital ConsultantからDigital & AI TransformationのAI & Analyticsを狙う。PwCではTechnology Architecture、System Engineering、Data Consultingとの横断、DeloitteではAI導入・MLOps・Product SolutionとData Modernizationを重視する。個別企業の応募順位は未決定。
 - MBB以外ではOliver Wyman Quotient、Palantir、OpenAI、Anthropic等も追加探索。顧客向け実装職は実在するが、日本28卒専門入口未確認または経験者向け。Palantir東京FDEは卒業後実務1年以上、OpenAI東京FDEは5年以上の技術導入/開発経験を想定。McKinsey一般28卒BAの冬締切2026-09-15、Bain一般28卒冬インターンの締切2026-10-07 13:00は経過済みで、専門求人の締切と混同しない。
 - 新発見の**KPMG FAS CVA／AI・データサイエンス主導型コンサルタント**は28卒で研究のPython/R分析経験を明示する統合枠。ただし公開締切2026年5月29日13:00は経過済み。追加募集未確認で、現在応募可能な候補としない。M&A/経営分析中心で一般SIとは距離がある。会社全体の出身大学指標等を、アクセンチュアAI＆Data専門職より難しいという証拠には使わない。
 - DATUM STUDIOは2026年10月1日にエイトハンドレッドと統合し、RONNABYTEへ商号変更。旧社名と二重計上しない。ちゅらデータは別法人の子会社で28卒採用あり。アバナード28卒ページには中途・27年10月入社の関連求人が混在しているため、以前の「28卒Data Platform/AIの内訳まで確認済み」という解釈は保留し、28卒Engineer募集と専門配属未確認に訂正する。
 
 ## 直近の記録
 
+- [2026年10月22日：Big4では④を主軸にして狙う部署を具体化](logs/2026-10-22-big4-cell4-target-teams.md)
 - [2026年10月21日：二つの主軸とAIシステム実装職の整理](logs/2026-10-21-two-main-career-paths.md)
 - [2026年10月20日：現在の就活戦略上の悩みとNotion確認](logs/2026-10-20-strategy-question.md)
 - [2026年10月20日：プロジェクトの目的と記録運用](logs/2026-10-20-project-policy.md)
 
 ## 次に進めること
 
-1. Big4を主軸に、PwC ITSC／デジタル、KPMG IT Solution／Edge Data & AI、EY Technology、Deloitte RA AI・Analytics／Consultingのうち、実際に応募する職種と優先順位を決める。部署の仕事への適合と、新卒での配属確度を分ける。
-2. 求人に実装が含まれることと、それが本人の主務になることを区別する。研究が募集要件とどこまで一致するか、開発・クラウド等の実績、モデル構築とシステム設計の比率が次の論点。PwC ITSC国内第1タームは2026年11月15日23:59 JST、PwCデジタル28卒最終募集ESは2027年1月8日23:59 JST。KPMG・EY・Deloitteの公開ページにない締切はMyPage確認が必要。
+1. ④を主軸に、EY Technology→AI & Data、KPMG Edge Data & AI→DXA Data & AI、Deloitte Consulting→AI&D、PwC Digital→D&AIのAI & Analyticsについて、実際の応募優先順位を決める。仕事内容への一致と、新卒での配属確度を別々に評価する。
+2. 各社でAIシステムの設計・実装を本人が担う比率、分析・モデル開発の比率、希望ユニットの指定方法を説明会・MyPage・社員情報で確認する。KPMG国内28卒でEdge Technology「Data & AI」を現在選べるかも確認する。PwCデジタル28卒最終募集ESは2027年1月8日23:59 JST。KPMG・EY・Deloitteの公開ページにない締切はMyPage確認が必要。
 3. 合意した企業・部署・選考方針を決定事項として残し、必要なNotionページに反映する。
