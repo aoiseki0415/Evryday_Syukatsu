@@ -15,6 +15,7 @@
 - AI志望5先の実務を再検証した。[5先の仕事・DS・AI導入の照合](research/2026-10-23-five-ai-units-work-audit.md)を先に読む。5先ともAI導入の仕事はあるが、根拠は新卒職種・経験者専門職・実案件で異なる。EYはデータ基盤を核にしたAI機能実装、KPMGはRAG／エージェントの既存システム統合、デロイトは専門職分担、PwCは同一DAX内のAI分析・アーキテクチャ専門職併存が重要。新卒の希望担当への配属は未確約。
 - [10月24日のBig4以外の探索](research/2026-10-24-elite-ai-data-deployment-search.md)：顧客向けAI設計・本番導入とデータを同一職種で扱うGoogle Cloud、Databricks、OpenAI等を確認したが、現行の東京求人は経験者向け。BCG Xの28卒はDSとAI Engineerで別応募、McKinseyのData Engineer Iはデータ基盤寄り、AWSの28卒SAはAI＆Data特化ではない。**志望先追加の決定なし**。「同一職種の実務」と「28卒入口」を分ける。
 - [DS条件を外した再探索](research/2026-10-24-direct-ai-architecture-without-ds.md)：到達先の「顧客向けAIシステムの設計・実装・導入」は維持。**IBM Consultingの28卒AIイノベーター**はAI構想・API／既存システム統合・実装を募集職種に明記し、既存志望先IBMのITスペシャリストと異なる「AI×直接」入口。BCG Xの28卒AI Engineer個別求人は受付終了、AWSの28卒SAは受付中だがAI専任ではない。**ユーザーによる戦略変更・志望先追加の決定はまだない**。IBMの本選考期限・併願関係・本人の技術要件充足を確認する。
+- 同日の[追加探索](research/2026-10-24-direct-ai-architecture-without-ds.md#追補候補を広げた再探索同日)で、**フューチャーAIXGの28卒部門別募集**、**NEC AIテクノロジーサービス事業部門の顧客向けAI設計・実装・導入**、NRI AXイノベーションセンター、日立SE、電通総研AITC等を追加確認。前回の候補数は過少だった。NECは確認ページが27卒、NRIは28卒の当該部門募集未確認。『Big4以上』の職種単位の格は順位付けできず、追加志望の決定もない。
 
 ## 現在の資料・選考状況
 

@@ -37,3 +37,28 @@
 4. 本人の主軸「IT×直接」「AI×DS」を変更する決定はまだない。追加するなら、**AI×直接**を第三の応募経路として検討する。既存8社の中でもIBMはITスペシャリストとAIイノベーターのどちらを選ぶか、応募ルールと本人の優先度の確認が必要。
 
 Notionは編集していない。公開求人の要点のみ記録した。
+
+## 追補：候補を広げた再探索（同日）
+
+前の回答はIBM・BCG X・AWSの3件を主に挙げ、**実在する新卒の部門別入口や専門チームを見落としていた**。以下は「顧客のAIシステムを構想・設計・実装・導入する」仕事への近さで追加確認した。就職難易度の『Big4以上』を職種単位で客観比較できる資料はないため、**ブランドの大きさと職務適合を混同しない**。追加志望の決定ではない。
+
+| 企業・部署／募集職種 | 具体的な仕事と本人の希望との距離 | 28卒の入口・不確実性 |
+| --- | --- | --- |
+| [フューチャー／AI戦略推進グループ（AIXG）](https://www.future.co.jp/recruit/recruit/rec-fresh/)／新卒ITコンサルタント・アドバンスト採用 | AI専門チームが先端技術を顧客の業務へ社会実装。会社の[AI方針](https://www.future.co.jp/press_room/PDF/PressRelease_FUTURE_AIstatement_20260430.pdf)は、業務・システムを含むAIアーキテクチャの全体設計と実装を明記。研究寄りの要素もあるため案件・部門内の役割確認が必要。 | **28卒エントリーあり**。AIXGはアドバンスト採用の募集部門に記載。経験に即した部門配属と書かれるが、AIXG確約条件は個別マイページの募集要項で確認。AI・データ分析やバイオ・医療研究の経験も選考に使える。従来の『他にない』という整理を修正する重要候補。 |
+| [NEC／AIテクノロジーサービス事業部門](https://jpn.nec.com/recruit/newgraduate/matching/department/704/)／技術開発職・サービスエンジニア職 | [部門一覧](https://jpn.nec.com/recruit/newgraduate/matching/department/)は、AIソリューションの企画・提案、客先検証・導入、システム設計・開発・運用を一気通貫で行うと明記。AIエージェント・RAGと業務をつなぐ実例あり。本人の希望に**非常に近い**。研究・DS技術も扱うが、分析専業ではない。 | 公開中のマッチングガイドは**27卒向け**で、職種×部門別採用を確認。28卒で同部門・同職種が募集されるかは未確認。 |
+| [NRI／AXイノベーションセンター](https://working.nri.co.jp/recruit/contents/business/field/)／テクニカルエンジニア等 | 公式の部門紹介には顧客DX向けAIソリューション、音声・画像・NLP、アナリティクスと、社内開発のAI活用が併記。**顧客案件と社内生産性案件が混在**するため、希望業務への配属を要確認。 | [28卒サイト](https://working.nri.co.jp/recruit/2028/index.html)は公開。部門紹介ページは確認時メンテナンス表示のため検索索引の内容で照合し、28卒の当該部門の募集有無は未確認。既存のNRI・ITルート内にあるAI寄りの部署候補。 |
+| [日立製作所／システムエンジニア職](https://www.hitachi.com/ja-jp/recruit/jobs/list/system-engineer/) | 公式職種説明は顧客課題の特定、要件定義、設計・構築、運用に加えて**AIの導入**やAI専門家としての支援を明記。仕事の範囲は広く、AI案件の確約はない。 | [27年度募集要項](https://www.hitachi.com/ja-jp/recruit/opportunities/newgraduate/)は理系学生の希望事業・職種へのジョブマッチング方式。28年度の個別AI案件と応募時期は未確認。 |
+| [電通総研／AIトランスフォーメーションセンター](https://aitc.dentsusoken.com/recruit/)／新卒技術職 | AI・データ戦略からモデル構築、**システム化**まで支援。顧客向けAI導入の実務はある。一方でチームには分析・モデル開発の仕事も含まれる。 | [28卒募集要項](https://www.dentsusoken.com/saiyo/application/)は技術職という大きな入口。AITCへの配属を指定・確約できるか未確認。 |
+| [日本TCS／Solution Engineer](https://www.tcs.com/jp-ja/careers/solution-engineer/2028) | 一般SEとして要件定義から設計・構築・運用に参加し、会社に[企業向けAI導入事業](https://www.tcs.com/jp-ja/what-we-do/services/artificial-intelligence)がある。ただし新卒SEがAI専任になるとは書かれていない。 | **28卒職種ページあり**。AI担当への配属条件は未確認。ブランド／選考難度が本人の『アクセンチュア以上』を満たすとは立証できない。 |
+| [McKinsey／Tech & AI Software Engineer（東京）](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineer-techai-105277) | 顧客組織へ直接実装するソフトウェア・分析プラットフォームを構築。開発・実装は強いが、求人は**金融分析を活用するWebシステム**が中心で、AIアーキテクト専業ではない。 | 個別求人に28卒限定の入口はない。高いWeb開発・実績要件があり、現実の新卒応募可能性は未確認。 |
+
+### 既存候補の再評価
+
+- [BCG X Japan新卒案内](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)は28卒のAI Engineerをデータサイエンティストと**別職種**で案内。[BCG Xの職種説明](https://careers.bcg.com/global/en/x/)ではForward Deployed AI Engineerが顧客と本番AIシステムを構築・導入する。今回の希望に近いが、確認した[28卒個別求人](https://careers.bcg.com/global/en/job/59586/AI-Engineer-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan)は「filled」。案内ページだけから現在応募可能とは判断しない。
+- [AWS 28卒SA](https://aws.amazon.com/jp/careers/newgraduate/solutionsarchitect/)は公式採用ページで本選考受付中。ただし一般SA枠でAI専任ではなく、顧客側の設計助言・導入伴走が主で本人の実装比率は限定され得る。
+- [IBM 28卒AIイノベーター](https://www.ibm.com/downloads/documents/jp-ja/15db805fff4249c9)は依然、募集職種の文言として最も直接的。フューチャーとNECの確認により『ほかにはほぼない』という前の印象は撤回する。
+- [Palantir公式求人一覧](https://www.palantir.com/careers/open-positions/)の新卒FDSEは東京掲載なし。[OpenAI Tokyo Applied AI Engineer](https://openai.com/careers/applied-ai-engineer-tokyo-tokyo-japan/)等は経験後の到達先として維持。
+
+### 現時点の実務上の整理
+
+**本命になり得る追加候補**はフューチャーAIXG、NEC AIテクノロジーサービス、NRI AXイノベーションセンター。前二者はAI設計・導入の仕事がより明示的。NRIは既存志望先内の配属候補。**28卒で今すぐ応募入口が明確**なのはフューチャー、IBM AIイノベーター、AWS SA。BCG Xは28卒職種案内があるが確認した求人は締切。NEC、NRI、日立の28卒当該部門の新卒枠は未確認。『格』の上下はこれらの情報からは決められない。
