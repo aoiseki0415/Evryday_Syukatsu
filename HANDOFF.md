@@ -1,6 +1,6 @@
 # 就活戦略プロジェクト：引き継ぎ
 
-更新日：2026年10月23日
+更新日：2026年10月24日
 
 **開始時はGitルート・origin・作業状態を確認して `git pull --ff-only origin main`。** その後、[README.md](README.md)、[AGENTS.md](AGENTS.md)、[OPERATIONS.md](OPERATIONS.md)、[STRATEGY.md](STRATEGY.md)を読む。必要な経緯は[logs](logs/README.md)、職務・採用の根拠は[research](research/)にある。
 
@@ -13,6 +13,7 @@
 - 「アクセンチュア以上を狙う」は本人の志望先を考える条件。企業・専門職の客観的な就職難易度順位は未確定。
 - 2026年10月23日に、8社をIT3社とAI5社に分けて比較する判断軸を定めた。「格」は希望部署・職種の年収、得られる市場価値、事業売上／権威、共に働く人の知的水準の4軸。比較結果と未公表情報は[8社の調査](research/2026-10-23-eight-role-comparison.md)。志望順位は未決定。
 - AI志望5先の実務を再検証した。[5先の仕事・DS・AI導入の照合](research/2026-10-23-five-ai-units-work-audit.md)を先に読む。5先ともAI導入の仕事はあるが、根拠は新卒職種・経験者専門職・実案件で異なる。EYはデータ基盤を核にしたAI機能実装、KPMGはRAG／エージェントの既存システム統合、デロイトは専門職分担、PwCは同一DAX内のAI分析・アーキテクチャ専門職併存が重要。新卒の希望担当への配属は未確約。
+- [10月24日のBig4以外の探索](research/2026-10-24-elite-ai-data-deployment-search.md)：顧客向けAI設計・本番導入とデータを同一職種で扱うGoogle Cloud、Databricks、OpenAI等を確認したが、現行の東京求人は経験者向け。BCG Xの28卒はDSとAI Engineerで別応募、McKinseyのData Engineer Iはデータ基盤寄り、AWSの28卒SAはAI＆Data特化ではない。**志望先追加の決定なし**。「同一職種の実務」と「28卒入口」を分ける。
 
 ## 現在の資料・選考状況
 
@@ -28,9 +29,11 @@
 3. Big4の新卒入口から希望部門／設計担当へ進む条件、PoC後の本番導入と若手の設計・実装比率、分析との役割分担、応募優先順位・期限を確認する。アクセンチュアの結果が判明したら戦略を更新する。
 4. ESは応募先と設問に合わせて作る。公開GitHubには個人情報や私的なES本文を置かない。運用詳細は[OPERATIONS.md](OPERATIONS.md)。
 5. 8社について「なぜ当社か」を希望部署の実務から具体化する。対象チームの売上・給与・人材比較で未公表の部分は、面接・座談会で仕事内容、若手の設計・実装比率、配属条件、レビュー体制を確かめる。
+6. Big4以外を追加するなら、[探索結果](research/2026-10-24-elite-ai-data-deployment-search.md)から28卒の正式な応募資格・配属先・AI導入担当を再確認する。仕事が近い経験者求人を新卒応募先と混同しない。
 
 ## 直近の記録
 
+- [Big4以外のAI×データ導入職の探索](logs/2026-10-24-elite-ai-data-deployment-search.md)
 - [志望度5の8社：違いと「格」の調査](logs/2026-10-23-eight-target-comparison.md)
 - [二本の戦略と運用を統合した記録](logs/2026-10-22-strategy-operation.md)
 - [Big4の希望部署とNotion更新](logs/2026-10-22-big4-cell4-target-teams.md)
