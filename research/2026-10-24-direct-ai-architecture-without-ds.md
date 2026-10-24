@@ -62,3 +62,28 @@ Notionは編集していない。公開求人の要点のみ記録した。
 ### 現時点の実務上の整理
 
 **本命になり得る追加候補**はフューチャーAIXG、NEC AIテクノロジーサービス、NRI AXイノベーションセンター。前二者はAI設計・導入の仕事がより明示的。NRIは既存志望先内の配属候補。**28卒で今すぐ応募入口が明確**なのはフューチャー、IBM AIイノベーター、AWS SA。BCG Xは28卒職種案内があるが確認した求人は締切。NEC、NRI、日立の28卒当該部門の新卒枠は未確認。『格』の上下はこれらの情報からは決められない。
+
+## 再追補：AIシステム導入をする企業は少ないのか（同日）
+
+ユーザーは、DS条件を外しても候補が少なく見えた点を再質問。前の探索は「28卒で日本の専門職へ直接入れること」と「AIシステム導入事業の存在」を同時条件にしており、**市場の厚みを過小に見せた**。ここでは後者を先に独立して調べた。AIシステム導入とは、顧客要件、構成設計、既存システムとの統合、試作・開発、本番導入・定着を含む。企業のAI戦略発表だけでは職務の証拠にしない。
+
+| 領域 | 企業・実在する職種／チーム | 公開情報で確認できる実務 | 28卒との関係 |
+| --- | --- | --- | --- |
+| MBB | [BCG X Japan／AI Engineer](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x) | 顧客のAIソリューションを設計・構築する専門職。DSと別募集。 | **28卒入口あり**。確認した[個別求人](https://careers.bcg.com/global/en/job/59586/AI-Engineer-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan)はfilled。 |
+| MBB | [McKinsey／QuantumBlack Architect 東京・大阪](https://www.mckinsey.com/careers/search-jobs/jobs/architect-quantumblackaibymckinsey-111203) | 顧客のクラウド／企業アーキテクチャ設計・実装を主導しAI変革に参加。AI専業というより基盤・クラウド比重が高い。 | 求人は5年以上の開発経験。28卒直行枠ではない。 |
+| MBB | [Bain／VectorのTechnology & Digital Solutions](https://www.bain.com/vector-digital/advanced-analytics/advanced-analytics-group/) | エンジニアがAIを含む技術ソリューションを構築・拡張。企業レベルで導入機能はある。 | 日本のAI実装専門職への28卒入口は今回確認できず。一般コンサル採用＝その配属とは言えない。 |
+| クラウド | [Google Cloud／東京GenAI Forward Deployed Engineer](https://www.google.com/about/careers/applications/jobs/results/116466339920388806-forward-deployed-engineer-generative-ai-google-cloud-japanese-english?hl=en_US&jid=185175001&page=11) | 顧客の既存API・データ・セキュリティに生成AIを接続し、試作から本番エージェントまで設計・実装。 | 公開求人はPython/ML経験5年。新卒向けではない。 |
+| クラウド | [AWS／Solutions Architect新卒](https://aws.amazon.com/jp/careers/newgraduate/solutionsarchitect/) | 顧客向けシステム全体のクラウド構成を設計・導入支援。企業内にはAI専門SA等も存在するが、28卒募集自体はAI専任でない。 | **28卒本選考受付中**。AI案件への配属・担当は未保証。 |
+| クラウド | [Microsoft／東京AI Solution Architect（Microsoft 365 Copilot）](https://careers.microsoft.com/v2/global/en/locations/tokyo.html) | 公式求人の検索索引は顧客課題を捉え、AIエージェントの設計・導入を担うCSAと説明。ページの動的表示で個別求人本文を安定して再取得できず、現在の応募可否は保留。 | 28卒の同専門職入口は確認できず。一般CSAインターンの実績とは区別。 |
+| AI基盤 | [OpenAI／東京Forward Deployed Engineer](https://openai.com/careers/forward-deployed-engineer-tokyo-tokyo-japan/) | 顧客課題の発見から構成設計、開発、本番展開、利用定着まで担当。本人の希望に特に近い実務像。 | 顧客向けエンジニアリング／導入経験5年以上。28卒直行ではない。 |
+| AI基盤 | [Databricks／東京FDE、Senior AI Engineer-FDE、Delivery Solutions Architect](https://www.databricks.com/jp/company/careers/open-positions?department=all&location=Japan) | 東京に顧客先実装とデータ・AIソリューション導入の別専門職が複数ある。AI専任度は個別求人で再確認が必要。 | 東京28卒FDE入口は今回確認できず。求人一覧の掲載は変動する。 |
+| AI基盤 | [Snowflake／東京Frontier Engineering Solutions Architect、AI Deployment Strategist](https://careers.snowflake.com/us/en/c/professional-services-jobs?typehead=2026) | 東京のProfessional Servicesに設計／AI導入の専門職名を確認。具体的な担当範囲は個別求人本文を確認できず、職名以上の断定は保留。 | 28卒対象の同職種募集は未確認。 |
+| 業務SaaS | [Salesforce／東京Agentforce・Data360 Senior Success Architect](https://www.salesforce.com/company/careers/jobs/JR337672/senior-success-architect-agentforcedata360/) | 顧客のエージェント導入、設計レビュー、最適化・活用拡大を支援。助言・レビュー中心で本人によるシステム実装比率は低い可能性。 | クラウド導入5年とSalesforce3年の経験を要求。28卒直行ではない。 |
+| 業務SaaS | [SAP／東京Business AI Architect - Global Delivery Hub](https://jobs.sap.com/go/SAP-Jobs-in-Japan/942701/) | 旧SAP公式求人一覧に職名と東京勤務地を確認。求人サイト移行中で個別職務・現行応募可否は未検証。 | 28卒同職種入口は未確認。 |
+| 半導体・AI基盤 | [NVIDIA／東京Solution Architect - Agentic AI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Japan-Tokyo/Solution-Architect---Agentic-AI_JR2000342) | 顧客・パートナーのAIアプリ開発を技術支援し、参照アーキテクチャ、実証、導入を進める。製品・インフラ側の設計助言が中心で、顧客の業務システムを一式受託開発する役割ではない。 | 生成AI／深層学習の産業・学術経験5年以上を要求。28卒直行と見なせない。 |
+| 顧客先開発 | [Palantir／東京Forward Deployed Software Engineer - Japan Government](https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430) | 顧客と一緒にシステム・アプリを構築するが、AI案件専任とは記載されず、政府案件特有の応募条件もある。 | 東京の28卒FDSE募集は今回確認できず。 |
+| 既存志望先 | [IBM Consulting／28卒AIイノベーター](https://www.ibm.com/downloads/documents/jp-ja/15db805fff4249c9) | 顧客課題、AI構想・試作・実装、モデル選定、API・既存システム統合を**同一募集職種**に記載。 | **28卒職種要項あり**。応募期限は未確認。 |
+
+補足：[ServiceNow日本の求人紹介](https://careers.servicenow.com/jp/jobs/744000009697455/telco-ciwf-business-process-consultant/)にもGenAI Architectの記載が検索索引に残るが、取得時点が古く、現行求人としては保留。
+
+**整理**：著名なコンサル、クラウド、AI基盤、業務SaaSに顧客AI導入の実務・専門職は多数ある。一方で、東京の専門職求人は経験者条件が中心。28卒で入口まで確認できるのはIBM AIイノベーター、BCG X AI Engineer（確認した個別枠はfilled）、AWS SA（AI専任ではない）等に限られる。これは「AI導入企業が少ない」ことを意味しない。企業・職種の『Big4以上』の就職難易度は標準尺度がなく、この表の全企業がそうだと認定していない。既存志望戦略の変更・志望先追加の決定ではない。Notion編集なし。

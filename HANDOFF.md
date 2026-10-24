@@ -16,6 +16,7 @@
 - [10月24日のBig4以外の探索](research/2026-10-24-elite-ai-data-deployment-search.md)：顧客向けAI設計・本番導入とデータを同一職種で扱うGoogle Cloud、Databricks、OpenAI等を確認したが、現行の東京求人は経験者向け。BCG Xの28卒はDSとAI Engineerで別応募、McKinseyのData Engineer Iはデータ基盤寄り、AWSの28卒SAはAI＆Data特化ではない。**志望先追加の決定なし**。「同一職種の実務」と「28卒入口」を分ける。
 - [DS条件を外した再探索](research/2026-10-24-direct-ai-architecture-without-ds.md)：到達先の「顧客向けAIシステムの設計・実装・導入」は維持。**IBM Consultingの28卒AIイノベーター**はAI構想・API／既存システム統合・実装を募集職種に明記し、既存志望先IBMのITスペシャリストと異なる「AI×直接」入口。BCG Xの28卒AI Engineer個別求人は受付終了、AWSの28卒SAは受付中だがAI専任ではない。**ユーザーによる戦略変更・志望先追加の決定はまだない**。IBMの本選考期限・併願関係・本人の技術要件充足を確認する。
 - 同日の[追加探索](research/2026-10-24-direct-ai-architecture-without-ds.md#追補候補を広げた再探索同日)で、**フューチャーAIXGの28卒部門別募集**、**NEC AIテクノロジーサービス事業部門の顧客向けAI設計・実装・導入**、NRI AXイノベーションセンター、日立SE、電通総研AITC等を追加確認。前回の候補数は過少だった。NECは確認ページが27卒、NRIは28卒の当該部門募集未確認。『Big4以上』の職種単位の格は順位付けできず、追加志望の決定もない。
+- 同日の[市場全体の再調査](research/2026-10-24-direct-ai-architecture-without-ds.md#再追補aiシステム導入をする企業は少ないのか同日)で、**顧客AIシステム導入の仕事自体は少なくない**と整理し直した。BCG X／McKinsey／Bain、Google Cloud／AWS、OpenAI／Databricks／Snowflake、Salesforce／SAP、IBM等の専門職・チームを公式情報で確認。ただし職務の深さは異なり、28卒が日本で直接入れる専門枠は限られる。IBM AIイノベーターは28卒要項、BCG X AI Engineerは28卒案内があるが確認した個別枠はfilled、AWS SAは受付中だがAI専任ではない。志望先追加の決定なし。
 
 ## 現在の資料・選考状況
 
