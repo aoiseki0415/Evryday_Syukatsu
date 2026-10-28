@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-28",
+  "result": "pass",
+  "companies": 5,
+  "included_urls": 6804,
+  "manual_review_urls": 34,
+  "route_edges": 7463,
+  "checks": [
+    "unique company+URL",
+    "same-company input/final/route domains",
+    "each included URL reachable from Japanese root",
+    "observed shortest depth 1..6",
+    "category/HTML/PDF/CSV totals agree",
+    "all records have title/date/hash",
+    "supplied Deloitte PDF is one URL with 42 physical pages",
+    "raw retrieval state absent from public output"
+  ],
+  "limitations": "Metadata-based classification; not a manual full-text review of every URL."
+}

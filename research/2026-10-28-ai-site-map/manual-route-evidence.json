@@ -1,0 +1,10 @@
+[
+  {
+    "company": "accenture",
+    "from": "https://www.accenture.com/jp-ja",
+    "to": "https://newsroom.accenture.jp/",
+    "anchor": "ニュースリリース",
+    "verified_at": "2026-10-28",
+    "method": "web open Japanese homepage, link 49; direct curl refetch of root returned 403"
+  }
+]

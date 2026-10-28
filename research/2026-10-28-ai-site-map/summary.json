@@ -1,0 +1,174 @@
+{
+  "deloitte": {
+    "name": "デロイト トーマツ",
+    "root": "https://www.deloitte.com/jp/ja.html",
+    "confirmed_urls": 2270,
+    "categories": {
+      "技術・データ基盤": 43,
+      "導入支援・活用事例": 631,
+      "経営・業界動向・調査": 1252,
+      "ガバナンス・人材・組織": 344
+    },
+    "languages": {
+      "ja": 333,
+      "en": 1854,
+      "de-de": 46,
+      "it-it": 7,
+      "pl-pl": 8,
+      "nl-nl": 14,
+      "fr-ca": 7,
+      "de": 1
+    },
+    "html": 1727,
+    "pdf": 543,
+    "without_query": 2035,
+    "unique_final_without_query": 1853,
+    "content_hashes": 2220,
+    "depths": {
+      "1": 7,
+      "2": 124,
+      "3": 369,
+      "4": 504,
+      "5": 563,
+      "6": 703
+    },
+    "fetched_urls": 3511,
+    "failed_urls": 114,
+    "unfetched_frontier": 879
+  },
+  "ey": {
+    "name": "EYジャパン",
+    "root": "https://www.ey.com/ja_jp",
+    "confirmed_urls": 1735,
+    "categories": {
+      "技術・データ基盤": 22,
+      "導入支援・活用事例": 380,
+      "経営・業界動向・調査": 775,
+      "ガバナンス・人材・組織": 558
+    },
+    "languages": {
+      "ja": 437,
+      "en": 1296,
+      "ja-JP": 2
+    },
+    "html": 1525,
+    "pdf": 210,
+    "without_query": 1735,
+    "unique_final_without_query": 1715,
+    "content_hashes": 1708,
+    "depths": {
+      "1": 18,
+      "2": 228,
+      "3": 277,
+      "4": 472,
+      "5": 396,
+      "6": 344
+    },
+    "fetched_urls": 3797,
+    "failed_urls": 112,
+    "unfetched_frontier": 654
+  },
+  "pwc": {
+    "name": "PwCジャパン",
+    "root": "https://www.pwc.com/jp/ja/",
+    "confirmed_urls": 648,
+    "categories": {
+      "技術・データ基盤": 18,
+      "導入支援・活用事例": 209,
+      "経営・業界動向・調査": 284,
+      "ガバナンス・人材・組織": 137
+    },
+    "languages": {
+      "ja": 294,
+      "en": 354
+    },
+    "html": 546,
+    "pdf": 102,
+    "without_query": 643,
+    "unique_final_without_query": 605,
+    "content_hashes": 609,
+    "depths": {
+      "1": 1,
+      "2": 71,
+      "3": 143,
+      "4": 186,
+      "5": 143,
+      "6": 104
+    },
+    "fetched_urls": 1639,
+    "failed_urls": 10,
+    "unfetched_frontier": 74
+  },
+  "kpmg": {
+    "name": "KPMGジャパン",
+    "root": "https://kpmg.com/jp/ja.html",
+    "confirmed_urls": 1246,
+    "categories": {
+      "技術・データ基盤": 19,
+      "導入支援・活用事例": 275,
+      "経営・業界動向・調査": 714,
+      "ガバナンス・人材・組織": 238
+    },
+    "languages": {
+      "ja": 439,
+      "en": 805,
+      "de-DE": 2
+    },
+    "html": 879,
+    "pdf": 367,
+    "without_query": 1244,
+    "unique_final_without_query": 1217,
+    "content_hashes": 1123,
+    "depths": {
+      "1": 2,
+      "2": 57,
+      "3": 242,
+      "4": 220,
+      "5": 351,
+      "6": 374
+    },
+    "fetched_urls": 2009,
+    "failed_urls": 17,
+    "unfetched_frontier": 357
+  },
+  "accenture": {
+    "name": "アクセンチュア",
+    "root": "https://www.accenture.com/jp-ja",
+    "confirmed_urls": 905,
+    "categories": {
+      "技術・データ基盤": 8,
+      "導入支援・活用事例": 274,
+      "経営・業界動向・調査": 346,
+      "ガバナンス・人材・組織": 277
+    },
+    "languages": {
+      "ja": 163,
+      "en": 712,
+      "de-AT": 5,
+      "de-DE": 4,
+      "it-IT": 6,
+      "pl-PL": 8,
+      "pt-BR": 2,
+      "es-AR": 1,
+      "es-ES": 1,
+      "fr-FR": 1,
+      "pt-PT": 2
+    },
+    "html": 819,
+    "pdf": 86,
+    "without_query": 531,
+    "unique_final_without_query": 462,
+    "content_hashes": 845,
+    "depths": {
+      "1": 11,
+      "2": 72,
+      "3": 203,
+      "4": 410,
+      "5": 141,
+      "6": 68
+    },
+    "fetched_urls": 3134,
+    "failed_urls": 1680,
+    "unfetched_frontier": 924
+  }
+}

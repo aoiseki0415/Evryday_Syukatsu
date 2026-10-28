@@ -1,0 +1,174 @@
+{
+  "https://www.deloitte.com/jp/ja/services/consulting/services/engineering-ai-data.html?icid=top_engineering-ai-data": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.deloitte.com/jp/ja/Industries/technology/blogs/generative-ai-trends.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://www.deloitte.com/jp/ja/services/consulting/perspectives/management-ai-agent.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://www.deloitte.com/jp/ja/services/consulting/perspectives/data-architecture-for-data-driven-management.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://www.deloitte.com/jp/ja/services/consulting/services/ai-factory.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.deloitte.com/jp/ja/services/consulting/collections/ai-institute.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.deloitte.com/jp/ja/issues/generative-ai/state-of-ai-in-enterprise.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2026/StateofAI-LSHC.pdf?icid=mosaic-grid_---------------": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "3",
+    "title": "State of AI in the Life Sciences and Health Care Industry"
+  },
+  "https://www.deloitte.com/content/dam/assets-shared/docs/about/2026/state-of-ai-lshc.pdf": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "3"
+  },
+  "https://www.ey.com/ja_jp/services/ai": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.ey.com/ja_jp/services/consulting/data-analytics-modernization": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.ey.com/ja_jp/services/consulting/analytics-consulting-services": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.ey.com/ja_jp/insights/financial-services/how-sony-bank-is-utilizing-generative-ai-to-develop-innovative-human-resources": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "4"
+  },
+  "https://www.ey.com/ja_jp/newsroom/2022/07/ey-japan-news-release-2022-07-11": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "3"
+  },
+  "https://www.pwc.com/jp/ja/services/data-analytics-ai.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.pwc.com/jp/ja/services/consulting/analytics.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.pwc.com/jp/ja/services/consulting/analytics/ai-agent.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.pwc.com/jp/ja/services/consulting/analytics/build-your-data-foundation.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://www.pwc.com/jp/ja/services/consulting/analytics/data-platform.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://www.pwc.com/jp/ja/knowledge/column/technology-front-line/vol11.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "3"
+  },
+  "https://www.pwc.com/jp/ja/services/data-analytics-ai/responsible-ai.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "4"
+  },
+  "https://kpmg.com/jp/ja/insights/topic/ai.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "3"
+  },
+  "https://kpmg.com/jp/ja/services/advisory/management-consulting/data-analytics.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://kpmg.com/jp/ja/services/advisory/management-consulting/ai-bpr.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://kpmg.com/jp/ja/insights/2026/10/ai-readydata-01.html": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2024/jp-rag_ai_03.pdf": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1",
+    "title": "RAGによる生成AIの業務利用適応に向けた論点"
+  },
+  "https://www.accenture.com/jp-ja/services/ai-data": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.accenture.com/jp-ja/insights/ai-data/intelligent-digital-brain": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "1"
+  },
+  "https://www.accenture.com/jp-ja/services/ai-data/ai-refinery": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://www.accenture.com/jp-ja/case-studies/ai-data/singapore-civil-defence-redefines-fire-safety-regulation": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "4"
+  },
+  "https://www.accenture.com/jp-ja/case-studies/ai-data/skoda-scales-global-customer-care-through-ai-innovation": {
+    "include": true,
+    "reason": "guide_review: title, description, headings and selected content checked",
+    "category": "2"
+  },
+  "https://sdk.airefinery.accenture.com/ai_refinery_101/": {
+    "include": true,
+    "category": "1",
+    "reason": "guide_review: official SDK overview with agentic features and APIs verified"
+  }
+}
