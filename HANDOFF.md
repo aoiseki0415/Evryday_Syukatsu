@@ -28,7 +28,7 @@
 
 ## 次の論点
 
-1. EYについて本人はプレスリリース・HP、特に[テクノロジーページ](https://www.ey.com/ja_jp/services/technology)の情報量からAIへの積極性と技術理解の高さを感じている。[2026-10-28の議論](logs/2026-10-28-ey-ai-data-positioning.md)と[公式資料照合](research/2026-10-28-ey-ai-data-technology-signals.md)を参照。全社サイトの量と希望するAI&データ部門の実務は分ける。後者にはAIを中心技術とする部門説明とデータ基盤・AI機能の実装案件があるが、KPMGより技術力が高いとは未証明。志望順位・職務希望の変更なし。
+1. EYについて本人はプレスリリース・HP、特に[テクノロジーページ](https://www.ey.com/ja_jp/services/technology)と[AI&データページ](https://www.ey.com/ja_jp/services/consulting/data-analytics-modernization)の情報量から、Big4の中でもAI導入・技術に積極的かつ重厚な印象を抱いている。[2026-10-28の議論](logs/2026-10-28-ey-ai-data-positioning.md)と[公式資料照合](research/2026-10-28-ey-ai-data-technology-signals.md)を参照。AI&データの提供項目にAIシステムの構成設計・導入が明記され、EYグローバルのFY25/FY26 AI関連収入成長も確認。一方、Big4最初・最大やEYSC希望部署の技術力が他社より高いという結論は未証明。志望順位・職務希望の変更なし。
 2. [KPMG DXAの信頼・ガバナンスとAI導入の調査](logs/2026-10-28-kpmg-dxa-trust-ai.md)と[部署別の追加照合](research/2026-10-28-kpmg-dxa-governance-esg.md)を踏まえ、本人とKPMGの志望理由を議論中。本人は監査・ガバナンス由来の知見を土台にしたAI導入、AIガバナンスとESG技術への展開というイメージを重視する。KPMGジャパン横断の提供価値には根拠があるが、DXA Data & AIの主業務がAIガバナンスとは未確認。AIガバナンスを主とする経験者求人は別のRisk Consulting／TRS。DXAページにはESGデータマネジメント支援へのリンクがある。本人の職務希望変更・志望順位変更は未決定。EYも同じ粒度で調べ、両社の志望理由に結びつける。
 3. SIerルート：研究からITシステムの構築・導入を志望する理由を強め、NRI・NTTデータ・IBMの正式な28卒入口を特定する。
 4. AIルート：自己分析の新しいトグルで、分析経験から顧客へのAI導入・全体設計へ進みたい理由を組み立てる。
