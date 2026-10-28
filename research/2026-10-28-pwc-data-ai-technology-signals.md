@@ -6,7 +6,7 @@
 
 - [データ＆AI](https://www.pwc.com/jp/ja/services/data-analytics-ai.html)は**PwC Japanグループ全体のサービスハブ**。経営の意思決定・業務変革を助ける「決断する人のAI」、AIガバナンス、データ基盤、AIエージェント導入などを束ねる。記事数だけでは案件数や技術力を測れないが、AIを単発の分析や効率化に閉じず、業務・データ・システムへ広げる方針は読み取れる。
 - [AI Factory発足発表（2025-10-01）](https://www.pwc.com/jp/ja/press-room/2025/ai-factory.html)では、AIエージェントの試作・開発・運用を担う組織を設け、発足時に専任約10名とグループから約60名が参画。データ基盤整備とグローバルAI拠点との連携も掲げる。**所属はPwC Japan合同会社**で、PwCコンサルティングのDAXや新卒AI&アナリティクスそのものではない。体制人数は発足時点の数字。
-- [IDC MarketScape国内AIサービス2025のPwC抜粋](https://www.pwc.com/jp/ja/analyst-report/assets/pdf/idc-marketscape-japan-artificial-intelligence-services-2025-vendor-assessment.pdf)はPwCを**Leaders**に分類。対象はPwC Japanの各法人全体で、AI専任人材はグループ計で数百人規模、国内提供のAIサービスは95種類と記す。強みとして戦略から実行、ガバナンス、業界知見とエコシステムを評価する一方、大規模実装に向けた自社アセット・技術パートナー連携の強化も課題に挙げる。**DAX単独の評価ではない**。売上金額やEYとの客観的な順位は同抜粋から導けない。
+- [IDC MarketScape国内AIサービス2025のPwC抜粋](https://www.pwc.com/jp/ja/analyst-report/assets/pdf/idc-marketscape-japan-artificial-intelligence-services-2025-vendor-assessment.pdf)はPwCを**Leaders**に分類。対象はPwC Japanの各法人全体で、AI専任人材はグループ計で数百人規模、国内提供のAIサービスは95種類と記す。強みとして戦略から実行、ガバナンス、業界知見とエコシステムを評価する一方、大規模実装に向けた自社アセット・技術パートナー連携の強化も課題に挙げる。**DAX単独の評価ではない**。同じ図のEYとの区分比較は下の追補に記録。売上金額や志望部署の技術力順位は分からない。
 
 ## 2. 志望先のDAX／AI&アナリティクスに近い根拠
 
@@ -26,3 +26,20 @@
 - 28卒デジタルコンサルタントからDAX／AI&アナリティクスをどこまで希望・確約できるか。
 - AI&アナリティクスの若手がどの程度、データ分析・PoC、全体構成設計、既存システム連携、本番導入・運用を担当するか。テクノロジーアーキテクチャ／システムエンジニアリングとの協業形態。
 - 「神経科学研究でのデータ分析→顧客の意思決定に使われるAIシステム導入」という本人の志望理由が、PwCの仕事にどれほど具体的につながるか。現時点では提案・検討事項であり決定ではない。
+
+## 追補：第三者のAIサービス評価を同じ調査内で比較（2026-10-28）
+
+本人は、PwCの新卒採用ページではEYほどAI導入を前面に出していない印象があり、IDC評価の真偽と同種の調査を確認したいと述べた。以下は**サービス提供者としての評価**であり、志望部署・新卒配属の評価ではない。調査会社の評価は、ベンダー提出資料、公開情報、顧客からの聞き取り、アナリストの判断を含む。利用した「抜粋」は各社がライセンス掲載したもので、同じ図に全社が載るが、各社プロフィールはその会社分のみ掲載。顧客案件を独立監査した結果とは異なる。
+
+| 評価（公表時期／対象） | PwC | EY | 読み方 |
+| --- | --- | --- | --- |
+| [IDC MarketScape: Japan Artificial Intelligence Services 2025](https://www.nttdata.com/global/ja/-/media/nttdataglobal-ja/files/news/evaluation/2025/120400/120400-01.pdf)、2025-10／国内AIサービス | **Leaders** | **Major Players** | 元の図をPDFで目視。PwCの円はEYより大きく描かれるが、円の大きさは2024年国内AIサービス売上を基に見やすさの調整も加えた相対表示。具体額・倍率を読まない。対象にはAIの業務コンサル、ガバナンス、開発、導入、運用などが含まれ、DAX／EYSC希望部署の比較ではない。PwCの分類は[同じ調査のPwC向けIDC抜粋](https://www.pwc.com/jp/ja/analyst-report/assets/pdf/idc-marketscape-japan-artificial-intelligence-services-2025-vendor-assessment.pdf)の本文とも一致。 |
+| [IDC MarketScape: Worldwide Artificial Intelligence Services 2025](https://www.pwc.com/gx/en/news-room/assets/analyst-citations/idc-worldwide-artificial-intelligence-2025.pdf)と[EY向け抜粋](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/about-us/analyst-relations/documents/ey-gl-idc-marketscape-worldwide-artificial-intelligence-services-2025-vendor-assessment-08-2025.pdf)、2025-07／世界AIサービス | **Leaders** | **Leaders** | PwCは顧客採用、サービス群、成長、研究開発戦略を、EYは提供サービス、デリバリー、人材などを強みと評価。PwCの課題には採用・育成手法やプラットフォーム提供の一貫性が挙がる。国内ランキングへの置き換え不可。 |
+| [Forrester Wave: AI Consulting Services, Q2 2026](https://www.forrester.com/report/the-forrester-wave-tm-ai-consulting-services-q2-2026/RES194651)／世界AIコンサルティング | **Leaders** | **Leaders** | [PwCによる抜粋紹介](https://www.pwc.com/gx/en/about/analyst-relations/2026/forrester-ai-consulting-services-2026.html)は価値管理、AI運用、**AIアーキテクチャ**の評価項目で最高点と記す。[EYによる抜粋紹介](https://www.ey.com/ja_jp/newsroom/information/2026/ey-japan-info-2026-08-03)はビジョン、AI運用、ガバナンス、セキュリティ等で最高点と記す。同点の有無、数値の全比較は公開抜粋から分からない。両社の発表はそれぞれ有利な項目を選んだ可能性がある。[Forresterの担当アナリストのブログ](https://www.forrester.com/blogs/which-ai-consulting-service-provider-is-best-for-you/)は10社を評価し、個別要件で選ぶべきと説明。全文は有料・要ログイン。 |
+| [Gartner Innovation Guide: Generative AI Consulting and Implementation Services](https://www.gartner.com/en/documents/6738834)の[2025-09時点の図](https://www.gft.com/dam/jcr:9ce6123c-84bd-4d3a-bfe5-04578607c902/gft-pr-gft-recognized-in-gartner-genai-emerging-market-quadrant.pdf)、世界・生成AIコンサル／実装 | **Emerging Leaders** | **Emerging Challengers** | Gartnerの図をGFTの許諾掲載PDFで目視。これは「Pilot」表記のある当時の評価で、対象は生成AIに限られる。2026-10時点の最新位置とは限らないため補助的に扱う。 |
+
+### 解釈の更新
+
+- **訂正・補足**：初回のPwC抜粋だけで「EYとの区分比較はできない」としたのは不十分だった。同じIDC国内2025の図にはEYも表示され、PwCがLeaders、EYがMajor Playersである。PwCのLeaders表記は実在するIDC原資料の記載であり、PwCの自己評価だけではない。
+- 国内IDCではPwCがEYより上の**区分**。世界IDC・世界Forresterでは両社とも上位区分。Gartnerの2025年生成AI実装図はPwCに有利だが、Pilotで古く、重みを下げる。複数の調査から**「PwCはEYよりAIに消極的」とは言えない**。ただし各調査の母集団・指標・国が異なり、合算して技術力の総合順位は作らない。
+- 本人の「新卒採用サイトでEYほどAI導入を押し出していない」という観察は、**採用向けの見せ方**として成り立つ。それと顧客向けAIサービスの供給能力は別。どの調査も、28卒デジタルコンサルタントからDAX AI&アナリティクスへの配属、若手のAIアーキテクト実務比率、本人の職務適合を評価していない。志望順位は変更せず、比較の根拠として保持する。
