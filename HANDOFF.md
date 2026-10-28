@@ -28,6 +28,8 @@
 
 ## 次の論点
 
+**PwCの現時点の論点**：本人が[データ＆AIページ](https://www.pwc.com/jp/ja/services/data-analytics-ai.html)を提示し、EYのAI・技術への積極性と同じ観点で評価を希望。[PwCの同日議論](logs/2026-10-28-pwc-data-ai-positioning.md)と[公式・外部資料照合](research/2026-10-28-pwc-data-ai-technology-signals.md)を参照。PwC Japan全体のAI Factory／IDC評価と、本人の希望先DAX AI&アナリティクスの仕事は分ける。DAXはAI実装・ITアーキテクチャ再構築を掲げるが、全体構成設計・システム開発は別専門領域とも分かれる。新卒配属と若手の実務割合は未確認。EY／PwCの格・技術力の順位や志望順位は未決定。Notion編集なし。
+
 1. EYについて本人はプレスリリース・HP、特に[テクノロジーページ](https://www.ey.com/ja_jp/services/technology)と[AI&データページ](https://www.ey.com/ja_jp/services/consulting/data-analytics-modernization)の情報量から、Big4の中でもAI導入・技術に積極的かつ重厚な印象を抱いている。[2026-10-28の議論](logs/2026-10-28-ey-ai-data-positioning.md)と[公式資料照合](research/2026-10-28-ey-ai-data-technology-signals.md)を参照。AI&データの提供項目にAIシステムの構成設計・導入が明記され、EYグローバルのFY25/FY26 AI関連収入成長も確認。一方、Big4最初・最大やEYSC希望部署の技術力が他社より高いという結論は未証明。志望順位・職務希望の変更なし。
 2. [KPMG DXAの信頼・ガバナンスとAI導入の調査](logs/2026-10-28-kpmg-dxa-trust-ai.md)と[部署別の追加照合](research/2026-10-28-kpmg-dxa-governance-esg.md)を踏まえ、本人とKPMGの志望理由を議論中。本人は監査・ガバナンス由来の知見を土台にしたAI導入、AIガバナンスとESG技術への展開というイメージを重視する。KPMGジャパン横断の提供価値には根拠があるが、DXA Data & AIの主業務がAIガバナンスとは未確認。AIガバナンスを主とする経験者求人は別のRisk Consulting／TRS。DXAページにはESGデータマネジメント支援へのリンクがある。本人の職務希望変更・志望順位変更は未決定。EYも同じ粒度で調べ、両社の志望理由に結びつける。
 3. SIerルート：研究からITシステムの構築・導入を志望する理由を強め、NRI・NTTデータ・IBMの正式な28卒入口を特定する。
@@ -40,6 +42,7 @@
 
 ## 直近の記録
 
+- [PwCのデータ＆AI、DAX／AI&アナリティクスの位置づけ](logs/2026-10-28-pwc-data-ai-positioning.md)
 - [EYのAI・技術への積極性を検討](logs/2026-10-28-ey-ai-data-positioning.md)
 - [KPMG DXAの信頼・ガバナンスとAI導入の調査](logs/2026-10-28-kpmg-dxa-trust-ai.md)
 - [Big4以外のAI×データ導入職の探索](logs/2026-10-24-elite-ai-data-deployment-search.md)
