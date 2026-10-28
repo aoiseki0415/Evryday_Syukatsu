@@ -43,3 +43,14 @@
 - **訂正・補足**：初回のPwC抜粋だけで「EYとの区分比較はできない」としたのは不十分だった。同じIDC国内2025の図にはEYも表示され、PwCがLeaders、EYがMajor Playersである。PwCのLeaders表記は実在するIDC原資料の記載であり、PwCの自己評価だけではない。
 - 国内IDCではPwCがEYより上の**区分**。世界IDC・世界Forresterでは両社とも上位区分。Gartnerの2025年生成AI実装図はPwCに有利だが、Pilotで古く、重みを下げる。複数の調査から**「PwCはEYよりAIに消極的」とは言えない**。ただし各調査の母集団・指標・国が異なり、合算して技術力の総合順位は作らない。
 - 本人の「新卒採用サイトでEYほどAI導入を押し出していない」という観察は、**採用向けの見せ方**として成り立つ。それと顧客向けAIサービスの供給能力は別。どの調査も、28卒デジタルコンサルタントからDAX AI&アナリティクスへの配属、若手のAIアーキテクト実務比率、本人の職務適合を評価していない。志望順位は変更せず、比較の根拠として保持する。
+
+## 追補：PwC「データ＆AI」の特徴を職務に引きつけて整理（2026-10-28）
+
+本人から「PwCのAI&データにはどんな特徴があるか」と質問。呼称を分ける。公式の[「データ＆AI」](https://www.pwc.com/jp/ja/services/data-analytics-ai.html)はPwC Japanグループ横断のサービス領域。本人の志望経路はNotion上で確認した**PwCコンサルティングのデジタルコンサルタント → DAX → AI&アナリティクス**。グループの施策・評価を後者の新卒職務へ直結させない。
+
+1. **意思決定と業務変革からAIを設計する**：グループの「決断する人のAI」は、社内外の情報をつなぎ、日々の重要な意思決定、戦略策定や業務変革へAIを使うとする。[DAXの部門説明](https://www.pwc.com/jp/ja/careers/consulting/mid-career/department/tc-d-a.html)もAI起点の業務・IT再構築を掲げる。[東京電力パワーグリッド事例](https://www.pwc.com/jp/ja/knowledge/column/dataanalytics/nikkeibusiness10.html)では、顧客課題の抽出、AIを使う用途の選定、利用環境とPoCの支援が示される。PwCの訴求軸は、技術単体より顧客の成果・業務実装を先に置くこと、と解釈できる。ただし他社にない独自性とまでは証明されない。
+2. **AIとデータを実務に載せ、運用まで見据える**：[新卒デジタルコンサルタント](https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html)のAI&アナリティクスは、AI戦略、生成AI・エージェント等を含む分析、MLOps/LLMOpsを列挙。[DAXサービスページ](https://www.pwc.com/jp/ja/services/consulting/technology.html)は同専門領域のAIアプローチ設計・実装とAIエージェント導入を掲げる。東電PG事例ではデータサイエンティストを含むチームが、業務文書検索等の仕組みを顧客と構築している。本人のデータ分析経験を、データの理解、用途の妥当性確認、評価・監視からAI導入へ接続する志望理由は考えられる。本人がシステム実装経験を既に持つとの主張ではない。
+3. **横断的な専門家を組み合わせる**：DAXはAIとエンジニアリングを核に戦略から開発・運用を一貫支援すると説明する。一方、サービスページでは「AI&アナリティクス」「テクノロジーアーキテクチャ」「システムエンジニアリング」「データコンサルティング」を別専門領域として表示。PwCの幅はDAX内の連携によって成立する可能性が高く、AI&アナリティクス一人が全体構成設計から商用開発まで担当すると断定しない。[AI Factory](https://www.pwc.com/jp/ja/services/data-analytics-ai.html)はグループ開発組織で、志望部署との日常的な協働は未確認。
+4. **信頼性・統制を実装と結びつける**：[グループのAIガバナンス](https://www.pwc.com/jp/ja/services/data-analytics-ai/responsible-ai.html)は責任分界、承認、ガードレール、レッドチーム、運用監視まで記す。規制産業へのAI導入と相性がよいという解釈はできるが、AI&アナリティクス新卒の主業務がガバナンスとは確認できない。KPMG等もこの領域を扱うため、PwC固有の強みと断定しない。
+
+**EY・KPMGとの見せ方の暫定比較**：EYの[AI&データ](https://www.ey.com/ja_jp/services/consulting/data-analytics-modernization)はデータ基盤やAIの技術構成・実装を一つの説明内で前面に出す。PwCは意思決定・業務変革とDAX全体の実装力を前面に出す。KPMG [DXA](https://recruit.kpmg-consulting.jp/info/dxa)も業務改革・データ・ガバナンス・エージェント開発を掲げるため、この訴求差だけから実際の案件構成や技術力の差を作らない。今回の整理は本人の志望理由の**候補となる解釈**で、本人の決定ではない。Notion編集なし。

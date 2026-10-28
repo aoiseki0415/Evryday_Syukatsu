@@ -28,7 +28,7 @@
 
 ## 次の論点
 
-**PwCの現時点の論点**：本人はPwC新卒採用HPがEYほどAI導入を前面に出していないと感じ、第三者評価を追加確認。[PwCの同日議論](logs/2026-10-28-pwc-data-ai-positioning.md)と[調査・追補](research/2026-10-28-pwc-data-ai-technology-signals.md#追補第三者のaiサービス評価を同じ調査内で比較2026-10-28)を参照。2025年国内IDCの同一図は**PwC Leaders／EY Major Players**。世界IDC 2025、世界Forrester 2026は両社Leaders。いずれもグループ／ネットワークのサービス評価で、希望先DAX AI&アナリティクスの28卒配属や若手の設計実務を示さない。PwC志望部署はAI実装を扱うが、DAX内の全体構成設計・システム開発は別専門領域とも分かれる。志望順位は未決定、Notion編集なし。
+**PwCの現時点の論点**：本人はPwC新卒採用HPがEYほどAI導入を前面に出していないと感じ、第三者評価とPwCの特徴を追加確認。[PwCの同日議論](logs/2026-10-28-pwc-data-ai-positioning.md)と[調査・追補](research/2026-10-28-pwc-data-ai-technology-signals.md)を参照。2025年国内IDCの同一図は**PwC Leaders／EY Major Players**。世界IDC 2025、世界Forrester 2026は両社Leaders。PwCの訴求軸は経営判断・業務変革のためのAIをデータ分析、設計・実装、運用へつなぐことと暫定解釈。東電PG事例に具体例がある。評価はいずれもグループ／ネットワークが対象で、希望先DAX AI&アナリティクスの28卒配属や若手の設計実務を示さない。DAX内の全体構成設計・システム開発は別専門領域とも分かれる。志望順位は未決定、Notion編集なし。
 
 1. EYについて本人はプレスリリース・HP、特に[テクノロジーページ](https://www.ey.com/ja_jp/services/technology)と[AI&データページ](https://www.ey.com/ja_jp/services/consulting/data-analytics-modernization)の情報量から、Big4の中でもAI導入・技術に積極的かつ重厚な印象を抱いている。[2026-10-28の議論](logs/2026-10-28-ey-ai-data-positioning.md)と[公式資料照合](research/2026-10-28-ey-ai-data-technology-signals.md)を参照。AI&データの提供項目にAIシステムの構成設計・導入が明記され、EYグローバルのFY25/FY26 AI関連収入成長も確認。一方、Big4最初・最大やEYSC希望部署の技術力が他社より高いという結論は未証明。志望順位・職務希望の変更なし。
 2. [KPMG DXAの信頼・ガバナンスとAI導入の調査](logs/2026-10-28-kpmg-dxa-trust-ai.md)と[部署別の追加照合](research/2026-10-28-kpmg-dxa-governance-esg.md)を踏まえ、本人とKPMGの志望理由を議論中。本人は監査・ガバナンス由来の知見を土台にしたAI導入、AIガバナンスとESG技術への展開というイメージを重視する。KPMGジャパン横断の提供価値には根拠があるが、DXA Data & AIの主業務がAIガバナンスとは未確認。AIガバナンスを主とする経験者求人は別のRisk Consulting／TRS。DXAページにはESGデータマネジメント支援へのリンクがある。本人の職務希望変更・志望順位変更は未決定。EYも同じ粒度で調べ、両社の志望理由に結びつける。
