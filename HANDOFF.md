@@ -28,6 +28,8 @@
 
 ## 次の論点
 
+**デロイトAI&Dの技術的な厚み**：本人は[AI&Dのサービスページ](https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html)や技術記事から「Big4で一番すごいかもしれない」と感じている。[今回の照合](logs/2026-10-28-deloitte-ai-data-technical-depth.md)では、エージェントの知識・データ設計や最適化の評価関数まで説明する記事、AI Factoryの構想から本番導入・運用までの提供範囲、希望AI&Dユニットの採用ページにある戦略から実装・保守までの職務を確認した。記事はデロイト全体の発信であり、一部は社内利用・検証段階。希望ユニットの顧客案件や新卒担当・配属、Big4内順位は未確定。志望順位・Notionの変更なし。
+
 **PwCの現時点の論点**：本人は当初PwC新卒採用HPがEYほどAI導入を前面に出していないと感じたが、[PwCのデータアナリティクスページ](https://www.pwc.com/jp/ja/services/consulting/analytics.html)を見て、データ／AIの技術的な幅と深さへの印象を強めた。[同日議論](logs/2026-10-28-pwc-data-ai-positioning.md)と[調査・追補](research/2026-10-28-pwc-data-ai-technology-signals.md)を参照。戦略・分析／AI・基盤・ガバナンス・人材育成に及び、データ仮想化やAI価格設定など技術の仕組みも具体的に説明する。前回の「意思決定・業務変革」中心の整理は技術面を薄く見せたため改訂。2025年国内IDCは**PwC Leaders／EY Major Players**、世界IDC 2025と世界Forrester 2026は両社Leaders。ただしサービス群やグループの評価はDAX AI&アナリティクス新卒個人の担当・配属や他社との技術力順位を示さない。志望順位は未決定、Notion編集なし。
 
 1. EYについて本人はプレスリリース・HP、特に[テクノロジーページ](https://www.ey.com/ja_jp/services/technology)と[AI&データページ](https://www.ey.com/ja_jp/services/consulting/data-analytics-modernization)の情報量から、Big4の中でもAI導入・技術に積極的かつ重厚な印象を抱いている。[2026-10-28の議論](logs/2026-10-28-ey-ai-data-positioning.md)と[公式資料照合](research/2026-10-28-ey-ai-data-technology-signals.md)を参照。AI&データの提供項目にAIシステムの構成設計・導入が明記され、EYグローバルのFY25/FY26 AI関連収入成長も確認。一方、Big4最初・最大やEYSC希望部署の技術力が他社より高いという結論は未証明。志望順位・職務希望の変更なし。
@@ -42,6 +44,7 @@
 
 ## 直近の記録
 
+- [デロイトAI&Dの技術的な厚みを検討](logs/2026-10-28-deloitte-ai-data-technical-depth.md)
 - [PwCのデータ＆AI、DAX／AI&アナリティクスの位置づけ](logs/2026-10-28-pwc-data-ai-positioning.md)
 - [EYのAI・技術への積極性を検討](logs/2026-10-28-ey-ai-data-positioning.md)
 - [KPMG DXAの信頼・ガバナンスとAI導入の調査](logs/2026-10-28-kpmg-dxa-trust-ai.md)
