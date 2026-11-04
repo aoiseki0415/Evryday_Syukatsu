@@ -1,6 +1,6 @@
 # 就活戦略プロジェクト：引き継ぎ
 
-更新日：2026年10月28日
+更新日：2026年11月4日
 
 **開始時はGitルート・origin・作業状態を確認して `git pull --ff-only origin main`。** その後、[README.md](README.md)、[AGENTS.md](AGENTS.md)、[OPERATIONS.md](OPERATIONS.md)、[STRATEGY.md](STRATEGY.md)を読む。必要な経緯は[logs](logs/README.md)、職務・採用の根拠は[research](research/)にある。
 
@@ -10,6 +10,7 @@
 - 到達先は①**顧客向けITシステムのアーキテクト**、②**顧客向けAIシステムのアーキテクト**。モデル開発や分析専業は主目的ではない。
 - 主な選考経路は、①一般のSE・IT専門職から**NRI、NTTデータ、IBM**、②神経科学研究・データ分析を強みにAI & Data領域から**アクセンチュア、EY、KPMG、Deloitte Consulting、PwC Consulting**。希望コースと注意点は[STRATEGY.md](STRATEGY.md)。
 - Big4では「AIアーキテクト×データサイエンスの強み」を主軸に比較する。希望チームの存在と、28卒採用からの配属確約は分けて扱う。
+- [戦略ファーム等14社のAI・データ職と28卒入口](research/2026-11-04-strategy-firm-digital-ai-deep-dive.md)：BCG Xの28卒DS／AI Engineer個別求人はともにfilled。Accentureは28卒AI＆Data Architectを別職種として掲載しプレエントリー受付中。EYSC・Deloitte Consulting・Strategy&は28卒選考の受付表示があり、Deloitte Risk Advisoryには専門配属を明記したAI・Analytics職の28卒要項がある。QuantumBlackの東京Data Engineerは掲載中だが28卒対象は未確認。**新しい志望先や優先順位の決定なし**。
 - 「アクセンチュア以上を狙う」は本人の志望先を考える条件。企業・専門職の客観的な就職難易度順位は未確定。
 - 2026年10月23日に、8社をIT3社とAI5社に分けて比較する判断軸を定めた。「格」は希望部署・職種の年収、得られる市場価値、事業売上／権威、共に働く人の知的水準の4軸。比較結果と未公表情報は[8社の調査](research/2026-10-23-eight-role-comparison.md)。志望順位は未決定。
 - AI志望5先の実務を再検証した。[5先の仕事・DS・AI導入の照合](research/2026-10-23-five-ai-units-work-audit.md)を先に読む。5先ともAI導入の仕事はあるが、根拠は新卒職種・経験者専門職・実案件で異なる。EYはデータ基盤を核にしたAI機能実装、KPMGはRAG／エージェントの既存システム統合、デロイトは専門職分担、PwCは同一DAX内のAI分析・アーキテクチャ専門職併存が重要。新卒の希望担当への配属は未確約。
@@ -47,6 +48,7 @@
 
 ## 直近の記録
 
+- [戦略ファーム14社のAI・データ職と28卒募集](logs/2026-11-04-strategy-firm-digital-ai-map.md)
 - [AI5社の公式サイト：ページ数・分類・構造の探索](logs/2026-10-28-five-company-ai-site-map.md)
 - [デロイトAI&Dの技術的な厚みを検討](logs/2026-10-28-deloitte-ai-data-technical-depth.md)
 - [PwCのデータ＆AI、DAX／AI&アナリティクスの位置づけ](logs/2026-10-28-pwc-data-ai-positioning.md)
