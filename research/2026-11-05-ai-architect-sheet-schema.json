@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_on": "2026-11-05",
-  "status": "skeleton_only",
-  "candidate_count": 0,
+  "status": "researched_candidates_entered",
+  "candidate_count": 52,
   "spreadsheet_id": "1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk",
   "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit",
   "scope": "AIアーキテクト側のみ。ITアーキテクト側の別ルートは維持。",
@@ -35,7 +35,9 @@
       "last_prepared_row": 504,
       "input_range": "A5:Q504",
       "frozen_rows": 4,
-      "frozen_columns": 2
+      "frozen_columns": 2,
+      "populated_range": "A5:Q56",
+      "populated_through_row": 56
     },
     "guide": {
       "title": "見方・入力ルール",
@@ -211,5 +213,15 @@
     "conditional_formats": 25,
     "time_zone": "Asia/Tokyo",
     "merge_policy": "タイトルとグループ見出しのみ。データ行は結合しない。"
+  },
+  "candidate_data": "2026-11-05-ai-architect-shortlist/candidates.json",
+  "research_summary": "2026-11-05-ai-architect-shortlist/README.md",
+  "screening_process": "2026-11-05-ai-architect-shortlist/PROCESS.md",
+  "verification": "2026-11-05-ai-architect-shortlist/verification.json",
+  "counts_by_category": {
+    "総合コンサル": 14,
+    "戦略コンサル": 22,
+    "ITコンサル": 8,
+    "SIer": 8
   }
 }

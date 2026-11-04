@@ -1,0 +1,1229 @@
+{
+  "checked_on": "2026-11-05",
+  "historical_comparison_rows": 122,
+  "unit_note": "過去の比較行。重複企業・ブランド・職務を含み、企業数ではない。",
+  "rows": [
+    {
+      "source_line": 21,
+      "label": "Accenture／AI＆Data Architect",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-001",
+        "AI-002"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 22,
+      "label": "PwC Consulting／デジタルコンサルタント → DAX AI＆Analytics",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-006",
+        "AI-007",
+        "AI-008",
+        "AI-009",
+        "AI-034"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 23,
+      "label": "EYSC／Technology Consultant → AI＆Data",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-010",
+        "AI-011",
+        "AI-036"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 24,
+      "label": "KPMG Consulting／Edge Technology → DXA Data＆AI",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-012",
+        "AI-013"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 25,
+      "label": "Deloitte Consulting／Engineering, AI＆Data・AI&D",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-003",
+        "AI-004",
+        "AI-005"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 26,
+      "label": "Deloitte Risk Advisory／AI・アナリティクスコンサルタント",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "AI・分析の専門入口は過去調査あり。ただし今回の本人が担うシステム全体設計・本番実装の根拠を十分特定できず保留。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 27,
+      "label": "KPMG FAS／CVA、フォレンジックAI・データ分析／開発",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "顧客向けフォレンジック③AIアプリ開発のみ掲載。CVA・分析②・社内AIX①を一括採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 28,
+      "label": "IBM Consulting／Data Scientist",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-037",
+        "AI-038",
+        "AI-039"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 29,
+      "label": "McKinsey／QuantumBlack DS・DE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-015",
+        "AI-016",
+        "AI-017"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 30,
+      "label": "BCG X／Data Scientist・AI Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-018",
+        "AI-019",
+        "AI-020"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 31,
+      "label": "Bain／Applied Technology＆AI",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-021",
+        "AI-022",
+        "AI-023"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 32,
+      "label": "Oliver Wyman／Quotient・Digital",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-024",
+        "AI-025"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 33,
+      "label": "Kearney／Analytics・Cervello",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-026",
+        "AI-027",
+        "AI-028",
+        "AI-029"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 34,
+      "label": "EY-Parthenon／Advanced Analytics",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-036"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 35,
+      "label": "PwC Advisory／Deal Analytics",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "企業・研究との関連はあるが、今回目指す本人のAIシステム設計・本番実装との接続を確定できない。募集の有無のみでの除外ではない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 36,
+      "label": "L.E.K.／Data＆Analytics・Analytical Sciences",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 37,
+      "label": "OC&C／Advanced Analytics＆AI・Analytics Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 38,
+      "label": "Simon-Kucher／Elevate・Data Science",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 39,
+      "label": "ZS／DS・Scaled AI・Technology",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 40,
+      "label": "AlixPartners／AI＆Data",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 41,
+      "label": "Sia／AI＆Data・DS Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 42,
+      "label": "Capgemini／Insights＆Data・Invent",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 43,
+      "label": "Alvarez＆Marsal／Digital＆Technology",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 44,
+      "label": "FTI Consulting／Data＆Analytics",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 45,
+      "label": "Artefact／Data Science・Data/AI Consulting",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 46,
+      "label": "アビーム／デジタルコンサルタント",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 47,
+      "label": "アバナード／Data＆AI、Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 53,
+      "label": "フューチャー／AIXG・ITコンサルタント",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 54,
+      "label": "ARISE analytics／AI Engineer・Data Architect等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 55,
+      "label": "ABEJA／DS、Solution Engineer、DX・AI Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 56,
+      "label": "Ridge-i／AI Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 57,
+      "label": "ブレインパッド／DS、ML Engineer、Analytics SE等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "対象外",
+      "reason": "本人が今回の難易度ラインより下と例示した企業。仕事の有無や良し悪しとは分けた判断。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 58,
+      "label": "RONNABYTE（旧DATUM STUDIO）／Data Specialist等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 59,
+      "label": "ちゅらデータ／AI Engineer・Data Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 60,
+      "label": "エクサウィザーズ／Engineer・FDE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 61,
+      "label": "電通デジタル／AI・DS、Software/AI Systems Engineering",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 62,
+      "label": "AVILEN／DS・AI Engineer・AI Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 63,
+      "label": "GRI／AI Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 64,
+      "label": "pluszero／AI Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 65,
+      "label": "TDSE／DS・Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 66,
+      "label": "InsightEdge／DS・Software Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 67,
+      "label": "NTTデータ数理システム／Consulting Engineer・DS・AI Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 68,
+      "label": "PKSHA／Algorithm Engineer・Software Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 69,
+      "label": "JDSC／DS・Engineer・FDE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 70,
+      "label": "Laboro.AI／ML/LLM Engineer・Solution Designer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 71,
+      "label": "ELYZA／ML Engineer（LLM Solution）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 72,
+      "label": "SRE Holdings／DS・AI Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 73,
+      "label": "HACARUS／DS・AI Solution",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 74,
+      "label": "FLYWHEEL／DS・Software Engineering・Conata",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 75,
+      "label": "Fusic／Analytics/ML・Web Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 76,
+      "label": "Deloitte Tohmatsu DeepSquare／AI開発",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 77,
+      "label": "Preferred Networks／Researcher・Engineer等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 83,
+      "label": "NRI／AXイノベーション、AI・分析技術／AE・TE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-045",
+        "AI-046",
+        "AI-047"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 84,
+      "label": "NTT DATA／Data＆Intelligence・AI技術部／SE等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-048",
+        "AI-049"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 85,
+      "label": "NEC／DS（SE）、AI Technology Services",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 86,
+      "label": "富士通／DS・Solution Engineer・AI関連部門",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 87,
+      "label": "日立／DS・AIデジタル領域・SE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 88,
+      "label": "日鉄ソリューションズ／DS・デジタル技術・SE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-050",
+        "AI-051"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 89,
+      "label": "電通総研／AITC・DS・AI Service Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 90,
+      "label": "BIPROGY／Rinza、AI・データ・SE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 91,
+      "label": "SCSK／NebulaShift ai・di関連職、SE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 92,
+      "label": "CTC／Data＆AI・技術職",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 93,
+      "label": "TIS／DS・AIエンジニア・SE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 94,
+      "label": "JSOL／Data・AI/DX・SE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 95,
+      "label": "日本総研／IT SolutionのDS・先端技術",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-052"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 96,
+      "label": "MUIT／Data Scienceコース・SE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 97,
+      "label": "三菱総合研究所／Business Analytics・AI・研究員",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-042",
+        "AI-043"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 103,
+      "label": "Databricks／FDE・AI Engineer・Solutions Architect",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 104,
+      "label": "DataRobot／AI Engineer・FDE・Professional Services",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 105,
+      "label": "Google Cloud／GenAI FDE・AI Customer Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 106,
+      "label": "AWS／Professional Services Data＆Analytics・AI/ML",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 107,
+      "label": "Microsoft／Cloud Solution Architect Data＆AI等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 108,
+      "label": "Palantir／FDSE・Deployment Strategist",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 109,
+      "label": "Snowflake／AI/ML Services・Frontier Engineering",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 110,
+      "label": "IGPI／Digital Intelligence（DIx）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-031"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 111,
+      "label": "ベイカレント／DS・Consultant・System Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "対象外",
+      "reason": "本人が今回の難易度ラインより下と例示した企業。仕事の有無や良し悪しとは分けた判断。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 112,
+      "label": "Ridgelinez／AI・Data Analytics領域、Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "対象外",
+      "reason": "本人が今回の難易度ラインより下と例示した企業。仕事の有無や良し悪しとは分けた判断。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 113,
+      "label": "フォーティエンス（旧クニエ）／DX・AI/Data関連コンサル",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-040",
+        "AI-041"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 114,
+      "label": "NTTデータ経営研究所／Neuro Innovation・Digital関連コンサル",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "企業・研究との関連はあるが、今回目指す本人のAIシステム設計・本番実装との接続を確定できない。募集の有無のみでの除外ではない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 115,
+      "label": "オムロン／AI・DS・制御・製品開発関連技術職",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 125,
+      "label": "McKinsey Digital／Digital Consultant・Tech＆AI Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-015",
+        "AI-016",
+        "AI-017"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 126,
+      "label": "BCG／Technology and Digital Advantage・一般コンサル",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-018",
+        "AI-019",
+        "AI-020"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 127,
+      "label": "BCG Platinion／IT Architect・IT Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-044"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 128,
+      "label": "Bain／Digital Transformation・Applied Technology＆AIのEngineering等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-021",
+        "AI-022",
+        "AI-023"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 129,
+      "label": "Oliver Wyman／Digital・QuotientのSoftware Engineering等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-024",
+        "AI-025"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 130,
+      "label": "Kearney／Digital＆Analytics、Solution Developer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-026",
+        "AI-027",
+        "AI-028",
+        "AI-029"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 131,
+      "label": "Strategy&／経営・デジタル戦略コンサルタント",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-034"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 132,
+      "label": "Monitor Deloitte／戦略コンサルタント",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-035"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 133,
+      "label": "EY-Parthenon／Strategy・Digital Strategy",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-036"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 134,
+      "label": "Accenture Strategy／Strategy Consultant RDE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "企業・研究との関連はあるが、今回目指す本人のAIシステム設計・本番実装との接続を確定できない。募集の有無のみでの除外ではない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 135,
+      "label": "Roland Berger／Digital領域のConsultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-032"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 136,
+      "label": "Arthur D. Little／AI＆Digital領域のConsultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-033"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 137,
+      "label": "ドリームインキュベータ／Technology＆Amplify（新規追加）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-030"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 138,
+      "label": "YCP／Digital Transformation Division（新規追加）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 139,
+      "label": "IGPI／一般経営コンサル・Digital Intelligence",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-031"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 140,
+      "label": "CDI／一般戦略コンサル（追加監査）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "企業・研究との関連はあるが、今回目指す本人のAIシステム設計・本番実装との接続を確定できない。募集の有無のみでの除外ではない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 141,
+      "label": "FTI Delta／一般戦略・Transformation",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 142,
+      "label": "Capgemini Invent／Strategy・Transformation",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 148,
+      "label": "PwC／IT Solution Consultant・Business Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-006",
+        "AI-007",
+        "AI-008",
+        "AI-009",
+        "AI-034"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 149,
+      "label": "EYSC／Digital Engineer・Technology Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-010",
+        "AI-011",
+        "AI-036"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 150,
+      "label": "KPMG／IT Solution・Edge Technology",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-012",
+        "AI-013"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 151,
+      "label": "IBM／AIイノベーター・Digital Business Consultant・IT Specialist",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-037",
+        "AI-038",
+        "AI-039"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 152,
+      "label": "KPMG FAS／AIX・フォレンジックAI開発",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "顧客向けフォレンジック③AIアプリ開発のみ掲載。CVA・分析②・社内AIX①を一括採用しない。",
+      "current_candidate_ids": [
+        "AI-014"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 153,
+      "label": "アビーム／Strategy・Business・Digital",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 154,
+      "label": "ベイカレント／Consultant・System Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "対象外",
+      "reason": "本人が今回の難易度ラインより下と例示した企業。仕事の有無や良し悪しとは分けた判断。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 155,
+      "label": "シグマクシス／Consultant（新規追加）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "対象外",
+      "reason": "本人が今回の難易度ラインより下と例示した企業。仕事の有無や良し悪しとは分けた判断。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 156,
+      "label": "Ridgelinez／Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "対象外",
+      "reason": "本人が今回の難易度ラインより下と例示した企業。仕事の有無や良し悪しとは分けた判断。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 157,
+      "label": "フォーティエンス／Consultant",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "関連する役割を掲載",
+      "reason": "新しい52候補で役割を分解し再記載。元の行に含まれる全職務・全入口を一括承認した意味ではない。",
+      "current_candidate_ids": [
+        "AI-040",
+        "AI-041"
+      ],
+      "current_hiring_rechecked": "掲載した新卒入口のみ確認。仕事内容・入口不明は未確認を維持"
+    },
+    {
+      "source_line": 158,
+      "label": "NTTデータ経営研究所／Consultant（新規追加）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "企業・研究との関連はあるが、今回目指す本人のAIシステム設計・本番実装との接続を確定できない。募集の有無のみでの除外ではない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 159,
+      "label": "MURC／経営・DX関連コンサル・研究員",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "企業・研究との関連はあるが、今回目指す本人のAIシステム設計・本番実装との接続を確定できない。募集の有無のみでの除外ではない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 160,
+      "label": "日本TCS／Solution Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 161,
+      "label": "ヘッドウォータース／Engineer・生成AI/AI Data領域",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 162,
+      "label": "クラスメソッド／Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "保留",
+      "reason": "仕事は過去の探索対象。今回の企業難易度ラインと当該役割のAI導入適合を満たす判断が置けないため、自動採用しない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 168,
+      "label": "AWS／Solutions Architect",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 169,
+      "label": "Microsoft／CSA・Solution Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 170,
+      "label": "OpenAI／Applied AI Engineer・FDE",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 171,
+      "label": "Anthropic／Applied AI Architect等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 172,
+      "label": "NVIDIA／Solution Architect（Agentic AI等）",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 173,
+      "label": "Salesforce／Solution Engineer・Success Architect",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 174,
+      "label": "SAP／Consultant・Business AI Architect等",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 175,
+      "label": "Oracle／IT Consultant・Solution Engineer",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    },
+    {
+      "source_line": 176,
+      "label": "ServiceNow／Solution Consultant・AI/Workflow導入系",
+      "source": "../2026-11-04-ai-data-digital-career-master.md",
+      "disposition": "今回の範囲外",
+      "reason": "自社製品・自社プラットフォームを軸にした導入職または製造業。今回の4分類と複数製品を選べる志向の主対象には置かない。",
+      "current_candidate_ids": [],
+      "current_hiring_rechecked": "対象外・保留の全求人を一律再検証したものではない"
+    }
+  ]
+}

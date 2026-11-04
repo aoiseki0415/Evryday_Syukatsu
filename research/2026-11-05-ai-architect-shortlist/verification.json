@@ -1,0 +1,45 @@
+{
+  "verified_on": "2026-11-05",
+  "range": "候補一覧!A5:Q56",
+  "row_count": 52,
+  "cells_compared": 884,
+  "hyperlinks_checked": 85,
+  "typed_dates_checked": 62,
+  "dropdown_cells_checked": 312,
+  "value_or_structure_issues": [],
+  "frozen_rows": 4,
+  "frozen_columns": 2,
+  "conditional_format_count": 25,
+  "visual_status": "representative_ranges_reviewed",
+  "hyperlink_storage": "Google Sheets normalized full-cell links into userEnteredFormat.textFormat.link",
+  "true_blank_url_or_deadline_cells": 61,
+  "visual_method": "Google Sheets export → bundled artifact-tool PNG. Native UI rendering itself not inspected.",
+  "visual_ranges": [
+    "候補一覧!A1:Q7",
+    "候補一覧!A4:J9",
+    "候補一覧!K4:Q9",
+    "候補一覧!F18:J23",
+    "候補一覧!A49:J56",
+    "候補一覧!K49:Q56",
+    "見方・入力ルール!A29:F36"
+  ],
+  "visual_results": "代表範囲の折返し・リンク・色・日付・空欄を確認。日付未確認とURLなしの61セルを真の空欄へ明示消去し、最終exportで空欄を確認。",
+  "xlsx_structure": {
+    "filter": "A4:Q504",
+    "merges": 9,
+    "frozen_rows": 4,
+    "frozen_columns": 2,
+    "validation_rules": 7
+  },
+  "filter_views": "既存5表示には変更要求を送っていない。使用したメタデータ応答では一覧を取得できず、個々の表示設定の再読は未実施。",
+  "final_field_corrections": {
+    "candidate_ids": [
+      "AI-009",
+      "AI-012"
+    ],
+    "column": "J",
+    "value": "△ 連携・一部",
+    "reason": "部門の専門性と個人職務を区別",
+    "native_readback": "一致"
+  }
+}

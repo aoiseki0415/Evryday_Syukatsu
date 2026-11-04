@@ -8,6 +8,7 @@
 - [就活戦略_現状整理.md](就活戦略_現状整理.md) は初期の資料を整理した記録。現在の決定は [STRATEGY.md](STRATEGY.md) を優先し、企業・部署・選考方針を根拠に応じて更新する。
 - 他チャットの議論を引き継ぐ [2026年10月20日版のキャリア資料](career-context-2026-10-20.md)を参照し、その後に変わった考えと混同しない。
 - 企業・職種・新卒選考の事実調査は [RESEARCH_POLICY.md](RESEARCH_POLICY.md) に従う。
+- **AI側の最新候補（2026/11/5）**：[4カテゴリー・52候補の調査結果](research/2026-11-05-ai-architect-shortlist/README.md)を[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)に入力済み。調査過程・保留理由・出典・検証は同フォルダに分離。本人の志望順位や応募決定とは別。
 - [STRATEGY.md](STRATEGY.md) が現在の二本の就活戦略と未決定事項、[OPERATIONS.md](OPERATIONS.md) が別チャットへの引き継ぎを含む具体的な手順。[Notion「就活戦略・現在地」](https://app.notion.com/p/401161f28097815d8accc34852300c95)は本人向けの見やすい要約。
 
 ## 議論の記録とチャット間の引き継ぎ

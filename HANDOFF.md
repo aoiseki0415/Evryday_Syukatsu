@@ -7,14 +7,15 @@
 ## 現在の目的と決定
 
 - **最優先：11月5日に合意したAI側の調査条件**。IT／AIの二本立てを維持し、今回の調査・一覧はAI側のみ。顧客AI導入プロジェクトと自社製品に縛られない技術選定を軸に、総合／戦略／ITコンサル／SIerの4カテゴリーから、共有した難易度感でアクセンチュア以上を探す。DSは任意の加点要素。詳細は[現在の戦略](STRATEGY.md#2026年11月5日ai側の調査一覧の前提)。
-- [共有スプレッドシート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は**骨格作成済み・候補0件**。`候補一覧`（gid=0）は17列、4行目見出し、5〜504行目入力、上4行・左2列固定。仕事紹介リンクはE列、新卒募集リンクはN列。`見方・入力ルール`（gid=20261105）と[列定義](research/2026-11-05-ai-architect-sheet-schema.json)を確認する。次は再調査・入力。今回のチャットでは本人が当該シートの編集を追加承認なしで許可した。
+- [共有スプレッドシート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は**11/5に52候補を入力・検証済み**（総合14、戦略22、IT8、SIer8）。`候補一覧!A5:Q56`、17列、上4行・左2列固定。仕事リンクE、新卒募集リンクN。[今回の結果](research/2026-11-05-ai-architect-shortlist/README.md) → [調査過程・保留理由](research/2026-11-05-ai-architect-shortlist/PROCESS.md) → [52候補の正本JSON](research/2026-11-05-ai-architect-shortlist/candidates.json)の順に読む。G列【条件付き】は実装担当・日本28卒入口等の確認が必要。52候補は志望・応募の決定ではない。次は本人の関心と配属・現行応募回を具体化する。
+- 11/5調査の重要点：PwC DCは2027/1/8 23:59、KPMG FAS技術職は1/6 13:00締切。BCG Xの確認した28卒個別2枠はfilled。KPMG Consultingの汎用新卒要項だけで28卒本選考受付中とは言わない。日本総研の公開本選考要項本文は27卒で、28卒DS配属確約へ転用しない。各日程は応募前に再確認する。共通採用・グローバル専門職と日本新卒の同職務配属を区別する。
 
 - 「毎日就活」の定時・日次運用は**終了**。旧「毎日就活 振り返り」の定時タスクは2026年10月22日に`PAUSED`と確認した。今後は本人の就活戦略を描き、自己分析、ES、選考の検討を継続して扱う。
 - 到達先は①**顧客向けITシステムのアーキテクト**、②**顧客向けAIシステムのアーキテクト**。モデル開発や分析専業は主目的ではない。
 - 主な選考経路は、①一般のSE・IT専門職から**NRI、NTTデータ、IBM**、②神経科学研究・データ分析を強みにAI & Data領域から**アクセンチュア、EY、KPMG、Deloitte Consulting、PwC Consulting**。希望コースと注意点は[STRATEGY.md](STRATEGY.md)。
 - 当初はBig4の「AIアーキテクト×データサイエンスの強み」を主軸に比較した。現在のAI側の候補探索ではDSを必須にしない。希望チームの存在と、28卒採用からの配属確約は分けて扱う。
 - **2026年11月4日までの探索履歴（当時の条件）**：本人は条件を緩め、①AIとDSの両方を扱う企業・職種、②DS不要でAI・デジタルまで広げた候補を、これまでの全企業・戦略コンサルから整理するよう依頼した。[当時の統合一覧](research/2026-11-04-ai-data-digital-career-master.md)を参照。同日それ以前の「顧客AI導入必須・同一職種DS優先」は当時の候補除外条件にしなかった。長期目標・既存8社の志望度・応募順位の変更ではない。
-- 最新の追加候補はDIのTechnology＆Amplify（28卒部門採用の確認回は10/16締切済み）、YCP DX、IGPI、ベイカレント、シグマクシス、Ridgelinez、フォーティエンス、NTTデータ経営研究所。後者は神経科学・DS専門チームもあり、28卒エントリー開始を確認。KPMG FAS技術職は2027/1/6 13:00、PwC DCは2027/1/8 23:59締切。アビーム冬は12/9、Ridge-i本選考は12月、MURC冬インターンは12/1開始予定。BCG Xの確認した28卒個別2枠はfilled。詳細・出典は統合一覧。
+- **11/4までの追加探索（現在の対象外・保留も含む）**：DI T&A、YCP DX、IGPI、ベイカレント、シグマクシス、Ridgelinez、フォーティエンス、NTTデータ経営研究所等。11/5は企業ラインと顧客AI導入の条件を適用し直したため、この履歴を現在の候補リストとして使わない。募集日程も[今回の結果](research/2026-11-05-ai-architect-shortlist/README.md)と応募時の公式情報を優先する。
 - [戦略ファーム等14社のAI・データ職と28卒入口](research/2026-11-04-strategy-firm-digital-ai-deep-dive.md)：BCG Xの28卒DS／AI Engineer個別求人はともにfilled。Accentureは28卒AI＆Data Architectを別職種として掲載しプレエントリー受付中。EYSC・Deloitte Consulting・Strategy&は28卒選考の受付表示があり、Deloitte Risk Advisoryには専門配属を明記したAI・Analytics職の28卒要項がある。QuantumBlackの東京Data Engineerは掲載中だが28卒対象は未確認。**新しい志望先や優先順位の決定なし**。
 - 「アクセンチュア以上を狙う」は本人の志望先を考える条件。企業・専門職の客観的な就職難易度順位は未確定。
 - 2026年10月23日に、8社をIT3社とAI5社に分けて比較する判断軸を定めた。「格」は希望部署・職種の年収、得られる市場価値、事業売上／権威、共に働く人の知的水準の4軸。比較結果と未公表情報は[8社の調査](research/2026-10-23-eight-role-comparison.md)。志望順位は未決定。
@@ -53,6 +54,8 @@
 
 ## 直近の記録
 
+- [4カテゴリーのAI候補52件を調査・シートへ記入](logs/2026-11-05-ai-architect-career-research.md)：合意条件、調査上の採否、操作・検証を分離。旧122比較行の対応と保留理由も保存。
+- [シートの骨格・列順を設計](logs/2026-11-05-ai-architect-sheet-structure.md)：現在は候補入力済み。列定義は継続使用。
 - [AI・DSと、DS不要のAI・デジタル職を全候補から統合](logs/2026-11-04-strategy-firm-digital-ai-map.md#追補3条件を緩めaiデジタルの全候補を統合)
 - [戦略コンサルのAI導入必須・DS優先で対象を拡張し再判定](logs/2026-11-04-strategy-firm-digital-ai-map.md#追補2ai導入必須ds優先で拡張再判定)
 - [戦略ファーム14社のAI・データ職と28卒募集](logs/2026-11-04-strategy-firm-digital-ai-map.md)
