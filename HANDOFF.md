@@ -9,6 +9,7 @@
 - **最優先：11/5後半の本人の再定義**。AIの深い技術理解と、AIを前提にした事業・全社戦略への関与を**両方**満たし、本人も戦略と技術の両方の議論に入れる環境を探す。まず言語化・議論。**日本の28卒・大学院生対象の新卒入口が必須。AI側の探索からSIerを外し、総合コンサルはBig4＋Accentureの5先で十分**とする。戦略・経営変革側を重点探索。従来の企業ライン・製品中立・DS任意は継続。別のITルート廃止ではない。[現在の整理](research/2026-11-05-ai-strategy-positioning/README.md)、[条件JSON](research/2026-11-05-ai-strategy-positioning/criteria.json)を最初に読む。
 - [共有スプレッドシート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は**11/5前半の旧条件で52候補を入力・検証済み**（総合14、戦略22、IT8、SIer8）。後半の議論では編集していない。日本入口未確認やSIerを含むため、現行条件適合済みの一覧として扱わない。`候補一覧!A5:Q56`、17列、上4行・左2列固定。仕事リンクE、新卒募集リンクN。[前半の結果](research/2026-11-05-ai-architect-shortlist/README.md)と[52候補JSON](research/2026-11-05-ai-architect-shortlist/candidates.json)は履歴。新条件での全面再調査・シート整理は未実施。
 - 添付図の45表記＋グロービングを[46表記の照合台帳](research/2026-11-05-ai-strategy-positioning/attachment-company-audit.json)に記録。グロービング、P&E、ライズ等は検討漏れ。DI・IGPIには本人が好印象だが個人の戦略関与は未確認。BCGは職種分離と協働を分け、難易度が高いから分断と一般化しない。本人はデロイトの技術的な厚みを継続評価。
+- **現在は企業探しの前の概念整理**：本人がStrategy/Operations/Technologyと業務・事業・全社の関係を定めたいと述べた。[支援領域・変える対象の範囲・支援工程の整理案](research/2026-11-05-ai-strategy-positioning/comparison-axes.md)を読む。前回の「競争戦略」を別階層に置いた説明は修正。用語案の理解・合意が次の論点で、企業・職種の新決定はない。
 - 11/5調査の重要点：PwC DCは2027/1/8 23:59、KPMG FAS技術職は1/6 13:00締切。BCG Xの確認した28卒個別2枠はfilled。KPMG Consultingの汎用新卒要項だけで28卒本選考受付中とは言わない。日本総研の公開本選考要項本文は27卒で、28卒DS配属確約へ転用しない。各日程は応募前に再確認する。共通採用・グローバル専門職と日本新卒の同職務配属を区別する。
 
 - 「毎日就活」の定時・日次運用は**終了**。旧「毎日就活 振り返り」の定時タスクは2026年10月22日に`PAUSED`と確認した。今後は本人の就活戦略を描き、自己分析、ES、選考の検討を継続して扱う。
