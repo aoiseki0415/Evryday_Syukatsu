@@ -33,5 +33,26 @@
       "ai-scope-coverage.png": "34c9d5473a1c2ac02d02ab13445ffdaf2362a3b5c7c375e09a4e44fc7c1ec3cb"
     }
   },
-  "git_delivery": "Commit containing this file is the record version. Remote SHA equality is checked after push and reported in chat; no pre-commit claim of delivery."
+  "git_delivery": "Commit containing this file is the record version. Remote SHA equality is checked after push and reported in chat; no pre-commit claim of delivery.",
+  "ideal_framework_update": {
+    "as_of": "2026-11-06",
+    "notion_readback": {
+      "previousContentPreserved": true,
+      "headingCount": 1,
+      "imageSaved": true,
+      "anchorInPhase1": true,
+      "indirectEnvironmentApproach": true,
+      "BCaseBased": true,
+      "noCompanyResearchStarted": true
+    },
+    "A_B_matrix_values_unchanged": true,
+    "company_research_started": false,
+    "individual_duty_guarantee_not_required_at_this_stage": true,
+    "local_validation": {
+      "profile_consistency": true,
+      "relative_links_checked": 152,
+      "renderer_reproduces_uploaded_image": true,
+      "image_sha256": "de0594e6fbe7ff5b4164f95f4da022cab0cb7dbfe60a0309273a77048ff16c77"
+    }
+  }
 }

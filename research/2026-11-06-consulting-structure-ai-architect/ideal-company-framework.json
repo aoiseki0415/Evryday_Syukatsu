@@ -1,0 +1,68 @@
+{
+  "as_of": "2026-11-06",
+  "status": "working_framework_synthesizing_user_stated_preferences",
+  "comparison_unit": "企業・環境",
+  "summary": "①方針・構想策定に軸足を置き、②〜④との関与を通じて技術理解を深めながら、AIで全社レベルの変革を促せる環境。",
+  "A": {
+    "anchor_phase": 1,
+    "connected_phases": [
+      2,
+      3,
+      4
+    ],
+    "technical_understanding": "技術を理解する必要があると考えるため、特に③④の実装・運用にも関与して理解を深めたい。",
+    "equal_weight_across_phases": false,
+    "ideal_degree_values_not_assigned": true,
+    "personal_possibility": {
+      "assessment": "構想と実装がつながる企業・環境を根拠に、本人が関われる可能性を間接的に考える。",
+      "official_individual_duty_guarantee_required_at_this_stage": false,
+      "placement_or_duty_guarantee_inferred": false
+    },
+    "connection_evidence_examples": {
+      "status": "Codexによる今後の調査で使う具体化。公開根拠を伴うかを確認する。",
+      "items": [
+        "同じ変革案件・目標で構想・業務・技術担当が協働",
+        "①と②〜④の目的・判断・知見が連動",
+        "実装・運用の知見が構想・方針に反映",
+        "別部門でも案件・意思決定の場で接続"
+      ]
+    },
+    "caveats": [
+      "会社に構想と実装の両機能があることと、その接続は分ける。",
+      "同一部署・個人による全工程担当を必須条件にしない。",
+      "情報不足は未確認とし、個人の配属・担当を保証しない。",
+      "旧Aの①同程度は比較上の仮定で、各企業の実績同等を確認した事実ではない。"
+    ]
+  },
+  "B": {
+    "preferred_transformation_scope": "全社",
+    "assessment": "過去の具体的な案件・事例から、全社レベルの変革を促せる環境かを考える。",
+    "evidence_fields": [
+      "変革の目的",
+      "対象範囲・変えるもの",
+      "具体的な支援活動",
+      "構想・実証・本番・展開・定着等の進行状態"
+    ],
+    "common_platform": "全社共通AI基盤も根拠として扱い、業務・組織・意思決定の変革にどうつながるかを分けて確認する。",
+    "completed_transformation_only_required": false
+  },
+  "boundaries": {
+    "company_search_started": false,
+    "company_fit_assessment_started": false,
+    "applications_or_priorities_decided": false,
+    "existing_A_B_matrices_changed": false,
+    "career_IT_route_changed": false,
+    "previous_candidate_constraints_preserved": true
+  },
+  "notion": {
+    "page_url": "https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381",
+    "heading": "AIアーキテクト（支援領域：AI・データ）理想的な企業像とは"
+  },
+  "remaining": [
+    "具体企業の探索と適合確認（今回は未実施）",
+    "各企業内の協働・担当範囲の確認",
+    "本人が望む関与の細かな程度・配分",
+    "将来の需要・職務変化の根拠と仮説の検討",
+    "募集・配属・応募先の判断"
+  ]
+}
