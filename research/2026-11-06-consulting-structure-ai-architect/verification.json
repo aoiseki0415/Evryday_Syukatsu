@@ -54,5 +54,28 @@
       "renderer_reproduces_uploaded_image": true,
       "image_sha256": "de0594e6fbe7ff5b4164f95f4da022cab0cb7dbfe60a0309273a77048ff16c77"
     }
+  },
+  "requirements_verification_separation": {
+    "as_of": "2026-11-06",
+    "notion_readback": {
+      "prefixUnchanged": true,
+      "overviewImageUnchanged": true,
+      "requirementsSeparate": true,
+      "verificationSeparate": true,
+      "companyAndPersonalSeparated": true,
+      "companyA": true,
+      "personalA": true,
+      "companyB": true,
+      "indirectInference": true,
+      "personalGuaranteeNotRequired": true,
+      "notStartedResearch": true
+    },
+    "requirement_ids": [
+      "A_company",
+      "A_person",
+      "B_company"
+    ],
+    "criteria_changed": false,
+    "company_research_started": false
   }
 }

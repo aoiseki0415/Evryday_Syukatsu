@@ -64,5 +64,88 @@
     "本人が望む関与の細かな程度・配分",
     "将来の需要・職務変化の根拠と仮説の検討",
     "募集・配属・応募先の判断"
-  ]
+  ],
+  "schema_version": 2,
+  "target_units": [
+    "企業単位",
+    "自分単位（可能性の間接評価）"
+  ],
+  "observed_information_unit": "企業・案件・体制",
+  "requirements": [
+    {
+      "id": "A_company",
+      "axis": "A",
+      "target_unit": "企業単位",
+      "label": "企業の活動",
+      "condition": "AI導入支援で①構想・方針策定に軸足を置き、②〜④にも実質的に関与している。"
+    },
+    {
+      "id": "A_person",
+      "axis": "A",
+      "target_unit": "自分単位",
+      "label": "自分が関われる可能性",
+      "condition": "自分も①に軸足を置き、②〜④との接点を通じて技術理解を深められる。"
+    },
+    {
+      "id": "B_company",
+      "axis": "B",
+      "target_unit": "企業単位",
+      "label": "全社変革を促す環境",
+      "condition": "AIを用いて全社レベルの変革を促す支援ができる。"
+    }
+  ],
+  "verification_methods": [
+    {
+      "requirement_id": "A_company",
+      "observed_information_unit": "企業・案件・体制",
+      "source_types": [
+        "公式サービス説明",
+        "具体的な案件紹介",
+        "技術記事"
+      ],
+      "signals": [
+        "①でどのような構想・方針を考えたか",
+        "②設計・③実装・④定着運用で何を担ったか",
+        "技術的な判断・実装参加・継続関与の具体的内容"
+      ],
+      "conclusion_mode": "企業の活動範囲・関与の程度を評価する。",
+      "short_sources": "サービス説明・案件紹介・技術記事",
+      "short_signals": "①の位置づけと、②〜④で担う具体的な活動。"
+    },
+    {
+      "requirement_id": "A_person",
+      "observed_information_unit": "企業・案件・体制",
+      "source_types": [
+        "案件のチーム構成・担当の説明",
+        "同じ案件での協働の説明",
+        "社員による仕事・プロジェクトの紹介"
+      ],
+      "signals": [
+        "構想側と実装側が同じ案件・目標で協働するか",
+        "①と②〜④の判断・知見が連動するか",
+        "実装・運用の知見が構想や方針に反映されるか"
+      ],
+      "conclusion_mode": "企業・環境に関する情報から、本人が関われる可能性を間接的に推定する。担当・配属は保証しない。",
+      "short_sources": "チーム構成・協働の説明・仕事紹介",
+      "short_signals": "構想と実装の連動・協働・知見の共有。"
+    },
+    {
+      "requirement_id": "B_company",
+      "observed_information_unit": "企業・案件・体制",
+      "source_types": [
+        "顧客事例",
+        "案件のプレスリリース"
+      ],
+      "signals": [
+        "顧客が目指した変革の目的",
+        "対象範囲と、どの業務・組織・意思決定等を変えたか",
+        "その企業が具体的に担った活動",
+        "構想・実証・本番・展開・定着等の進行状態"
+      ],
+      "conclusion_mode": "具体的な過去案件から、全社変革を支援できる環境かを評価する。",
+      "short_sources": "顧客事例・案件のプレスリリース",
+      "short_signals": "目的・対象範囲・変えた内容・企業の役割・進行状態。"
+    }
+  ],
+  "requirements_are_not_evidence": "希望条件と、条件の確認に使う接続・事例等の材料を分けて扱う。"
 }
