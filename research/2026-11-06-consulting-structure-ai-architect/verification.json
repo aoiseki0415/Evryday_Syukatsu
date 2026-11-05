@@ -1,0 +1,37 @@
+{
+  "as_of": "2026-11-06",
+  "timezone": "Asia/Tokyo",
+  "notion": {
+    "parent_url": "https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381",
+    "A_url": "https://app.notion.com/p/40f161f2809781baa997d046afb8e9f8",
+    "B_url": "https://app.notion.com/p/40f161f280978163a7f2fb1845065074",
+    "aHeatmapV4": true,
+    "bSectionUnchanged": true,
+    "bDetailsUnchanged": true,
+    "generalUnchanged": true,
+    "fourGradesSaved": true,
+    "notRoleTypes": true,
+    "cases": 14,
+    "A_table_matches_json": true,
+    "B_table_matches_json": true
+  },
+  "artifact_integrity": {
+    "json_integrity": true,
+    "unique_sources": 29,
+    "cases": 14,
+    "domestic_cases": 10,
+    "overseas_cases": 4,
+    "service_sources": 12,
+    "market_sources": 3,
+    "general_category_domain_phase_cells": 144,
+    "general_scope_domain_cells": 36,
+    "relative_links_checked": 156,
+    "A_renderer_reproduces_snapshot": true,
+    "B_image_matches_unchanged_source": true,
+    "artifact_sha256": {
+      "ai-process-involvement.png": "a68a9d1ff8e360de40f504590241638a10845a3a22e975e47473b874b5f5f825",
+      "ai-scope-coverage.png": "34c9d5473a1c2ac02d02ab13445ffdaf2362a3b5c7c375e09a4e44fc7c1ec3cb"
+    }
+  },
+  "git_delivery": "Commit containing this file is the record version. Remote SHA equality is checked after push and reported in chat; no pre-commit claim of delivery."
+}

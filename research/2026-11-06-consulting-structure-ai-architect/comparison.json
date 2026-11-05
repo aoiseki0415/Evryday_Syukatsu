@@ -1,0 +1,247 @@
+{
+  "as_of": "2026-11-06",
+  "status": "provisional_codex_interpretation_not_user_company_ranking",
+  "category_order": [
+    "strategy",
+    "general",
+    "it",
+    "sier"
+  ],
+  "phase_order": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "scope_order": [
+    "全社",
+    "事業",
+    "部門",
+    "業務"
+  ],
+  "adopted_method": {
+    "A": "範囲と関与の程度は2つの評価軸。着色工程の広がりで範囲、同一色の濃淡で程度を示す。役割の種類を段階にしない。",
+    "B": "対象範囲へのAI導入を担うことの確認状況。Aの程度とは別の意味。"
+  },
+  "A": {
+    "notion_url": "https://app.notion.com/p/40f161f2809781baa997d046afb8e9f8",
+    "palette": {
+      "1": {
+        "label": "限定的",
+        "color": "#E1EEF0"
+      },
+      "2": {
+        "label": "中程度",
+        "color": "#ADD4D9"
+      },
+      "3": {
+        "label": "強い",
+        "color": "#51A2AC"
+      },
+      "4": {
+        "label": "非常に強い",
+        "color": "#087481"
+      }
+    },
+    "out_of_scope": "white",
+    "unknown": "明示的に未確認と記す。白色で代用しない。",
+    "ordinal_not_interval": true,
+    "rows": [
+      {
+        "phase": 1,
+        "in_scope": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "degree": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "basis": "user_comparison_assumption_equal_involvement_not_empirical"
+      },
+      {
+        "phase": 2,
+        "in_scope": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "degree": [
+          3,
+          4,
+          4,
+          4
+        ],
+        "criterion": "技術的な判断への関与"
+      },
+      {
+        "phase": 3,
+        "in_scope": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "degree": [
+          3,
+          4,
+          3,
+          4
+        ],
+        "criterion": "実装への参加"
+      },
+      {
+        "phase": 4,
+        "in_scope": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "degree": [
+          2,
+          3,
+          3,
+          4
+        ],
+        "criterion": "稼働後の継続関与。利用定着と技術運用は詳細で分ける"
+      }
+    ],
+    "variation": "企業・部門・案件による違いは注記として別に保存し、程度の段階と混ぜない。",
+    "caveats": [
+      "各セルは比較用の暫定的所感。会社平均、内製率、客観的な技術力順位ではない。",
+      "戦略専門組織にも深い実装・技術運用の例があり、値は上限ではない。",
+      "外部パートナー・自社以外の技術を使うこと自体は関与の弱さを意味しない。"
+    ]
+  },
+  "B": {
+    "notion_url": "https://app.notion.com/p/40f161f280978163a7f2fb1845065074",
+    "legend": {
+      "●": "今回の具体的顧客事例で対象範囲への支援を明確に確認",
+      "○": "サービス等で支援対象として確認",
+      "△": "関連・間接的な関与はあるが根拠が限定的"
+    },
+    "rows": [
+      {
+        "scope": "全社",
+        "values": [
+          "●",
+          "●",
+          "○",
+          "●"
+        ],
+        "source_refs": [
+          [
+            "ST2"
+          ],
+          [
+            "GE1",
+            "GE4"
+          ],
+          [
+            "SV7",
+            "SV9"
+          ],
+          [
+            "SI1",
+            "SI2"
+          ]
+        ]
+      },
+      {
+        "scope": "事業",
+        "values": [
+          "●",
+          "○",
+          "○",
+          "△"
+        ],
+        "source_refs": [
+          [
+            "ST1",
+            "ST3"
+          ],
+          [
+            "SV5",
+            "SV6"
+          ],
+          [
+            "SV8"
+          ],
+          [
+            "SV12"
+          ]
+        ]
+      },
+      {
+        "scope": "部門",
+        "values": [
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        "source_refs": [
+          [
+            "ST2"
+          ],
+          [
+            "GE3"
+          ],
+          [
+            "IT1",
+            "IT3",
+            "IT4"
+          ],
+          [
+            "SI3"
+          ]
+        ]
+      },
+      {
+        "scope": "業務",
+        "values": [
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        "source_refs": [
+          [
+            "ST1",
+            "ST2"
+          ],
+          [
+            "GE2",
+            "GE3"
+          ],
+          [
+            "IT2",
+            "IT3",
+            "IT4"
+          ],
+          [
+            "SI1",
+            "SI3"
+          ]
+        ]
+      }
+    ],
+    "caveats": [
+      "カテゴリー別の案件比率・最多対象は未確認。記号を頻度・能力・インパクトの順位に読み替えない。",
+      "全社には共通AI基盤も含む。全社横断の事業・組織・業務変革とは分けて読む。",
+      "今回のA修正に伴うBの変更なし。"
+    ]
+  },
+  "decision_boundaries": {
+    "candidate_search": "AI側のSIer除外、総合Big4＋Accenture、日本28卒・大学院生向け入口必須を継続。4カテゴリーの市場比較はSIerを候補へ復活する決定ではない。",
+    "applications_changed": false,
+    "sheet_changed": false,
+    "future_architect_destination_decided": false
+  }
+}

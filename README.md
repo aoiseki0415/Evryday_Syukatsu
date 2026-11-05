@@ -8,7 +8,8 @@
 - [就活戦略_現状整理.md](就活戦略_現状整理.md) は初期の資料を整理した記録。現在の決定は [STRATEGY.md](STRATEGY.md) を優先し、企業・部署・選考方針を根拠に応じて更新する。
 - 他チャットの議論を引き継ぐ [2026年10月20日版のキャリア資料](career-context-2026-10-20.md)を参照し、その後に変わった考えと混同しない。
 - 企業・職種・新卒選考の事実調査は [RESEARCH_POLICY.md](RESEARCH_POLICY.md) に従う。
-- **AI側の現在の議論（2026/11/5後半）**：[技術的な深さとAIを前提とした事業・全社戦略への関与](research/2026-11-05-ai-strategy-positioning/README.md)を両方満たす仕事へ志向を具体化中。日本新卒入口必須、AI側SIer除外、総合はBig4＋Accentureの5先。前半の[52候補](research/2026-11-05-ai-architect-shortlist/README.md)・[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は旧条件の履歴で、後半の議論では未編集。
+- **現在の再開位置（2026/11/6）**：[コンサルの4概念とAIの現状](research/2026-11-06-consulting-structure-ai-architect/README.md)を整理済み。Aは工程の範囲と関与の程度（同色4段階の濃淡）、Bは対象範囲への支援の確認状況（丸・三角）。次は将来像と本人の志向の具体化。市場比較のSIerを応募候補へ復活した決定ではない。
+- **11/5後半に定めたAI側の志向・候補条件**：[技術的な深さとAIを前提とした事業・全社戦略への関与](research/2026-11-05-ai-strategy-positioning/README.md)を両方満たす仕事へ志向を具体化中。日本新卒入口必須、AI側SIer除外、総合はBig4＋Accentureの5先。前半の[52候補](research/2026-11-05-ai-architect-shortlist/README.md)・[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は旧条件の履歴で、後半の議論では未編集。
 - [STRATEGY.md](STRATEGY.md) が現在の二本の就活戦略と未決定事項、[OPERATIONS.md](OPERATIONS.md) が別チャットへの引き継ぎを含む具体的な手順。[Notion「就活戦略・現在地」](https://app.notion.com/p/401161f28097815d8accc34852300c95)は本人向けの見やすい要約。
 
 ## 議論の記録とチャット間の引き継ぎ

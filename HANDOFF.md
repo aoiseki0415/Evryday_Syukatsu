@@ -1,15 +1,18 @@
 # 就活戦略プロジェクト：引き継ぎ
 
-更新日：2026年11月5日
+更新日：2026年11月6日
 
 **開始時はGitルート・origin・作業状態を確認して `git pull --ff-only origin main`。** その後、[README.md](README.md)、[AGENTS.md](AGENTS.md)、[OPERATIONS.md](OPERATIONS.md)、[STRATEGY.md](STRATEGY.md)を読む。必要な経緯は[logs](logs/README.md)、職務・採用の根拠は[research](research/)にある。
 
 ## 現在の目的と決定
 
-- **最優先：11/5後半の本人の再定義**。AIの深い技術理解と、AIを前提にした事業・全社戦略への関与を**両方**満たし、本人も戦略と技術の両方の議論に入れる環境を探す。まず言語化・議論。**日本の28卒・大学院生対象の新卒入口が必須。AI側の探索からSIerを外し、総合コンサルはBig4＋Accentureの5先で十分**とする。戦略・経営変革側を重点探索。従来の企業ライン・製品中立・DS任意は継続。別のITルート廃止ではない。[現在の整理](research/2026-11-05-ai-strategy-positioning/README.md)、[条件JSON](research/2026-11-05-ai-strategy-positioning/criteria.json)を最初に読む。
+- **現在の再開位置（11/6）**：[構造化記録](research/2026-11-06-consulting-structure-ai-architect/README.md)→[4概念](research/2026-11-06-consulting-structure-ai-architect/framework.md)→[AIの問いA・B](research/2026-11-06-consulting-structure-ai-architect/ai-current-state.md)。一般構造と現状調査は整理済み。次は将来のAIアーキテクト像と、本人が望む対象範囲・工程・関与の程度を考える。[Notion「コンサルの構造化」](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)を参照。
+- **評価方法**：Aは範囲と関与の程度。①同程度は仮定。②〜④は技術判断・実装参加・継続関与を見て、着色範囲と同色4段階の濃淡で表示。役割の種類やばらつきを程度にしない。Bは対象範囲への支援の確認状況を丸・三角で表示。セルは暫定的所感、カテゴリー別案件比率は未確認。根拠は14事例・12サービス等・3市場資料。
+
+- **継続する候補条件（11/5後半）**。AIの深い技術理解と、AIを前提にした事業・全社戦略への関与を**両方**満たし、本人も戦略と技術の両方の議論に入れる環境を探す。まず言語化・議論。**日本の28卒・大学院生対象の新卒入口が必須。AI側の探索からSIerを外し、総合コンサルはBig4＋Accentureの5先で十分**とする。戦略・経営変革側を重点探索。従来の企業ライン・製品中立・DS任意は継続。別のITルート廃止ではない。[現在の整理](research/2026-11-05-ai-strategy-positioning/README.md)、[条件JSON](research/2026-11-05-ai-strategy-positioning/criteria.json)を最初に読む。
 - [共有スプレッドシート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は**11/5前半の旧条件で52候補を入力・検証済み**（総合14、戦略22、IT8、SIer8）。後半の議論では編集していない。日本入口未確認やSIerを含むため、現行条件適合済みの一覧として扱わない。`候補一覧!A5:Q56`、17列、上4行・左2列固定。仕事リンクE、新卒募集リンクN。[前半の結果](research/2026-11-05-ai-architect-shortlist/README.md)と[52候補JSON](research/2026-11-05-ai-architect-shortlist/candidates.json)は履歴。新条件での全面再調査・シート整理は未実施。
 - 添付図の45表記＋グロービングを[46表記の照合台帳](research/2026-11-05-ai-strategy-positioning/attachment-company-audit.json)に記録。グロービング、P&E、ライズ等は検討漏れ。DI・IGPIには本人が好印象だが個人の戦略関与は未確認。BCGは職種分離と協働を分け、難易度が高いから分断と一般化しない。本人はデロイトの技術的な厚みを継続評価。
-- **現在は企業探しの前の概念整理**：本人がStrategy/Operations/Technologyと業務・事業・全社の関係を定めたいと述べた。[支援領域・変える対象の範囲・支援工程の整理案](research/2026-11-05-ai-strategy-positioning/comparison-axes.md)を読む。前回の「競争戦略」を別階層に置いた説明は修正。用語案の理解・合意が次の論点で、企業・職種の新決定はない。
+- **11/5時点は企業探しの前の概念整理だった**：本人がStrategy/Operations/Technologyと業務・事業・全社の関係を定めたいと述べた。[支援領域・変える対象の範囲・支援工程の整理案](research/2026-11-05-ai-strategy-positioning/comparison-axes.md)を読む。前回の「競争戦略」を別階層に置いた説明は修正。11/6には4概念を合意済み。ITコンサルとSIerの統合案は撤回し4分類で比較するが、AI側のSIer除外・日本新卒入口必須という候補条件は継続。企業・職種の新決定はない。
 - 11/5調査の重要点：PwC DCは2027/1/8 23:59、KPMG FAS技術職は1/6 13:00締切。BCG Xの確認した28卒個別2枠はfilled。KPMG Consultingの汎用新卒要項だけで28卒本選考受付中とは言わない。日本総研の公開本選考要項本文は27卒で、28卒DS配属確約へ転用しない。各日程は応募前に再確認する。共通採用・グローバル専門職と日本新卒の同職務配属を区別する。
 
 - 「毎日就活」の定時・日次運用は**終了**。旧「毎日就活 振り返り」の定時タスクは2026年10月22日に`PAUSED`と確認した。今後は本人の就活戦略を描き、自己分析、ES、選考の検討を継続して扱う。
@@ -38,6 +41,8 @@
 
 ## 次の論点
 
+**最初に扱うこと（11/6）**：将来の役割・需要を仮説と根拠に分け、本人が望む対象範囲・工程・関与の程度を具体化する。一般概念を未合意、現状A・Bを未調査としてやり直さない。応募先・順位は未決定。
+
 **5社を見た現在の印象（2026-10-28）**：公式サイト探索後、本人は技術面に偏った印象として **デロイト ＞ PwC ≒ EY ＞ KPMG** と整理。デロイトの厚みへの印象が強く、EYの最近の積極性・勢いを評価してPwCと同列程度。KPMGの特徴はまだつかめておらず、**アクセンチュアの比較上の位置づけは未定**。客観的な技術力順位や最終志望順位の決定ではない。[現在の整理](STRATEGY.md#技術面に対する本人の暫定的な印象2026年10月28日)と[議論の追補](logs/2026-10-28-five-company-ai-site-map.md)を参照。本人はCodexが公式情報を管理・再参照できる状態を評価している。
 
 **デロイトAI&Dの技術的な厚み**：本人は[AI&Dのサービスページ](https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html)や技術記事から「Big4で一番すごいかもしれない」と感じている。[今回の照合](logs/2026-10-28-deloitte-ai-data-technical-depth.md)では、エージェントの知識・データ設計や最適化の評価関数まで説明する記事、AI Factoryの構想から本番導入・運用までの提供範囲、希望AI&Dユニットの採用ページにある戦略から実装・保守までの職務を確認した。記事はデロイト全体の発信であり、一部は社内利用・検証段階。希望ユニットの顧客案件や新卒担当・配属、Big4内順位は未確定。志望順位・Notionの変更なし。
@@ -56,7 +61,9 @@
 
 ## 直近の記録
 
-- [技術理解とAIを前提とした事業・全社戦略を両立する志向へ](logs/2026-11-05-ai-strategy-technical-depth-discussion.md)：日本新卒入口必須、AI側SIer除外、総合5先、本人の両面関与、添付企業の調査漏れ。現在の優先記録。
+- [4概念とAIの範囲・程度・対象範囲、表示修正を統合](logs/2026-11-06-consulting-structure-ai-architect.md)：今回の優先記録。Aは関与の程度を4段階の濃淡で表示、Bは保持。Notion読み戻しとGit記録を保存。
+
+- [技術理解とAIを前提とした事業・全社戦略を両立する志向へ](logs/2026-11-05-ai-strategy-technical-depth-discussion.md)：日本新卒入口必須、AI側SIer除外、総合5先、本人の両面関与、添付企業の調査漏れ。11/5時点の志向・条件の記録。
 - [4カテゴリーのAI候補52件を調査・シートへ記入](logs/2026-11-05-ai-architect-career-research.md)：合意条件、調査上の採否、操作・検証を分離。旧122比較行の対応と保留理由も保存。
 - [シートの骨格・列順を設計](logs/2026-11-05-ai-architect-sheet-structure.md)：現在は候補入力済み。列定義は継続使用。
 - [AI・DSと、DS不要のAI・デジタル職を全候補から統合](logs/2026-11-04-strategy-firm-digital-ai-map.md#追補3条件を緩めaiデジタルの全候補を統合)

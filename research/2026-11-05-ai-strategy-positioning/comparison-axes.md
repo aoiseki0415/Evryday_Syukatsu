@@ -1,5 +1,7 @@
 # コンサルの支援領域・変える対象の範囲・支援工程を分ける
 
+> **11/5時点の整理案を保存した履歴。** 11/6に4概念を合意した。[現在の定義](../2026-11-06-consulting-structure-ai-architect/framework.md)と[AI限定の現状比較](../2026-11-06-consulting-structure-ai-architect/ai-current-state.md)を優先する。
+
 確認日：2026年11月5日。本人は「業務・事業・全社が一般的な企業分類なのか」「Strategy / Operations / Technologyとどう違うか」を確認し、企業探索の前に用語と分類軸を定めたいと述べた。
 
 ## 整理の要点
