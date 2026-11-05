@@ -1,0 +1,39 @@
+{
+  "as_of": "2026-11-05",
+  "scope": "AIアーキテクト側の志向再定義。議論段階",
+  "confirmed_filters": {
+    "japan_new_graduate_route_required": true,
+    "graduation_year": 2028,
+    "graduate_students_included": true,
+    "overseas_only_roles_qualify": false,
+    "sier_in_ai_research": false,
+    "general_consulting": [
+      "Accenture",
+      "Deloitte",
+      "PwC",
+      "EY",
+      "KPMG"
+    ],
+    "company_threshold": "従来の本人基準のAccenture以上を継続。添付の偏差値数値は外部検証済みの確定順位ではない。",
+    "data_science": "必須ではなく加点要素",
+    "vendor_independence": "前の条件を継続。本人が撤回したわけではない。"
+  },
+  "user_preference": {
+    "technical_depth": "AIの仕組み、可能性・限界、適用条件を理解して判断できる技術的な深さ",
+    "strategic_scope": "AIを前提に事業・収益・競争優位・全社組織の設計まで考えたい",
+    "personal_participation": "本人がAI専門作業だけに閉じず、戦略担当者と協働して両方の議論に関わる",
+    "joint_requirement": "2要件の両方を満たす。中間的なバランスでの代替ではない"
+  },
+  "hypotheses_not_facts": [
+    "業務単位のAI導入だけの仕事は3〜5年後に価値が薄れるのではないか",
+    "実装側に近いほどAIの技術理解が深い傾向があるのではないか",
+    "BCG等は戦略とAIの役割が分かれていて本人が両方に関わりにくいのではないか"
+  ],
+  "not_decided": [
+    "AI×事業・全社戦略という志向の最終表現",
+    "各社・部署で本人が両方を担当できるか",
+    "新たな志望先・応募順位",
+    "既存ITアーキテクト側の戦略変更"
+  ],
+  "sheet_action": "前の52候補は旧条件の調査スナップショットとして維持。今回未編集。新条件を満たす現行候補一覧とは扱わない。"
+}

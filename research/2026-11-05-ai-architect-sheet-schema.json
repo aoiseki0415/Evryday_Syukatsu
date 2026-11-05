@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "updated_on": "2026-11-05",
-  "status": "researched_candidates_entered",
+  "status": "historical_snapshot_pending_rescreen",
   "candidate_count": 52,
   "spreadsheet_id": "1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk",
   "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit",
@@ -223,5 +223,7 @@
     "戦略コンサル": 22,
     "ITコンサル": 8,
     "SIer": 8
-  }
+  },
+  "current_criteria": "2026-11-05-ai-strategy-positioning/criteria.json",
+  "criteria_snapshot_note": "以下criteriaは11/5前半の52候補に適用した旧条件。シートの列構造は現行。日本入口必須・AI側SIer除外・総合5先等の最新条件はcurrent_criteriaを参照。後半の議論ではシート未編集。"
 }

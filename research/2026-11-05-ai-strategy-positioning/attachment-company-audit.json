@@ -1,0 +1,422 @@
+{
+  "as_of": "2026-11-05",
+  "unit": "添付図1の45表記＋図2/3にあるグロービングの計46表記。会社グループ・採用法人の数ではない。",
+  "method": "添付画像を目視読取し、既存research/logsの本文と候補・保留台帳を照合。専用調査なしは既存記録の範囲。今回全46社の公式業務・採用を新規調査した意味ではない。",
+  "firms": [
+    {
+      "company": "BCG",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "BCG X/TDAを検討。本人が戦略とAIの両方に関わる範囲を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "カーニー",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "Analyticsを検討。日本新卒の入口と本人の戦略関与を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "マッキンゼー",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "Digital/QuantumBlackを検討。日本入口と本人の職務を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "ADL",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "AI＆Digitalサービスを検討。日本新卒・個人の技術深度を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "ベイン",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "AT＆AIはグローバル職務中心。日本新卒入口必須により再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "ローランド・ベルガー",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "AIサービスを検討。日本職務と技術深度を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "DI",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "T&Aを検討。今回AIテーマの公式ページを追加確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "KPMG FAS",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "フォレンジックAI開発を検討。全社・事業戦略への個人関与は未確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "IGPI",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "DI専門会社と親会社の職務・採用を分ける。個人の戦略関与は未確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "NRI（経営コンサル）",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "関連領域のみ",
+      "next_check": "AI戦略部門は言及・掲載したが、経営コンサルとしての入口・新条件の職務は再調査",
+      "qualified_candidate": false
+    },
+    {
+      "company": "YCP",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "DXを先行調査。今回の難易度条件と日本新卒入口を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "PwCコンサルティング",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "Big4として継続比較。個人の全社・事業戦略関与を追加確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "フォーティエンス",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "AI導入支援を検討。戦略との接続を追加確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "ベイカレント",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・対象外",
+      "next_check": "前回の本人の難易度感では対象外。添付図だけで自動復活しない",
+      "qualified_candidate": false
+    },
+    {
+      "company": "マーサー",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "初回の企業・職務調査が必要。AI・事業戦略との適合は未判定",
+      "qualified_candidate": false
+    },
+    {
+      "company": "EYSC",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "Big4として継続比較。AI＆Dataと戦略領域の本人の関与を確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "KPMGコンサルティング",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "Big4として継続比較。技術理解と全社戦略の両面を確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "PwCアドバイザリー",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "Deal Analyticsを先行検討。新条件での適合は未判定",
+      "qualified_candidate": false
+    },
+    {
+      "company": "NTTデータ経営研究所",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "NIU/SDSを先行検討。戦略とAI技術の本人の両面関与を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "P&Eディレクションズ",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "今回新卒FAQを初期確認。AI技術深度・日本28卒の該当役割は未判定",
+      "qualified_candidate": false
+    },
+    {
+      "company": "アクセンチュア",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "総合コンサル5先の一つとして継続。会社の重心と職種を分ける",
+      "qualified_candidate": false
+    },
+    {
+      "company": "ライズ・コンサルティング",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業難易度・AI技術・戦略・日本新卒を確認する前の検討漏れ",
+      "qualified_candidate": false
+    },
+    {
+      "company": "シンプレクス",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "戦略関連部門・XSpear等を含む場合は採用法人と職務を分けて確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "日本IBM",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "AIイノベーター等を検討。本人の事業・全社戦略関与を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "デロイト（コンサル）",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "技術的な厚みを本人が高く評価。今回の戦略関与との両立で継続比較",
+      "qualified_candidate": false
+    },
+    {
+      "company": "アビーム",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "今回総合コンサルを5先に限定するため主比較に追加しない",
+      "qualified_candidate": false
+    },
+    {
+      "company": "三菱UFJリサーチ＆コンサルティング",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "AI導入助言を検討。全社戦略と技術深度を新条件で再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "三菱総研",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "既調査",
+      "next_check": "DX・AI導入を先行検討。新条件の企業戦略側との接続を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "コーン・フェリー",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "初回の職務調査が必要。人材・組織領域だけでAI戦略適合としない",
+      "qualified_candidate": false
+    },
+    {
+      "company": "日本総研（コンサル）",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "関連領域のみ",
+      "next_check": "前回主にITソリューションDS。コンサル領域は別の仕事として調査が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "大和総研（コンサル）",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "言及のみ・専用調査不足",
+      "next_check": "AI・先端技術等の周辺参照はあるが、当該経営コンサル職の専用調査は不足",
+      "qualified_candidate": false
+    },
+    {
+      "company": "日本経営システム",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "キャップジェミニ",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "I&D/Inventを先行検討。今回総合5先以外の扱いと日本入口を確認",
+      "qualified_candidate": false
+    },
+    {
+      "company": "リヴァンプ",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "フューチャー",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "AIXGを先行検討。導入実装と全社戦略の本人関与を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "リブ・コンサルティング",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "日本能率協会コンサルティング",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "シグマクシス",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・対象外",
+      "next_check": "前回の本人の難易度感で対象外。図の掲載だけでは自動復活しない",
+      "qualified_candidate": false
+    },
+    {
+      "company": "スカイライト",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "山田コンサルティング",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "レイヤーズ",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "船井総研",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "専用調査なし",
+      "next_check": "企業・職務・採用の初回確認が必要",
+      "qualified_candidate": false
+    },
+    {
+      "company": "日本TCS",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討",
+      "next_check": "Solution Engineerを先行検討。今回のAI×全社戦略とは別途照合",
+      "qualified_candidate": false
+    },
+    {
+      "company": "ZSアソシエイツ",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "AI実装の協業は確認済み。日本新卒と本人の戦略関与を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "CDI",
+      "source_images": [
+        1
+      ],
+      "previous_coverage": "過去検討・保留",
+      "next_check": "一般戦略職とITサービスを先行検討。AI技術深度と日本の役割を再評価",
+      "qualified_candidate": false
+    },
+    {
+      "company": "グロービング",
+      "source_images": [
+        2,
+        3
+      ],
+      "previous_coverage": "今回初期確認",
+      "next_check": "図2・3。AI×経営支援と国内2027/4〜2028/9卒の募集要項を確認。技術深度・本人の両面関与・自社製品依存・企業難易度は追加調査",
+      "qualified_candidate": false
+    }
+  ]
+}
