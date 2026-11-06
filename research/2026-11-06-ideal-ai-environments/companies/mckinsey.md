@@ -19,39 +19,39 @@ DSとの関係：**○：QuantumBlackのDS・DEと協働**。DSは加点であ�
 | 項目 | 確認できた情報 |
 | --- | --- |
 | 正式な応募入口 | Business Analyst（国内大学・大学院） |
-| 対象 | 2028／国内の大学・大学院新卒入口あり |
+| 対象 | 2028／国内の大学・大学院新卒制度あり |
 | 現在の表示 | **公表された28卒2選考とも締切済み** |
 | 期限 | 最終冬選考 2026/9/15（終了） |
 | 専門配属との関係 | Digital／QuantumBlack連携案件への配属は未確約 |
-| 募集情報リンク | [公式の募集・日程](https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028) |
+| 募集情報リンク | [募集・日程](https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028) |
 
-**受付表示と実際の申込可否は応募時に再確認する。** マイページ内部・本人の応募履歴は今回調べていない。経験者職務ページは仕事内容の根拠としてのみ使用する。
+受付表示・登録・本選考・専門配属は別に扱う。マイページ内部、本人の応募履歴は未確認。経験者職務は仕事内容の根拠であり、新卒応募口ではない。
 
-## 3. 満たしていてほしいこと
+## 3. 満たしていてほしいことと確認方法
 
-| 観点 | 条件 | 確認に使う情報 |
+| 観点 | 満たしていてほしいこと | 確認に使う情報 |
 | --- | --- | --- |
-| A_company／企業 | ①方針・構想を軸に、②設計・③導入実行・④定着運用改善へ実質的に関わる。 | 具体案件で担う技術判断・開発・導入・継続関与 |
-| A_person／自分の可能性 | ①に軸足を置き、実装側との協働を通じて自分の技術理解を深められる。 | 同じ案件のチーム構成、役割の協働、知見の往復 |
-| B_company／企業 | 全社の業務・組織・意思決定などを変革する環境がある。 | 顧客の目的・対象・活動・進行状態が分かる事例 |
+| A_company／企業 | ①方針・構想を軸に②設計③導入実行④定着運用改善にも実質関与 | 案件での技術判断・実装参加・継続関与 |
+| A_person／本人の可能性 | ①軸足で技術理解を深められる接続環境 | 同一案件の協働・役割・意思決定・現場から構想への往復 |
+| B_company／企業 | 全社の業務・組織・意思決定などを変える支援環境 | 顧客の目的・対象・具体活動・進行状態 |
 
 ## 4. 実際の案件・発表で確認したこと
 
 ### 1. 東芝テック／Gyainamics
 
-- **出典**：[東芝テック：Gyainamicsと小売データ事業](https://www.mckinsey.com/industries/industrials/how-we-help-clients/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia)（公開日を特定できず）
+- **出典**：[MK3：東芝テック：Gyainamicsと小売データ事業](https://www.mckinsey.com/industries/industrials/how-we-help-clients/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia)
 - **所在・対象範囲**：日本／事業モデル・小売データ事業＋AIプロダクト
 - **確認した活動**：事業構想をMcKinsey、QuantumBlack、NVIDIAと技術・人材へ具体化。
 - **進行状態**：事業・開発組織の構築とAI実装
-- **この事例から言えないこと**：全社変革完了ではない。
+- **ここから言えないこと**：全社変革完了ではない。
 
 ### 2. Emirates Global Aluminium
 
-- **出典**：[Rewired in action：EGA（PDF pp.10–11）](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/how%20we%20help%20clients/rewired%20in%20action/pdfs/rewired-in-action-case-collection-2025.pdf)（2025）
+- **出典**：[MK4：Rewired in action：EGA（PDF pp.10–11）](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/how%20we%20help%20clients/rewired%20in%20action/pdfs/rewired-in-action-case-collection-2025.pdf)（2025）
 - **所在・対象範囲**：海外／全社ロードマップ＋生産・物流・調達等
 - **確認した活動**：QuantumBlackと、AIユースケース・CoE・統制・人材育成を一体化。
 - **進行状態**：デジタルファクトリーで複数施策を継続展開
-- **この事例から言えないこと**：海外実績。日本BA本人の参加・職責は未確認。
+- **ここから言えないこと**：海外実績。日本BA本人の参加・職責は未確認。
 
 ## 5. 事実からの適合判断（Codexの解釈）
 
@@ -59,27 +59,25 @@ DSとの関係：**○：QuantumBlackのDS・DEと協働**。DSは加点であ�
 
 ①の事業構想から②③のAI・データ実装、④監視・能力構築まで専門組織の関与を確認。
 
-確認先：[MK1](https://www.mckinsey.com/jp/careers/role-descriptions/careers-in-digital) ／ [MK2](https://www.mckinsey.com/capabilities/quantumblack/our-approach) ／ [MK3](https://www.mckinsey.com/industries/industrials/how-we-help-clients/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia) ／ [MK4](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/how%20we%20help%20clients/rewired%20in%20action/pdfs/rewired-in-action-case-collection-2025.pdf)
-
 ### A_person：構想と実装がつながる環境からの推定
 
 コンサルと技術の多職種協働、国内の事業・開発チームの接続がある。BAが技術の知見に触れられる環境は推定できるが担当を確定しない。
 
-**これは本人の担当・全工程経験・配属の保証ではない。** 同一部署や一人での全工程担当は条件にしない。会社が両機能を持つだけで個人の接続を確定しない。
+**本人の担当・全工程経験・配属の保証ではない。** 同一部署や一人で全工程を担うことは条件にしない。
 
 ### B_company：全社レベルの変革環境
 
 海外の全社改革と、国内の事業創造の両方を確認。全社インパクトと技術理解を同時に狙う候補。
 
-共通AI基盤の展開、複数部門での実装、組織・事業の変革を分けて読む。違う顧客・海外・別法人の実績を、一つの日本案件の実績として合成しない。
+共通ツール配布、全社データ基盤、事業・業務・組織変革を区別。別顧客・海外・別法人の実績を一つの日本案件に合成しない。
 
-## 6. 面談・次の調査で確かめること
+## 6. 残る確認点
 
 - BA採用とDigital専門配属は別。
 - 国内BAの要項は学士・修士。博士を同一入口としない。
 - 東京DS/DEの経験者求人を28卒の直接応募口にしない。
-- ①を担当した人が、③④の設計判断・品質・改善にどのような会議・成果物で関わるか。
-- ベンダーやモデルの選択が顧客課題を起点に行えるか。提携・自社製品の存在だけで中立性を保証しない。
+- ①担当者が③④の技術判断・品質・改善へどのように参加するか。
+- 特定製品に縛られず、顧客課題に応じて選択できるか。
 
 ## 出典台帳
 
@@ -88,6 +86,7 @@ DSとの関係：**○：QuantumBlackのDS・DEと協働**。DSは加点であ�
   - 限界：国内BAからDigitalへの配属や専門職直結は保証されない。
 - **MK2** [QuantumBlack：支援方法](https://www.mckinsey.com/capabilities/quantumblack/our-approach)｜公式組織・サービス
   - 確認事項：ビジネスと技術の多職種チーム、技術中立の構成、モデル導入・監視、顧客の組織・能力構築を説明。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
 - **MK3** [東芝テック：Gyainamicsと小売データ事業](https://www.mckinsey.com/industries/industrials/how-we-help-clients/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia)｜公式国内顧客事例
   - 確認事項：東芝テックがハード中心から小売データ事業へ進む構想を、McKinsey・QuantumBlack・NVIDIAと新会社・開発チーム・AI推奨等につなげる。
   - 限界：主な範囲は事業・業務。全社改革完了の根拠にはしない。
@@ -98,4 +97,4 @@ DSとの関係：**○：QuantumBlackのDS・DEと協働**。DSは加点であ�
   - 確認事項：国内2027年9月～2028年8月卒の学士・修士が対象、Business Analyst入口。28卒2回の選考の最終締切は2026年9月15日。受付終了。
   - 限界：総合入口に募集文言が残っても、対象年度の具体日程を優先。博士は別入口。
 
-確認日：2026年11月6日。公式発信も自己申告・匿名化・予定を含む。調査上の候補化であり、本人の志望順位・応募の決定ではない。
+確認日：2026年11月6日。候補化は本人の志望順位・応募決定ではない。

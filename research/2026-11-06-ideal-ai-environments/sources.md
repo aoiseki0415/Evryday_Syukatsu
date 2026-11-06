@@ -1,409 +1,379 @@
-確認日：<date start="2026-11-06" />。今回の判断に採用した**69件**。公式企業・顧客発信を中心に、広告・外部企業求人は種類を明記する。リンクの先の全文転載はせず、確認事項を要約した。
-
-### DI1｜DI：AI×経営・事業変革
-
-- [原資料](https://www.dreamincubator.co.jp/service/theme/ai/)｜公式サービス｜公開日は特定せず
-- 確認事項：全社視点のAI活用、業務改革の実装、事業戦略・新規事業等を支援。サービスの提供範囲であり、実績はDI2で別確認。
-
-### DI2｜DI FY2026 IR：Project Case②（PDF p.10）
-
-- [原資料](https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS-1.pdf)｜公式IR・匿名案件｜公開：2026-05-15
-- 確認事項：総合IT企業の知財部門でエージェントAIの企画・開発・導入を支援し部門展開中。別のソフトウェア企業では開発以外の営業・企画・人事等を調査し、AI適用と組織・人員再編を提案、2年間の改革を決定。
-- 限界：前者は部門案件。後者の生産性向上は試算で、全社改革の完了や運用成果の証明ではない。
-
-### DI3｜DI：T&Aビジネスプロデューサーの職務
-
-- [原資料](https://www.dreamincubator.co.jp/careers/entry/midcareers/)｜公式経験者職務｜公開日は特定せず
-- 確認事項：T&Aの職務をDX/IT戦略・企画構想から実行・実装支援、経営課題解決、新規デジタル事業の創出と説明。
-- 限界：仕事内容の根拠に使用。経験者要件は新卒に適用しない。
-
-### DI4｜DI：2028冬選考
-
-- [原資料](https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/winter/)｜公式新卒採用｜公開日は特定せず
-- 確認事項：国内28卒、ビジネスプロデュース／Technology & Amplifyの2部門を募集。大学・大学院卒、2028年4月／10月入社。2026年10月16日12:00締切、受付終了。
-
-### GL1｜グロービング：完成車OEMの全社AI戦略と製造AI本番実装
-
-- [原資料](https://globe-ing.com/case-study/gs-02/)｜公式匿名顧客事例｜公開日は特定せず
-- 確認事項：経営層と全社AI戦略・ガバナンス・組織を設計し、製造AIモデル・国内外工場のデータ基盤・MLOpsを本番実装。横展開計画と改善チームを整備。
-- 限界：顧客匿名・一部抽象化。実装成果は製造領域で、全社全領域の改革完了ではない。
-
-### GL2｜グロービングCTO：AIとコンサル部門の協働
-
-- [原資料](https://globe-ing.com/recruit/people/keisuke-ueda/)｜公式社員紹介｜公開日は特定せず
-- 確認事項：AI事業本部とコンサル事業本部の共同案件にエンジニアが参加し開発・実装。複数の基盤モデルを参照。自社プロダクト開発も行う。
-- 限界：役員の職歴を新卒の担当保証にしない。自社製品案件の比率と新卒配属は未公表。
-
-### GL3｜グロービング：新卒採用募集一覧
-
-- [原資料](https://globe-ing-recruit.snar.jp/index.aspx)｜公式採用システム｜公開日は特定せず
-- 確認事項：2027年4月～2028年9月卒業予定の大学・大学院生を対象に、戦略コンサルタント／AIコンサルタント・デジタルコンサルタントを受付中。東京勤務。公開締切は確認できず。
-
-### GL4｜グロービング：仕事紹介
-
-- [原資料](https://globe-ing.com/recruit/work/?tab=ai)｜公式職務紹介｜公開日は特定せず
-- 確認事項：戦略・変革とAI実装を扱う仕事を紹介。AI側にはエンジニア兼務・自社製品の役割もあり、職務ごとの確認が必要。
-- 限界：経験者の年数要件と新卒募集を混同しない。
-
-### BC1｜BCG X Japan：仕事と協働
-
-- [原資料](https://careers.bcg.com/jp/ja/japan-bcgx)｜公式日本職務紹介｜公開日は特定せず
-- 確認事項：BCGの専門家と協働し経営課題を扱うDS、AIエンジニア、AIプロダクトマネジャー等を紹介。DSはモデルの設計・構築を担う。
-- 限界：職種ごとに新卒入口は異なる。全掲載職種の新卒採用を意味しない。
-
-### BC2｜BCG：PHOENIXのAI変革
-
-- [原資料](https://www.bcg.com/about/client-impact/how-gen-ai-transformed-operations-for-pharma-wholesale-leader)｜公式海外顧客事例｜公開日は特定せず
-- 確認事項：部門横断の発想・検証・MVPから拡大までを支援。調達・物流・顧客対応等のAIを運用へ進め、複数市場へ展開。技術側にPlatinion専門家が関与。
-- 限界：BCG全体・Platinionの案件。BCG X Japan DSの直接担当実績と同一視しない。
-
-### BC3｜BCG＋BCG X：New York Life
-
-- [原資料](https://www.bcg.com/x/mark-your-moment/empowering-a-business-leader-through-generative-ai)｜公式海外顧客紹介｜公開日は特定せず
-- 確認事項：BCGとBCG Xが共同で生成AIと変革ガバナンスを支援すると明記。
-- 限界：本文は短く動画中心。個別成果や担当範囲の詳細は十分抽出できず、協働の補助根拠に限定。
-
-### BC4｜BCG X：2028新卒案内
-
-- [原資料](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)｜公式日本新卒採用｜公開日は特定せず
-- 確認事項：2028向けDS・AI Engineerの入口を案内。大学院の関連分野等の要件あり。
-- 限界：見出しと本文の卒業対象期間に相違あり。本人の学位・関連分野適合は要確認。
-
-### BC5｜BCG X：2028 DS個別求人
-
-- [原資料](https://careers.bcg.com/global/en/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan)｜公式個別求人｜公開日は特定せず
-- 確認事項：確認した2028 Data Scientist求人はfilled。
-- 限界：個別枠の終了。BCG全体・全DS枠の募集終了とは断定しない。
-
-### BC6｜BCG TDA Japan
-
-- [原資料](https://careers.bcg.com/jp/ja/japan-technology-and-digital-advantage)｜公式日本職務紹介｜公開日は特定せず
-- 確認事項：デジタル戦略・変革と専門家の連携を紹介。TDAの戦略コンサルとPlatinionの技術専門職は異なる。
-
-### BC7｜BCG：国内大学・大学院2028新卒
-
-- [原資料](https://careers.bcg.com/jp/ja/japan-new-grads-2028)｜公式新卒採用｜公開日は特定せず
-- 確認事項：2027年9月～2028年8月卒業予定の国内大学・大学院生を対象とする経営コンサルタント職。プレエントリー案内あり。
-- 限界：登録と本選考受付は別。TDA専属採用・配属確約は確認できず。
-
-### BC8｜BCG：Spring Internship 60380
-
-- [原資料](https://careers.bcg.com/jp/ja/job/60380)｜公式採用・取得不一致｜公開日は特定せず
-- 確認事項：公式検索結果には2028/2029向け春インターン案内があるが、直接取得では本文・締切を取得できず。
-- 限界：現在の受付・日程は未確認として記録し、終了とも受付中とも断定しない。
-
-### MK1｜McKinsey Japan：Digitalの職務
-
-- [原資料](https://www.mckinsey.com/jp/careers/role-descriptions/careers-in-digital)｜公式日本職務紹介｜公開日は特定せず
-- 確認事項：Digitalの経営・事業変革に、コンサルタント、プロダクト、デザイン、DS・DE等の役割が関わる。
-- 限界：国内BAからDigitalへの配属や専門職直結は保証されない。
-
-### MK2｜QuantumBlack：支援方法
-
-- [原資料](https://www.mckinsey.com/capabilities/quantumblack/our-approach)｜公式組織・サービス｜公開日は特定せず
-- 確認事項：ビジネスと技術の多職種チーム、技術中立の構成、モデル導入・監視、顧客の組織・能力構築を説明。
-
-### MK3｜東芝テック：Gyainamicsと小売データ事業
-
-- [原資料](https://www.mckinsey.com/industries/industrials/how-we-help-clients/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia)｜公式国内顧客事例｜公開日は特定せず
-- 確認事項：東芝テックがハード中心から小売データ事業へ進む構想を、McKinsey・QuantumBlack・NVIDIAと新会社・開発チーム・AI推奨等につなげる。
-- 限界：主な範囲は事業・業務。全社改革完了の根拠にはしない。
-
-### MK4｜Rewired in action：EGA（PDF pp.10–11）
-
-- [原資料](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/how%20we%20help%20clients/rewired%20in%20action/pdfs/rewired-in-action-case-collection-2025.pdf)｜公式海外顧客事例集｜公開：2025
-- 確認事項：EGAでQuantumBlackとデジタルファクトリーを設け、生産・物流・調達等へAI施策を展開。CoE・ガバナンス・ロードマップ・人材育成を組み合わせる。
-- 限界：グローバル案件。日本の新卒本人の参加や全社全課題の完了を証明しない。
-
-### MK5｜McKinsey：2028国内大学新卒
-
-- [原資料](https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028)｜公式新卒採用｜公開日は特定せず
-- 確認事項：国内2027年9月～2028年8月卒の学士・修士が対象、Business Analyst入口。28卒2回の選考の最終締切は2026年9月15日。受付終了。
-- 限界：総合入口に募集文言が残っても、対象年度の具体日程を優先。博士は別入口。
-
-### BA1｜Bain：Applied Technology & AIの仕事
-
-- [原資料](https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/)｜公式職務紹介｜公開日は特定せず
-- 確認事項：コンサルティングと技術の専門チームによるAI支援を紹介。
-- 限界：日本の新卒が専門職へ直接入る募集の証明ではない。
-
-### BA2｜Bain：Targetの生成AI開発・展開
-
-- [原資料](https://www.bain.com/client-results/ai/target/)｜公式海外顧客事例｜公開日は特定せず
-- 確認事項：戦略・プロダクト・DS・フルスタックエンジニアが共同し、AI活用戦略から従業員支援、商品コンテンツ、顧客向け機能の開発・公開まで実施。
-- 限界：企業横断プログラムの根拠。全組織の変革完了や日本担当を意味しない。
-
-### BA3｜Bain日本パートナー：AI導入の実例
-
-- [原資料](https://special.nikkeibp.co.jp/atclh/ONB/25/genai0221/bain/)｜広告・本人登壇発言｜公開日は特定せず
-- 確認事項：日本でも100社超の大企業案件へ対応したとの発言。営業等で業務の思考過程をプロンプトフローへ実装した例を説明。
-- 限界：広告記事で顧客匿名。各例の国・担当組織の詳細は不明。成果は登壇者の自己申告。
-
-### BA4｜Bain東京：国内大学・大学院新卒
-
-- [原資料](https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/)｜公式新卒採用｜公開日は特定せず
-- 確認事項：大学・大学院2027年4月～2028年8月卒、2028年4月／9月入社。国内冬選考は2026年10月7日13:00締切で終了。
-- 限界：一般AC入口。AT&AI専門職・AI案件の配属確約なし。
-
-### DE1｜デロイト：AI&Data
-
-- [原資料](https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html)｜公式サービス｜公開日は特定せず
-- 確認事項：AI・データ戦略とアーキテクチャ、実装・利活用等を提供。技術記事・具体案件と合わせて評価。
-
-### DE2｜デロイト日本：Deployment Strategist×FDE
-
-- [原資料](https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html)｜公式体制発表｜公開：2026-04-30
-- 確認事項：経営価値・優先順位を担うDeployment Strategistと、アプリ・データ・基盤等へ入るFDEを接続する体制を発表。
-- 限界：体制・育成の発表であり、顧客案件の完了実績や新卒専用採用枠ではない。DSはData Scientistではない。
-
-### DE3｜デロイト：SOMPOのAIモデルテスト
-
-- [原資料](https://www.deloitte.com/jp/ja/services/consulting/perspectives/ai-model-test.html)｜公式国内顧客対談｜公開：2026-10-07
-- 確認事項：SOMPOグループのAIガバナンスの下で、モデルテスト・検証・改善等の実務を支援。
-- 限界：ガバナンスと品質評価の案件。AIシステム全体の構築や全社事業改革を完了したとはしない。
-
-### DE4｜Deloitte：Thomson ReutersのAI/ML基盤
-
-- [原資料](https://www.deloitte.com/us/en/what-we-do/case-studies/faster-iteration-or-tighter-governance-an-innovative-ai-ml-platform-supports-both.html)｜公式海外顧客事例｜公開日は特定せず
-- 確認事項：顧客の全社的AI/ML利用に対し、アプリ開発とMLOpsの専門性を組み合わせモデル監視・統制の基盤を構築。顧客チームと協働して要望・設計を調整。
-- 限界：US事例。全社AI利用基盤の実績であり、事業ポートフォリオ変革の証明ではない。
-
-### DE5｜デロイト：2028コンサルティング新卒
-
-- [原資料](https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html)｜公式新卒採用｜公開日は特定せず
-- 確認事項：国内2028本選考を受付中。学士・修士・博士、2028年4月／10月入社、東京。公開国内締切なし。
-- 限界：コンサルタント職入口。AI&DataやDS/FDEの配属保証なし。海外BCF締切を国内期限に転記しない。
-
-### PW1｜PwC：デジタルコンサルタント新卒の仕事
-
-- [原資料](https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html)｜公式新卒職務｜公開日は特定せず
-- 確認事項：AI&アナリティクスでAI戦略・組織設計、各種分析・生成AI・AIエージェント、MLOps/LLMOpsを掲示。
-- 限界：デジタル職の複数専門領域の一つ。AI配属確約と同一視しない。
-
-### PW2｜PwC×東電PG：課題抽出から生成AI開発
-
-- [原資料](https://www.pwc.com/jp/ja/knowledge/column/dataanalytics/nikkeibusiness10.html)｜公式国内顧客対談｜公開：2025-08-18
-- 確認事項：業務コンサルとDSが共同。全社のカイゼン×デジタル方針の下、共通AIの全社員展開と10件の業務PoC、点検資料検索等を開発。9割が本番導入へ進む予定。
-- 限界：PoC9割を実装完了率としない。共通AI配布と各部門の業務改革は別に数える。
-
-### PW3｜PwC：28卒デジタル職最終募集
-
-- [原資料](https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html)｜公式新卒採用｜公開日は特定せず
-- 確認事項：国内DC本選考最終募集を受付中。ESと職種登録2027年1月8日23:59 JST、Web適性検査1月11日23:59 JST。2027年10月・2028年4月／10月入社。
-- 限界：BC職の11月15日締切や海外選考と区別。締切は応募時に再確認。
-
-### EY1｜EY AI&データ：事業戦略プロセスをAI化
-
-- [原資料](https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-17/)｜公式国内匿名顧客事例｜公開日は特定せず
-- 確認事項：大手サービス企業で事業開発の意思決定を生成AI/NLPで高度化。ビジネスと実装力を持つ少人数AI&データチームが構想・PoC・要件策定を担当。
-- 限界：本格実装・高度化は今後の予定。全社案件ではなく事業開発部門。
-
-### EY2｜EY FS TC：生命保険のリスク検知AI
-
-- [原資料](https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-21/)｜公式国内匿名顧客事例｜公開日は特定せず
-- 確認事項：国内生保のDB・Power BI整備からリスク予測AI PoCへ継続。業務メンバーが仮説・評価観点、AI&Data専門家が特徴量・モデル・精度評価等を支援。
-- 限界：④は継続伴走の根拠。予測AIの全社本番稼働の証明ではない。
-
-### EY3｜EY：ヘルスケア検査企業のAI・自動化
-
-- [原資料](https://www.ey.com/ja_jp/services/technology/how-one-health-care-testing-company-gets-results-with-ai)｜公式海外匿名顧客事例｜公開日は特定せず
-- 確認事項：経営課題からEYとUiPathが協働し、事務から検体処理・結果報告等へAI/自動化を広げる。導入後の継続的な効果を公式事例として報告。
-- 限界：海外案件。日本のAI&Data部署の担当や全ての効果のAI単独寄与は不明。
-
-### EY4｜EY Japan×味の素：AI-Readyデータガバナンス
-
-- [原資料](https://www.ey.com/ja_jp/newsroom/2026/06/ey-japan-news-release-2026-06-10-02)｜公式国内プレスリリース｜公開：2026-06-10
-- 確認事項：2026年1～3月にデータ・AI利活用のルール、標準等を支援し、非構造化データ活用に向けて整備。
-- 限界：主にリスクコンサルの根拠。AI&Dataの開発実績や全社実装完了に転用しない。
-
-### EY5｜EYSC：2028新卒国内本選考
-
-- [原資料](https://www.eysc.jp/recruit/new_graduate/entry/new/index.html)｜公式新卒採用｜公開日は特定せず
-- 確認事項：国内28本選考を受付中。テクノロジーコンサルタント等の職種あり、学士・修士・博士が対象。日程詳細はMyPage。
-- 限界：Tech職選択とAI&Data／FS AI配属は別。デジタルエンジニアも別職種。
-
-### KP1｜KPMG：DXA Data & AI
-
-- [原資料](https://recruit.kpmg-consulting.jp/info/dxa)｜公式組織・経験者職務｜公開日は特定せず
-- 確認事項：全社Data&AI戦略、データ構成設計、AIモデル設計・運用・評価を掲示。生成AIタスクフォースは部門横断で業務改革・開発・UX等を扱う。
-- 限界：新卒部署別募集ではない。バーチャル組織の存在だけで個人の参加を保証しない。
-
-### KP2｜KPMG×UACJ：AI transformation支援
-
-- [原資料](https://kpmg.com/jp/ja/media/press-releases/2026/06/kc-uacj-aitransformation.html)｜公式国内プレスリリース｜公開：2026-06-29
-- 確認事項：経営方針に基づく生産性改善とAI推進体制、共通ツール、個別業務実装を支援。
-- 限界：全社改革を志向した進行案件。完了としない。
-
-### KP3｜KPMG×UACJ：実用化と定着の課題
-
-- [原資料](https://kpmg.com/jp/ja/insights/2026/08/case-uacj.html)｜公式転載の顧客対談・広告｜公開：2026-08
-- 確認事項：8ユースケース中7件が実用段階。利用定着に課題がありヒアリング等を伴走。意図的に部分最適から開始し全体最適へ移る計画を明記。
-- 限界：効果は見込みを含む。全社改革達成としない。元記事は2026年6月29日の記事広告。
-
-### KP4｜KPMG：国内新卒コンサルタント募集
-
-- [原資料](https://recruit.kpmg-consulting.jp/new-graduate/job-description)｜公式新卒採用｜公開日は特定せず
-- 確認事項：2026年4月以降卒業予定の大学・大学院生対象、国内コンサルタント入口を確認。東京・大阪。
-- 限界：28卒専用の現在受付・締切・DXA配属は公開頁では未確認。
-
-### AC1｜Accenture：28卒5職種
-
-- [原資料](https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level)｜公式新卒採用・職務｜公開日は特定せず
-- 確認事項：28卒入口にAI＆Dataアーキテクト、ビジネスコンサルタント等を掲載しエントリー案内。AI職は課題分析・技術選定・構成・実装運用、BCは戦略に連動した変革を支援。
-- 限界：RDEは独立した第6職種ではない。案件・若手の①責任範囲は要確認。公開締切なし。
-
-### AC2｜Accenture×明治安田：全社DXプログラム
-
-- [原資料](https://newsroom.accenture.jp/jp/news/2025/release-20250116)｜公式国内プレスリリース｜公開：2025-01-16
-- 確認事項：2030年3月までの全社横断DXプログラムを開始。生成AI等の実装と人材育成を組み合わせる。
-- 限界：開始発表であり、全社改革の成果完了ではない。
-
-### AC3｜明治安田：パートナーシップの目的と担当
-
-- [原資料](https://www.meijiyasuda.co.jp/profile/news/release/2024/pdf/20250116_01.pdf)｜顧客公式プレスリリース｜公開：2025-01-16
-- 確認事項：専担組織の下で全社横断の検討・開発・業務実装と実践的人材育成を一体推進。投資・人材の数値は計画。
-- 限界：顧客確認を補強。Accentureの各新卒職種の担当内訳は記載なし。
-
-### AC4｜明治安田：第78回総代会のAI進捗
-
-- [原資料](https://www.meijiyasuda.co.jp/profile/corporate_info/mutual/78/qa.html)｜顧客公式進捗｜公開日は特定せず
-- 確認事項：Accentureとの5年間の契約の下で生成AI等の本格的な業務実装を進めていると説明。
-- 限界：実装進行の補強。全社変革の完了報告ではない。
-
-### NR1｜NRI：AI戦略コンサルタントの職務
-
-- [原資料](https://progres07.jposting.net/pgnri/u/job.phtml?job_code=465)｜公式経験者職務｜公開日は特定せず
-- 確認事項：AI戦略コンサルティング部で新事業・全社業務改革・意思決定・人的資本などを支援。全社データ/AI戦略の立案・実行、AI業務構築を掲示。
-- 限界：経験者求人を新卒直接応募口にしない。
-
-### NR2｜NRI：AI Field Transformer
-
-- [原資料](https://www.nri.com/jp/news/newsrelease/20260803_1.html)｜公式サービス・体制発表｜公開：2026-08-03
-- 確認事項：経営・AI戦略と現場での実装・運用を接続するAFTの提供を発表。
-- 限界：新サービスであり、実案件の達成実績とは別。
-
-### NR3｜NRI：2025年度上期決算説明会・説明付き
-
-- [原資料](https://ir.nri.com/jp/ir/library/financial/main/00/teaserItems1/01113/linkList/02/link/20251030_financialresultspresentaionwithnote.pdf)｜公式IR・実績集約｜公開：2025-10-30
-- 確認事項：AIの本番業務適用案件が増加し、全社AI CoE・ビジネス変革・基盤・統制・人材等の要求へコンサルとソリューションが横断対応すると説明。
-- 限界：匿名の集約開示。特定顧客で全社変革を完了した裏付けは乏しい。
-
-### NR4｜NRI：AI CoEの部門横断連携
-
-- [原資料](https://www.nri.com/jp/media/journal/20250818.html)｜公式組織・社内実践｜公開：2025-08-18
-- 確認事項：AI戦略コンサルティング部とAIソリューション推進部の責任者が、社内の情報共有・相談・専門家接続を説明。
-- 限界：社内の組織環境の根拠。顧客全社変革の実績には数えない。
-
-### NR5｜NRI：2028新卒サイト
-
-- [原資料](https://working.nri.co.jp/recruit/2028/)｜公式新卒採用・インターン｜公開日は特定せず
-- 確認事項：28卒の国内入口と経営戦略コンサルティングの冬期インターンあり。2026年9月30日正午に応募締切済み。
-- 限界：インターンと本選考を区別。本選考受付・AI戦略部署の配属確約は未確認。
-
-### NR6｜NRI：AI経営改革・実装サービス
-
-- [原資料](https://www.nri.com/jp/service/theme/ai/ai_management_reform.html)｜公式サービス｜公開日は特定せず
-- 確認事項：AI戦略、AI CoE、データ、テーマ選定、PoC、開発、業務実装、運用改善を提供。
-- 限界：サービス提供範囲。個別の全社改革実績と区別。
-
-### IG1｜IGPI DI：事業内容
-
-- [原資料](https://igpi-di.co.jp/business/)｜公式サービス｜公開日は特定せず
-- 確認事項：AI・デジタルの影響評価、全社戦略、組織構築・運営、全社業務再設計、AIアルゴリズムの自社開発・共同研究を支援。
-- 限界：サービス説明と個別成果を分ける。採用リンクはIGPI共通サイトへ接続。
-
-### IG2｜IGPI：国内新卒選考プロセス
-
-- [原資料](https://www.igpi.co.jp/recruit/igpi/process/)｜公式新卒採用｜公開日は特定せず
-- 確認事項：公開募集要項は2027年度、大学・大学院卒、東京のコンサルタント入口。
-- 限界：2028要項とIGPI DIへの新卒接続は未確認。グループ採用の存在だけでDI部門新卒を保証しない。
-
-### OW1｜Oliver Wyman：Quotient
-
-- [原資料](https://www.oliverwyman.com/our-expertise/capabilities/digital/ai-consulting-quotient.html)｜公式サービス・匿名事例紹介｜公開日は特定せず
-- 確認事項：戦略・業界知識とAI実装を組み合わせ、Agent Factory等を紹介。
-- 限界：現在取得版と検索インデックスで匿名事例表示に差がある。東京新卒とQuotientとの接続が未確認。
-
-### OW2｜Oliver Wyman日本：新卒入口
-
-- [原資料](https://www.oliverwyman.com/jp/careers/entry-level.html)｜公式日本採用｜公開日は特定せず
-- 確認事項：日本のEntry-level採用から公式採用システムへ案内。
-- 限界：特定AI専門職の日本新卒募集とは別。
-
-### OW3｜Oliver Wyman：March2028 Tokyo求人
-
-- [原資料](https://jp.linkedin.com/jobs/view/oliver-wyman-entry-level-consultant-march-2028-tokyo-at-oliver-wyman-4482816717)｜企業名義の外部求人｜公開日は特定せず
-- 確認事項：東京2028 Entry-level Consultant、国内大学・大学院2027年7月～2028年3月卒、11月25日23:59 JST締切との掲載。
-- 限界：公式採用システムの同一募集本文との突合未完。主一覧の確定期限には採用しない。
-
-### MR1｜MRI：キリンの経営判断支援AI
-
-- [原資料](https://dx.mri.co.jp/cases/flying-butterfly-ai/)｜公式国内顧客事例｜公開日は特定せず
-- 確認事項：経営企画の意思決定を支えるAIを共同構築し運用へ進める事例。
-- 限界：経営に近いテーマでも、対象は経営企画等のプロセス。全社業務・組織変革の証明とは分ける。
-
-### MR2｜MRI：AIファーストコンサルティング
-
-- [原資料](https://dx.mri.co.jp/service/ai-first-consulting/)｜公式サービス｜公開日は特定せず
-- 確認事項：AIを前提とする変革構想から実装・定着を支援。
-- 限界：個別顧客の全社改革の完了実績とは別。
-
-### FO1｜Fortience：大阪国際がんセンターのAI導入
-
-- [原資料](https://www.fortience.com/company/newsroom/20260219/)｜公式国内プレスリリース｜公開：2026-02-19
-- 確認事項：病院全体の生成AI活用体制・ガバナンス・教育等のプロジェクト開始を発表。
-- 限界：開発の具体的参加・技術判断と、その後の全社改革達成は未確認。
-
-### KA1｜Kearney：AI安全性評価環境の支援
-
-- [原資料](https://prtimes.jp/main/html/rd/p/000000106.000046861.html)｜企業公式配信プレスリリース｜公開：2026-06-25
-- 確認事項：政府のAI安全性評価環境について構想・検証等を支援。
-- 限界：企業全社変革・実装運用を結んだ実例ではない。
-
-### NT1｜NTTデータ経営研究所：AIと香りの共創
-
-- [原資料](https://www.nttdata-strategy.com/newsrelease/news/250808-01/)｜公式実証発表｜公開：2025-08-08
-- 確認事項：NIU等の技術共創・実証を発表。
-- 限界：技術共創の例で、顧客全社のAI変革とは異なる。
-
-### ZS1｜ZS：Technology Solutions Associate Japan
-
-- [原資料](https://jobs.zs.com/jobs/62610?lang=en-us)｜公式日本求人｜公開日は特定せず
-- 確認事項：東京／大阪のTechnology Solutions Associateを掲載。データ・AI・企業技術支援を含む。
-- 限界：28卒対象と①への軸足、全社変革における本人の接続は未確認。
-
-### AL1｜AlixPartners：Agentic AIの顧客支援
-
-- [原資料](https://www.alixpartners.com/what-we-do/case-studies/agentic-ai-unlocks-400mplus-in-identified-cost-to-serve-savings/)｜公式海外匿名顧客事例｜公開日は特定せず
-- 確認事項：コスト領域で実稼働のエージェントAIを用い削減機会を特定。
-- 限界：特定額は実現済み削減ではない。日本の大学院新卒入口を確認できず。
-
-### FAS1｜KPMG FAS：2028新卒AIX
-
-- [原資料](https://recruit.kpmg-fas.jp/recruitinginformation-g.html)｜公式新卒採用｜公開日は特定せず
-- 確認事項：AIXの主対象はFAS内のM&A・戦略業務等のAI変革。
-- 限界：顧客企業の全社AI変革を担う希望とは異なる。KPMG Japan AiX横断体制と混同しない。
-
-### RB1｜Roland Berger：フィジカルAI論考
-
-- [原資料](https://www.rolandberger.com/ja/Insights/Publications/日本企業がフィジカルAIをPoCで終わらせない4つの条件.html)｜公式知見記事｜公開日は特定せず
-- 確認事項：フィジカルAIの構想と実装・定着の論点を扱う。
-- 限界：知見記事のみで企業全社変革の担当実績を確定しない。
-
-### AD1｜ADL：NEDOの画像認識技術関連資料
-
-- [原資料](https://www.nedo.go.jp/content/800024336.pdf)｜発注者公式実証資料｜公開日は特定せず
-- 確認事項：小売等でのAI技術実証への関わりを確認。
-- 限界：個社の全社変革と国内新卒の技術協働環境は別途未確認。
-
-### IG3｜IGPI：データサイエンス組織を自走させる
-
-- [原資料](https://www.igpi.co.jp/case/case_01/)｜公式匿名顧客事例｜公開日は特定せず
-- 確認事項：顧客のデジタル組織に入り、全社データ棚卸し、案件設計、技術環境選択・整備、共同分析・AI開発、育成・現場調整を実施。構築AIは現場が業務へ組み込み運用。
-- 限界：全社DXの機運を高めた事例。全社全業務の変革完了ではない。顧客匿名・公開日不明。旧URLから現行URLを再発見。
-
-### IG4｜IGPI：川上登福氏の役割・案件
-
-- [原資料](https://www.igpi.co.jp/member/kawakami-takayoshi/)｜公式担当者紹介｜公開日は特定せず
-- 確認事項：デジタル・AIの戦略立案から実行を支援し、当該DS組織立ち上げ事例に関与すると明記。
-- 限界：幹部の担当と新卒の担当・配属を分ける。
+# 出典台帳
+
+確認日：2026年11月6日。125参照レコード・116固有URL。重複URLは別の確認観点を保持。公式案件・サービス・職務・新卒募集・経験者募集・自社実践を区別。
+
+- **DI1** [DI：AI×経営・事業変革](https://www.dreamincubator.co.jp/service/theme/ai/)｜公式サービス
+  - 確認事項：全社視点のAI活用、業務改革の実装、事業戦略・新規事業等を支援。サービスの提供範囲であり、実績はDI2で別確認。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
+- **DI2** [DI FY2026 IR：Project Case②（PDF p.10）](https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS-1.pdf)｜公式IR・匿名案件｜2026-05-15
+  - 確認事項：総合IT企業の知財部門でエージェントAIの企画・開発・導入を支援し部門展開中。別のソフトウェア企業では開発以外の営業・企画・人事等を調査し、AI適用と組織・人員再編を提案、2年間の改革を決定。
+  - 限界：前者は部門案件。後者の生産性向上は試算で、全社改革の完了や運用成果の証明ではない。
+- **DI3** [DI：T&Aビジネスプロデューサーの職務](https://www.dreamincubator.co.jp/careers/entry/midcareers/)｜公式経験者職務
+  - 確認事項：T&Aの職務をDX/IT戦略・企画構想から実行・実装支援、経営課題解決、新規デジタル事業の創出と説明。
+  - 限界：仕事内容の根拠に使用。経験者要件は新卒に適用しない。
+- **DI4** [DI：2028冬選考](https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/winter/)｜公式新卒採用
+  - 確認事項：国内28卒、ビジネスプロデュース／Technology & Amplifyの2部門を募集。大学・大学院卒、2028年4月／10月入社。2026年10月16日12:00締切、受付終了。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
+- **GL1** [グロービング：完成車OEMの全社AI戦略と製造AI本番実装](https://globe-ing.com/case-study/gs-02/)｜公式匿名顧客事例
+  - 確認事項：経営層と全社AI戦略・ガバナンス・組織を設計し、製造AIモデル・国内外工場のデータ基盤・MLOpsを本番実装。横展開計画と改善チームを整備。
+  - 限界：顧客匿名・一部抽象化。実装成果は製造領域で、全社全領域の改革完了ではない。
+- **GL2** [グロービングCTO：AIとコンサル部門の協働](https://globe-ing.com/recruit/people/keisuke-ueda/)｜公式社員紹介
+  - 確認事項：AI事業本部とコンサル事業本部の共同案件にエンジニアが参加し開発・実装。複数の基盤モデルを参照。自社プロダクト開発も行う。
+  - 限界：役員の職歴を新卒の担当保証にしない。自社製品案件の比率と新卒配属は未公表。
+- **GL3** [グロービング：新卒採用募集一覧](https://globe-ing-recruit.snar.jp/index.aspx)｜公式採用システム
+  - 確認事項：2027年4月～2028年9月卒業予定の大学・大学院生を対象に、戦略コンサルタント／AIコンサルタント・デジタルコンサルタントを受付中。東京勤務。公開締切は確認できず。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
+- **GL4** [グロービング：仕事紹介](https://globe-ing.com/recruit/work/?tab=ai)｜公式職務紹介
+  - 確認事項：戦略・変革とAI実装を扱う仕事を紹介。AI側にはエンジニア兼務・自社製品の役割もあり、職務ごとの確認が必要。
+  - 限界：経験者の年数要件と新卒募集を混同しない。
+- **BC1** [BCG X Japan：仕事と協働](https://careers.bcg.com/jp/ja/japan-bcgx)｜公式日本職務紹介
+  - 確認事項：BCGの専門家と協働し経営課題を扱うDS、AIエンジニア、AIプロダクトマネジャー等を紹介。DSはモデルの設計・構築を担う。
+  - 限界：職種ごとに新卒入口は異なる。全掲載職種の新卒採用を意味しない。
+- **BC2** [BCG：PHOENIXのAI変革](https://www.bcg.com/about/client-impact/how-gen-ai-transformed-operations-for-pharma-wholesale-leader)｜公式海外顧客事例
+  - 確認事項：部門横断の発想・検証・MVPから拡大までを支援。調達・物流・顧客対応等のAIを運用へ進め、複数市場へ展開。技術側にPlatinion専門家が関与。
+  - 限界：BCG全体・Platinionの案件。BCG X Japan DSの直接担当実績と同一視しない。
+- **BC3** [BCG＋BCG X：New York Life](https://www.bcg.com/x/mark-your-moment/empowering-a-business-leader-through-generative-ai)｜公式海外顧客紹介
+  - 確認事項：BCGとBCG Xが共同で生成AIと変革ガバナンスを支援すると明記。
+  - 限界：本文は短く動画中心。個別成果や担当範囲の詳細は十分抽出できず、協働の補助根拠に限定。
+- **BC4** [BCG X：2028新卒案内](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)｜公式日本新卒採用
+  - 確認事項：2028向けDS・AI Engineerの入口を案内。大学院の関連分野等の要件あり。
+  - 限界：見出しと本文の卒業対象期間に相違あり。本人の学位・関連分野適合は要確認。
+- **BC5** [BCG X：2028 DS個別求人](https://careers.bcg.com/global/en/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan)｜公式個別求人
+  - 確認事項：確認した2028 Data Scientist求人はfilled。
+  - 限界：個別枠の終了。BCG全体・全DS枠の募集終了とは断定しない。
+- **BC6** [BCG TDA Japan](https://careers.bcg.com/jp/ja/japan-technology-and-digital-advantage)｜公式日本職務紹介
+  - 確認事項：デジタル戦略・変革と専門家の連携を紹介。TDAの戦略コンサルとPlatinionの技術専門職は異なる。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
+- **BC7** [BCG：国内大学・大学院2028新卒](https://careers.bcg.com/jp/ja/japan-new-grads-2028)｜公式新卒採用
+  - 確認事項：2027年9月～2028年8月卒業予定の国内大学・大学院生を対象とする経営コンサルタント職。プレエントリー案内あり。
+  - 限界：登録と本選考受付は別。TDA専属採用・配属確約は確認できず。
+- **BC8** [BCG：Spring Internship 60380](https://careers.bcg.com/jp/ja/job/60380)｜公式採用・取得不一致
+  - 確認事項：公式検索結果には2028/2029向け春インターン案内があるが、直接取得では本文・締切を取得できず。
+  - 限界：現在の受付・日程は未確認として記録し、終了とも受付中とも断定しない。
+- **MK1** [McKinsey Japan：Digitalの職務](https://www.mckinsey.com/jp/careers/role-descriptions/careers-in-digital)｜公式日本職務紹介
+  - 確認事項：Digitalの経営・事業変革に、コンサルタント、プロダクト、デザイン、DS・DE等の役割が関わる。
+  - 限界：国内BAからDigitalへの配属や専門職直結は保証されない。
+- **MK2** [QuantumBlack：支援方法](https://www.mckinsey.com/capabilities/quantumblack/our-approach)｜公式組織・サービス
+  - 確認事項：ビジネスと技術の多職種チーム、技術中立の構成、モデル導入・監視、顧客の組織・能力構築を説明。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
+- **MK3** [東芝テック：Gyainamicsと小売データ事業](https://www.mckinsey.com/industries/industrials/how-we-help-clients/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia)｜公式国内顧客事例
+  - 確認事項：東芝テックがハード中心から小売データ事業へ進む構想を、McKinsey・QuantumBlack・NVIDIAと新会社・開発チーム・AI推奨等につなげる。
+  - 限界：主な範囲は事業・業務。全社改革完了の根拠にはしない。
+- **MK4** [Rewired in action：EGA（PDF pp.10–11）](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/how%20we%20help%20clients/rewired%20in%20action/pdfs/rewired-in-action-case-collection-2025.pdf)｜公式海外顧客事例集｜2025
+  - 確認事項：EGAでQuantumBlackとデジタルファクトリーを設け、生産・物流・調達等へAI施策を展開。CoE・ガバナンス・ロードマップ・人材育成を組み合わせる。
+  - 限界：グローバル案件。日本の新卒本人の参加や全社全課題の完了を証明しない。
+- **MK5** [McKinsey：2028国内大学新卒](https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028)｜公式新卒採用
+  - 確認事項：国内2027年9月～2028年8月卒の学士・修士が対象、Business Analyst入口。28卒2回の選考の最終締切は2026年9月15日。受付終了。
+  - 限界：総合入口に募集文言が残っても、対象年度の具体日程を優先。博士は別入口。
+- **BA1** [Bain：Applied Technology & AIの仕事](https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/)｜公式職務紹介
+  - 確認事項：コンサルティングと技術の専門チームによるAI支援を紹介。
+  - 限界：日本の新卒が専門職へ直接入る募集の証明ではない。
+- **BA2** [Bain：Targetの生成AI開発・展開](https://www.bain.com/client-results/ai/target/)｜公式海外顧客事例
+  - 確認事項：戦略・プロダクト・DS・フルスタックエンジニアが共同し、AI活用戦略から従業員支援、商品コンテンツ、顧客向け機能の開発・公開まで実施。
+  - 限界：企業横断プログラムの根拠。全組織の変革完了や日本担当を意味しない。
+- **BA3** [Bain日本パートナー：AI導入の実例](https://special.nikkeibp.co.jp/atclh/ONB/25/genai0221/bain/)｜広告・本人登壇発言
+  - 確認事項：日本でも100社超の大企業案件へ対応したとの発言。営業等で業務の思考過程をプロンプトフローへ実装した例を説明。
+  - 限界：広告記事で顧客匿名。各例の国・担当組織の詳細は不明。成果は登壇者の自己申告。
+- **BA4** [Bain東京：国内大学・大学院新卒](https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/)｜公式新卒採用
+  - 確認事項：大学・大学院2027年4月～2028年8月卒、2028年4月／9月入社。国内冬選考は2026年10月7日13:00締切で終了。
+  - 限界：一般AC入口。AT&AI専門職・AI案件の配属確約なし。
+- **DE1** [デロイト：AI&Data](https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html)｜公式サービス
+  - 確認事項：AI・データ戦略とアーキテクチャ、実装・利活用等を提供。技術記事・具体案件と合わせて評価。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
+- **DE2** [デロイト日本：Deployment Strategist×FDE](https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html)｜公式体制発表｜2026-04-30
+  - 確認事項：経営価値・優先順位を担うDeployment Strategistと、アプリ・データ・基盤等へ入るFDEを接続する体制を発表。
+  - 限界：体制・育成の発表であり、顧客案件の完了実績や新卒専用採用枠ではない。DSはData Scientistではない。
+- **DE3** [デロイト：SOMPOのAIモデルテスト](https://www.deloitte.com/jp/ja/services/consulting/perspectives/ai-model-test.html)｜公式国内顧客対談｜2026-10-07
+  - 確認事項：SOMPOグループのAIガバナンスの下で、モデルテスト・検証・改善等の実務を支援。
+  - 限界：ガバナンスと品質評価の案件。AIシステム全体の構築や全社事業改革を完了したとはしない。
+- **DE4** [Deloitte：Thomson ReutersのAI/ML基盤](https://www.deloitte.com/us/en/what-we-do/case-studies/faster-iteration-or-tighter-governance-an-innovative-ai-ml-platform-supports-both.html)｜公式海外顧客事例
+  - 確認事項：顧客の全社的AI/ML利用に対し、アプリ開発とMLOpsの専門性を組み合わせモデル監視・統制の基盤を構築。顧客チームと協働して要望・設計を調整。
+  - 限界：US事例。全社AI利用基盤の実績であり、事業ポートフォリオ変革の証明ではない。
+- **DE5** [デロイト：2028コンサルティング新卒](https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html)｜公式新卒採用
+  - 確認事項：国内2028本選考を受付中。学士・修士・博士、2028年4月／10月入社、東京。公開国内締切なし。
+  - 限界：コンサルタント職入口。AI&DataやDS/FDEの配属保証なし。海外BCF締切を国内期限に転記しない。
+- **PW1** [PwC：デジタルコンサルタント新卒の仕事](https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html)｜公式新卒職務
+  - 確認事項：AI&アナリティクスでAI戦略・組織設計、各種分析・生成AI・AIエージェント、MLOps/LLMOpsを掲示。
+  - 限界：デジタル職の複数専門領域の一つ。AI配属確約と同一視しない。
+- **PW2** [PwC×東電PG：課題抽出から生成AI開発](https://www.pwc.com/jp/ja/knowledge/column/dataanalytics/nikkeibusiness10.html)｜公式国内顧客対談｜2025-08-18
+  - 確認事項：業務コンサルとDSが共同。全社のカイゼン×デジタル方針の下、共通AIの全社員展開と10件の業務PoC、点検資料検索等を開発。9割が本番導入へ進む予定。
+  - 限界：PoC9割を実装完了率としない。共通AI配布と各部門の業務改革は別に数える。
+- **PW3** [PwC：28卒デジタル職最終募集](https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html)｜公式新卒採用
+  - 確認事項：国内DC本選考最終募集を受付中。ESと職種登録2027年1月8日23:59 JST、Web適性検査1月11日23:59 JST。2027年10月・2028年4月／10月入社。
+  - 限界：BC職の11月15日締切や海外選考と区別。締切は応募時に再確認。
+- **EY1** [EY AI&データ：事業戦略プロセスをAI化](https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-17/)｜公式国内匿名顧客事例
+  - 確認事項：大手サービス企業で事業開発の意思決定を生成AI/NLPで高度化。ビジネスと実装力を持つ少人数AI&データチームが構想・PoC・要件策定を担当。
+  - 限界：本格実装・高度化は今後の予定。全社案件ではなく事業開発部門。
+- **EY2** [EY FS TC：生命保険のリスク検知AI](https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-21/)｜公式国内匿名顧客事例
+  - 確認事項：国内生保のDB・Power BI整備からリスク予測AI PoCへ継続。業務メンバーが仮説・評価観点、AI&Data専門家が特徴量・モデル・精度評価等を支援。
+  - 限界：④は継続伴走の根拠。予測AIの全社本番稼働の証明ではない。
+- **EY3** [EY：ヘルスケア検査企業のAI・自動化](https://www.ey.com/ja_jp/services/technology/how-one-health-care-testing-company-gets-results-with-ai)｜公式海外匿名顧客事例
+  - 確認事項：経営課題からEYとUiPathが協働し、事務から検体処理・結果報告等へAI/自動化を広げる。導入後の継続的な効果を公式事例として報告。
+  - 限界：海外案件。日本のAI&Data部署の担当や全ての効果のAI単独寄与は不明。
+- **EY4** [EY Japan×味の素：AI-Readyデータガバナンス](https://www.ey.com/ja_jp/newsroom/2026/06/ey-japan-news-release-2026-06-10-02)｜公式国内プレスリリース｜2026-06-10
+  - 確認事項：2026年1～3月にデータ・AI利活用のルール、標準等を支援し、非構造化データ活用に向けて整備。
+  - 限界：主にリスクコンサルの根拠。AI&Dataの開発実績や全社実装完了に転用しない。
+- **EY5** [EYSC：2028新卒国内本選考](https://www.eysc.jp/recruit/new_graduate/entry/new/index.html)｜公式新卒採用
+  - 確認事項：国内28本選考を受付中。テクノロジーコンサルタント等の職種あり、学士・修士・博士が対象。日程詳細はMyPage。
+  - 限界：Tech職選択とAI&Data／FS AI配属は別。デジタルエンジニアも別職種。
+- **KP1** [KPMG：DXA Data & AI](https://recruit.kpmg-consulting.jp/info/dxa)｜公式組織・経験者職務
+  - 確認事項：全社Data&AI戦略、データ構成設計、AIモデル設計・運用・評価を掲示。生成AIタスクフォースは部門横断で業務改革・開発・UX等を扱う。
+  - 限界：新卒部署別募集ではない。バーチャル組織の存在だけで個人の参加を保証しない。
+- **KP2** [KPMG×UACJ：AI transformation支援](https://kpmg.com/jp/ja/media/press-releases/2026/06/kc-uacj-aitransformation.html)｜公式国内プレスリリース｜2026-06-29
+  - 確認事項：経営方針に基づく生産性改善とAI推進体制、共通ツール、個別業務実装を支援。
+  - 限界：全社改革を志向した進行案件。完了としない。
+- **KP3** [KPMG×UACJ：実用化と定着の課題](https://kpmg.com/jp/ja/insights/2026/08/case-uacj.html)｜公式転載の顧客対談・広告｜2026-08
+  - 確認事項：8ユースケース中7件が実用段階。利用定着に課題がありヒアリング等を伴走。意図的に部分最適から開始し全体最適へ移る計画を明記。
+  - 限界：効果は見込みを含む。全社改革達成としない。元記事は2026年6月29日の記事広告。
+- **KP4** [KPMG：国内新卒コンサルタント募集](https://recruit.kpmg-consulting.jp/new-graduate/job-description)｜公式新卒採用
+  - 確認事項：2026年4月以降卒業予定の大学・大学院生対象、国内コンサルタント入口を確認。東京・大阪。
+  - 限界：28卒専用の現在受付・締切・DXA配属は公開頁では未確認。
+- **AC1** [Accenture：28卒5職種](https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level)｜公式新卒採用・職務
+  - 確認事項：28卒入口にAI＆Dataアーキテクト、ビジネスコンサルタント等を掲載しエントリー案内。AI職は課題分析・技術選定・構成・実装運用、BCは戦略に連動した変革を支援。
+  - 限界：RDEは独立した第6職種ではない。案件・若手の①責任範囲は要確認。公開締切なし。
+- **AC2** [Accenture×明治安田：全社DXプログラム](https://newsroom.accenture.jp/jp/news/2025/release-20250116)｜公式国内プレスリリース｜2025-01-16
+  - 確認事項：2030年3月までの全社横断DXプログラムを開始。生成AI等の実装と人材育成を組み合わせる。
+  - 限界：開始発表であり、全社改革の成果完了ではない。
+- **AC3** [明治安田：パートナーシップの目的と担当](https://www.meijiyasuda.co.jp/profile/news/release/2024/pdf/20250116_01.pdf)｜顧客公式プレスリリース｜2025-01-16
+  - 確認事項：専担組織の下で全社横断の検討・開発・業務実装と実践的人材育成を一体推進。投資・人材の数値は計画。
+  - 限界：顧客確認を補強。Accentureの各新卒職種の担当内訳は記載なし。
+- **AC4** [明治安田：第78回総代会のAI進捗](https://www.meijiyasuda.co.jp/profile/corporate_info/mutual/78/qa.html)｜顧客公式進捗
+  - 確認事項：Accentureとの5年間の契約の下で生成AI等の本格的な業務実装を進めていると説明。
+  - 限界：実装進行の補強。全社変革の完了報告ではない。
+- **NR1** [NRI：AI戦略コンサルタントの職務](https://progres07.jposting.net/pgnri/u/job.phtml?job_code=465)｜公式経験者職務
+  - 確認事項：AI戦略コンサルティング部で新事業・全社業務改革・意思決定・人的資本などを支援。全社データ/AI戦略の立案・実行、AI業務構築を掲示。
+  - 限界：経験者求人を新卒直接応募口にしない。
+- **NR2** [NRI：AI Field Transformer](https://www.nri.com/jp/news/newsrelease/20260803_1.html)｜公式サービス・体制発表｜2026-08-03
+  - 確認事項：経営・AI戦略と現場での実装・運用を接続するAFTの提供を発表。
+  - 限界：新サービスであり、実案件の達成実績とは別。
+- **NR3** [NRI：2025年度上期決算説明会・説明付き](https://ir.nri.com/jp/ir/library/financial/main/00/teaserItems1/01113/linkList/02/link/20251030_financialresultspresentaionwithnote.pdf)｜公式IR・実績集約｜2025-10-30
+  - 確認事項：AIの本番業務適用案件が増加し、全社AI CoE・ビジネス変革・基盤・統制・人材等の要求へコンサルとソリューションが横断対応すると説明。
+  - 限界：匿名の集約開示。特定顧客で全社変革を完了した裏付けは乏しい。
+- **NR4** [NRI：AI CoEの部門横断連携](https://www.nri.com/jp/media/journal/20250818.html)｜公式組織・社内実践｜2025-08-18
+  - 確認事項：AI戦略コンサルティング部とAIソリューション推進部の責任者が、社内の情報共有・相談・専門家接続を説明。
+  - 限界：社内の組織環境の根拠。顧客全社変革の実績には数えない。
+- **NR5** [NRI：2028新卒サイト](https://working.nri.co.jp/recruit/2028/)｜公式新卒採用・インターン
+  - 確認事項：28卒の国内入口と経営戦略コンサルティングの冬期インターンあり。2026年9月30日正午に応募締切済み。
+  - 限界：インターンと本選考を区別。本選考受付・AI戦略部署の配属確約は未確認。
+- **NR6** [NRI：AI経営改革・実装サービス](https://www.nri.com/jp/service/theme/ai/ai_management_reform.html)｜公式サービス
+  - 確認事項：AI戦略、AI CoE、データ、テーマ選定、PoC、開発、業務実装、運用改善を提供。
+  - 限界：サービス提供範囲。個別の全社改革実績と区別。
+- **IG1** [IGPI DI：事業内容](https://igpi-di.co.jp/business/)｜公式サービス
+  - 確認事項：AI・デジタルの影響評価、全社戦略、組織構築・運営、全社業務再設計、AIアルゴリズムの自社開発・共同研究を支援。
+  - 限界：サービス説明と個別成果を分ける。採用リンクはIGPI共通サイトへ接続。
+- **IG2** [IGPI：国内新卒選考プロセス](https://www.igpi.co.jp/recruit/igpi/process/)｜公式新卒採用
+  - 確認事項：公開募集要項は2027年度、大学・大学院卒、東京のコンサルタント入口。
+  - 限界：2028要項とIGPI DIへの新卒接続は未確認。グループ採用の存在だけでDI部門新卒を保証しない。
+- **OW1** [Oliver Wyman：Quotient](https://www.oliverwyman.com/our-expertise/capabilities/digital/ai-consulting-quotient.html)｜公式サービス・匿名事例紹介
+  - 確認事項：戦略・業界知識とAI実装を組み合わせ、Agent Factory等を紹介。
+  - 限界：現在取得版と検索インデックスで匿名事例表示に差がある。東京新卒とQuotientとの接続が未確認。
+- **OW2** [Oliver Wyman日本：新卒入口](https://www.oliverwyman.com/jp/careers/entry-level.html)｜公式日本採用
+  - 確認事項：日本のEntry-level採用から公式採用システムへ案内。
+  - 限界：特定AI専門職の日本新卒募集とは別。
+- **OW3** [Oliver Wyman：March2028 Tokyo求人](https://jp.linkedin.com/jobs/view/oliver-wyman-entry-level-consultant-march-2028-tokyo-at-oliver-wyman-4482816717)｜企業名義の外部求人
+  - 確認事項：東京2028 Entry-level Consultant、国内大学・大学院2027年7月～2028年3月卒、11月25日23:59 JST締切との掲載。
+  - 限界：公式採用システムの同一募集本文との突合未完。主一覧の確定期限には採用しない。
+- **MR1** [MRI：キリンの経営判断支援AI](https://dx.mri.co.jp/cases/flying-butterfly-ai/)｜公式国内顧客事例
+  - 確認事項：経営企画の意思決定を支えるAIを共同構築し運用へ進める事例。
+  - 限界：経営に近いテーマでも、対象は経営企画等のプロセス。全社業務・組織変革の証明とは分ける。
+- **MR2** [MRI：AIファーストコンサルティング](https://dx.mri.co.jp/service/ai-first-consulting/)｜公式サービス
+  - 確認事項：AIを前提とする変革構想から実装・定着を支援。
+  - 限界：個別顧客の全社改革の完了実績とは別。
+- **FO1** [Fortience：大阪国際がんセンターのAI導入](https://www.fortience.com/company/newsroom/20260219/)｜公式国内プレスリリース｜2026-02-19
+  - 確認事項：病院全体の生成AI活用体制・ガバナンス・教育等のプロジェクト開始を発表。
+  - 限界：開発の具体的参加・技術判断と、その後の全社改革達成は未確認。
+- **KA1** [Kearney：AI安全性評価環境の支援](https://prtimes.jp/main/html/rd/p/000000106.000046861.html)｜企業公式配信プレスリリース｜2026-06-25
+  - 確認事項：政府のAI安全性評価環境について構想・検証等を支援。
+  - 限界：企業全社変革・実装運用を結んだ実例ではない。
+- **NT1** [NTTデータ経営研究所：AIと香りの共創](https://www.nttdata-strategy.com/newsrelease/news/250808-01/)｜公式実証発表｜2025-08-08
+  - 確認事項：NIU等の技術共創・実証を発表。
+  - 限界：技術共創の例で、顧客全社のAI変革とは異なる。
+- **ZS1** [ZS：Technology Solutions Associate Japan](https://jobs.zs.com/jobs/62610?lang=en-us)｜公式日本求人
+  - 確認事項：東京／大阪のTechnology Solutions Associateを掲載。データ・AI・企業技術支援を含む。
+  - 限界：28卒対象と①への軸足、全社変革における本人の接続は未確認。
+- **AL1** [AlixPartners：Agentic AIの顧客支援](https://www.alixpartners.com/what-we-do/case-studies/agentic-ai-unlocks-400mplus-in-identified-cost-to-serve-savings/)｜公式海外匿名顧客事例
+  - 確認事項：コスト領域で実稼働のエージェントAIを用い削減機会を特定。
+  - 限界：特定額は実現済み削減ではない。日本の大学院新卒入口を確認できず。
+- **FAS1** [KPMG FAS：2028新卒AIX](https://recruit.kpmg-fas.jp/recruitinginformation-g.html)｜公式新卒採用
+  - 確認事項：AIXの主対象はFAS内のM&A・戦略業務等のAI変革。
+  - 限界：顧客企業の全社AI変革を担う希望とは異なる。KPMG Japan AiX横断体制と混同しない。
+- **RB1** [Roland Berger：フィジカルAI論考](https://www.rolandberger.com/ja/Insights/Publications/日本企業がフィジカルAIをPoCで終わらせない4つの条件.html)｜公式知見記事
+  - 確認事項：フィジカルAIの構想と実装・定着の論点を扱う。
+  - 限界：知見記事のみで企業全社変革の担当実績を確定しない。
+- **AD1** [ADL：NEDOの画像認識技術関連資料](https://www.nedo.go.jp/content/800024336.pdf)｜発注者公式実証資料
+  - 確認事項：小売等でのAI技術実証への関わりを確認。
+  - 限界：個社の全社変革と国内新卒の技術協働環境は別途未確認。
+- **IG3** [IGPI：データサイエンス組織を自走させる](https://www.igpi.co.jp/case/case_01/)｜公式匿名顧客事例
+  - 確認事項：顧客のデジタル組織に入り、全社データ棚卸し、案件設計、技術環境選択・整備、共同分析・AI開発、育成・現場調整を実施。構築AIは現場が業務へ組み込み運用。
+  - 限界：全社DXの機運を高めた事例。全社全業務の変革完了ではない。顧客匿名・公開日不明。旧URLから現行URLを再発見。
+- **IG4** [IGPI：川上登福氏の役割・案件](https://www.igpi.co.jp/member/kawakami-takayoshi/)｜公式担当者紹介
+  - 確認事項：デジタル・AIの戦略立案から実行を支援し、当該DS組織立ち上げ事例に関与すると明記。
+  - 限界：幹部の担当と新卒の担当・配属を分ける。
+- **AUD01** [BCG：再検討の主要確認先](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)｜公式日本職務・新卒
+  - 確認事項：X DSとTDAを継続。実案件の混成協働があり組織別だから分断とは判定しない。
+  - 限界：個別DS求人はfilled、公式一覧には同じ求人が掲載される取得差がある。X全体の募集終了とはしない。
+- **AUD02** [カーニー：再検討の主要確認先](https://www.kearney.com/service/digital-analytics/data-and-ai/the-data-dividend-how-to-unlock-value-from-data)｜公式海外顧客事例・協働体制
+  - 確認事項：日本Digital & AnalyticsはAI導入・開発とAnalytics careerを明示。海外は戦略とCervelloの設計・構築が協働し銀行・消費財企業を変革。
+  - 限界：Aの根拠は強化。公開事例はデータ・分析基盤が中心で、AIによる全社変革と日本新卒の専門経路をまだ結び切れない。
+- **AUD03** [マッキンゼー：再検討の主要確認先](https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028)｜公式国内新卒募集
+  - 確認事項：Digital×QuantumBlack、国内での事業・技術接続と海外全社事例を継続。
+  - 限界：国内一般新卒経由。公表の28卒2回は終了、Digital専門配属は未確約。
+- **AUD04** [ADL：再検討の主要確認先](https://www.adlittle.com/en/client-story)｜公式海外顧客事例
+  - 確認事項：Bristol Myers SquibbでAI精密分析基盤を設計・展開。自社の本番AI開発を説明する公式記事も見つかりAは前回より強い。
+  - 限界：対象は臨床開発・研究ポートフォリオ。全社横断改革の実績と日本一般新卒の技術実行接点は補強したい。
+- **AUD05** [ベイン：再検討の主要確認先](https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/)｜公式国内新卒募集
+  - 確認事項：一般コンサル×AT&AI。Targetの同一案件で事業・DS・エンジニアが協働する実績を継続。
+  - 限界：国内冬選考は2026/10/7 13:00終了。海外協働の存在は本人の国内担当保証ではない。
+- **AUD06** [ローランド・ベルガー：再検討の主要確認先](https://www.rolandberger.com/ja/Insights/Publications/%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%8C%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABAI%E3%82%92PoC%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%89%E3%81%9B%E3%81%AA%E3%81%844%E3%81%A4%E3%81%AE%E6%9D%A1%E4%BB%B6.html)｜公式調査・論考
+  - 確認事項：AI本番導入・組織についての発信と過去のAI企業提携を確認。
+  - 限界：調査・提言・2017年提携を自社の現在の全社AI実装実績とはしない。A_personと顧客案件が不足。
+- **AUD07** [DI：再検討の主要確認先](https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/)｜公式国内新卒募集
+  - 確認事項：T&Aのビジネスプロデューサー。経営構想とAI・ITの実装接続、部門別新卒入口を継続。
+  - 限界：公式IRの部門横断改革には計画段階も含む。28卒冬は10/16 12:00終了。
+- **AUD08** [KPMG FAS：再検討の主要確認先](https://recruit.kpmg-fas.jp/recruitinginformation-d.html)｜公式国内新卒職務募集
+  - 確認事項：CVAはAI・DS主導で戦略・業務・会計の専門家と協働する別ルート。AIXは社内、Forensicは顧客向けで区別。
+  - 限界：CVAは5/29 13:00終了、AIX/Forensicエンジニアは2027/1/6 13:00。全社AI変革と①軸足を示すCVA実案件の裏付け不足。
+- **AUD09** [IGPI：再検討の主要確認先](https://www.igpi.co.jp/recruit/di/)｜公式国内経験者職務
+  - 確認事項：IGPI DIの経営×アルゴリズム×実行と顧客支援事例は有力。
+  - 限界：DI専用求人は経験者。一般新卒は確認したページが2027年度・2025年日程で、28入口とDI接続は未確認。
+- **AUD10** [NRI（経営コンサル）：再検討の主要確認先](https://nri-na.com/clients/from-fragmented-firms-to-unified-force-ai-powered-collaboration-at-scale/)｜公式海外顧客事例
+  - 確認事項：AI戦略部とAFTの構想実装接続に加え、北米の顧客企業統合・全社知見流通をAIで再構成した実例を補足。
+  - 限界：海外法人の匿名顧客事例。日本AI戦略部自身の納品・本人担当と混同しない。国内28入口あり、本選考現在受付は未確認。
+- **AUD11** [YCP：再検討の主要確認先](https://ycp.com/lp/uae-digital-change-management-consulting)｜公式サービス・事例短記
+  - 確認事項：日本の通信事業者に対するAIを組み込むRCSソリューション事例を確認。
+  - 限界：LP上の短い説明のみ。全社AI変革・①と③④の同一職務接続・日本28卒専門経路を十分に裏付けない。
+- **AUD12** [PwCコンサルティング：再検討の主要確認先](https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html)｜公式国内新卒募集
+  - 確認事項：DAX AI&アナリティクス。東電PGの構想・開発・運用協働を継続。
+  - 限界：多数PoCの本番化は予定を含む。DCの最終募集ES等1/8 23:59、適性検査1/11 23:59。
+- **AUD13** [フォーティエンス：再検討の主要確認先](https://www.fortience.com/insight/column/251105/)｜公式論考
+  - 確認事項：AI導入の技術・運用面の発信、既調査の大阪国際がんセンター支援を照合。
+  - 限界：当該コラムは一般化した説明。病院の支援開始・提携は確認したが、自社の技術判断・開発参加と構想への往復を実案件でまだ十分に確認できない。
+- **AUD14** [ベイカレント：再検討の主要確認先](https://www.baycurrent.co.jp/industry-service/service/ai/)｜公式顧客事例・サービス
+  - 確認事項：匿名顧客でAI構想からモデル・システム構築までを提示。AI実装能力なしという扱いはしない。
+  - 限界：本人がこれまで対象外とした企業ライン、総合5先という選定方針で主一覧には入れない。
+- **AUD15** [マーサー：再検討の主要確認先](https://www.mercer.com/ja-jp/insights/people-strategy/hr-transformation/hr-management-in-the-era-of-agentic-ai/)｜公式専門論考
+  - 確認事項：AI時代の人材・組織・業務設計という①やBに近い論点を扱う。
+  - 限界：人事組織の提言とAIシステムの技術判断・自社実装協働は別。後者の実案件根拠不足。
+- **AUD16** [EYSC：再検討の主要確認先](https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-15/)｜公式国内顧客事例
+  - 確認事項：国内大手製造業で、AI&データの同じ少人数コンサルチームがデータ戦略から設計・開発・テストを完遂し、AI予測・全社利用へ接続。
+  - 限界：全社データ利活用とAI機能・海外拡張を実現と記載。事業・組織全体の変革は将来への狙いであり達成扱いしない。
+- **AUD17** [KPMGコンサルティング：再検討の主要確認先](https://kpmg.com/jp/ja/insights/2026/08/case-uacj.html)｜公式国内顧客事例
+  - 確認事項：UACJの全社AI活用構想から実用化・定着を継続確認。
+  - 限界：実用化後の活用課題や全社最適の計画を隠さない。国内新卒はあるが28現在受付未確認。
+- **AUD18** [PwCアドバイザリー：再検討の主要確認先](https://www.pwc.com/jp/ja/services/deals.html)｜公式サービス
+  - 確認事項：AI・分析をM&Aや企業価値向上の意思決定に使う。
+  - 限界：ディール分析と顧客企業の全社AI変革・技術実装は別。PwCコンサルの実績を自動流用しない。
+- **AUD19** [NTTデータ経営研究所：再検討の主要確認先](https://www.nttdata-strategy.com/newsrelease/260507/)｜公式サービス発表
+  - 確認事項：金融18のAIサービス等。経営構想・AI設計の具体性あり。
+  - 限界：『実装パートナーへの発注要件』まで設計する説明。③④への自社技術参加の程度は別確認が必要。
+- **AUD20** [P&Eディレクションズ：再検討の主要確認先](https://www.ped.co.jp/SERVICES/)｜公式サービス
+  - 確認事項：戦略・成長・DXの実行支援を確認。公式トップには2026/9/15の28本選考受付開始。
+  - 限界：新卒募集の存在と理想への適合は分ける。自社AI実装・全社AI変革の具体案件が不足。
+- **AUD21** [アクセンチュア：再検討の主要確認先](https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level)｜公式国内新卒募集
+  - 確認事項：AI&DataアーキテクトとBCを継続。2028プレエントリーを確認。
+  - 限界：プレ登録を本選考受付とはしない。①の軸足・AI案件・技術参加は職種ごとに確認。RDEは独立職種ではない。
+- **AUD22** [ライズ・コンサルティング：再検討の主要確認先](https://www.rise-cg.co.jp/news/20260629_001?hs_amp=true)｜公式提携・新会社発表
+  - 確認事項：リコーとのAIコンサル合弁で構想・業務・実装・定着のサービスを提示。
+  - 限界：新体制発表は既存顧客の完了実績ではない。企業ライン・総合5先の方針により主一覧対象外。
+- **AUD23** [シンプレクス：再検討の主要確認先](https://www.simplex.inc/news/2026/3594/)｜公式国内顧客事例
+  - 確認事項：JALの自社AI製品導入事例、XSpear関連のAI支援を探索。
+  - 限界：特定製品・特定業務の案件と全社構想を分ける。社内M365展開も顧客事例ではない。企業ライン上主一覧対象外。
+- **AUD24** [日本IBM：再検討の主要確認先](https://www.ibm.com/case-studies/systemresearch)｜公式国内顧客事例
+  - 確認事項：国内顧客でAI構築、28卒AIイノベーター職の構想実行接点も認識。
+  - 限界：国内AIイノベーターの新卒入口はある。今回の顧客事例はwatsonxでの情報検索が中心で、①軸足・技術選択・全社業務変革をつなぐ本人の環境は追加確認。別のITルートのIBM候補は変更しない。
+- **AUD25** [デロイト（コンサル）：再検討の主要確認先](https://www.deloitte.com/jp/ja/services/consulting/perspectives/management-ai-agent.html)｜公式自社実践・技術解説
+  - 確認事項：AI&Data、DS×FDE接続と既存の顧客技術・運用事例を継続。経営AIエージェントの技術説明も補足。
+  - 限界：自社の経営AI実践を顧客全社変革の実績に代用しない。新卒の個別専門職確約はない。
+- **AUD26** [アビーム：再検討の主要確認先](https://www.abeam.com/jp/ja/service/ai/)｜公式国内顧客事例・サービス
+  - 確認事項：明治安田、あいおいニッセイ同和損保などAI支援を確認。技術・導入の実力はある。
+  - 限界：メルカリ登壇記事はABeamの納品実績を意味しない。AI側の総合5先の方針で対象外。
+- **AUD27** [三菱UFJリサーチ＆コンサルティング：再検討の主要確認先](https://www.murc.jp/news/information/news_220512/)｜公式連携・実証
+  - 確認事項：音声AIを含む業務・社会課題対応を探索。
+  - 限界：研究・提言や委託事例集の掲載を、自社が顧客全社AIを実装した証明とはしない。①と③④の接続根拠が不足。
+- **AUD28** [三菱総研：再検討の主要確認先](https://dx.mri.co.jp/column/column-1385/)｜公式国内顧客支援事例
+  - 確認事項：卸売A社・製造B社で、全社AI方針／推進組織・基盤設計と現場でのAI開発・検証を往復して改善する支援を確認。
+  - 限界：匿名・進行中。全社改革完了や本人の全コード実装の証拠ではない。国内新卒制度と28インターンはあるが28本選考は未確認。
+- **AUD29** [コーン・フェリー：再検討の主要確認先](https://www.kornferry.com/jp/insights/article/ai-impact-score-jpn)｜公式専門論考・枠組み
+  - 確認事項：AIによる職務・人材・組織の影響評価を扱う。
+  - 限界：Bに近い助言と③④のAI技術実装は区別。自身の技術参加を裏付ける案件・職務が不足。
+- **AUD30** [日本総研（コンサル）：再検討の主要確認先](https://www.jri.co.jp/service/business8/business_b142/)｜公式サービス
+  - 確認事項：コンサル側のAI企画・PoC・実装支援と過去のFRONTEO連携を確認。
+  - 限界：ITソリューション部門のDSや開発実績をコンサル職本人へ自動転用しない。全社AI案件と協働範囲が不足。
+- **AUD31** [大和総研（コンサル）：再検討の主要確認先](https://www.dir.co.jp/business/case/salesinspection.html)｜公式国内顧客事例
+  - 確認事項：大和証券の不公正取引検知AIをAWS等で構築する具体例。
+  - 限界：業務AIの技術力は確認。経営コンサル本人が①軸足で全社改革と実装をつなぐ経路は未確認。
+- **AUD32** [日本経営システム：再検討の主要確認先](https://www.jmsinc.co.jp/company/message/)｜公式企業方針
+  - 確認事項：AI・DXによる経営改革のテーマを確認。タイ法人は生成AI実装支援を掲示。
+  - 限界：国内の具体案件・日本新卒職務への接続が不足。Japan Business Systems（jbs.co.jp）とは別企業。
+- **AUD33** [キャップジェミニ：再検討の主要確認先](https://www.capgemini.com/jp-jp/news/client-stories/eneco-emobility-supercharges-its-customer-care-with-generative-ai/)｜公式海外顧客事例
+  - 確認事項：欧州顧客の生成AI導入・定着に実績。Invent等と技術組織の存在を認識。
+  - 限界：当該は顧客ケア業務。AI側の総合5先の方針で主一覧対象外。日本語記事でも海外実績と記す。
+- **AUD34** [リヴァンプ：再検討の主要確認先](https://revamp.co.jp/news/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E3%81%A8%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E5%8B%95%E7%89%A9%E8%A1%8C%E5%8B%95%E8%A7%A3%E6%9E%90%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/)｜公式国内共同研究
+  - 確認事項：東大との動物行動AI解析や製品開発の技術実績を確認。
+  - 限界：研究・製品の技術力を顧客全社AI変革の実績にはしない。企業ラインも含め主一覧対象外。
+- **AUD35** [フューチャー：再検討の主要確認先](https://www.future.co.jp/architect/our_service/case5/)｜公式国内顧客事例
+  - 確認事項：敷島製パンで全社改革・営業製造物流の統合とAI需要予測・生産配分を構想から実装へ。A/Bは相当に近い。
+  - 限界：純粋な下流企業だから不適合という説明は不正確。今回は本人の企業ラインで対象外。事例は古く直近個人職務は別確認。
+- **AUD36** [リブ・コンサルティング：再検討の主要確認先](https://ai.smb.libcon.co.jp/voice/)｜公式国内顧客事例
+  - 確認事項：中堅中小のAI導入・開発・組織変化の顧客事例あり。
+  - 限界：企業の規模が小さいことと変革範囲が全社かは別。企業ラインで対象外とし、AI能力なしとはしない。
+- **AUD37** [日本能率協会コンサルティング：再検討の主要確認先](https://www.jmac.co.jp/consulting/category/dx/ai_transformation.html)｜公式国内匿名支援事例
+  - 確認事項：生成AIの複数モデル比較・技術パートナー協働・組織定着の実例、食品需要予測PoCも確認。
+  - 限界：自社による高度技術実装への参加は未確定。今回の企業ライン／総合5先の主比較外。
+- **AUD38** [シグマクシス：再検討の主要確認先](https://www.sigmaxyz.com/sx/ja/business/case/case18.html)｜公式国内顧客事例
+  - 確認事項：伊藤忠の生成AI基盤・4200人展開、シュッピンの価格AIなど具体的な技術案件あり。
+  - 限界：共通チャット全社展開を全社業務戦略変革の達成とはしない。本人が企業ラインで対象外にした方針を維持。
+- **AUD39** [スカイライト：再検討の主要確認先](https://rpa.skylight.co.jp/case-study/%E5%A4%A7%E5%90%8C%E7%97%85%E9%99%A2%E6%A7%98/)｜公式国内顧客事例
+  - 確認事項：病院・大学のRPA導入・運用協働を確認。
+  - 限界：RPAの実績とAI導入は同一でない。AIは今後への言及。企業ラインとAI技術・全社根拠から主一覧外。
+- **AUD40** [山田コンサルティング：再検討の主要確認先](https://www.yamada-cg.co.jp/business/field/advantage/it/)｜公式サービス
+  - 確認事項：DX戦略・業務改善・ソリューション選定・導入伴走を確認。
+  - 限界：紹介実績はベンダー開発と顧客側管理も含む。AIの技術判断・実装参加・全社案件は不足。企業ライン対象外。
+- **AUD41** [レイヤーズ：再検討の主要確認先](https://www.layers.co.jp/news/n20260514/)｜公式新体制・サービス発表
+  - 確認事項：AIインソーシング専門チームがAIエージェント構築導入を支援すると発表。
+  - 限界：体制発表と顧客案件の実績は別。SAPの実績にAIの将来予定を加えて実績化しない。企業ライン対象外。
+- **AUD42** [船井総研：再検討の主要確認先](https://www.funaisoken.co.jp/solution/dc-ai-deployment_706_S097?media=S005)｜公式国内匿名顧客事例
+  - 確認事項：士業・住宅会社のAIエージェントをPoCから本番まで支援する事例。
+  - 限界：実装はあるが個別業務中心。今回の企業ライン／総合主比較の外。
+- **AUD43** [日本TCS：再検討の主要確認先](https://www.tcs.com/jp-ja/customer-stories/toyota-industries-corporation)｜公式国内顧客事例
+  - 確認事項：豊田自動織機のAIアシスタントで段階開発・MLOps等を支援。
+  - 限界：全社HQ導入と将来のグループ展開を区別。AI側の純SIer除外・企業ラインで対象外。
+- **AUD44** [ZSアソシエイツ：再検討の主要確認先](https://www.zs.com/content/dam/global/master/pdfs/better-processes-for-data-analytics-and-insights.pdf)｜公式海外顧客事例
+  - 確認事項：製薬企業の複数コーポレート部門をつなぐAIアシスタント基盤等の実案件あり。
+  - 限界：日本の専門職から①を軸に全社AI変革へ関与する範囲と28卒の該当入口が不足。海外のみの職務は採用根拠にしない。
+- **AUD45** [CDI：再検討の主要確認先](https://www.cdi-japan.co.jp/wp/wp-content/uploads/2026/01/cdi-china-humanoid-industry-report.pdf)｜公式業界調査
+  - 確認事項：AI・ロボティクスの産業・事業戦略の専門発信を確認。
+  - 限界：調査報告は自社による顧客AI実装の証明ではない。③④に強く関わる職務環境・案件が不足。
+- **MR3** [MRI：全社設計と現場実践を往復する2社の支援事例](https://dx.mri.co.jp/column/column-1385/)｜公式国内顧客支援事例｜2026-08-04
+  - 確認事項：当社が支援する卸売A社・製造B社を明記。現場のAI開発・検証で見つかるデータ不足や判断条件を全社基盤へ戻して改善。著者は産業DX本部で構想・業務設計・システム構築を支援。
+  - 限界：匿名・進行中。全社改革の完了や個人が全開発を担当する保証ではない。
+- **MR4** [MRI：国内大学・大学院向け採用制度（企業掲載・前年度）](https://job.mynavi.jp/28/pc/corpinfo/displayPrevEmployment/index?corpId=58559&recruitingCourseId=27046163)｜企業掲載の国内新卒要項・前年度
+  - 確認事項：研究員・コンサルタント職、大学・大学院（修士・博士）対象、日本での新卒採用制度を確認。
+  - 限界：2028サイト内の『2027年度』情報。28卒募集要項や現在受付の証明にしない。
+- **MR5** [MRI：2028向け冬インターン（企業掲載）](https://job.mynavi.jp/28/pc/search/corp58559/is.html?func=corpinfo)｜企業掲載の国内インターン
+  - 確認事項：東京での冬インターン案内、応募締切2026/9/28。
+  - 限界：インターンと本選考は別。既に締切経過。コーポレート説明会の別期限を混ぜない。
+- **MR6** [MRI：採用公式サイトの取得制限](https://www.mri.co.jp/company/recruit/index.html)｜公式採用入口・取得不可
+  - 確認事項：公式DXサイトから採用リンクを確認。
+  - 限界：今回ツールでは公式トップも採用頁も404。実際の廃止や募集終了と断定しない。企業掲載の採用情報で補助確認。
+- **KA2** [カーニー日本：多様な働き方・Digital & Analytics](https://www.jp.kearney.com/about-us/diversity-inclusion)｜公式日本職務
+  - 確認事項：Digital & AnalyticsのAI導入・開発、最適化・シミュレーションおよびAnalytics careerを案内。
+  - 限界：日本の新卒専用専門コースや全社AI案件への配属の確約ではない。
+- **KA3** [カーニー日本：新卒採用](https://www.jp.kearney.com/careers/working-here/)｜公式日本新卒採用
+  - 確認事項：2027・2028新卒エントリー案内。一般新卒、海外大、JOBなどの経路を表示。
+  - 限界：専門Analytics職の28卒直接採用、現在の各受付期限は未確認。
+- **AD2** [ADL：本番AIを伴うソフトウェア開発](https://prisim.adlittle.com/cracking-the-code-how-ai-agents-are-reinventing-the-software-development-lifecycle/)｜公式技術実践記事
+  - 確認事項：Digital Problem Solvingの技術責任者が製薬・通信でAIによる本番開発・納品を説明。
+  - 限界：主に海外の技術組織。日本一般新卒の担当と全社AI変革の証明は別。
+- **AD3** [ADL東京：2028新卒募集の案内](https://www.adlittle.com/jp-ja/apply)｜公式日本新卒採用・索引確認
+  - 確認事項：2028サマーインターンの締切5/17を明示。
+  - 限界：公式検索索引で確認、直接取得403。2027冬の2025/11/9を2028冬の期限にしない。
+- **KF2** [KPMG FAS：AIX・Forensic AIエンジニア新卒](https://recruit.kpmg-fas.jp/recruitinginformation-g.html)｜公式国内新卒職務
+  - 確認事項：AIXは社内コンサルツール、Forensicは顧客向けAIツールをPoCから実装・定着まで。2028院卒向け、2027/1/6 13:00締切。
+  - 限界：CVAのAI・DS主導型コンサルは別職種・別期限。
+- **PE2** [P&E：28卒本選考受付開始の告知](https://www.ped.co.jp/)｜公式採用告知
+  - 確認事項：2026/9/15の28卒本選考受付開始を掲載。
+  - 限界：採用の存在はAI実装適合の根拠ではない。
+- **BC9** [BCG X：公式索引のTargeted jobsと個別求人の不一致](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)｜公式日本新卒採用・取得差
+  - 確認事項：直接本文は2028 DS/AI Engineer入口を案内。公式の検索索引ではDS58408をTargeted jobsに表示。
+  - 限界：個別58408は直接取得でfilled。索引の残存・取得差の可能性があり、現在申込可否は未確定。

@@ -8,8 +8,8 @@
 - [就活戦略_現状整理.md](就活戦略_現状整理.md) は初期の資料を整理した記録。現在の決定は [STRATEGY.md](STRATEGY.md) を優先し、企業・部署・選考方針を根拠に応じて更新する。
 - 他チャットの議論を引き継ぐ [2026年10月20日版のキャリア資料](career-context-2026-10-20.md)を参照し、その後に変わった考えと混同しない。
 - 企業・職種・新卒選考の事実調査は [RESEARCH_POLICY.md](RESEARCH_POLICY.md) に従う。
-- **現在の再開位置（2026/11/6）**：[理想のAI変革環境の企業調査](research/2026-11-06-ideal-ai-environments/README.md)を実施し、[Notion一覧](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)へ主10社14環境・各社の案件根拠・国内新卒募集を保存。NRIはBの個別案件、IGPI／DIは28卒経路の確認待ちとして別に保持。61探索ラベル・69資料の採否と限界を記録。[4概念・A/B・理想像](research/2026-11-06-consulting-structure-ai-architect/README.md)は調査の基盤。志望順位・応募の決定やAI側SIer復活の判断ではない。
-- **11/5後半に定めたAI側の志向・候補条件**：[技術的な深さとAIを前提とした事業・全社戦略への関与](research/2026-11-05-ai-strategy-positioning/README.md)を両方満たす仕事へ志向を具体化中。日本新卒入口必須、AI側SIer除外、総合はBig4＋Accentureの5先。前半の[52候補](research/2026-11-05-ai-architect-shortlist/README.md)・[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は旧条件の履歴で、後半の議論では未編集。
+- **現在の再開位置（2026/11/6・再調査済み）**：[理想環境の再調査](research/2026-11-06-ideal-ai-environments/README.md)。今回添付45社をすべて公式検索・主要頁本文で再検討し、主12社16環境へ更新。MRI追加、NRIは海外法人の顧客案件を補足して主一覧へ、EYは国内の同一チームによる構想・開発の根拠を強化。カーニー・ADL・FAS CVA等は有力保留。[Notion一覧](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)と共有シート新2タブへ保存。125参照レコード・116固有URL。[45社の検討記録](research/2026-11-06-ideal-ai-environments/audit-45.json)に全社の事実・判断・限界を保存。本人の志望順位・応募先の決定ではない。
+- **11/5後半に定めたAI側の志向・候補条件**：[技術理解と全社変革](research/2026-11-05-ai-strategy-positioning/README.md)を継続。国内新卒制度・28受付・配属は別。旧52行は[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)の「候補一覧」に保持。現在は「理想環境_再調査」16行と「添付45社_検討記録」45行を入口にする。
 - [STRATEGY.md](STRATEGY.md) が現在の二本の就活戦略と未決定事項、[OPERATIONS.md](OPERATIONS.md) が別チャットへの引き継ぎを含む具体的な手順。[Notion「就活戦略・現在地」](https://app.notion.com/p/401161f28097815d8accc34852300c95)は本人向けの見やすい要約。
 
 ## 議論の記録とチャット間の引き継ぎ

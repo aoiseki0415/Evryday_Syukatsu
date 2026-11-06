@@ -1,0 +1,170 @@
+{
+  "as_of": "2026-11-06",
+  "baseline_commit": "aec2d0dd2ab4ea9feef708458ec4cd046aa9ba5f",
+  "research": {
+    "image_labels": 45,
+    "unique_image_labels": 45,
+    "all_45_official_search_and_primary_open": true,
+    "image_status_counts": {
+      "main": 11,
+      "evidence_or_route_pending": 19,
+      "outside_user_policy": 15
+    },
+    "main_companies": 12,
+    "main_environments": 16,
+    "source_records": 125,
+    "unique_source_urls": 116,
+    "screening_labels": 61,
+    "unresolved_source_ids": []
+  },
+  "notion": {
+    "overview": "https://app.notion.com/p/410161f280978090a555d5f5eb53fd70",
+    "child_pages": 17,
+    "pages_read_back": 18,
+    "all_expected_roles_visible": true,
+    "child_pages_preserved": true,
+    "truncated": false,
+    "unknown_blocks": 0,
+    "pages": [
+      {
+        "key": "overview",
+        "id": "410161f280978090a555d5f5eb53fd70",
+        "read_back": true
+      },
+      {
+        "key": "deloitte",
+        "id": "410161f2-8097-810d-b713-f7be6a311ea3",
+        "read_back": true
+      },
+      {
+        "key": "pwc",
+        "id": "410161f2-8097-818c-a3dc-cf7f97240fc7",
+        "read_back": true
+      },
+      {
+        "key": "ey",
+        "id": "410161f2-8097-818d-833c-f0e8c4e87058",
+        "read_back": true
+      },
+      {
+        "key": "kpmg",
+        "id": "410161f2-8097-81e0-a775-d28b4fd3317b",
+        "read_back": true
+      },
+      {
+        "key": "accenture",
+        "id": "410161f2-8097-8120-b5c1-f963596ed33e",
+        "read_back": true
+      },
+      {
+        "key": "bcg",
+        "id": "410161f2-8097-8143-9408-eb8d6753c618",
+        "read_back": true
+      },
+      {
+        "key": "mckinsey",
+        "id": "410161f2-8097-8161-8229-fb11a280bd1b",
+        "read_back": true
+      },
+      {
+        "key": "bain",
+        "id": "410161f2-8097-812d-acb2-fe5d2dd8ffdb",
+        "read_back": true
+      },
+      {
+        "key": "di",
+        "id": "410161f2-8097-819a-8a52-ce135a8a71c4",
+        "read_back": true
+      },
+      {
+        "key": "globe",
+        "id": "410161f2-8097-81ce-b1dd-e28803a47b22",
+        "read_back": true
+      },
+      {
+        "key": "nri",
+        "id": "410161f2-8097-8150-a1ee-e42cd1410b4b",
+        "read_back": true
+      },
+      {
+        "key": "igpi",
+        "id": "410161f2-8097-81b1-8a46-c7a142958b6b",
+        "read_back": true
+      },
+      {
+        "key": "screening",
+        "id": "410161f2-8097-81ab-b320-ddf11f1c0cea",
+        "read_back": true
+      },
+      {
+        "key": "sources",
+        "id": "410161f2-8097-814f-8782-f0213dae3475",
+        "read_back": true
+      },
+      {
+        "key": "mri",
+        "id": "410161f2-8097-8142-88db-f1798fd5bd53",
+        "read_back": true
+      },
+      {
+        "key": "audit45",
+        "id": "410161f2-8097-81a8-b769-db538ce8f52c",
+        "read_back": true
+      },
+      {
+        "key": "promising",
+        "id": "410161f2-8097-8153-81e8-d1259255ed88",
+        "read_back": true
+      }
+    ],
+    "affected_pages_re_read_after_followup": [
+      "ey",
+      "sources",
+      "audit45",
+      "screening"
+    ]
+  },
+  "sheets": {
+    "url": "https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit",
+    "current": {
+      "name": "理想環境_再調査",
+      "sheet_id": 20261106,
+      "range": "A4:W20",
+      "candidate_rows": 16,
+      "columns": 23,
+      "work_link_column": "E",
+      "recruit_link_column": "N",
+      "notion_detail_column": "U",
+      "hyperlinks_verified": 48,
+      "ab_notes_verified": true,
+      "dropdowns_verified": true,
+      "initial_value_formula_comparison": "all 16x23 cells matched",
+      "final_department_column_matches": true,
+      "final_role_highlight_column_matches": true,
+      "date_cells_numeric_and_formatted": true
+    },
+    "audit": {
+      "name": "添付45社_検討記録",
+      "sheet_id": 20261107,
+      "range": "A4:I49",
+      "company_rows": 45,
+      "IBM_Fortience_followup_read_back": true,
+      "number_and_date_types_verified": true
+    },
+    "frozen_rows": 4,
+    "frozen_columns": 2,
+    "legacy_candidate_rows_read_back": 52,
+    "legacy_sheet_data_not_written": true,
+    "visual_check": {
+      "native_browser": "CUA browser inventory empty; iab unavailable",
+      "fallback": "native XLSX export imported into artifact-tool; 2 new tabs rendered and inspected",
+      "limits": "artifact renderer does not implement HYPERLINK, and partial crops crossing merged cells distort headings; native API confirms displayed link labels, destinations, formats, panes and values. Google-rendered screen not inspected."
+    }
+  },
+  "remaining": [
+    "個人の配属・①と③④の責任比率は未確認",
+    "28本選考の現在受付が未確認の企業あり、前年度やインターンと区別",
+    "海外・別法人の事例は日本の当該部門実績と区別",
+    "本人の志望順位・応募状況は変更していない"
+  ]
+}

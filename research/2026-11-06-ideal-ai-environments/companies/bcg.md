@@ -20,41 +20,39 @@ DSとの関係：**○：X DSは中核／TDAは協働する立場**。DSは加�
 | 項目 | 確認できた情報 |
 | --- | --- |
 | 正式な応募入口 | BCG X DS新卒／経営コンサルタント新卒 |
-| 対象 | 2028／国内の大学・大学院新卒入口あり |
-| 現在の表示 | **DS個別求人はfilled／経営コンサルはプレエントリー案内** |
+| 対象 | 2028／国内の大学・大学院新卒制度あり |
+| 現在の表示 | **X新卒案内継続／DS58408個別はfilled・索引に残存／一般職プレ登録** |
 | 期限 | 現行の本選考・春インターン期限は未確認 |
 | 専門配属との関係 | X DSは専門入口、TDAは経営コンサル経由で配属・案件未確約 |
-| 募集情報リンク | [公式の募集・日程](https://careers.bcg.com/jp/ja/japan-new-grads-2028) |
+| 募集情報リンク | [募集・日程](https://careers.bcg.com/jp/ja/japan-new-grads-2028) |
 
-BCG Xは[専用28卒案内](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)と[確認したDS個別枠（filled）](https://careers.bcg.com/global/en/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan)を分ける。一般コンサルは[プレエントリー案内](https://careers.bcg.com/jp/ja/japan-new-grads-2028)。[春インターン60380](https://careers.bcg.com/jp/ja/job/60380)は検索結果と本文取得に不一致があり、受付・期限を未確認とする。
+受付表示・登録・本選考・専門配属は別に扱う。マイページ内部、本人の応募履歴は未確認。経験者職務は仕事内容の根拠であり、新卒応募口ではない。
 
-**受付表示と実際の申込可否は応募時に再確認する。** マイページ内部・本人の応募履歴は今回調べていない。経験者職務ページは仕事内容の根拠としてのみ使用する。
+## 3. 満たしていてほしいことと確認方法
 
-## 3. 満たしていてほしいこと
-
-| 観点 | 条件 | 確認に使う情報 |
+| 観点 | 満たしていてほしいこと | 確認に使う情報 |
 | --- | --- | --- |
-| A_company／企業 | ①方針・構想を軸に、②設計・③導入実行・④定着運用改善へ実質的に関わる。 | 具体案件で担う技術判断・開発・導入・継続関与 |
-| A_person／自分の可能性 | ①に軸足を置き、実装側との協働を通じて自分の技術理解を深められる。 | 同じ案件のチーム構成、役割の協働、知見の往復 |
-| B_company／企業 | 全社の業務・組織・意思決定などを変革する環境がある。 | 顧客の目的・対象・活動・進行状態が分かる事例 |
+| A_company／企業 | ①方針・構想を軸に②設計③導入実行④定着運用改善にも実質関与 | 案件での技術判断・実装参加・継続関与 |
+| A_person／本人の可能性 | ①軸足で技術理解を深められる接続環境 | 同一案件の協働・役割・意思決定・現場から構想への往復 |
+| B_company／企業 | 全社の業務・組織・意思決定などを変える支援環境 | 顧客の目的・対象・具体活動・進行状態 |
 
 ## 4. 実際の案件・発表で確認したこと
 
 ### 1. PHOENIX
 
-- **出典**：[BCG：PHOENIXのAI変革](https://www.bcg.com/about/client-impact/how-gen-ai-transformed-operations-for-pharma-wholesale-leader)（公開日を特定できず）
+- **出典**：[BC2：BCG：PHOENIXのAI変革](https://www.bcg.com/about/client-impact/how-gen-ai-transformed-operations-for-pharma-wholesale-leader)
 - **所在・対象範囲**：海外／全社AI変革の複数機能・複数市場
 - **確認した活動**：戦略的なテーマ選定と技術専門家が、調達・物流・顧客対応等で接続。
 - **進行状態**：MVPを運用・展開へ
-- **この事例から言えないこと**：技術側にPlatinionを明記。BCG X Japan DSの担当と断定しない。
+- **ここから言えないこと**：技術側にPlatinionを明記。BCG X Japan DSの担当と断定しない。
 
 ### 2. New York Life
 
-- **出典**：[BCG＋BCG X：New York Life](https://www.bcg.com/x/mark-your-moment/empowering-a-business-leader-through-generative-ai)（公開日を特定できず）
+- **出典**：[BC3：BCG＋BCG X：New York Life](https://www.bcg.com/x/mark-your-moment/empowering-a-business-leader-through-generative-ai)
 - **所在・対象範囲**：海外／企業の生成AI・変革ガバナンス
 - **確認した活動**：BCGとBCG Xの共同支援を明記。
 - **進行状態**：共同支援の紹介
-- **この事例から言えないこと**：詳細は動画中心で、今回定量成果や全体工程は確定できず。
+- **ここから言えないこと**：詳細は動画中心で、今回定量成果や全体工程は確定できず。
 
 ## 5. 事実からの適合判断（Codexの解釈）
 
@@ -62,27 +60,26 @@ BCG Xは[専用28卒案内](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)
 
 BCG全体では①〜④のうち実装・運用・展開まで具体例。X DSのモデル構築能力も確認。
 
-確認先：[BC1](https://careers.bcg.com/jp/ja/japan-bcgx) ／ [BC2](https://www.bcg.com/about/client-impact/how-gen-ai-transformed-operations-for-pharma-wholesale-leader) ／ [BC3](https://www.bcg.com/x/mark-your-moment/empowering-a-business-leader-through-generative-ai) ／ [BC4](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x) ／ [BC6](https://careers.bcg.com/jp/ja/japan-technology-and-digital-advantage)
-
 ### A_person：構想と実装がつながる環境からの推定
 
 日本のX職務にBCG専門家との協働、海外実例に部門横断チームの具体性がある。組織が分かれるだけで分断とは評価しない。
 
-**これは本人の担当・全工程経験・配属の保証ではない。** 同一部署や一人での全工程担当は条件にしない。会社が両機能を持つだけで個人の接続を確定しない。
+**本人の担当・全工程経験・配属の保証ではない。** 同一部署や一人で全工程を担うことは条件にしない。
 
 ### B_company：全社レベルの変革環境
 
 全社変革の複数機能へAIを展開する実例あり。ただし主たる実証は海外で、日本の本人の配置は別問題。
 
-共通AI基盤の展開、複数部門での実装、組織・事業の変革を分けて読む。違う顧客・海外・別法人の実績を、一つの日本案件の実績として合成しない。
+共通ツール配布、全社データ基盤、事業・業務・組織変革を区別。別顧客・海外・別法人の実績を一つの日本案件に合成しない。
 
-## 6. 面談・次の調査で確かめること
+## 6. 残る確認点
 
 - X DSで経営上の課題設定をどれだけ主導できるか、TDAで技術判断まで入れるかはそれぞれ確認。
 - X DS個別枠終了を全2028求人の終了としない。
 - AI Engineerは③寄りのため、今回の①軸足の主候補には独立掲載しない。
-- ①を担当した人が、③④の設計判断・品質・改善にどのような会議・成果物で関わるか。
-- ベンダーやモデルの選択が顧客課題を起点に行えるか。提携・自社製品の存在だけで中立性を保証しない。
+- AI Engineerも日本2028新卒の案内あり。ただし①軸足の本人職務が未確認のため今回の主職務に自動追加しない。DS58408の公式索引と個別本文の表示差は未解決。
+- ①担当者が③④の技術判断・品質・改善へどのように参加するか。
+- 特定製品に縛られず、顧客課題に応じて選択できるか。
 
 ## 出典台帳
 
@@ -103,11 +100,15 @@ BCG全体では①〜④のうち実装・運用・展開まで具体例。X DS�
   - 限界：個別枠の終了。BCG全体・全DS枠の募集終了とは断定しない。
 - **BC6** [BCG TDA Japan](https://careers.bcg.com/jp/ja/japan-technology-and-digital-advantage)｜公式日本職務紹介
   - 確認事項：デジタル戦略・変革と専門家の連携を紹介。TDAの戦略コンサルとPlatinionの技術専門職は異なる。
+  - 限界：この資料の範囲で判断。本人の担当を保証しない。
 - **BC7** [BCG：国内大学・大学院2028新卒](https://careers.bcg.com/jp/ja/japan-new-grads-2028)｜公式新卒採用
   - 確認事項：2027年9月～2028年8月卒業予定の国内大学・大学院生を対象とする経営コンサルタント職。プレエントリー案内あり。
   - 限界：登録と本選考受付は別。TDA専属採用・配属確約は確認できず。
 - **BC8** [BCG：Spring Internship 60380](https://careers.bcg.com/jp/ja/job/60380)｜公式採用・取得不一致
   - 確認事項：公式検索結果には2028/2029向け春インターン案内があるが、直接取得では本文・締切を取得できず。
   - 限界：現在の受付・日程は未確認として記録し、終了とも受付中とも断定しない。
+- **BC9** [BCG X：公式索引のTargeted jobsと個別求人の不一致](https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x)｜公式日本新卒採用・取得差
+  - 確認事項：直接本文は2028 DS/AI Engineer入口を案内。公式の検索索引ではDS58408をTargeted jobsに表示。
+  - 限界：個別58408は直接取得でfilled。索引の残存・取得差の可能性があり、現在申込可否は未確定。
 
-確認日：2026年11月6日。公式発信も自己申告・匿名化・予定を含む。調査上の候補化であり、本人の志望順位・応募の決定ではない。
+確認日：2026年11月6日。候補化は本人の志望順位・応募決定ではない。
