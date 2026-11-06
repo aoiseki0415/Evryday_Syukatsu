@@ -8,6 +8,7 @@
 | --- | --- |
 | 現在の就活方針と二本のルート | [STRATEGY.md](../../STRATEGY.md) |
 | 最新の理想企業像と次の探索フレームワーク | [ideal-company-framework.md](ideal-company-framework.md)、[JSON](ideal-company-framework.json) |
+| AI普及後の支援内容についての議論の種（未確定） | [future-consulting-discussion-seed.md](future-consulting-discussion-seed.md) |
 | 4概念の定義・関係 | [framework.md](framework.md) |
 | AIに絞った問いA・Bの結論と限界 | [ai-current-state.md](ai-current-state.md) |
 | 確認した記事・案件・提供体制 | [evidence.md](evidence.md)、[evidence.json](evidence.json) |

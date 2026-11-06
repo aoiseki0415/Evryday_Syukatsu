@@ -6,6 +6,7 @@
 
 ## 現在の目的と決定
 
+- **議論の種として保存（11/6追補）**：[AI普及後に企業が求める支援内容](research/2026-11-06-consulting-structure-ai-architect/future-consulting-discussion-seed.md)。企業の実行力全体が均等になるとは置かず、AI時代の企業・事業戦略を扱う支援へ関心を広げる仮説を4軸で整理。本人は保存を依頼した段階で、志向・候補条件としての採用は未決定。Notion同名トグルに保存・読み戻し済み。企業・職種の新規調査は開始していない。
 - **現在の再開位置（11/6）**：[構造化記録](research/2026-11-06-consulting-structure-ai-architect/README.md)→[4概念](research/2026-11-06-consulting-structure-ai-architect/framework.md)→[AIの問いA・B](research/2026-11-06-consulting-structure-ai-architect/ai-current-state.md)。一般構造と現状調査は整理済み。[理想の企業像](research/2026-11-06-consulting-structure-ai-architect/ideal-company-framework.md)も①に軸足・②〜④との接続・全社変革の事例へ具体化した。次段階は企業探索・適合確認だが今回は開始していない。[Notion「コンサルの構造化」](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)を参照。
 - **最新の志向**：①構想・方針策定を軸足に、技術理解を深めるため②〜④、特に③④にも関与したい。企業単位の活動と個人の担当を分けつつ、構想と実装がつながる環境から個人の可能性を間接評価する。公開情報で個人職責を確定することを、この段階の必須条件にしない。Bは具体的な全社変革の案件・事例を根拠にする。
 - **評価方法**：Aは範囲と関与の程度。①同程度は仮定。②〜④は技術判断・実装参加・継続関与を見て、着色範囲と同色4段階の濃淡で表示。役割の種類やばらつきを程度にしない。Bは対象範囲への支援の確認状況を丸・三角で表示。セルは暫定的所感、カテゴリー別案件比率は未確認。根拠は14事例・12サービス等・3市場資料。
