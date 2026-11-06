@@ -12,6 +12,8 @@
 - **11/5後半に定めたAI側の志向・候補条件**：[技術理解と全社変革](research/2026-11-05-ai-strategy-positioning/README.md)を継続。国内新卒制度・28受付・配属は別。旧52行は[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)の「候補一覧」に保持。現在は「理想環境_再調査」16行と「添付45社_検討記録」45行を入口にする。
 - [STRATEGY.md](STRATEGY.md) が現在の二本の就活戦略と未決定事項、[OPERATIONS.md](OPERATIONS.md) が別チャットへの引き継ぎを含む具体的な手順。[Notion「就活戦略・現在地」](https://app.notion.com/p/401161f28097815d8accc34852300c95)は本人向けの見やすい要約。
 
+**11/7・記録点検済み**：[情報の区分と完了状況](research/2026-11-06-ideal-ai-environments/STATUS.md)。前回調査のGit反映を確認し、運用文書・概念記録に残った未着手表示を修正。意思決定、確認事実、候補の解釈、過程、未確認を分けて再開できる。
+
 ## 議論の記録とチャット間の引き継ぎ
 
 - **GitHubをCodex用の記憶の正本**とする。新しいチャットでは対象リポジトリを確認して最初に `git pull --ff-only origin main` を行い、[HANDOFF.md](HANDOFF.md) と [STRATEGY.md](STRATEGY.md) を読む。必要に応じて [logs](logs/README.md) とNotionの原資料を確認する。

@@ -19,7 +19,7 @@
       "placement_or_duty_guarantee_inferred": false
     },
     "connection_evidence_examples": {
-      "status": "Codexによる今後の調査で使う具体化。公開根拠を伴うかを確認する。",
+      "status": "Codexが希望条件を調査可能な観点へ具体化。11/6の企業調査で適用済み。接続の裏付けは企業・案件ごとに評価する。",
       "items": [
         "同じ変革案件・目標で構想・業務・技術担当が協働",
         "①と②〜④の目的・判断・知見が連動",
@@ -47,8 +47,8 @@
     "completed_transformation_only_required": false
   },
   "boundaries": {
-    "company_search_started": false,
-    "company_fit_assessment_started": false,
+    "company_search_started": true,
+    "company_fit_assessment_started": true,
     "applications_or_priorities_decided": false,
     "existing_A_B_matrices_changed": false,
     "career_IT_route_changed": false,
@@ -59,13 +59,12 @@
     "heading": "AIアーキテクト（支援領域：AI・データ）理想的な企業像とは"
   },
   "remaining": [
-    "具体企業の探索と適合確認（今回は未実施）",
     "各企業内の協働・担当範囲の確認",
     "本人が望む関与の細かな程度・配分",
     "将来の需要・職務変化の根拠と仮説の検討",
     "募集・配属・応募先の判断"
   ],
-  "schema_version": 2,
+  "schema_version": 3,
   "target_units": [
     "企業単位",
     "自分単位（可能性の間接評価）"
@@ -147,5 +146,25 @@
       "short_signals": "目的・対象範囲・変えた内容・企業の役割・進行状態。"
     }
   ],
-  "requirements_are_not_evidence": "希望条件と、条件の確認に使う接続・事例等の材料を分けて扱う。"
+  "requirements_are_not_evidence": "希望条件と、条件の確認に使う接続・事例等の材料を分けて扱う。",
+  "record_updated_at": "2026-11-07",
+  "boundaries_at_framework_design": {
+    "company_search_started": false,
+    "company_fit_assessment_started": false,
+    "applications_or_priorities_decided": false,
+    "existing_A_B_matrices_changed": false,
+    "career_IT_route_changed": false,
+    "previous_candidate_constraints_preserved": true
+  },
+  "followup_research": {
+    "as_of": "2026-11-06",
+    "status": "completed_with_disclosed_limits",
+    "reference": "../2026-11-06-ideal-ai-environments/README.md",
+    "record_status": "../2026-11-06-ideal-ai-environments/STATUS.md",
+    "main_companies": 12,
+    "main_environments": 16,
+    "attached_company_labels_reviewed": 45,
+    "applications_or_priorities_decided": false,
+    "meaning": "企業・環境の一次判定は実施済み。個人の配属保証・全求人の現在受付確認は含まない。"
+  }
 }

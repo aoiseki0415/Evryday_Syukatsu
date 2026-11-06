@@ -1,10 +1,12 @@
 # 就活戦略プロジェクト：引き継ぎ
 
-更新日：2026年11月6日
+更新日：2026年11月7日（記録管理の点検。企業・採用の調査時点は11/6）
 
 **開始時はGitルート・origin・作業状態を確認して `git pull --ff-only origin main`。** その後、[README.md](README.md)、[AGENTS.md](AGENTS.md)、[OPERATIONS.md](OPERATIONS.md)、[STRATEGY.md](STRATEGY.md)を読む。必要な経緯は[logs](logs/README.md)、職務・採用の根拠は[research](research/)にある。
 
 ## 現在の目的と決定
+
+- **11/7の記録点検済み**：[STATUS](research/2026-11-06-ideal-ai-environments/STATUS.md)を先に読む。11/6の調査・Notion・Sheet・Git反映は確認済み。OPERATIONSの旧タブ中心の説明、概念側の企業調査未実施表示、枠組みJSONの未着手フラグを補正。募集・配属・技術選択等の未確認は、保存やpushの未完と分けて管理する。[点検ログ](logs/2026-11-07-career-record-completion-audit.md)。
 
 - **議論の種として保存（11/6追補）**：[AI普及後に企業が求める支援内容](research/2026-11-06-consulting-structure-ai-architect/future-consulting-discussion-seed.md)。企業の実行力全体が均等になるとは置かず、AI時代の企業・事業戦略を扱う支援へ関心を広げる仮説を4軸で整理。志向・候補条件としての採用は未決定。後続の企業調査でも新たな必須条件には加えていない。
 - **現在の再開位置（11/6・全45社再調査済み）**：[理想環境の再調査](research/2026-11-06-ideal-ai-environments/README.md)→[45社監査](research/2026-11-06-ideal-ai-environments/audit-45.md)→[candidates.json](research/2026-11-06-ideal-ai-environments/candidates.json)。今回添付45社をすべて公式検索・主要頁本文で再検討し、主12社16環境へ更新。MRI追加、NRIは海外法人の顧客案件を補足して主一覧へ、EYは国内の同一チームによる構想・開発の根拠を強化。カーニー・ADL・FAS CVA等は有力保留。[Notion一覧](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)と共有シート新2タブへ保存。親＋17子を読み戻し。125参照レコード・116固有URL。本人の応募・志望順位は変更していない。
@@ -13,7 +15,7 @@
 
 - **継続する候補条件（11/5後半）**。AIの深い技術理解と、AIを前提にした事業・全社戦略への関与を**両方**満たし、本人も戦略と技術の両方の議論に入れる環境を探す。まず言語化・議論。**日本の28卒・大学院生対象の新卒入口が必須。AI側の探索からSIerを外し、総合コンサルはBig4＋Accentureの5先で十分**とする。戦略・経営変革側を重点探索。従来の企業ライン・製品中立・DS任意は継続。別のITルート廃止ではない。[現在の整理](research/2026-11-05-ai-strategy-positioning/README.md)、[条件JSON](research/2026-11-05-ai-strategy-positioning/criteria.json)を最初に読む。
 - [共有スプレッドシート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)：新「理想環境_再調査」gid=20261106、16行・23列。E仕事リンク、N新卒募集、U案件詳細、R〜TにA/B注記。新「添付45社_検討記録」gid=20261107、45行。上4行・左2列固定、色・選択肢・フィルター。旧「候補一覧」52行は11/5条件の履歴として保持。
-- 添付図の45表記＋グロービングを[46表記の照合台帳](research/2026-11-05-ai-strategy-positioning/attachment-company-audit.json)に記録。グロービング、P&E、ライズ等は検討漏れ。DI・IGPIには本人が好印象だが個人の戦略関与は未確認。BCGは職種分離と協働を分け、難易度が高いから分断と一般化しない。本人はデロイトの技術的な厚みを継続評価。
+- **11/5時点の照合履歴**：[46表記の照合台帳](research/2026-11-05-ai-strategy-positioning/attachment-company-audit.json)でグロービング・P&E・ライズ等の検討漏れを把握。その後11/6に図45表記を全件再検討済み。旧台帳の『検討漏れ』を現在の未着手としない。DI・IGPIへの好印象、デロイトの技術への評価、BCGの協働への懸念は本人の当時の見解として扱う。
 - **11/5時点は企業探しの前の概念整理だった**：本人がStrategy/Operations/Technologyと業務・事業・全社の関係を定めたいと述べた。[支援領域・変える対象の範囲・支援工程の整理案](research/2026-11-05-ai-strategy-positioning/comparison-axes.md)を読む。前回の「競争戦略」を別階層に置いた説明は修正。11/6には4概念を合意済み。ITコンサルとSIerの統合案は撤回し4分類で比較するが、AI側のSIer除外・日本新卒入口必須という候補条件は継続。企業・職種の新決定はない。
 - 11/5調査の重要点：PwC DCは2027/1/8 23:59、KPMG FAS技術職は1/6 13:00締切。BCG Xの確認した28卒個別2枠はfilled。KPMG Consultingの汎用新卒要項だけで28卒本選考受付中とは言わない。日本総研の公開本選考要項本文は27卒で、28卒DS配属確約へ転用しない。各日程は応募前に再確認する。共通採用・グローバル専門職と日本新卒の同職務配属を区別する。
 

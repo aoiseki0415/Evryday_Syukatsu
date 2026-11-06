@@ -61,7 +61,7 @@ MyPage内部・本人の応募履歴・部署配属・各新卒職の①と③�
 - 共有Sheet：新「理想環境_再調査」gid20261106の16行、新「添付45社_検討記録」gid20261107の45行。上4行・左2列固定、色・プルダウン・フィルター、E仕事／N募集／U詳細リンク、A/B注記。旧52行は保持。値・リンク48・注記・検証選択肢を読み戻し。
 - GitHub：[監査JSON](../research/2026-11-06-ideal-ai-environments/audit-45.json)、[差分・事実と限界](../research/2026-11-06-ideal-ai-environments/audit-45.md)、[追加有力先](../research/2026-11-06-ideal-ai-environments/additional-promising.md)、現在の候補・出典・概要を更新。README、HANDOFF、STRATEGY、RESEARCH_POLICYを現行化。
 - Notion親タグとSheets固定列境界の検証エラーは修正後に成功。内容の削除許可や旧データ消去はしていない。共有SheetはCUAブラウザ利用不可のため、XLSX exportをartifact-toolで読み込み新2タブを描画確認。HYPERLINK未実装・結合セル部分描画に互換差があり、Google側の値・ラベル・リンク・書式をAPIで照合した。Google画面そのもの、マイページ・応募・個別配属は未確認。
-- [audit-verification.json](../research/2026-11-06-ideal-ai-environments/audit-verification.json)に今回の読み戻し・整合確認を保存。remote反映はGit操作後に確認する。
+- [audit-verification.json](../research/2026-11-06-ideal-ai-environments/audit-verification.json)に今回の読み戻し・整合確認を保存。調査版はcommit `2f4d843c413d0808648c037646abad025cc2d02d` で記録・push済み。2026/11/7の点検開始時にHEADとorigin/mainの一致を再確認した。
 
 ### 現在の結論と次の論点
 
