@@ -1,0 +1,229 @@
+{
+  "as_of": "2026-11-06",
+  "overview_url": "https://app.notion.com/p/410161f280978090a555d5f5eb53fd70",
+  "main_companies": 10,
+  "main_environments": 14,
+  "tentative_company": "NRI",
+  "hiring_route_pending": "IGPI／IGPI DI",
+  "sources": 69,
+  "exploration_labels": 61,
+  "notion_readback": [
+    {
+      "key": "overview",
+      "id": "410161f280978090a555d5f5eb53fd70",
+      "title": "理想の企業像を満たす環境一覧",
+      "content_chars": 10647,
+      "full_width": true,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "child_pages": 14,
+        "rows_14": true,
+        "source_count69": true
+      }
+    },
+    {
+      "key": "deloitte",
+      "id": "410161f2-8097-810d-b713-f7be6a311ea3",
+      "title": "デロイト トーマツ｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 4338,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "pwc",
+      "id": "410161f2-8097-818c-a3dc-cf7f97240fc7",
+      "title": "PwCコンサルティング｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 3195,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "ey",
+      "id": "410161f2-8097-818d-833c-f0e8c4e87058",
+      "title": "EYストラテジー・アンド・コンサルティング｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 4832,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "kpmg",
+      "id": "410161f2-8097-81e0-a775-d28b4fd3317b",
+      "title": "KPMGコンサルティング｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 3511,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "accenture",
+      "id": "410161f2-8097-8120-b5c1-f963596ed33e",
+      "title": "アクセンチュア｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 4081,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "bcg",
+      "id": "410161f2-8097-8143-9408-eb8d6753c618",
+      "title": "BCG｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 5144,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "mckinsey",
+      "id": "410161f2-8097-8161-8229-fb11a280bd1b",
+      "title": "マッキンゼー｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 4671,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "bain",
+      "id": "410161f2-8097-812d-acb2-fe5d2dd8ffdb",
+      "title": "ベイン・アンド・カンパニー｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 3592,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "di",
+      "id": "410161f2-8097-819a-8a52-ce135a8a71c4",
+      "title": "ドリームインキュベータ｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 3694,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "globe",
+      "id": "410161f2-8097-81ce-b1dd-e28803a47b22",
+      "title": "グロービング｜AI変革の環境・実案件・新卒入口",
+      "content_chars": 3305,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "nri",
+      "id": "410161f2-8097-8150-a1ee-e42cd1410b4b",
+      "title": "野村総合研究所｜暫定候補・Bの補強待ち",
+      "content_chars": 4562,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "igpi",
+      "id": "410161f2-8097-81b1-8a46-c7a142958b6b",
+      "title": "IGPI／IGPI DI｜環境は有力・28卒経路の確認待ち",
+      "content_chars": 1792,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [],
+      "checks": {
+        "has_content": true
+      }
+    },
+    {
+      "key": "screening",
+      "id": "410161f2-8097-81ab-b320-ddf11f1c0cea",
+      "title": "探索台帳｜61ラベルの扱い・保留理由",
+      "content_chars": 8005,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [
+        "https://www.rolandberger.com/ja/Insights/Publications/日本企業がフィジカルAIをPoCで終わらせない4つの条件.html"
+      ],
+      "checks": {
+        "has_content": true
+      },
+      "normalized_missing_urls": []
+    },
+    {
+      "key": "sources",
+      "id": "410161f2-8097-814f-8782-f0213dae3475",
+      "title": "出典台帳｜公式案件・職務・採用69件",
+      "content_chars": 16020,
+      "full_width": false,
+      "truncated": false,
+      "unknown_block_count": 0,
+      "missing_urls": [
+        "https://www.rolandberger.com/ja/Insights/Publications/日本企業がフィジカルAIをPoCで終わらせない4つの条件.html"
+      ],
+      "checks": {
+        "has_content": true
+      },
+      "normalized_missing_urls": []
+    }
+  ],
+  "scope_note": "Notion本文と出典URL・子ページ保持・取得欠落を確認。レンダリングの画像QA、MyPage内部、応募操作は行っていない。日本語URLはエンコード正規化で照合。",
+  "local_integrity": {
+    "passed": true,
+    "main_companies": 10,
+    "main_environments": 14,
+    "tentative_environments": 1,
+    "source_ids_unique": 69,
+    "environment_ids_unique": 15,
+    "exploration_labels": 61,
+    "attachment_labels": 46,
+    "source_references_valid": true,
+    "all_main_have_domestic_graduate_entry": true,
+    "notion_pages_read_back": 15
+  }
+}

@@ -6,13 +6,13 @@
 
 ## 現在の目的と決定
 
-- **議論の種として保存（11/6追補）**：[AI普及後に企業が求める支援内容](research/2026-11-06-consulting-structure-ai-architect/future-consulting-discussion-seed.md)。企業の実行力全体が均等になるとは置かず、AI時代の企業・事業戦略を扱う支援へ関心を広げる仮説を4軸で整理。本人は保存を依頼した段階で、志向・候補条件としての採用は未決定。Notion同名トグルに保存・読み戻し済み。企業・職種の新規調査は開始していない。
-- **現在の再開位置（11/6）**：[構造化記録](research/2026-11-06-consulting-structure-ai-architect/README.md)→[4概念](research/2026-11-06-consulting-structure-ai-architect/framework.md)→[AIの問いA・B](research/2026-11-06-consulting-structure-ai-architect/ai-current-state.md)。一般構造と現状調査は整理済み。[理想の企業像](research/2026-11-06-consulting-structure-ai-architect/ideal-company-framework.md)も①に軸足・②〜④との接続・全社変革の事例へ具体化した。次段階は企業探索・適合確認だが今回は開始していない。[Notion「コンサルの構造化」](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)を参照。
+- **議論の種として保存（11/6追補）**：[AI普及後に企業が求める支援内容](research/2026-11-06-consulting-structure-ai-architect/future-consulting-discussion-seed.md)。企業の実行力全体が均等になるとは置かず、AI時代の企業・事業戦略を扱う支援へ関心を広げる仮説を4軸で整理。志向・候補条件としての採用は未決定。後続の企業調査でも新たな必須条件には加えていない。
+- **現在の再開位置（11/6・企業調査まで完了）**：[理想のAI変革環境の調査](research/2026-11-06-ideal-ai-environments/README.md)→[candidates.json](research/2026-11-06-ideal-ai-environments/candidates.json)→[PROCESS](research/2026-11-06-ideal-ai-environments/PROCESS.md)。主10社14環境を[Notion一覧](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)へ保存し、14子ページと親を読み戻した。61探索ラベル・69資料。NRIはB補強、IGPI／DIは28卒経路確認待ち。本人の志望順位・応募決定ではない。[4概念・A/B・理想像](research/2026-11-06-consulting-structure-ai-architect/README.md)を未整理としてやり直さない。
 - **最新の志向**：①構想・方針策定を軸足に、技術理解を深めるため②〜④、特に③④にも関与したい。企業単位の活動と個人の担当を分けつつ、構想と実装がつながる環境から個人の可能性を間接評価する。公開情報で個人職責を確定することを、この段階の必須条件にしない。Bは具体的な全社変革の案件・事例を根拠にする。
 - **評価方法**：Aは範囲と関与の程度。①同程度は仮定。②〜④は技術判断・実装参加・継続関与を見て、着色範囲と同色4段階の濃淡で表示。役割の種類やばらつきを程度にしない。Bは対象範囲への支援の確認状況を丸・三角で表示。セルは暫定的所感、カテゴリー別案件比率は未確認。根拠は14事例・12サービス等・3市場資料。
 
 - **継続する候補条件（11/5後半）**。AIの深い技術理解と、AIを前提にした事業・全社戦略への関与を**両方**満たし、本人も戦略と技術の両方の議論に入れる環境を探す。まず言語化・議論。**日本の28卒・大学院生対象の新卒入口が必須。AI側の探索からSIerを外し、総合コンサルはBig4＋Accentureの5先で十分**とする。戦略・経営変革側を重点探索。従来の企業ライン・製品中立・DS任意は継続。別のITルート廃止ではない。[現在の整理](research/2026-11-05-ai-strategy-positioning/README.md)、[条件JSON](research/2026-11-05-ai-strategy-positioning/criteria.json)を最初に読む。
-- [共有スプレッドシート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は**11/5前半の旧条件で52候補を入力・検証済み**（総合14、戦略22、IT8、SIer8）。後半の議論では編集していない。日本入口未確認やSIerを含むため、現行条件適合済みの一覧として扱わない。`候補一覧!A5:Q56`、17列、上4行・左2列固定。仕事リンクE、新卒募集リンクN。[前半の結果](research/2026-11-05-ai-architect-shortlist/README.md)と[52候補JSON](research/2026-11-05-ai-architect-shortlist/candidates.json)は履歴。新条件での全面再調査・シート整理は未実施。
+- [共有スプレッドシート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)は**11/5前半の旧条件で52候補を入力・検証済み**（総合14、戦略22、IT8、SIer8）。日本入口未確認やSIerを含むため、現行条件適合済みの一覧として扱わない。`候補一覧!A5:Q56`、17列、上4行・左2列固定。仕事リンクE、新卒募集リンクN。[前半の結果](research/2026-11-05-ai-architect-shortlist/README.md)は履歴。11/6の新条件での再調査はNotionへ保存し、シートは未編集。
 - 添付図の45表記＋グロービングを[46表記の照合台帳](research/2026-11-05-ai-strategy-positioning/attachment-company-audit.json)に記録。グロービング、P&E、ライズ等は検討漏れ。DI・IGPIには本人が好印象だが個人の戦略関与は未確認。BCGは職種分離と協働を分け、難易度が高いから分断と一般化しない。本人はデロイトの技術的な厚みを継続評価。
 - **11/5時点は企業探しの前の概念整理だった**：本人がStrategy/Operations/Technologyと業務・事業・全社の関係を定めたいと述べた。[支援領域・変える対象の範囲・支援工程の整理案](research/2026-11-05-ai-strategy-positioning/comparison-axes.md)を読む。前回の「競争戦略」を別階層に置いた説明は修正。11/6には4概念を合意済み。ITコンサルとSIerの統合案は撤回し4分類で比較するが、AI側のSIer除外・日本新卒入口必須という候補条件は継続。企業・職種の新決定はない。
 - 11/5調査の重要点：PwC DCは2027/1/8 23:59、KPMG FAS技術職は1/6 13:00締切。BCG Xの確認した28卒個別2枠はfilled。KPMG Consultingの汎用新卒要項だけで28卒本選考受付中とは言わない。日本総研の公開本選考要項本文は27卒で、28卒DS配属確約へ転用しない。各日程は応募前に再確認する。共通採用・グローバル専門職と日本新卒の同職務配属を区別する。
@@ -43,7 +43,7 @@
 
 ## 次の論点
 
-**次の段階（11/6追補）**：理想像の枠組みは整理済み。本人から次の指示があれば企業を探索し、①への軸足・②〜④との接続・全社変革の実例を確認する。今回は探索しない。一般概念・現状AとB・理想像を未整理としてやり直さない。個人の担当を直接確定しにくい場合は環境から間接評価し、推定と担当保証を分ける。
+**次の段階（11/6追補）**：主10社14環境を本人と比較する。①に軸足を保ちながら③④の技術判断へ入る経路、全社案件の中身を具体化する。NRI・MRIのB、IGPIの28卒経路、一般戦略職の技術接点は補強対象。候補化は調査上の判断で、応募・志望順位の決定ではない。募集期限は応募時に再確認する。
 
 **5社を見た現在の印象（2026-10-28）**：公式サイト探索後、本人は技術面に偏った印象として **デロイト ＞ PwC ≒ EY ＞ KPMG** と整理。デロイトの厚みへの印象が強く、EYの最近の積極性・勢いを評価してPwCと同列程度。KPMGの特徴はまだつかめておらず、**アクセンチュアの比較上の位置づけは未定**。客観的な技術力順位や最終志望順位の決定ではない。[現在の整理](STRATEGY.md#技術面に対する本人の暫定的な印象2026年10月28日)と[議論の追補](logs/2026-10-28-five-company-ai-site-map.md)を参照。本人はCodexが公式情報を管理・再参照できる状態を評価している。
 
@@ -62,6 +62,8 @@
 9. 「AI×直接」を加えるなら、[DS条件を外した再探索](research/2026-10-24-direct-ai-architecture-without-ds.md)を参照。日本IBMのAIイノベーターで必要な生成AI検証・開発成果物、28卒本選考の期限、ITスペシャリストとの併願可否を先に確認する。
 
 ## 直近の記録
+
+- [理想のAI変革環境を企業・部門・職務で調査](logs/2026-11-06-ideal-ai-environment-research.md)：今回の優先記録。主10社14環境、NRI暫定、IGPI経路保留。Notion一覧と各社の案件・採用・判断根拠を保存。
 
 - [4概念とAIの範囲・程度・対象範囲、表示修正を統合](logs/2026-11-06-consulting-structure-ai-architect.md)：今回の優先記録。Aは関与の程度を4段階の濃淡で表示、Bは保持。Notion読み戻しとGit記録を保存。
 

@@ -1,0 +1,692 @@
+[
+  {
+    "id": "DI1",
+    "title": "DI：AI×経営・事業変革",
+    "url": "https://www.dreamincubator.co.jp/service/theme/ai/",
+    "kind": "公式サービス",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "全社視点のAI活用、業務改革の実装、事業戦略・新規事業等を支援。サービスの提供範囲であり、実績はDI2で別確認。",
+    "limits": ""
+  },
+  {
+    "id": "DI2",
+    "title": "DI FY2026 IR：Project Case②（PDF p.10）",
+    "url": "https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS-1.pdf",
+    "kind": "公式IR・匿名案件",
+    "published_at": "2026-05-15",
+    "checked_at": "2026-11-06",
+    "facts": "総合IT企業の知財部門でエージェントAIの企画・開発・導入を支援し部門展開中。別のソフトウェア企業では開発以外の営業・企画・人事等を調査し、AI適用と組織・人員再編を提案、2年間の改革を決定。",
+    "limits": "前者は部門案件。後者の生産性向上は試算で、全社改革の完了や運用成果の証明ではない。"
+  },
+  {
+    "id": "DI3",
+    "title": "DI：T&Aビジネスプロデューサーの職務",
+    "url": "https://www.dreamincubator.co.jp/careers/entry/midcareers/",
+    "kind": "公式経験者職務",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "T&Aの職務をDX/IT戦略・企画構想から実行・実装支援、経営課題解決、新規デジタル事業の創出と説明。",
+    "limits": "仕事内容の根拠に使用。経験者要件は新卒に適用しない。"
+  },
+  {
+    "id": "DI4",
+    "title": "DI：2028冬選考",
+    "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/winter/",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "国内28卒、ビジネスプロデュース／Technology & Amplifyの2部門を募集。大学・大学院卒、2028年4月／10月入社。2026年10月16日12:00締切、受付終了。",
+    "limits": ""
+  },
+  {
+    "id": "GL1",
+    "title": "グロービング：完成車OEMの全社AI戦略と製造AI本番実装",
+    "url": "https://globe-ing.com/case-study/gs-02/",
+    "kind": "公式匿名顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "経営層と全社AI戦略・ガバナンス・組織を設計し、製造AIモデル・国内外工場のデータ基盤・MLOpsを本番実装。横展開計画と改善チームを整備。",
+    "limits": "顧客匿名・一部抽象化。実装成果は製造領域で、全社全領域の改革完了ではない。"
+  },
+  {
+    "id": "GL2",
+    "title": "グロービングCTO：AIとコンサル部門の協働",
+    "url": "https://globe-ing.com/recruit/people/keisuke-ueda/",
+    "kind": "公式社員紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AI事業本部とコンサル事業本部の共同案件にエンジニアが参加し開発・実装。複数の基盤モデルを参照。自社プロダクト開発も行う。",
+    "limits": "役員の職歴を新卒の担当保証にしない。自社製品案件の比率と新卒配属は未公表。"
+  },
+  {
+    "id": "GL3",
+    "title": "グロービング：新卒採用募集一覧",
+    "url": "https://globe-ing-recruit.snar.jp/index.aspx",
+    "kind": "公式採用システム",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "2027年4月～2028年9月卒業予定の大学・大学院生を対象に、戦略コンサルタント／AIコンサルタント・デジタルコンサルタントを受付中。東京勤務。公開締切は確認できず。",
+    "limits": ""
+  },
+  {
+    "id": "GL4",
+    "title": "グロービング：仕事紹介",
+    "url": "https://globe-ing.com/recruit/work/?tab=ai",
+    "kind": "公式職務紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "戦略・変革とAI実装を扱う仕事を紹介。AI側にはエンジニア兼務・自社製品の役割もあり、職務ごとの確認が必要。",
+    "limits": "経験者の年数要件と新卒募集を混同しない。"
+  },
+  {
+    "id": "BC1",
+    "title": "BCG X Japan：仕事と協働",
+    "url": "https://careers.bcg.com/jp/ja/japan-bcgx",
+    "kind": "公式日本職務紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "BCGの専門家と協働し経営課題を扱うDS、AIエンジニア、AIプロダクトマネジャー等を紹介。DSはモデルの設計・構築を担う。",
+    "limits": "職種ごとに新卒入口は異なる。全掲載職種の新卒採用を意味しない。"
+  },
+  {
+    "id": "BC2",
+    "title": "BCG：PHOENIXのAI変革",
+    "url": "https://www.bcg.com/about/client-impact/how-gen-ai-transformed-operations-for-pharma-wholesale-leader",
+    "kind": "公式海外顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "部門横断の発想・検証・MVPから拡大までを支援。調達・物流・顧客対応等のAIを運用へ進め、複数市場へ展開。技術側にPlatinion専門家が関与。",
+    "limits": "BCG全体・Platinionの案件。BCG X Japan DSの直接担当実績と同一視しない。"
+  },
+  {
+    "id": "BC3",
+    "title": "BCG＋BCG X：New York Life",
+    "url": "https://www.bcg.com/x/mark-your-moment/empowering-a-business-leader-through-generative-ai",
+    "kind": "公式海外顧客紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "BCGとBCG Xが共同で生成AIと変革ガバナンスを支援すると明記。",
+    "limits": "本文は短く動画中心。個別成果や担当範囲の詳細は十分抽出できず、協働の補助根拠に限定。"
+  },
+  {
+    "id": "BC4",
+    "title": "BCG X：2028新卒案内",
+    "url": "https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x",
+    "kind": "公式日本新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "2028向けDS・AI Engineerの入口を案内。大学院の関連分野等の要件あり。",
+    "limits": "見出しと本文の卒業対象期間に相違あり。本人の学位・関連分野適合は要確認。"
+  },
+  {
+    "id": "BC5",
+    "title": "BCG X：2028 DS個別求人",
+    "url": "https://careers.bcg.com/global/en/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+    "kind": "公式個別求人",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "確認した2028 Data Scientist求人はfilled。",
+    "limits": "個別枠の終了。BCG全体・全DS枠の募集終了とは断定しない。"
+  },
+  {
+    "id": "BC6",
+    "title": "BCG TDA Japan",
+    "url": "https://careers.bcg.com/jp/ja/japan-technology-and-digital-advantage",
+    "kind": "公式日本職務紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "デジタル戦略・変革と専門家の連携を紹介。TDAの戦略コンサルとPlatinionの技術専門職は異なる。",
+    "limits": ""
+  },
+  {
+    "id": "BC7",
+    "title": "BCG：国内大学・大学院2028新卒",
+    "url": "https://careers.bcg.com/jp/ja/japan-new-grads-2028",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "2027年9月～2028年8月卒業予定の国内大学・大学院生を対象とする経営コンサルタント職。プレエントリー案内あり。",
+    "limits": "登録と本選考受付は別。TDA専属採用・配属確約は確認できず。"
+  },
+  {
+    "id": "BC8",
+    "title": "BCG：Spring Internship 60380",
+    "url": "https://careers.bcg.com/jp/ja/job/60380",
+    "kind": "公式採用・取得不一致",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "公式検索結果には2028/2029向け春インターン案内があるが、直接取得では本文・締切を取得できず。",
+    "limits": "現在の受付・日程は未確認として記録し、終了とも受付中とも断定しない。"
+  },
+  {
+    "id": "MK1",
+    "title": "McKinsey Japan：Digitalの職務",
+    "url": "https://www.mckinsey.com/jp/careers/role-descriptions/careers-in-digital",
+    "kind": "公式日本職務紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "Digitalの経営・事業変革に、コンサルタント、プロダクト、デザイン、DS・DE等の役割が関わる。",
+    "limits": "国内BAからDigitalへの配属や専門職直結は保証されない。"
+  },
+  {
+    "id": "MK2",
+    "title": "QuantumBlack：支援方法",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-approach",
+    "kind": "公式組織・サービス",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "ビジネスと技術の多職種チーム、技術中立の構成、モデル導入・監視、顧客の組織・能力構築を説明。",
+    "limits": ""
+  },
+  {
+    "id": "MK3",
+    "title": "東芝テック：Gyainamicsと小売データ事業",
+    "url": "https://www.mckinsey.com/industries/industrials/how-we-help-clients/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia",
+    "kind": "公式国内顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "東芝テックがハード中心から小売データ事業へ進む構想を、McKinsey・QuantumBlack・NVIDIAと新会社・開発チーム・AI推奨等につなげる。",
+    "limits": "主な範囲は事業・業務。全社改革完了の根拠にはしない。"
+  },
+  {
+    "id": "MK4",
+    "title": "Rewired in action：EGA（PDF pp.10–11）",
+    "url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/how%20we%20help%20clients/rewired%20in%20action/pdfs/rewired-in-action-case-collection-2025.pdf",
+    "kind": "公式海外顧客事例集",
+    "published_at": "2025",
+    "checked_at": "2026-11-06",
+    "facts": "EGAでQuantumBlackとデジタルファクトリーを設け、生産・物流・調達等へAI施策を展開。CoE・ガバナンス・ロードマップ・人材育成を組み合わせる。",
+    "limits": "グローバル案件。日本の新卒本人の参加や全社全課題の完了を証明しない。"
+  },
+  {
+    "id": "MK5",
+    "title": "McKinsey：2028国内大学新卒",
+    "url": "https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "国内2027年9月～2028年8月卒の学士・修士が対象、Business Analyst入口。28卒2回の選考の最終締切は2026年9月15日。受付終了。",
+    "limits": "総合入口に募集文言が残っても、対象年度の具体日程を優先。博士は別入口。"
+  },
+  {
+    "id": "BA1",
+    "title": "Bain：Applied Technology & AIの仕事",
+    "url": "https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/",
+    "kind": "公式職務紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "コンサルティングと技術の専門チームによるAI支援を紹介。",
+    "limits": "日本の新卒が専門職へ直接入る募集の証明ではない。"
+  },
+  {
+    "id": "BA2",
+    "title": "Bain：Targetの生成AI開発・展開",
+    "url": "https://www.bain.com/client-results/ai/target/",
+    "kind": "公式海外顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "戦略・プロダクト・DS・フルスタックエンジニアが共同し、AI活用戦略から従業員支援、商品コンテンツ、顧客向け機能の開発・公開まで実施。",
+    "limits": "企業横断プログラムの根拠。全組織の変革完了や日本担当を意味しない。"
+  },
+  {
+    "id": "BA3",
+    "title": "Bain日本パートナー：AI導入の実例",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/25/genai0221/bain/",
+    "kind": "広告・本人登壇発言",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "日本でも100社超の大企業案件へ対応したとの発言。営業等で業務の思考過程をプロンプトフローへ実装した例を説明。",
+    "limits": "広告記事で顧客匿名。各例の国・担当組織の詳細は不明。成果は登壇者の自己申告。"
+  },
+  {
+    "id": "BA4",
+    "title": "Bain東京：国内大学・大学院新卒",
+    "url": "https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "大学・大学院2027年4月～2028年8月卒、2028年4月／9月入社。国内冬選考は2026年10月7日13:00締切で終了。",
+    "limits": "一般AC入口。AT&AI専門職・AI案件の配属確約なし。"
+  },
+  {
+    "id": "DE1",
+    "title": "デロイト：AI&Data",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html",
+    "kind": "公式サービス",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AI・データ戦略とアーキテクチャ、実装・利活用等を提供。技術記事・具体案件と合わせて評価。",
+    "limits": ""
+  },
+  {
+    "id": "DE2",
+    "title": "デロイト日本：Deployment Strategist×FDE",
+    "url": "https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html",
+    "kind": "公式体制発表",
+    "published_at": "2026-04-30",
+    "checked_at": "2026-11-06",
+    "facts": "経営価値・優先順位を担うDeployment Strategistと、アプリ・データ・基盤等へ入るFDEを接続する体制を発表。",
+    "limits": "体制・育成の発表であり、顧客案件の完了実績や新卒専用採用枠ではない。DSはData Scientistではない。"
+  },
+  {
+    "id": "DE3",
+    "title": "デロイト：SOMPOのAIモデルテスト",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/perspectives/ai-model-test.html",
+    "kind": "公式国内顧客対談",
+    "published_at": "2026-10-07",
+    "checked_at": "2026-11-06",
+    "facts": "SOMPOグループのAIガバナンスの下で、モデルテスト・検証・改善等の実務を支援。",
+    "limits": "ガバナンスと品質評価の案件。AIシステム全体の構築や全社事業改革を完了したとはしない。"
+  },
+  {
+    "id": "DE4",
+    "title": "Deloitte：Thomson ReutersのAI/ML基盤",
+    "url": "https://www.deloitte.com/us/en/what-we-do/case-studies/faster-iteration-or-tighter-governance-an-innovative-ai-ml-platform-supports-both.html",
+    "kind": "公式海外顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "顧客の全社的AI/ML利用に対し、アプリ開発とMLOpsの専門性を組み合わせモデル監視・統制の基盤を構築。顧客チームと協働して要望・設計を調整。",
+    "limits": "US事例。全社AI利用基盤の実績であり、事業ポートフォリオ変革の証明ではない。"
+  },
+  {
+    "id": "DE5",
+    "title": "デロイト：2028コンサルティング新卒",
+    "url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "国内2028本選考を受付中。学士・修士・博士、2028年4月／10月入社、東京。公開国内締切なし。",
+    "limits": "コンサルタント職入口。AI&DataやDS/FDEの配属保証なし。海外BCF締切を国内期限に転記しない。"
+  },
+  {
+    "id": "PW1",
+    "title": "PwC：デジタルコンサルタント新卒の仕事",
+    "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html",
+    "kind": "公式新卒職務",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AI&アナリティクスでAI戦略・組織設計、各種分析・生成AI・AIエージェント、MLOps/LLMOpsを掲示。",
+    "limits": "デジタル職の複数専門領域の一つ。AI配属確約と同一視しない。"
+  },
+  {
+    "id": "PW2",
+    "title": "PwC×東電PG：課題抽出から生成AI開発",
+    "url": "https://www.pwc.com/jp/ja/knowledge/column/dataanalytics/nikkeibusiness10.html",
+    "kind": "公式国内顧客対談",
+    "published_at": "2025-08-18",
+    "checked_at": "2026-11-06",
+    "facts": "業務コンサルとDSが共同。全社のカイゼン×デジタル方針の下、共通AIの全社員展開と10件の業務PoC、点検資料検索等を開発。9割が本番導入へ進む予定。",
+    "limits": "PoC9割を実装完了率としない。共通AI配布と各部門の業務改革は別に数える。"
+  },
+  {
+    "id": "PW3",
+    "title": "PwC：28卒デジタル職最終募集",
+    "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "国内DC本選考最終募集を受付中。ESと職種登録2027年1月8日23:59 JST、Web適性検査1月11日23:59 JST。2027年10月・2028年4月／10月入社。",
+    "limits": "BC職の11月15日締切や海外選考と区別。締切は応募時に再確認。"
+  },
+  {
+    "id": "EY1",
+    "title": "EY AI&データ：事業戦略プロセスをAI化",
+    "url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-17/",
+    "kind": "公式国内匿名顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "大手サービス企業で事業開発の意思決定を生成AI/NLPで高度化。ビジネスと実装力を持つ少人数AI&データチームが構想・PoC・要件策定を担当。",
+    "limits": "本格実装・高度化は今後の予定。全社案件ではなく事業開発部門。"
+  },
+  {
+    "id": "EY2",
+    "title": "EY FS TC：生命保険のリスク検知AI",
+    "url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-21/",
+    "kind": "公式国内匿名顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "国内生保のDB・Power BI整備からリスク予測AI PoCへ継続。業務メンバーが仮説・評価観点、AI&Data専門家が特徴量・モデル・精度評価等を支援。",
+    "limits": "④は継続伴走の根拠。予測AIの全社本番稼働の証明ではない。"
+  },
+  {
+    "id": "EY3",
+    "title": "EY：ヘルスケア検査企業のAI・自動化",
+    "url": "https://www.ey.com/ja_jp/services/technology/how-one-health-care-testing-company-gets-results-with-ai",
+    "kind": "公式海外匿名顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "経営課題からEYとUiPathが協働し、事務から検体処理・結果報告等へAI/自動化を広げる。導入後の継続的な効果を公式事例として報告。",
+    "limits": "海外案件。日本のAI&Data部署の担当や全ての効果のAI単独寄与は不明。"
+  },
+  {
+    "id": "EY4",
+    "title": "EY Japan×味の素：AI-Readyデータガバナンス",
+    "url": "https://www.ey.com/ja_jp/newsroom/2026/06/ey-japan-news-release-2026-06-10-02",
+    "kind": "公式国内プレスリリース",
+    "published_at": "2026-06-10",
+    "checked_at": "2026-11-06",
+    "facts": "2026年1～3月にデータ・AI利活用のルール、標準等を支援し、非構造化データ活用に向けて整備。",
+    "limits": "主にリスクコンサルの根拠。AI&Dataの開発実績や全社実装完了に転用しない。"
+  },
+  {
+    "id": "EY5",
+    "title": "EYSC：2028新卒国内本選考",
+    "url": "https://www.eysc.jp/recruit/new_graduate/entry/new/index.html",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "国内28本選考を受付中。テクノロジーコンサルタント等の職種あり、学士・修士・博士が対象。日程詳細はMyPage。",
+    "limits": "Tech職選択とAI&Data／FS AI配属は別。デジタルエンジニアも別職種。"
+  },
+  {
+    "id": "KP1",
+    "title": "KPMG：DXA Data & AI",
+    "url": "https://recruit.kpmg-consulting.jp/info/dxa",
+    "kind": "公式組織・経験者職務",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "全社Data&AI戦略、データ構成設計、AIモデル設計・運用・評価を掲示。生成AIタスクフォースは部門横断で業務改革・開発・UX等を扱う。",
+    "limits": "新卒部署別募集ではない。バーチャル組織の存在だけで個人の参加を保証しない。"
+  },
+  {
+    "id": "KP2",
+    "title": "KPMG×UACJ：AI transformation支援",
+    "url": "https://kpmg.com/jp/ja/media/press-releases/2026/06/kc-uacj-aitransformation.html",
+    "kind": "公式国内プレスリリース",
+    "published_at": "2026-06-29",
+    "checked_at": "2026-11-06",
+    "facts": "経営方針に基づく生産性改善とAI推進体制、共通ツール、個別業務実装を支援。",
+    "limits": "全社改革を志向した進行案件。完了としない。"
+  },
+  {
+    "id": "KP3",
+    "title": "KPMG×UACJ：実用化と定着の課題",
+    "url": "https://kpmg.com/jp/ja/insights/2026/08/case-uacj.html",
+    "kind": "公式転載の顧客対談・広告",
+    "published_at": "2026-08",
+    "checked_at": "2026-11-06",
+    "facts": "8ユースケース中7件が実用段階。利用定着に課題がありヒアリング等を伴走。意図的に部分最適から開始し全体最適へ移る計画を明記。",
+    "limits": "効果は見込みを含む。全社改革達成としない。元記事は2026年6月29日の記事広告。"
+  },
+  {
+    "id": "KP4",
+    "title": "KPMG：国内新卒コンサルタント募集",
+    "url": "https://recruit.kpmg-consulting.jp/new-graduate/job-description",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "2026年4月以降卒業予定の大学・大学院生対象、国内コンサルタント入口を確認。東京・大阪。",
+    "limits": "28卒専用の現在受付・締切・DXA配属は公開頁では未確認。"
+  },
+  {
+    "id": "AC1",
+    "title": "Accenture：28卒5職種",
+    "url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+    "kind": "公式新卒採用・職務",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "28卒入口にAI＆Dataアーキテクト、ビジネスコンサルタント等を掲載しエントリー案内。AI職は課題分析・技術選定・構成・実装運用、BCは戦略に連動した変革を支援。",
+    "limits": "RDEは独立した第6職種ではない。案件・若手の①責任範囲は要確認。公開締切なし。"
+  },
+  {
+    "id": "AC2",
+    "title": "Accenture×明治安田：全社DXプログラム",
+    "url": "https://newsroom.accenture.jp/jp/news/2025/release-20250116",
+    "kind": "公式国内プレスリリース",
+    "published_at": "2025-01-16",
+    "checked_at": "2026-11-06",
+    "facts": "2030年3月までの全社横断DXプログラムを開始。生成AI等の実装と人材育成を組み合わせる。",
+    "limits": "開始発表であり、全社改革の成果完了ではない。"
+  },
+  {
+    "id": "AC3",
+    "title": "明治安田：パートナーシップの目的と担当",
+    "url": "https://www.meijiyasuda.co.jp/profile/news/release/2024/pdf/20250116_01.pdf",
+    "kind": "顧客公式プレスリリース",
+    "published_at": "2025-01-16",
+    "checked_at": "2026-11-06",
+    "facts": "専担組織の下で全社横断の検討・開発・業務実装と実践的人材育成を一体推進。投資・人材の数値は計画。",
+    "limits": "顧客確認を補強。Accentureの各新卒職種の担当内訳は記載なし。"
+  },
+  {
+    "id": "AC4",
+    "title": "明治安田：第78回総代会のAI進捗",
+    "url": "https://www.meijiyasuda.co.jp/profile/corporate_info/mutual/78/qa.html",
+    "kind": "顧客公式進捗",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "Accentureとの5年間の契約の下で生成AI等の本格的な業務実装を進めていると説明。",
+    "limits": "実装進行の補強。全社変革の完了報告ではない。"
+  },
+  {
+    "id": "NR1",
+    "title": "NRI：AI戦略コンサルタントの職務",
+    "url": "https://progres07.jposting.net/pgnri/u/job.phtml?job_code=465",
+    "kind": "公式経験者職務",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AI戦略コンサルティング部で新事業・全社業務改革・意思決定・人的資本などを支援。全社データ/AI戦略の立案・実行、AI業務構築を掲示。",
+    "limits": "経験者求人を新卒直接応募口にしない。"
+  },
+  {
+    "id": "NR2",
+    "title": "NRI：AI Field Transformer",
+    "url": "https://www.nri.com/jp/news/newsrelease/20260803_1.html",
+    "kind": "公式サービス・体制発表",
+    "published_at": "2026-08-03",
+    "checked_at": "2026-11-06",
+    "facts": "経営・AI戦略と現場での実装・運用を接続するAFTの提供を発表。",
+    "limits": "新サービスであり、実案件の達成実績とは別。"
+  },
+  {
+    "id": "NR3",
+    "title": "NRI：2025年度上期決算説明会・説明付き",
+    "url": "https://ir.nri.com/jp/ir/library/financial/main/00/teaserItems1/01113/linkList/02/link/20251030_financialresultspresentaionwithnote.pdf",
+    "kind": "公式IR・実績集約",
+    "published_at": "2025-10-30",
+    "checked_at": "2026-11-06",
+    "facts": "AIの本番業務適用案件が増加し、全社AI CoE・ビジネス変革・基盤・統制・人材等の要求へコンサルとソリューションが横断対応すると説明。",
+    "limits": "匿名の集約開示。特定顧客で全社変革を完了した裏付けは乏しい。"
+  },
+  {
+    "id": "NR4",
+    "title": "NRI：AI CoEの部門横断連携",
+    "url": "https://www.nri.com/jp/media/journal/20250818.html",
+    "kind": "公式組織・社内実践",
+    "published_at": "2025-08-18",
+    "checked_at": "2026-11-06",
+    "facts": "AI戦略コンサルティング部とAIソリューション推進部の責任者が、社内の情報共有・相談・専門家接続を説明。",
+    "limits": "社内の組織環境の根拠。顧客全社変革の実績には数えない。"
+  },
+  {
+    "id": "NR5",
+    "title": "NRI：2028新卒サイト",
+    "url": "https://working.nri.co.jp/recruit/2028/",
+    "kind": "公式新卒採用・インターン",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "28卒の国内入口と経営戦略コンサルティングの冬期インターンあり。2026年9月30日正午に応募締切済み。",
+    "limits": "インターンと本選考を区別。本選考受付・AI戦略部署の配属確約は未確認。"
+  },
+  {
+    "id": "NR6",
+    "title": "NRI：AI経営改革・実装サービス",
+    "url": "https://www.nri.com/jp/service/theme/ai/ai_management_reform.html",
+    "kind": "公式サービス",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AI戦略、AI CoE、データ、テーマ選定、PoC、開発、業務実装、運用改善を提供。",
+    "limits": "サービス提供範囲。個別の全社改革実績と区別。"
+  },
+  {
+    "id": "IG1",
+    "title": "IGPI DI：事業内容",
+    "url": "https://igpi-di.co.jp/business/",
+    "kind": "公式サービス",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AI・デジタルの影響評価、全社戦略、組織構築・運営、全社業務再設計、AIアルゴリズムの自社開発・共同研究を支援。",
+    "limits": "サービス説明と個別成果を分ける。採用リンクはIGPI共通サイトへ接続。"
+  },
+  {
+    "id": "IG2",
+    "title": "IGPI：国内新卒選考プロセス",
+    "url": "https://www.igpi.co.jp/recruit/igpi/process/",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "公開募集要項は2027年度、大学・大学院卒、東京のコンサルタント入口。",
+    "limits": "2028要項とIGPI DIへの新卒接続は未確認。グループ採用の存在だけでDI部門新卒を保証しない。"
+  },
+  {
+    "id": "OW1",
+    "title": "Oliver Wyman：Quotient",
+    "url": "https://www.oliverwyman.com/our-expertise/capabilities/digital/ai-consulting-quotient.html",
+    "kind": "公式サービス・匿名事例紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "戦略・業界知識とAI実装を組み合わせ、Agent Factory等を紹介。",
+    "limits": "現在取得版と検索インデックスで匿名事例表示に差がある。東京新卒とQuotientとの接続が未確認。"
+  },
+  {
+    "id": "OW2",
+    "title": "Oliver Wyman日本：新卒入口",
+    "url": "https://www.oliverwyman.com/jp/careers/entry-level.html",
+    "kind": "公式日本採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "日本のEntry-level採用から公式採用システムへ案内。",
+    "limits": "特定AI専門職の日本新卒募集とは別。"
+  },
+  {
+    "id": "OW3",
+    "title": "Oliver Wyman：March2028 Tokyo求人",
+    "url": "https://jp.linkedin.com/jobs/view/oliver-wyman-entry-level-consultant-march-2028-tokyo-at-oliver-wyman-4482816717",
+    "kind": "企業名義の外部求人",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "東京2028 Entry-level Consultant、国内大学・大学院2027年7月～2028年3月卒、11月25日23:59 JST締切との掲載。",
+    "limits": "公式採用システムの同一募集本文との突合未完。主一覧の確定期限には採用しない。"
+  },
+  {
+    "id": "MR1",
+    "title": "MRI：キリンの経営判断支援AI",
+    "url": "https://dx.mri.co.jp/cases/flying-butterfly-ai/",
+    "kind": "公式国内顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "経営企画の意思決定を支えるAIを共同構築し運用へ進める事例。",
+    "limits": "経営に近いテーマでも、対象は経営企画等のプロセス。全社業務・組織変革の証明とは分ける。"
+  },
+  {
+    "id": "MR2",
+    "title": "MRI：AIファーストコンサルティング",
+    "url": "https://dx.mri.co.jp/service/ai-first-consulting/",
+    "kind": "公式サービス",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AIを前提とする変革構想から実装・定着を支援。",
+    "limits": "個別顧客の全社改革の完了実績とは別。"
+  },
+  {
+    "id": "FO1",
+    "title": "Fortience：大阪国際がんセンターのAI導入",
+    "url": "https://www.fortience.com/company/newsroom/20260219/",
+    "kind": "公式国内プレスリリース",
+    "published_at": "2026-02-19",
+    "checked_at": "2026-11-06",
+    "facts": "病院全体の生成AI活用体制・ガバナンス・教育等のプロジェクト開始を発表。",
+    "limits": "開発の具体的参加・技術判断と、その後の全社改革達成は未確認。"
+  },
+  {
+    "id": "KA1",
+    "title": "Kearney：AI安全性評価環境の支援",
+    "url": "https://prtimes.jp/main/html/rd/p/000000106.000046861.html",
+    "kind": "企業公式配信プレスリリース",
+    "published_at": "2026-06-25",
+    "checked_at": "2026-11-06",
+    "facts": "政府のAI安全性評価環境について構想・検証等を支援。",
+    "limits": "企業全社変革・実装運用を結んだ実例ではない。"
+  },
+  {
+    "id": "NT1",
+    "title": "NTTデータ経営研究所：AIと香りの共創",
+    "url": "https://www.nttdata-strategy.com/newsrelease/news/250808-01/",
+    "kind": "公式実証発表",
+    "published_at": "2025-08-08",
+    "checked_at": "2026-11-06",
+    "facts": "NIU等の技術共創・実証を発表。",
+    "limits": "技術共創の例で、顧客全社のAI変革とは異なる。"
+  },
+  {
+    "id": "ZS1",
+    "title": "ZS：Technology Solutions Associate Japan",
+    "url": "https://jobs.zs.com/jobs/62610?lang=en-us",
+    "kind": "公式日本求人",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "東京／大阪のTechnology Solutions Associateを掲載。データ・AI・企業技術支援を含む。",
+    "limits": "28卒対象と①への軸足、全社変革における本人の接続は未確認。"
+  },
+  {
+    "id": "AL1",
+    "title": "AlixPartners：Agentic AIの顧客支援",
+    "url": "https://www.alixpartners.com/what-we-do/case-studies/agentic-ai-unlocks-400mplus-in-identified-cost-to-serve-savings/",
+    "kind": "公式海外匿名顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "コスト領域で実稼働のエージェントAIを用い削減機会を特定。",
+    "limits": "特定額は実現済み削減ではない。日本の大学院新卒入口を確認できず。"
+  },
+  {
+    "id": "FAS1",
+    "title": "KPMG FAS：2028新卒AIX",
+    "url": "https://recruit.kpmg-fas.jp/recruitinginformation-g.html",
+    "kind": "公式新卒採用",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "AIXの主対象はFAS内のM&A・戦略業務等のAI変革。",
+    "limits": "顧客企業の全社AI変革を担う希望とは異なる。KPMG Japan AiX横断体制と混同しない。"
+  },
+  {
+    "id": "RB1",
+    "title": "Roland Berger：フィジカルAI論考",
+    "url": "https://www.rolandberger.com/ja/Insights/Publications/日本企業がフィジカルAIをPoCで終わらせない4つの条件.html",
+    "kind": "公式知見記事",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "フィジカルAIの構想と実装・定着の論点を扱う。",
+    "limits": "知見記事のみで企業全社変革の担当実績を確定しない。"
+  },
+  {
+    "id": "AD1",
+    "title": "ADL：NEDOの画像認識技術関連資料",
+    "url": "https://www.nedo.go.jp/content/800024336.pdf",
+    "kind": "発注者公式実証資料",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "小売等でのAI技術実証への関わりを確認。",
+    "limits": "個社の全社変革と国内新卒の技術協働環境は別途未確認。"
+  },
+  {
+    "id": "IG3",
+    "title": "IGPI：データサイエンス組織を自走させる",
+    "url": "https://www.igpi.co.jp/case/case_01/",
+    "kind": "公式匿名顧客事例",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "顧客のデジタル組織に入り、全社データ棚卸し、案件設計、技術環境選択・整備、共同分析・AI開発、育成・現場調整を実施。構築AIは現場が業務へ組み込み運用。",
+    "limits": "全社DXの機運を高めた事例。全社全業務の変革完了ではない。顧客匿名・公開日不明。旧URLから現行URLを再発見。"
+  },
+  {
+    "id": "IG4",
+    "title": "IGPI：川上登福氏の役割・案件",
+    "url": "https://www.igpi.co.jp/member/kawakami-takayoshi/",
+    "kind": "公式担当者紹介",
+    "published_at": null,
+    "checked_at": "2026-11-06",
+    "facts": "デジタル・AIの戦略立案から実行を支援し、当該DS組織立ち上げ事例に関与すると明記。",
+    "limits": "幹部の担当と新卒の担当・配属を分ける。"
+  }
+]

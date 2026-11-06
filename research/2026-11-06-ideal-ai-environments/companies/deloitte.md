@@ -1,0 +1,101 @@
+<callout icon="🎯" color="blue_bg">
+主一覧｜総合｜確認日：<date start="2026-11-06" />
+
+**構想を担うDeployment StrategistとFDEの接続を、日本で明示している。**
+</callout>
+
+## 1. 今回見る環境と入口
+
+AI&Dataを中心とするAI戦略・データ／AI基盤・現場実装・運用への支援。
+
+| 候補ID | 部門・職務として見る環境 | ①との関係 | 仕事紹介 |
+| --- | --- | --- | --- |
+| DE-A | AI&DataのAI変革支援（DS×FDE連携を含む環境） | ①起点＋技術専門家との実装・運用接続 | [仕事内容](https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html) |
+
+DSとの関係：**○：分析・モデル評価・MLOps**。DSは加点であり必須条件ではない。
+
+## 2. 日本の大学・大学院新卒採用
+
+| 項目 | 確認できた情報 |
+| --- | --- |
+| 正式な応募入口 | コンサルタント職（コンサルティング） |
+| 対象 | 2028／国内の大学・大学院新卒入口あり |
+| 現在の表示 | **国内本選考受付中** |
+| 期限 | 公開期限なし／MyPage確認 |
+| 専門配属との関係 | AI&Data、Deployment Strategist／FDEへの配属は未確認 |
+| 募集情報リンク | [公式の募集・日程](https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html) |
+
+**受付表示と実際の申込可否は応募時に再確認する。** マイページ内部・本人の応募履歴は今回調べていない。経験者職務ページは仕事内容の根拠としてのみ使用する。
+
+## 3. 満たしていてほしいこと
+
+| 観点 | 条件 | 確認に使う情報 |
+| --- | --- | --- |
+| A_company／企業 | ①方針・構想を軸に、②設計・③導入実行・④定着運用改善へ実質的に関わる。 | 具体案件で担う技術判断・開発・導入・継続関与 |
+| A_person／自分の可能性 | ①に軸足を置き、実装側との協働を通じて自分の技術理解を深められる。 | 同じ案件のチーム構成、役割の協働、知見の往復 |
+| B_company／企業 | 全社の業務・組織・意思決定などを変革する環境がある。 | 顧客の目的・対象・活動・進行状態が分かる事例 |
+
+## 4. 実際の案件・発表で確認したこと
+
+### 1. SOMPO
+
+- **出典**：[デロイト：SOMPOのAIモデルテスト](https://www.deloitte.com/jp/ja/services/consulting/perspectives/ai-model-test.html)（2026-10-07）
+- **所在・対象範囲**：日本／全社・グループの統制＋モデル評価業務
+- **確認した活動**：グループのAIリスク管理に、技術的な検証・改善を結び付けた。
+- **進行状態**：モデルテスト・改善の実務
+- **この事例から言えないこと**：統制の全社性と、事業・組織全体の変革は別。
+
+### 2. Thomson Reuters
+
+- **出典**：[Deloitte：Thomson ReutersのAI/ML基盤](https://www.deloitte.com/us/en/what-we-do/case-studies/faster-iteration-or-tighter-governance-an-innovative-ai-ml-platform-supports-both.html)（公開日を特定できず）
+- **所在・対象範囲**：海外／全社AI/ML利用基盤
+- **確認した活動**：AI/MLモデルの監視・統制基盤を、アプリ開発・MLOpsを含むチームで構築。
+- **進行状態**：構築・利用
+- **この事例から言えないこと**：海外のDeloitte案件。日本の希望チームによる事業改革実績とは確定しない。
+
+## 5. 事実からの適合判断（Codexの解釈）
+
+### A_company：企業が担う工程と関与の程度
+
+①〜④の提供範囲に加え、評価・アプリ開発・MLOpsまで具体的活動がある。③④への実質関与を確認。
+
+確認先：[DE1](https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html) ／ [DE2](https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html) ／ [DE3](https://www.deloitte.com/jp/ja/services/consulting/perspectives/ai-model-test.html) ／ [DE4](https://www.deloitte.com/us/en/what-we-do/case-studies/faster-iteration-or-tighter-governance-an-innovative-ai-ml-platform-supports-both.html)
+
+### A_person：構想と実装がつながる環境からの推定
+
+DS×FDEの役割接続と顧客チームとの協働が手がかり。①を担いながら技術判断に触れる環境は有力と推定する。
+
+**これは本人の担当・全工程経験・配属の保証ではない。** 同一部署や一人での全工程担当は条件にしない。会社が両機能を持つだけで個人の接続を確定しない。
+
+### B_company：全社レベルの変革環境
+
+全社・グループのAI運営基盤を作る環境の根拠あり。全社事業・組織変革の具体例は、今回の2例だけでは補強が必要。
+
+共通AI基盤の展開、複数部門での実装、組織・事業の変革を分けて読む。違う顧客・海外・別法人の実績を、一つの日本案件の実績として合成しない。
+
+## 6. 面談・次の調査で確かめること
+
+- 日本のDS×FDE体制は発表段階の説明を含む。
+- 新卒が①を起点に技術実装チームへ関われる配置・評価制度は要確認。
+- 外部技術との連携あり。自社だけで完結することは条件にしない。
+- ①を担当した人が、③④の設計判断・品質・改善にどのような会議・成果物で関わるか。
+- ベンダーやモデルの選択が顧客課題を起点に行えるか。提携・自社製品の存在だけで中立性を保証しない。
+
+## 出典台帳
+
+- **DE1** [デロイト：AI&Data](https://www.deloitte.com/jp/ja/services/consulting/services/artificial-intelligence-and-data.html)｜公式サービス
+  - 確認事項：AI・データ戦略とアーキテクチャ、実装・利活用等を提供。技術記事・具体案件と合わせて評価。
+- **DE2** [デロイト日本：Deployment Strategist×FDE](https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html)｜公式体制発表｜2026-04-30
+  - 確認事項：経営価値・優先順位を担うDeployment Strategistと、アプリ・データ・基盤等へ入るFDEを接続する体制を発表。
+  - 限界：体制・育成の発表であり、顧客案件の完了実績や新卒専用採用枠ではない。DSはData Scientistではない。
+- **DE3** [デロイト：SOMPOのAIモデルテスト](https://www.deloitte.com/jp/ja/services/consulting/perspectives/ai-model-test.html)｜公式国内顧客対談｜2026-10-07
+  - 確認事項：SOMPOグループのAIガバナンスの下で、モデルテスト・検証・改善等の実務を支援。
+  - 限界：ガバナンスと品質評価の案件。AIシステム全体の構築や全社事業改革を完了したとはしない。
+- **DE4** [Deloitte：Thomson ReutersのAI/ML基盤](https://www.deloitte.com/us/en/what-we-do/case-studies/faster-iteration-or-tighter-governance-an-innovative-ai-ml-platform-supports-both.html)｜公式海外顧客事例
+  - 確認事項：顧客の全社的AI/ML利用に対し、アプリ開発とMLOpsの専門性を組み合わせモデル監視・統制の基盤を構築。顧客チームと協働して要望・設計を調整。
+  - 限界：US事例。全社AI利用基盤の実績であり、事業ポートフォリオ変革の証明ではない。
+- **DE5** [デロイト：2028コンサルティング新卒](https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html)｜公式新卒採用
+  - 確認事項：国内2028本選考を受付中。学士・修士・博士、2028年4月／10月入社、東京。公開国内締切なし。
+  - 限界：コンサルタント職入口。AI&DataやDS/FDEの配属保証なし。海外BCF締切を国内期限に転記しない。
+
+確認日：2026年11月6日。公式発信も自己申告・匿名化・予定を含む。調査上の候補化であり、本人の志望順位・応募の決定ではない。
