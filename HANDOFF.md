@@ -6,6 +6,8 @@
 
 ## 現在の目的と決定
 
+- **11/7・現在の論点**：[AI変革の記事トピックのすり合わせ](logs/2026-11-07-ai-transformation-article-scope.md)。本人は既存候補の公式記事を読み、AI活用のあるべき姿・企業への支援原則・将来像の共通点をNotionにまとめたい。まず方向性を議論中で、横断収集・Notion整理はまだ始めない。特にデロイトのAI Factoryと関連記事を重視。共有資料と関連対談を確認し、テーマ案を提示。新しい候補条件・将来予測・志望順位の確定ではない。
+
 - **11/7の記録点検済み**：[STATUS](research/2026-11-06-ideal-ai-environments/STATUS.md)を先に読む。11/6の調査・Notion・Sheet・Git反映は確認済み。OPERATIONSの旧タブ中心の説明、概念側の企業調査未実施表示、枠組みJSONの未着手フラグを補正。募集・配属・技術選択等の未確認は、保存やpushの未完と分けて管理する。[点検ログ](logs/2026-11-07-career-record-completion-audit.md)。
 
 - **議論の種として保存（11/6追補）**：[AI普及後に企業が求める支援内容](research/2026-11-06-consulting-structure-ai-architect/future-consulting-discussion-seed.md)。企業の実行力全体が均等になるとは置かず、AI時代の企業・事業戦略を扱う支援へ関心を広げる仮説を4軸で整理。志向・候補条件としての採用は未決定。後続の企業調査でも新たな必須条件には加えていない。
