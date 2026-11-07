@@ -1,0 +1,173 @@
+{
+  "parent_page_id": "410161f280978090a555d5f5eb53fd70",
+  "parent_url": "https://app.notion.com/p/410161f280978090a555d5f5eb53fd70",
+  "library_page_id": "411161f28097816293eafd03492f8672",
+  "library_url": "https://app.notion.com/p/411161f28097816293eafd03492f8672",
+  "company_pages": [
+    {
+      "key": "deloitte",
+      "page_id": "411161f2-8097-8149-9b30-d8e6d8254ec5",
+      "url": "https://app.notion.com/p/411161f2809781499b30d8e6d8254ec5",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "pwc",
+      "page_id": "411161f2-8097-81ed-b0c9-cfa2ba639286",
+      "url": "https://app.notion.com/p/411161f2809781edb0c9cfa2ba639286",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "ey",
+      "page_id": "411161f2-8097-8155-af49-fd34c02ce5f4",
+      "url": "https://app.notion.com/p/411161f280978155af49fd34c02ce5f4",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "kpmg",
+      "page_id": "411161f2-8097-81e3-9bef-ee1b8e00c4f8",
+      "url": "https://app.notion.com/p/411161f2809781e39befee1b8e00c4f8",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "accenture",
+      "page_id": "411161f2-8097-8196-9332-fa8186b299ac",
+      "url": "https://app.notion.com/p/411161f2809781969332fa8186b299ac",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "bcg",
+      "page_id": "411161f2-8097-814f-8488-dbd313d30271",
+      "url": "https://app.notion.com/p/411161f28097814f8488dbd313d30271",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "mckinsey",
+      "page_id": "411161f2-8097-811d-9fd2-daa0f735f5cf",
+      "url": "https://app.notion.com/p/411161f28097811d9fd2daa0f735f5cf",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "bain",
+      "page_id": "411161f2-8097-819f-92ec-c9c6f5bcdd81",
+      "url": "https://app.notion.com/p/411161f28097819f92ecc9c6f5bcdd81",
+      "source_count": 4,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "di",
+      "page_id": "411161f2-8097-81a3-9d3e-cae0e7d38618",
+      "url": "https://app.notion.com/p/411161f2809781a39d3ecae0e7d38618",
+      "source_count": 2,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "globe",
+      "page_id": "411161f2-8097-8144-97e7-ceceda77bd40",
+      "url": "https://app.notion.com/p/411161f28097814497e7ceceda77bd40",
+      "source_count": 4,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "nri",
+      "page_id": "411161f2-8097-8166-83aa-ea67145859ed",
+      "url": "https://app.notion.com/p/411161f28097816683aaea67145859ed",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "mri",
+      "page_id": "411161f2-8097-81cd-9270-ea9822e0aea4",
+      "url": "https://app.notion.com/p/411161f2809781cd9270ea9822e0aea4",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "kearney",
+      "page_id": "411161f2-8097-8169-a42f-c8ae526bc844",
+      "url": "https://app.notion.com/p/411161f280978169a42fc8ae526bc844",
+      "source_count": 1,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "adl",
+      "page_id": "411161f2-8097-81a5-b852-fdf9c6f087fb",
+      "url": "https://app.notion.com/p/411161f2809781a5b852fdf9c6f087fb",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    },
+    {
+      "key": "igpi",
+      "page_id": "411161f2-8097-8166-87fa-dcc979051882",
+      "url": "https://app.notion.com/p/411161f28097816687fadcc979051882",
+      "source_count": 3,
+      "all_source_urls_read_back": true,
+      "speaker_section": true,
+      "example_section": true,
+      "in_library": true,
+      "read_back": true
+    }
+  ]
+}
