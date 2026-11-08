@@ -2,6 +2,8 @@
 
 更新：2026年11月8日。Notion01〜06の正確性・全45表記・候補漏れを再点検。
 
+11/9追補：[04の全社導入・スケールの壁の議論](logs/2026-11-09-ai-enterprise-scaling-bottlenecks.md)。本人了承は「重要性の指摘＋事例・体制に方向性」。未来の必然・市場比率の増加は未確認。理由は業務/組織の相互依存。原文に本番化・横展開・経営成果への停滞の問題意識を再確認。議論中でNotionは未編集、企業候補・二条件は不変。
+
 開始時はGitルート・branch・origin・作業状態を確認し、`git pull --ff-only origin main`。[README](README.md) → [STRATEGY](STRATEGY.md) → [OPERATIONS](OPERATIONS.md)。別repo・無関係なファイルを操作しない。
 
 ## 最新の入口
