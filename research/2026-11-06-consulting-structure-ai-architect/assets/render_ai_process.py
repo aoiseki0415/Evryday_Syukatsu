@@ -15,7 +15,7 @@ def txt(x,y,s,size=36,bold=False,color=INK):
 def centered(x,y,s,size=36,bold=False,color=INK):
     f=font(size,bold);b=d.textbbox((0,0),s,font=f)
     d.text((x-(b[2]-b[0])/2,y-(b[3]-b[1])/2-b[1]),s,font=f,fill=color)
-txt(65,40,'A｜工程の「範囲」と「深さ」',61,True)
+txt(65,40,'A｜工程の範囲と関与の程度',61,True)
 txt(68,135,'色が付く工程の広がり＝範囲　／　色の濃さ＝関与の程度',35,color=MUTED)
 left=65;labelw=570;cw=385;top=225;head=104;rh=151
 LABELS={'strategy':'戦略コンサル','general':'総合コンサル','it':'ITコンサル','sier':'SIer'}

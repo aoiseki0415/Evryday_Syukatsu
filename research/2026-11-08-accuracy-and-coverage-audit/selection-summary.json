@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-11-08",
+  "main": 12,
+  "pending": 20,
+  "environments": 32,
+  "companies": 26,
+  "source_records": 314,
+  "unique_source_urls": 218,
+  "new_main": [
+    "AB-D",
+    "IB-A"
+  ],
+  "new_pending": [
+    "FO-A",
+    "PA-D",
+    "BY-A",
+    "ZS-BT",
+    "YC-DX",
+    "NT-S"
+  ],
+  "personal_ranking_or_application_decision": false
+}

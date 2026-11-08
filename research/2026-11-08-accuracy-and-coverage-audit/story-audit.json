@@ -1,0 +1,291 @@
+{
+  "checked_at": "2026-11-08",
+  "task": "01〜05の概念と外部根拠の独立監査",
+  "notion_edited": false,
+  "git_operated": false,
+  "scope": "指定7ファイルの全文、主要公式記事とIDC共通本文を再照合。募集・06個社判定は別担当。",
+  "snapshots": [
+    {
+      "path": "research/2026-11-08-two-ideal-environments/current.md",
+      "sha256": "b26710576787ac93f4074aa50df5d8512cd597aad3c16cb23b271d28523c843c",
+      "characters": 1966,
+      "read_scope": "full_text"
+    },
+    {
+      "path": "research/2026-11-08-two-ideal-environments/market.md",
+      "sha256": "cbd478402a715e143373456caf3ba0581f89c86719f581d87e37ec2da87b3a4c",
+      "characters": 11248,
+      "read_scope": "full_text"
+    },
+    {
+      "path": "research/2026-11-08-two-ideal-environments/personal.md",
+      "sha256": "1fb2f3a8f64a0246066cf9a2972027061b8bcb51a41d5bf05bbd4925cee86ec7",
+      "characters": 1535,
+      "read_scope": "full_text"
+    },
+    {
+      "path": "research/2026-11-08-two-ideal-environments/future.md",
+      "sha256": "ee6e6cdd264537504ff2928108364cba101a48009a3ac72b7c7d061126557f8e",
+      "characters": 3212,
+      "read_scope": "full_text"
+    },
+    {
+      "path": "research/2026-11-08-two-ideal-environments/ideals.md",
+      "sha256": "95b402cdad484fa677e07b4eb43b0607af6ff6d7e7b5dd67beb69b10f2822647",
+      "characters": 2959,
+      "read_scope": "full_text"
+    },
+    {
+      "path": "research/2026-11-08-two-ideal-environments/story-evidence.md",
+      "sha256": "47cc2ca81f5fb207756ddc5000e5222e386968007ab6cde4ea3e784d6eb5bceb",
+      "characters": 5090,
+      "read_scope": "full_text"
+    },
+    {
+      "path": "research/2026-11-08-two-ideal-environments/story-evidence.json",
+      "sha256": "c78596cf9d8130c74d1ad422bb98cf55118625874f9b3caefdbecc2df8c81b2b",
+      "characters": 13624,
+      "read_scope": "full_text"
+    }
+  ],
+  "overall": "重大な原文誤引用・著者日付誤りは未発見。必須の呼称変更と、推論の強さを明確にする補足を提案。",
+  "findings": [
+    {
+      "id": "SA-01",
+      "severity": "required_user_terminology_update",
+      "confidence": "high",
+      "locations": [
+        {
+          "file": "market.md",
+          "text": "AI変革支援へ当てはめる"
+        },
+        {
+          "file": "personal.md",
+          "text": "全社レベルのAI変革を支援したい"
+        },
+        {
+          "file": "future.md",
+          "text": "関連ページ・ページ名"
+        },
+        {
+          "file": "ideals.md",
+          "text": "04｜今後求められるAI変革支援"
+        }
+      ],
+      "issue": "ユーザーは議論の呼称としてAI変革を拒否し、AI導入支援へ改称を指示。監査対象スナップショットには旧称が残る。",
+      "proposed_fix": "説明文・ページ見出し・リンク表示名をAI導入支援へ統一。原記事の正式題名、直接引用、歴史として記録した過去の呼称は機械置換しない。",
+      "definition_proposal": "顧客の目的に応じたAI導入の構想・設計・開発実装・定着運用改善と、それに伴い必要となる戦略・業務・人材組織・データ・統制の再設計までを含む支援。",
+      "source_kind": "current_user_instruction",
+      "source_urls": [
+        "https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381"
+      ],
+      "not_a_source_factual_error": true
+    },
+    {
+      "id": "SA-02",
+      "severity": "clarification_recommended",
+      "confidence": "high",
+      "locations": [
+        {
+          "file": "future.md",
+          "text": "対象範囲が広がるほど、再設計する領域と整合性が広がる"
+        },
+        {
+          "file": "ideals.md",
+          "text": "戦略・事業、業務、人材・組織、技術・データ、統制の知見を企業・チームとして持ち"
+        }
+      ],
+      "issue": "複数領域の整合という提言は裏付けられるが、対象範囲と必要領域数の比例関係や、全案件で全領域を再設計する必須条件を証明したわけではない。現本文も小さな業務導入で同じ領域を考慮すると留保しており、重大な誤りではない。",
+      "proposed_fix": "見出しを「全社の成果へつなぐには、関連領域の整合が重要になる」等へ。05へ「案件の目的に応じて必要な専門性を組み合わせる。毎案件で全領域を同時に再設計するという条件ではない」と補う。",
+      "source_kind": "official_expert_views_and_auditor_reasoning",
+      "source_urls": [
+        "https://dx.mri.co.jp/column/column-1203/",
+        "https://www.mckinsey.com/jp/our-insights/the-ai-transformation-manifesto",
+        "https://www.bain.com/insights/want-more-out-of-your-ai-investments-think-people-first/"
+      ],
+      "source_locators": [
+        "MRI：AIファーストで変わる4領域／最初に確認したい3つ",
+        "McKinsey：重要ドメイン選定／日本語版末尾の一領域で型を確立後に横展開",
+        "Bain：critical few workflows／機能横断チーム"
+      ]
+    },
+    {
+      "id": "SA-03",
+      "severity": "clarification_optional",
+      "confidence": "medium",
+      "locations": [
+        {
+          "file": "market.md",
+          "text": "全社｜会社全体、または複数事業を横断する方針・仕組み"
+        }
+      ],
+      "issue": "複数事業に関係するだけで全社と判定すると、特定事業群や一業務の横断案件も全社改革へ過大分類し得る。本文には部門横断業務や全社基盤との区別もあり、定義の境界をもう少し明示できる。",
+      "proposed_fix": "全社は会社全体の方針・共通運営・資源配分等を対象とすることを軸に定義し、「複数事業にまたがるだけで自動的に全社とはしない」と補足。",
+      "source_kind": "internal_framework_consistency",
+      "source_urls": [
+        "https://app.notion.com/p/412161f2809781b69958c04be397d445",
+        "https://dx.mri.co.jp/column/column-1203/"
+      ],
+      "not_external_standard_definition": true
+    },
+    {
+      "id": "SA-04",
+      "severity": "terminology_consistency_optional",
+      "confidence": "high",
+      "locations": [
+        {
+          "file": "personal.md",
+          "text": "③開発・実装、④運用・改善"
+        },
+        {
+          "file": "ideals.md",
+          "text": "③開発・実装や④運用・改善"
+        }
+      ],
+      "issue": "共通4工程の正式ラベル③導入・実行、④定着・運用・改善と、AI支援内の具体活動の短縮名が混在。工程を新たに変えたわけではないが名称を揃えられる。",
+      "proposed_fix": "「③導入・実行（開発・実装等）、④定着・運用・改善」と初出で表示し、以後番号で略す。",
+      "source_kind": "agreed_internal_framework",
+      "source_urls": [
+        "https://app.notion.com/p/412161f2809781a3bb42f325f75b2019"
+      ]
+    },
+    {
+      "id": "SA-05",
+      "severity": "visual_terminology_check",
+      "confidence": "medium",
+      "locations": [
+        {
+          "file": "current.md",
+          "text": "Aの埋込図"
+        },
+        {
+          "file": "../2026-11-06-consulting-structure-ai-architect/assets/ai-process-involvement.png",
+          "text": "A｜工程の「範囲」と「深さ」"
+        }
+      ],
+      "issue": "本文は関与の程度へ統一済みだが、対応するrepo画像の主題には深さが残る。監査ではrepo画像を視認し、Notion埋込バイナリとの同一性は未検証。",
+      "proposed_fix": "Notion画像を確認し、同じ表題なら「工程の範囲と関与の程度」へ統一する。記号や4段階の評価値を変える提案ではない。",
+      "source_kind": "local_asset_visual_inspection",
+      "source_urls": [
+        "https://app.notion.com/p/412161f2809781e4a1fada29734b8331"
+      ],
+      "notion_binary_identity_verified": false
+    }
+  ],
+  "passes": [
+    {
+      "check": "カテゴリー×工程の断定",
+      "result": "pass_with_explicit_heuristic_label",
+      "detail": "01は暫定仮説・非統計・会社部門差を明示。公式サービスは対応可能性の存在のみの根拠であり全セルの頻度を実証しないと記述。",
+      "sources": [
+        "https://www.mckinsey.com/capabilities/implementation/how-we-help-clients",
+        "https://www.pwc.com/jp/ja/services/consulting/people-change-management/personnel-system.html"
+      ]
+    },
+    {
+      "check": "①同程度の意味",
+      "result": "pass",
+      "detail": "02は比較を簡単にする仮定と明記。各社同じ①能力を測定したという主張ではない。"
+    },
+    {
+      "check": "一気通貫と自社完結",
+      "result": "pass",
+      "detail": "02は関与の程度を自社完結率と分離。03/05は外部パートナー協働も評価し、個人全工程を求めない。"
+    },
+    {
+      "check": "将来の提言と確定事実",
+      "result": "pass",
+      "detail": "04と根拠台帳は専門家が提言する事実と確定未来・市場多数派を分離。",
+      "sources": [
+        "https://dx.mri.co.jp/column/column-1203/",
+        "https://www.mckinsey.com/jp/our-insights/the-ai-transformation-manifesto",
+        "https://www.deloitte.com/jp/ja/services/consulting/perspectives/roundtable-human-resources-ai-03.html",
+        "https://www.bcg.com/publications/2026/the-formula-for-agentic-ai-value"
+      ]
+    },
+    {
+      "check": "ガバナンス第三柱化",
+      "result": "pass",
+      "detail": "04の領域表と補足、05理想①内の一領域。自律性・権限・影響を理由に含め全社化だけの因果にしない。",
+      "sources": [
+        "https://kpmg.com/jp/ja/insights/2026/07/interview-servicenow-ai.html"
+      ]
+    },
+    {
+      "check": "03→05のストーリー",
+      "result": "pass",
+      "detail": "理想①は外部見解→本人全社志向→必要な専門性→協働環境。理想②は本人研究経験→技術実践の知見→①構想へ。個人経験は記事から推測しない。"
+    },
+    {
+      "check": "主要記事の著者・日付",
+      "result": "pass",
+      "detail": "再確認した主資料で重大な氏名・日付誤記は発見なし。KPMGは7/31転載、6/10が元記事。掲載時の所属として読む。"
+    },
+    {
+      "check": "IDCの解釈",
+      "result": "pass",
+      "detail": "世界AIサービスUS52978525(e)、現在能力＋3〜5年戦略、n=72重要度と個社評価の別、同一報告書4抜粋の重複を正確に分離。",
+      "sources": [
+        "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/about-us/analyst-relations/documents/ey-gl-idc-marketscape-worldwide-artificial-intelligence-services-2025-vendor-assessment-08-2025.pdf"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://dx.mri.co.jp/column/column-1203/",
+      "checked_at": "2026-11-08",
+      "review_scope": "主要段落・FAQを再取得、先行同日全文確認と照合"
+    },
+    {
+      "url": "https://www.mckinsey.com/jp/our-insights/the-ai-transformation-manifesto",
+      "checked_at": "2026-11-08",
+      "review_scope": "主要日本語版解説を再取得、先行同日12項目＋7論点全文確認と照合"
+    },
+    {
+      "url": "https://www.deloitte.com/jp/ja/services/consulting/perspectives/roundtable-human-resources-ai-03.html",
+      "checked_at": "2026-11-08",
+      "review_scope": "主要本文・話者情報を再取得、先行同日記事全文確認と照合"
+    },
+    {
+      "url": "https://www.bain.com/insights/want-more-out-of-your-ai-investments-think-people-first/",
+      "checked_at": "2026-11-08",
+      "review_scope": "主要本文・日付著者を再取得、先行同日記事全文確認と照合"
+    },
+    {
+      "url": "https://www.bcg.com/publications/2026/the-formula-for-agentic-ai-value",
+      "checked_at": "2026-11-08",
+      "review_scope": "戦略とApplied AIの主要段落を再取得、先行同日本文FAQ確認と照合"
+    },
+    {
+      "url": "https://kpmg.com/jp/ja/insights/2026/07/interview-servicenow-ai.html",
+      "checked_at": "2026-11-08",
+      "review_scope": "主要対談本文・話者と転載日を再取得、先行同日記事全文確認と照合"
+    },
+    {
+      "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/about-us/analyst-relations/documents/ey-gl-idc-marketscape-worldwide-artificial-intelligence-services-2025-vendor-assessment-08-2025.pdf",
+      "checked_at": "2026-11-08",
+      "review_scope": "EY公開11頁抜粋の共通本文・方法・n=72記載を再取得。4社PDF全再取得の監査ではない。"
+    },
+    {
+      "url": "https://www.mckinsey.com/capabilities/implementation/how-we-help-clients",
+      "checked_at": "2026-11-08",
+      "review_scope": "一般実行支援の提供範囲を再取得"
+    },
+    {
+      "url": "https://www.pwc.com/jp/ja/services/consulting/people-change-management/personnel-system.html",
+      "checked_at": "2026-11-08",
+      "review_scope": "人事戦略〜制度設計・導入・運用の提供範囲を再取得"
+    },
+    {
+      "url": "https://www.bcg.com/x/",
+      "checked_at": "2026-11-08",
+      "review_scope": "公式ページ取得。全ページの再精読は実施せず先行ノートの技術支援存在の補助"
+    }
+  ],
+  "limitations": [
+    "Notion保存後の本文・図のバイナリ同一性は今回未検証",
+    "44記事を今回すべて独立に再精読したという監査ではない",
+    "図のカテゴリー頻度や関与4段階を統計として検証したものではない",
+    "元記事の正式題名・直接引用はAI導入支援へ改称しない"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "checked_at": "2026-11-08",
+  "scope": "既存6profileのみ。全体ページ・新候補profile・赤緑記事ページは親タスク担当。",
+  "result": "6件すべて本文再取得で訂正/追補を確認",
+  "updates": [
+    {
+      "key": "de",
+      "page_id": "410161f28097810db713f7be6a311ea3",
+      "url": "https://app.notion.com/p/410161f28097810db713f7be6a311ea3?pvs=204",
+      "title": "デロイト トーマツ｜AI導入の環境・実案件・新卒入口",
+      "checks": {
+        "appendix_once": true,
+        "child_page_tags_preserved": true,
+        "red_green_spans_preserved": true,
+        "old_history_preserved": true,
+        "existing_history_exactly_preserved": true
+      },
+      "all_checks_passed": true,
+      "before_length": 9244,
+      "after_length": 9802,
+      "before_red_green_count": 0,
+      "after_red_green_count": 0,
+      "before_child_page_tags": [],
+      "after_child_page_tags": [],
+      "last_edited_at": "2026-11-08T12:03:34.915Z",
+      "method": "fetch→最小本文訂正/末尾追補→fetch本文と既存子ページ・赤緑spanの保持確認"
+    },
+    {
+      "key": "pw",
+      "page_id": "410161f28097818ca3dccf7f97240fc7",
+      "url": "https://app.notion.com/p/410161f28097818ca3dccf7f97240fc7?pvs=204",
+      "title": "PwCコンサルティング｜AI導入の環境・実案件・新卒入口",
+      "checks": {
+        "appendix_once": true,
+        "child_page_tags_preserved": true,
+        "red_green_spans_preserved": true,
+        "old_history_preserved": true,
+        "current_name": true,
+        "old_DAX_marked_history": true,
+        "existing_history_exactly_preserved": true
+      },
+      "all_checks_passed": true,
+      "before_length": 8581,
+      "after_length": 9459,
+      "before_red_green_count": 0,
+      "after_red_green_count": 0,
+      "before_child_page_tags": [],
+      "after_child_page_tags": [],
+      "last_edited_at": "2026-11-08T12:03:35.644Z",
+      "method": "fetch→最小本文訂正/末尾追補→fetch本文と既存子ページ・赤緑spanの保持確認"
+    },
+    {
+      "key": "ey",
+      "page_id": "410161f28097818d833cf0e8c4e87058",
+      "url": "https://app.notion.com/p/410161f28097818d833cf0e8c4e87058?pvs=204",
+      "title": "EYストラテジー・アンド・コンサルティング｜AI導入の環境・実案件・新卒入口",
+      "checks": {
+        "appendix_once": true,
+        "child_page_tags_preserved": true,
+        "red_green_spans_preserved": true,
+        "old_history_preserved": true,
+        "existing_history_exactly_preserved": true
+      },
+      "all_checks_passed": true,
+      "before_length": 11818,
+      "after_length": 12490,
+      "before_red_green_count": 0,
+      "after_red_green_count": 0,
+      "before_child_page_tags": [],
+      "after_child_page_tags": [],
+      "last_edited_at": "2026-11-08T12:03:36.483Z",
+      "method": "fetch→最小本文訂正/末尾追補→fetch本文と既存子ページ・赤緑spanの保持確認"
+    },
+    {
+      "key": "kp",
+      "page_id": "410161f2809781e0a775d28b4fd3317b",
+      "url": "https://app.notion.com/p/410161f2809781e0a775d28b4fd3317b?pvs=204",
+      "title": "KPMGコンサルティング｜AI導入の環境・実案件・新卒入口",
+      "checks": {
+        "appendix_once": true,
+        "child_page_tags_preserved": true,
+        "red_green_spans_preserved": true,
+        "old_history_preserved": true,
+        "existing_history_exactly_preserved": true
+      },
+      "all_checks_passed": true,
+      "before_length": 9159,
+      "after_length": 9859,
+      "before_red_green_count": 0,
+      "after_red_green_count": 0,
+      "before_child_page_tags": [],
+      "after_child_page_tags": [],
+      "last_edited_at": "2026-11-08T12:03:37.280Z",
+      "method": "fetch→最小本文訂正/末尾追補→fetch本文と既存子ページ・赤緑spanの保持確認"
+    },
+    {
+      "key": "ac",
+      "page_id": "410161f280978120b5c1f963596ed33e",
+      "url": "https://app.notion.com/p/410161f280978120b5c1f963596ed33e?pvs=204",
+      "title": "アクセンチュア｜AI導入の環境・実案件・新卒入口",
+      "checks": {
+        "appendix_once": true,
+        "child_page_tags_preserved": true,
+        "red_green_spans_preserved": true,
+        "old_history_preserved": true,
+        "current_job_title": true,
+        "no_current_TfLS": true,
+        "existing_history_exactly_preserved": true
+      },
+      "all_checks_passed": true,
+      "before_length": 13463,
+      "after_length": 14370,
+      "before_red_green_count": 0,
+      "after_red_green_count": 0,
+      "before_child_page_tags": [],
+      "after_child_page_tags": [],
+      "last_edited_at": "2026-11-08T12:03:37.992Z",
+      "method": "fetch→最小本文訂正/末尾追補→fetch本文と既存子ページ・赤緑spanの保持確認"
+    },
+    {
+      "key": "fas",
+      "page_id": "412161f2809781049973fabad0ca013f",
+      "url": "https://app.notion.com/p/412161f2809781049973fabad0ca013f?pvs=204",
+      "title": "🔎 KPMG FAS CVA｜顧客企業へのAI導入との適合・28院卒入口",
+      "checks": {
+        "appendix_once": true,
+        "child_page_tags_preserved": true,
+        "red_green_spans_preserved": true,
+        "old_history_preserved": true,
+        "rechecked_date": true,
+        "separate_deadlines": true,
+        "existing_history_exactly_preserved": true
+      },
+      "all_checks_passed": true,
+      "before_length": 3857,
+      "after_length": 4643,
+      "before_red_green_count": 0,
+      "after_red_green_count": 0,
+      "before_child_page_tags": [],
+      "after_child_page_tags": [],
+      "last_edited_at": "2026-11-08T12:03:38.877Z",
+      "method": "fetch→最小本文訂正/末尾追補→fetch本文と既存子ページ・赤緑spanの保持確認"
+    }
+  ],
+  "notes": [
+    "記事の正式タイトル・引用と旧履歴を保持。PwCの現行部門正式名、ACの現行求人名、FAS再確認日を最小訂正。",
+    "初回insert_contentはnew_strでvalidation errorとなり、contentへ修正後6件成功。失敗呼出しにページ変更なし。",
+    "この6profileの赤緑spanと子ページtagは元から0。履歴全文の一致も比較。別記事ページの色や既存子ページは編集していない。"
+  ]
+}

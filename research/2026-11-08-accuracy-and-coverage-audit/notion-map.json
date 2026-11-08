@@ -1,0 +1,58 @@
+{
+  "01": "412161f2809781b69958c04be397d445",
+  "03": "412161f280978190a584ee4379f61ec1",
+  "04": "412161f28097817cb32de6b7da86fb74",
+  "05": "412161f280978182bbcbcf0f5ee9f025",
+  "00": "412161f2809781a3bb42f325f75b2019",
+  "02": "412161f2809781e4a1fada29734b8331",
+  "references": "412161f2809781409081dade9ded02df",
+  "06": "410161f280978090a555d5f5eb53fd70",
+  "root": "40f161f280978009a9a0f7ba92ea2381",
+  "profiles": {
+    "deloitte": "410161f28097810db713f7be6a311ea3",
+    "pwc": "410161f28097818ca3dccf7f97240fc7",
+    "ey": "410161f28097818d833cf0e8c4e87058",
+    "kpmg": "410161f2809781e0a775d28b4fd3317b",
+    "accenture": "410161f280978120b5c1f963596ed33e",
+    "bcg": "410161f2809781439408eb8d6753c618",
+    "mckinsey": "410161f2809781618229fb11a280bd1b",
+    "bain": "410161f28097812dacb2fe5d2dd8ffdb",
+    "di": "410161f28097819a8a52ce135a8a71c4",
+    "globe": "410161f2809781ceb1dde28803a47b22",
+    "nri": "410161f280978150a1eee42cd1410b4b",
+    "mri": "410161f28097814288dbf1798fd5bd53",
+    "kearney": "412161f28097810b9b06c7173b47ebb3",
+    "adl": "412161f28097815ea4afc350daf0fd7a",
+    "igpi": "410161f2809781b18a46c7a142958b6b",
+    "rolandberger": "412161f28097814da656db1e87cb93d0",
+    "oliverwyman": "412161f280978132ae9dd313c511559f",
+    "kpmg_fas": "412161f2809781049973fabad0ca013f",
+    "abeam": "412161f2809781e184c2f451f0e4a2bb",
+    "ibm": "412161f28097819ab39bc94f28f766db",
+    "fortience": "412161f2809781a39206cac34516b996",
+    "pwc-advisory": "412161f28097815395d9ebabb79d2aa8",
+    "baycurrent": "412161f2809781369dced3f2ee2e6a04",
+    "zs": "412161f2809781a38e96c0e2bcf4718c",
+    "ycp": "412161f2809781669694fd624f56a774",
+    "nttdata_strategy": "412161f280978103b75fee3d1a048025"
+  },
+  "additional_evidence": "412161f2809781fdb0f8ff84831c269f",
+  "story_detail": "412161f2809781f5bd8fe9246d3131cd",
+  "exploration": "412161f2809781f7ababd51209e7d26a",
+  "before_current_archive": "412161f2809781f3906dcbb78f814b11",
+  "accuracy_audit": "412161f28097814eac30f453883e0aee",
+  "audit_details": [
+    {
+      "name": "general-audit.md",
+      "id": "412161f280978149ba12c4d9f6fa719e"
+    },
+    {
+      "name": "strategy-audit.md",
+      "id": "412161f280978184a01aeec3721b3a25"
+    },
+    {
+      "name": "coverage-final.md",
+      "id": "412161f2809781f5a170cea717ddac50"
+    }
+  ]
+}
