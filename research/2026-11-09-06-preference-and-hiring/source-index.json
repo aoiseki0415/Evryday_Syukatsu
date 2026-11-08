@@ -1,7 +1,7 @@
 {
   "checked_at": "2026-11-09",
-  "records": 75,
-  "unique_urls": 72,
+  "records": 78,
+  "unique_urls": 75,
   "sources": [
     {
       "id": "DE-1",
@@ -929,6 +929,30 @@
       "limit": "資料索引自体は顧客業務の証拠ではない。",
       "checked_at": "2026-11-09",
       "official": true
+    },
+    {
+      "id": "MK-TECHAI-STRUCTURE-1109",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients",
+      "title": "Tech & AI at McKinsey",
+      "kind": "公式提供内容",
+      "fact": "戦略・技術実装・組織能力形成を紹介。",
+      "checked_at": "2026-11-09"
+    },
+    {
+      "id": "MK-STRUCTURE-INTERVIEW-1109",
+      "url": "https://www.concord-career.com/interview/mck26/",
+      "title": "Tech & AIの実像・斉藤基氏ら本人インタビュー",
+      "kind": "外部採用媒体の社員一次証言",
+      "fact": "旧Digitalの再編と、専門組織・職種・ブランドの違い。独立評価ではない。",
+      "checked_at": "2026-11-09"
+    },
+    {
+      "id": "MK-TECHAI-CAREERS-1109",
+      "url": "https://www.mckinsey.com/careers/our-roles/tech-and-ai",
+      "title": "Tech & AI careers",
+      "kind": "公式キャリア紹介",
+      "fact": "顧客向けAI支援と社内技術職を掲載。",
+      "checked_at": "2026-11-09"
     }
   ]
 }

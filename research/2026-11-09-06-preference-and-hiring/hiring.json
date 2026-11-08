@@ -61,7 +61,7 @@
     },
     {
       "id": "MK-D",
-      "flag": "🟡 Digitalの28扱い要確認",
+      "flag": "🟡 Tech & AIの28扱い要確認",
       "color": "yellow_bg",
       "entry": "一般BA／別求人：BA – Tech & AI",
       "status": "一般BAの28夏5/31・冬9/15は終了。Tech & AIの日本求人・専用応募先あり。ただし28卒選考としての受付・締切は未確認。",
@@ -109,11 +109,28 @@
     },
     {
       "id": "AD-A",
-      "flag": "🔴 夏回終了／次回未確認",
-      "color": "red_bg",
+      "flag": "夏：🔴 終了／冬：🟡 案内待ち",
+      "color": "yellow_bg",
       "entry": "東京オフィス一般新卒（戦略コンサルタント）",
-      "status": "28卒・大学院生対象の国内新卒制度あり。夏は2026/5/17 23:59締切済み。28冬・追加回の現在受付は未確認。",
-      "url": "https://www.adlittle.com/jp-ja/apply"
+      "status": "夏：2026/5/17 23:59締切済み。冬：過去の年2回実施から今後もありそうという本人見解を踏まえ案内待ち。28冬の正式告知・日程・受付は未確認。",
+      "url": "https://www.adlittle.com/jp-ja/apply",
+      "round_statuses": [
+        {
+          "round": "28夏",
+          "status": "受付終了",
+          "evidence_type": "公式確認",
+          "deadline": "2026-05-17T23:59:00+09:00"
+        },
+        {
+          "round": "28冬",
+          "status": "正式案内待ち",
+          "outlook": "今後実施の可能性あり",
+          "evidence_type": "本人の過去実施に基づく見通し",
+          "official_announcement_verified": false,
+          "opens_at": null,
+          "deadline": null
+        }
+      ]
     }
   ],
   "specialist_routes": [
@@ -145,7 +162,8 @@
         "MK-DIGITAL-FAQ-1109",
         "MK-DOMESTIC-1109",
         "MK-28-1109"
-      ]
+      ],
+      "current_organization_display": "Tech & AI（旧McKinsey Digital）"
     },
     {
       "id": "MK-TECHAI-BA-113784",
@@ -175,7 +193,8 @@
       "source_ids": [
         "MK-BA-TECHAI-1109",
         "MK-BA-TECHAI-APPLY-1109"
-      ]
+      ],
+      "current_organization_display": "Tech & AI（旧McKinsey Digital）"
     },
     {
       "id": "MK-TECHAI-EXPERIENCED",
@@ -198,7 +217,8 @@
       "source_ids": [
         "MK-JA-TECHAI-1109",
         "MK-AS-TECHAI-1109"
-      ]
+      ],
+      "current_organization_display": "Tech & AI（旧McKinsey Digital）"
     },
     {
       "id": "BC-GENERAL-28",
@@ -337,5 +357,6 @@
     "di-reassessment.json",
     "adl-reassessment.json"
   ],
-  "additional_reassessment": "DIの通常夏冬新規受付終了を再確認。ADLの国内院生28制度・夏終了/次回未確認を補強。"
+  "additional_reassessment": "DIの通常夏冬新規受付終了を再確認。ADLの国内院生28制度・夏終了/次回未確認を補強。",
+  "terminology_note": "専門組織Tech & AI、職種/キャリア、QuantumBlackブランドを分離。28資格・個人担当は別確認。根拠：logs/2026-11-09-mckinsey-tech-ai-structure.md"
 }

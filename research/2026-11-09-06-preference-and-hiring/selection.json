@@ -53,5 +53,9 @@
     "personal_preference": "↗ 再評価中",
     "assessment": "積極比較へ上げる合理的材料あり",
     "source": "di-reassessment.json"
-  }
+  },
+  "display_names": {
+    "MK-D": "McKinsey／Tech & AI（旧Digital）×QuantumBlack"
+  },
+  "adl_personal_preference": "↗ 再評価中（本人の追加指定）"
 }

@@ -106,9 +106,10 @@
       "id": "AD-A",
       "company": "アーサー・ディ・リトル",
       "level": null,
-      "label": "未評価",
-      "color": "gray_bg",
-      "reason": "本人が条件適合なら追加を依頼。調査上の主推薦であり本人の志望段階は未指定。"
+      "label": "↗ 再評価中",
+      "color": "orange_bg",
+      "reason": "本人が今回ADLも再評価中と指定。主一覧への推薦は維持し、最終志望段階・応募判断は未確定。",
+      "previous_label": "未評価"
     }
   ]
 }

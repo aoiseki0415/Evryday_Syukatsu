@@ -11,12 +11,12 @@
       "main_children_preserved": true,
       "old_links_in_profiles_preserved": true,
       "di_review_not_fixed_tier": true,
-      "adl_personal_not_evaluated": true,
       "recruitment_mk28_separated": true,
       "bcgx_two_job_links": true,
       "colors_saved": true,
       "all_profiles_current_dates": true,
-      "pending_table_cells_valid": true
+      "pending_table_cells_valid": true,
+      "adl_personal_reassessment": true
     },
     "main_ids": [
       "DE-A",
@@ -367,11 +367,12 @@
     }
   },
   "repository": {
-    "source_records": 75,
-    "unique_urls": 72,
+    "source_records": 78,
+    "unique_urls": 75,
     "main_count": 13,
     "pending_count": 19,
     "total_environments": 32,
     "peer_review": "重大な誤りなし。ADLの同一案件事実を公式再確認。HANDOFFの過去20→現在19の経緯を追補。"
-  }
+  },
+  "current_wording_followup": "wording-update-verification.json"
 }

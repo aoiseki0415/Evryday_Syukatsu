@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-11-09",
+  "scope": "ADLの志望度・夏冬表示、McKinsey Tech & AIの名称・組織説明",
+  "checks": {
+    "main13": true,
+    "adl_review": true,
+    "adl_seasons": true,
+    "mck_current_name": true,
+    "mck_structure": true,
+    "mck_28_unconfirmed": true,
+    "adl_profile_seasons": true
+  },
+  "readback": [
+    {
+      "page_id": "410161f280978090a555d5f5eb53fd70",
+      "child_pages_preserved": true,
+      "missing_content_links": [],
+      "page_last_edited_at": "2026-11-08T17:24:18.936Z",
+      "metadata": {
+        "type": "page"
+      }
+    },
+    {
+      "page_id": "410161f2809781618229fb11a280bd1b",
+      "child_pages_preserved": true,
+      "missing_content_links": [],
+      "page_last_edited_at": "2026-11-08T17:24:50.620Z",
+      "metadata": {
+        "type": "page"
+      }
+    },
+    {
+      "page_id": "412161f28097815ea4afc350daf0fd7a",
+      "child_pages_preserved": true,
+      "missing_content_links": [],
+      "page_last_edited_at": "2026-11-08T17:24:19.833Z",
+      "metadata": {
+        "type": "page"
+      }
+    }
+  ],
+  "adopted_user_decisions": [
+    "ADLの志望度は再評価中",
+    "ADLの夏回終了と冬回の今後の機会を分ける",
+    "McKinsey Tech & AI説明をNotionにも反映"
+  ],
+  "unconfirmed": [
+    "ADL28冬の正式実施告知・日程・現在受付",
+    "McKinsey113784の未就業28卒院生資格・正式キャリア区分・③④個人担当"
+  ],
+  "source_note": "年2回実施を踏まえた冬への見通しは本人見解として記録。新たに公式冬告知を確認したものではない。"
+}
