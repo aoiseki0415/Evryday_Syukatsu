@@ -8,7 +8,7 @@
 - [就活戦略_現状整理.md](就活戦略_現状整理.md) は初期の資料を整理した記録。現在の決定は [STRATEGY.md](STRATEGY.md) を優先し、企業・部署・選考方針を根拠に応じて更新する。
 - 他チャットの議論を引き継ぐ [2026年10月20日版のキャリア資料](career-context-2026-10-20.md)を参照し、その後に変わった考えと混同しない。
 - 企業・職種・新卒選考の事実調査は [RESEARCH_POLICY.md](RESEARCH_POLICY.md) に従う。
-- **最新の入口（11/8後半）**：[二条件・候補の正確性と全45表記の再点検](research/2026-11-08-accuracy-and-coverage-audit/README.md)と[Notion全体](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)。03志向×04外部見解→05「幅広い専門性と協働」「AI技術力と構想・実装の接続」→06。32環境を照合して主12・追加確認20。本人の最終順位・応募決定は未確定。同日先行のC1〜C5・優先14等は履歴。
+- **最新の入口（候補は11/8、04・05のニュアンスは11/9）**：[二条件・候補の正確性と全45表記の再点検](research/2026-11-08-accuracy-and-coverage-audit/README.md)と[Notion全体](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)。03志向×04外部見解→05「幅広い専門性と協働」「AI技術力と構想・実装の接続」→06。32環境を照合して主12・追加確認20。本人の最終順位・応募決定は未確定。11/9の[04・05の小修正](research/2026-11-09-04-05-nuance-update/README.md)は現在の重要性、理由、追加設計と専門性、本人の学びを明確化。候補は変更していない。同日先行のC1〜C5・優先14等は履歴。
 - **11/5後半に定めたAI側の志向・候補条件**：[技術理解と全社変革](research/2026-11-05-ai-strategy-positioning/README.md)を継続。国内新卒制度・28受付・配属は別。旧52行は[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)の「候補一覧」に保持。Sheetの「理想環境_再調査」16行と「添付45社_検討記録」45行は11/6時点の履歴。11/8の現行比較はNotion/GitHubにあり、今回Sheetは更新していない。
 - [STRATEGY.md](STRATEGY.md) が現在の二本の就活戦略と未決定事項、[OPERATIONS.md](OPERATIONS.md) が別チャットへの引き継ぎを含む具体的な手順。[Notion「就活戦略・現在地」](https://app.notion.com/p/401161f28097815d8accc34852300c95)は本人向けの見やすい要約。
 

@@ -1,0 +1,63 @@
+{
+  "checked_on": "2026-11-09",
+  "scope": "04・05・根拠対応ページのニュアンス更新",
+  "pages": [
+    {
+      "id": "412161f28097817cb32de6b7da86fb74",
+      "title": "🔭 04｜今後求められるAI導入支援",
+      "old_links_preserved": true,
+      "old_links": 13,
+      "new_links": 14,
+      "native_mentions_preserved": true,
+      "title_unchanged": true,
+      "icon_unchanged": true,
+      "cover_unchanged": true,
+      "full_width_unchanged": true,
+      "heading_2_count_before": 3,
+      "heading_2_count_after": 3,
+      "metadata": {
+        "type": "page"
+      }
+    },
+    {
+      "id": "412161f280978182bbcbcf0f5ee9f025",
+      "title": "🎯 05｜目指す支援像と志望先の条件",
+      "old_links_preserved": true,
+      "old_links": 8,
+      "new_links": 8,
+      "native_mentions_preserved": true,
+      "title_unchanged": true,
+      "icon_unchanged": true,
+      "cover_unchanged": true,
+      "full_width_unchanged": true,
+      "heading_2_count_before": 4,
+      "heading_2_count_after": 4,
+      "metadata": {
+        "type": "page"
+      }
+    },
+    {
+      "id": "412161f2809781f5bd8fe9246d3131cd",
+      "title": "📖 04・05の根拠｜主張と記事の対応",
+      "old_links_preserved": true,
+      "old_links": 19,
+      "new_links": 21,
+      "native_mentions_preserved": true,
+      "title_unchanged": true,
+      "icon_unchanged": true,
+      "cover_unchanged": true,
+      "full_width_unchanged": true,
+      "heading_2_count_before": 3,
+      "heading_2_count_after": 3,
+      "metadata": {
+        "type": "page"
+      }
+    }
+  ],
+  "ideal_2_story_unchanged": true,
+  "ui_redesign": false,
+  "candidate_reselection": false,
+  "new_page_created": false,
+  "limitations": "fetchのtruncated/unknown_block等は未供給。0とは推定せず、編集箇所の読み戻し・リンク・章構成・属性と保持対象の一致を確認。今回は既存デザインの文章差分で、全ページや新たな市場調査の再監査ではない。",
+  "design_domain_table_04_preserved": true
+}
