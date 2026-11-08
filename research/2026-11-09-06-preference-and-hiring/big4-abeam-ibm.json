@@ -1,0 +1,466 @@
+{
+  "title": "Big4・ABeam・日本IBM：国内28卒の現在受付再確認",
+  "checked_at_jst": "2026-11-09T01:50:00+09:00",
+  "scope": "06主一覧の企業環境判定を変えず、国内新卒入口・現在受付・専門配属・本人申告を分けて更新する。",
+  "method": [
+    "2026-11-09 JSTに公開ページ本文と応募先リンクを再取得した。旧記録の終了・予定を転用していない。",
+    "ログイン、会員登録、応募送信は行っていない。MyPage内の非公開日程・個人の応募可否は未確認。",
+    "IBMの第1回募集日程はIBM名義の採用媒体掲載本文。IBMドメインの公開職種一覧と応募先を照合したが、axol本文は403のため確認できなかった。"
+  ],
+  "user_report": {
+    "date_jst": "2026-11-09",
+    "content": "Big4はまだやっていて、ABeamもIBMもあるとの本人確認。",
+    "status": "本人申告。各社の公式公開確認・職種ごとの受付を代替しない。"
+  },
+  "summary": [
+    "Deloitte・PwC・EY・KPMG Consultingはいずれも28卒の受付中を公式公開本文で確認。AI専門配属確約とは別。",
+    "ABeamは28卒登録入口・イベント案内あり。公開本選考は秋ターム終了、冬ターム12/9開始予定。現在ES提出可能とは確認できない。",
+    "日本IBMは会社の28卒募集あり。企業名義の第1回募集は戦略/デジタルビジネス/ITスペシャリスト等が11/16正午締切。AI Innovator・DSの現在受付とは別。",
+    "IBM AI Innovatorは夏ハッカソン経由のみ予定、当該ES6/15終了。DSもサマー記事で早期選考のみ予定。追加公募再開は未確認。"
+  ],
+  "companies": [
+    {
+      "id": "DE",
+      "company": "合同会社デロイト トーマツ（コンサルティング）",
+      "company_28_status": "公式公開：国内28卒本選考受付中",
+      "target_entry": "コンサルタント職",
+      "entry_url": "https://axol.jp/zw/s/tohmatsu_28/entry/",
+      "requirements": {
+        "cohort": "2028年4月または10月入社",
+        "masters": "学士・修士・博士の卒業/修了予定を明記",
+        "domestic": "国内採用、日本勤務",
+        "evidence": [
+          "DE-1"
+        ]
+      },
+      "entries": [
+        {
+          "name": "2028新卒・国内採用本選考",
+          "status": "受付中（公式公開本文）",
+          "deadline_jst": null,
+          "deadline_note": "公開最終期限は記載なし。応募状況により早期終了の場合あり。",
+          "action": "MyPage作成→会社説明動画→エントリーアンケート",
+          "evidence": [
+            "DE-1"
+          ]
+        }
+      ],
+      "specialist_placement": "AI&Data / DS×FDEの専門配属確約は当該コンサルタント募集から確認できない。",
+      "user_report_relation": "本人申告と公式の国内本選考受付中が整合。",
+      "unknowns": [
+        "MyPage内の現在回・最終期限",
+        "AI&Dataへの初期配属・本人応募資格の個別判定"
+      ],
+      "sources": [
+        {
+          "id": "DE-1",
+          "title": "コンサルティング 新卒採用 募集要項／エントリー",
+          "url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "国内28卒本選考受付中、コンサルタント職、大学院資格、MyPage後の手続、早期終了留保。"
+        }
+      ]
+    },
+    {
+      "id": "PW",
+      "company": "PwCコンサルティング合同会社",
+      "company_28_status": "公式公開：国内28卒のDC・BC本選考受付中",
+      "target_entry": "デジタルコンサルタント（DC）",
+      "target_environment": "デジタル&AIトランスフォーメーション／AI&アナリティクス",
+      "entry_url": "https://mypage.3030.i-webs.jp/pwc_newgrads28/applicant/login/baitai-entry/entrycd/C00",
+      "requirements": {
+        "cohort": "DCは2027年10月、2028年4月、2028年10月入社",
+        "masters": "28卒新卒入口。大学院を含む学位要件は同ページの新卒応募資格に記載。国内DC欄は入社時期・文理不問を明記し、院生の除外記載なし。詳細はMyPage。",
+        "domestic": "DCはオンライン／東京大手町・大阪梅田で選考",
+        "evidence": [
+          "PW-1"
+        ]
+      },
+      "entries": [
+        {
+          "name": "DC 本選考・28卒最終募集",
+          "status": "受付中（公式公開本文）",
+          "deadline_jst": "2027-01-08T23:59:00+09:00",
+          "web_test_deadline_jst": "2027-01-11T23:59:00+09:00",
+          "action": "全職種共通ES＋DC本選考登録の両方を提出",
+          "evidence": [
+            "PW-1"
+          ]
+        },
+        {
+          "name": "BC 国内本選考（別入口）",
+          "status": "受付中（公式公開本文）",
+          "deadline_jst": "2026-11-15T23:59:00+09:00",
+          "web_test_deadline_jst": "2026-11-18T23:59:00+09:00",
+          "evidence": [
+            "PW-1"
+          ]
+        }
+      ],
+      "specialist_placement": "DC職採用とAI&アナリティクスの初期配属・担当確約は別。DCの募集期限をBCや海外選考の期限と混同しない。",
+      "user_report_relation": "本人申告と国内DC・BC受付中が整合。",
+      "unknowns": [
+        "AI&アナリティクス初期配属の確約",
+        "MyPageの個人条件・応募済み職種による併願制約"
+      ],
+      "sources": [
+        {
+          "id": "PW-1",
+          "title": "選考情報 新卒採用",
+          "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "DC最終募集のES1/8・Web1/11、BC国内ES11/15・Web11/18、入社時期、応募方法。"
+        },
+        {
+          "id": "PW-2",
+          "title": "デジタルコンサルタント職",
+          "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html",
+          "source_type": "公式職種説明",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "DCにおけるAI・データ等の専門領域。募集受付根拠はPW-1。"
+        }
+      ]
+    },
+    {
+      "id": "EY",
+      "company": "EYストラテジー・アンド・コンサルティング株式会社",
+      "company_28_status": "公式公開：28卒国内本選考受付中",
+      "target_entry": "テクノロジーコンサルタント（TC）",
+      "entry_url": "https://axol.jp/zw/s/ey_28/entry/agreement",
+      "requirements": {
+        "cohort": "2028年卒対象",
+        "masters": "大学院（修士・博士）卒業予定を明記",
+        "domestic": "国内本選考を海外CFと区別して募集",
+        "evidence": [
+          "EY-1"
+        ]
+      },
+      "entries": [
+        {
+          "name": "2028卒 国内本選考",
+          "status": "受付中（公式公開本文）",
+          "deadline_jst": null,
+          "deadline_note": "選考の詳細はMyPage。公開最終期限なし。",
+          "action": "28卒MyPage作成→ES→本選考登録等。対象職種は選考コースにより異なる場合あり。",
+          "evidence": [
+            "EY-1"
+          ]
+        }
+      ],
+      "specialist_placement": "TCは特定領域の入口だが、AI&Dataや金融AIの特定ユニット配属は未確認。BC・TCとデジタルエンジニアは別職種。",
+      "user_report_relation": "本人申告と28卒国内本選考受付中が整合。",
+      "unknowns": [
+        "MyPage内の現在受付職種別コースと期限",
+        "AI&Data初期配属の確約"
+      ],
+      "sources": [
+        {
+          "id": "EY-1",
+          "title": "新卒採用（エントリー・募集要項）",
+          "url": "https://www.eysc.jp/recruit/new_graduate/entry/new/index.html",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "28卒国内本選考受付中、修士博士資格、TC等の職種、コース別差異、詳細はMyPage。"
+        }
+      ]
+    },
+    {
+      "id": "KP",
+      "company": "KPMGコンサルティング株式会社",
+      "company_28_status": "公式公開：28卒エントリー受付中",
+      "target_entry": "ビジネス／エッジテクノロジー等（職種別募集）",
+      "entry_url": "https://recruit.kpmg-consulting.jp/new-graduate",
+      "requirements": {
+        "cohort": "公式トップが28卒受付中と明記。要項は2027年4月以降の大学・大学院卒業予定。",
+        "masters": "大学院卒予定を明記。修士・博士の給与欄あり。",
+        "domestic": "国内大卒・海外大卒の新卒要項、日本の東京・大阪等",
+        "evidence": [
+          "KP-1",
+          "KP-2"
+        ]
+      },
+      "entries": [
+        {
+          "name": "28卒新卒エントリー",
+          "status": "受付中（公式トップに明記）",
+          "deadline_jst": null,
+          "deadline_note": "職種別・現在回の最終期限は公開確認できず。MyPage。",
+          "action": "公式トップのMyPage登録から応募。FAQは4職種で通年採用と記載。",
+          "roles": [
+            "戦略コンサルタント",
+            "ビジネスコンサルタント",
+            "ITソリューションコンサルタント",
+            "エッジテクノロジーコンサルタント"
+          ],
+          "evidence": [
+            "KP-1",
+            "KP-2",
+            "KP-3"
+          ]
+        }
+      ],
+      "specialist_placement": "会社の28卒受付とDXAへの初期配属は別。4職種のうち、本人希望のコースが現在の回で受付対象かはMyPageで確認。",
+      "user_report_relation": "本人申告に加え、公式トップの28卒受付中の直接根拠を今回確認。旧『28受付未確認』のままにしない。",
+      "unknowns": [
+        "現在回の職種別締切",
+        "DXA専門配属・職種別現在枠"
+      ],
+      "sources": [
+        {
+          "id": "KP-1",
+          "title": "新卒採用トップ",
+          "url": "https://recruit.kpmg-consulting.jp/new-graduate",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "28卒エントリー受付中を明記。登録入口、イベント案内。"
+        },
+        {
+          "id": "KP-2",
+          "title": "募集要項・選考フロー",
+          "url": "https://recruit.kpmg-consulting.jp/new-graduate/job-description",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "4職種、2027年4月以降の大学/大学院卒業予定、日本勤務地、年間複数選考。"
+        },
+        {
+          "id": "KP-3",
+          "title": "新卒採用 FAQ",
+          "url": "https://recruit.kpmg-consulting.jp/new-graduate/faq",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "4職種の通年採用、詳細はMyPage。"
+        }
+      ]
+    },
+    {
+      "id": "AB",
+      "company": "アビームコンサルティング株式会社",
+      "company_28_status": "28卒MyPage登録・イベント案内あり。本選考は秋終了／冬開始予定。",
+      "target_entry": "Solution Consultant職・デジタルコンサルタントコース",
+      "entry_url": "https://www.abeam.com/jp/ja/recruit/newgrad/",
+      "requirements": {
+        "cohort": "2028年3月までに大学・大学院卒業予定、または既卒",
+        "masters": "大学院を明記。卒業から入社までの職務経験2年以下。",
+        "domestic": "東京。案件により国内他拠点・海外可能性あり。",
+        "evidence": [
+          "AB-2"
+        ]
+      },
+      "entries": [
+        {
+          "name": "28卒MyPage登録（プレエントリー）",
+          "status": "登録入口あり・公開規約ページまで確認",
+          "deadline_jst": null,
+          "evidence": [
+            "AB-1",
+            "AB-4"
+          ]
+        },
+        {
+          "name": "Solution Consultant 本選考・秋ターム",
+          "status": "受付終了（公式）",
+          "deadline_jst": null,
+          "evidence": [
+            "AB-1"
+          ]
+        },
+        {
+          "name": "Solution Consultant 本選考・冬ターム",
+          "status": "開始予定（現在受付中とは未確認）",
+          "opens_at_jst": "2026-12-09",
+          "deadline_jst": null,
+          "deadline_note": "12/9は開始予定日。締切ではない。締切の公開記載なし。",
+          "evidence": [
+            "AB-1"
+          ]
+        },
+        {
+          "name": "ABeam Connect（デジタルコンサルタント等）",
+          "status": "イベント案内・MyPage予約導線あり。個別日程の空席は未確認。",
+          "event_period": "2026年12月～2027年1月予定",
+          "deadline_jst": null,
+          "evidence": [
+            "AB-3"
+          ]
+        }
+      ],
+      "specialist_placement": "デジタルコンサルタントコースはAI&Technology Modernization BU／Technology Transformation BUにつながる入口。希望は第2希望まで選択する仕組みで、AI案件担当の保証ではない。",
+      "user_report_relation": "『ABeamにもある』という本人申告は28卒登録・イベント・次回選考の存在と整合。ただし11/9時点の本選考ES受付中とは公開情報から確認できない。本人がMyPageで見た別案内は未確認として残す。",
+      "unknowns": [
+        "冬ターム締切",
+        "MyPage内の別回・個人向け選考案内",
+        "イベントの現時点予約枠・締切"
+      ],
+      "sources": [
+        {
+          "id": "AB-1",
+          "title": "新卒採用TOP・FAQ",
+          "url": "https://www.abeam.com/jp/ja/recruit/newgrad/",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "秋本選考受付終了、冬12/9開始予定、28登録後に詳細案内。"
+        },
+        {
+          "id": "AB-2",
+          "title": "28卒 Solution Consultant職 募集要項",
+          "url": "https://www.abeam.com/jp/ja/recruit/newgrad/requirements2028/solution-cs/",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "28大学/大学院資格、デジタルコンサルタントコース、日本勤務。"
+        },
+        {
+          "id": "AB-3",
+          "title": "ABeam Connect",
+          "url": "https://www.abeam.com/jp/ja/recruit/newgrad/event/connect2026/",
+          "source_type": "公式イベント本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "28大学院生対象、デジタルコンサルタント等、12–1月予定、MyPage予約。"
+        },
+        {
+          "id": "AB-4",
+          "title": "28卒MyPage 新規登録・公開規約",
+          "url": "https://mypage.3070.i-webs.jp/abeam2028/applicant/entry/regulation/pra/bhajhbcegg-hjdb/entrycd/",
+          "source_type": "公式リンク先の応募サービス",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "28卒登録入口が公開到達可能。登録・同意・送信は実施していない。"
+        },
+        {
+          "id": "AB-5",
+          "title": "28卒 Solution Consultant職 コース紹介",
+          "url": "https://www.abeam.com/jp/ja/recruit/newgrad/course2028/solution-cs/",
+          "source_type": "公式職種・選考本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "デジタルコンサルタントの配属先・コース/選考説明。"
+        }
+      ]
+    },
+    {
+      "id": "IB",
+      "company": "日本アイ・ビー・エム株式会社",
+      "company_28_status": "28卒の会社募集あり。第1回募集は企業名義の採用媒体告知で受付中。AI Innovator現在受付とは別。",
+      "target_entry": "主一覧環境はAIイノベーター。現行の別入口は戦略／デジタルビジネス／ITスペシャリスト。",
+      "entry_url": "https://axol.jp/zw/s/ibm_group_28/entry_0017430013/",
+      "requirements": {
+        "cohort": "第1回は2028年4月日本国内就労。コンサルティングは同年10月も可。",
+        "masters": "新卒28対象で就業経験の有無不問。大学院生を除外する記載なし。AI Innovatorは学歴不問。",
+        "domestic": "日本国内フルタイム、日本語就労、英語または習得意思。",
+        "evidence": [
+          "IB-1",
+          "IB-2",
+          "IB-3"
+        ]
+      },
+      "entries": [
+        {
+          "name": "2028新卒 第1回募集（現行・別職種）",
+          "status": "受付中（企業名義の採用媒体掲載本文）",
+          "source_confidence": "IBM名義掲載でIBMのMyPageに誘導。IBMドメインの公開採用ページと入口を照合したがaxol本文は403。IBMドメイン本文で同期限の独立再確認はできていない。",
+          "roles": [
+            "戦略コンサルタント（コンサルティング）",
+            "デジタルビジネスコンサルタント（コンサルティング）",
+            "ITスペシャリスト（コンサルティング）",
+            "製品開発エンジニア（R&D）",
+            "製品テクニカル・サポートエンジニア（R&D）"
+          ],
+          "deadline_jst": "2026-11-16T12:00:00+09:00",
+          "web_test_deadline_jst": "2026-11-18T12:00:00+09:00",
+          "notes": [
+            "コンサルティングの上記3職種は本募集のみ予定との掲載。",
+            "日本IBMの他の28年入社募集と併願不可（グループ会社除く）との掲載。",
+            "AI InnovatorとDSは当該募集職種に含まれていない。"
+          ],
+          "evidence": [
+            "IB-1",
+            "IB-2"
+          ]
+        },
+        {
+          "name": "AI Innovator Hackathon→AIイノベーター早期選考",
+          "status": "旧夏回の受付終了。現時点の追加公募再開は未確認。",
+          "deadline_jst": "2026-06-15T12:00:00+09:00",
+          "web_test_deadline_jst": "2026-06-17T09:00:00+09:00",
+          "event_period": "2026-08-24〜2026-08-28",
+          "notes": [
+            "公式本文はAIイノベーターを本ハッカソン経由のみ募集予定と記載。",
+            "募集要項の公開・登録リンクの存在は現在ES提出可能の証拠ではない。"
+          ],
+          "evidence": [
+            "IB-3"
+          ]
+        },
+        {
+          "name": "DS（コンサルティング）サマーインターン→早期選考",
+          "status": "旧夏回の受付終了。公式サマー記事は早期選考のみ募集予定。現時点の一般公募追加は未確認。",
+          "deadline_jst": "2026-06-15T12:00:00+09:00",
+          "web_test_deadline_jst": "2026-06-17T09:00:00+09:00",
+          "evidence": [
+            "IB-4",
+            "IB-5"
+          ]
+        },
+        {
+          "name": "テクノロジー事業本部セールス／ソリューションエンジニア",
+          "status": "11月下旬頃から開始予定（企業名義媒体掲載）。主一覧のAI Innovatorとは別。",
+          "opens_at_jst": "2026年11月下旬頃",
+          "deadline_jst": null,
+          "evidence": [
+            "IB-2"
+          ]
+        }
+      ],
+      "specialist_placement": "IBMは部門・職種別採用。主一覧のAI Innovatorへの応募と、現行第1回の別職種への応募を同じものとして扱わない。別職種がAI Innovatorと同じ個人業務を保証することもない。",
+      "user_report_relation": "『IBMにもある』は現在の第1回募集の存在で裏付けられる。本人申告をAI Innovator再開の証拠にはしない。会社全体を『募集終了』とするのは誤り。",
+      "unknowns": [
+        "AI Innovatorの追加ハッカソン・一般公募再開",
+        "DSの一般公募追加",
+        "現在MyPage内の募集変更・個人資格・最新の併願制約",
+        "IBM公式ドメイン内での11/16期限本文の独立確認"
+      ],
+      "sources": [
+        {
+          "id": "IB-1",
+          "title": "日本IBM 新卒採用情報",
+          "url": "https://www.ibm.com/jp-ja/careers/career-opportunities",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "28卒部門・職種別募集要項とMyPage入口、AI Innovator/DS/戦略/デジタルビジネス/ITスペシャリスト等の掲載。募集要項掲載のみで現在受付とは判定しない。"
+        },
+        {
+          "id": "IB-2",
+          "title": "＜日本IBM＞2028年 新卒採用 第1回募集",
+          "url": "https://app.en-courage.com/events/01M2SW8FVAKAY8HKH6N4CDP882",
+          "source_type": "企業名義の採用媒体掲載（IBMドメイン外）",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "第1回受付中、コンサル3職種等、ES11/16正午・Web11/18正午、日本国内28就労、応募リンク、併願制約。",
+          "limitation": "掲載は日本IBMの企業ページに属するが、媒体上の掲載。応募先axol本文は403で閲覧できなかった。"
+        },
+        {
+          "id": "IB-3",
+          "title": "IBM AI Innovator Hackathon",
+          "url": "https://www.ibm.com/jp-ja/careers/blog/ibm-ai-innovator-hackathon",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "AIイノベーターはハッカソン経由のみ予定、6/15正午締切、8月開催、国内28資格。"
+        },
+        {
+          "id": "IB-4",
+          "title": "インターンシップ2026 プログラム",
+          "url": "https://www.ibm.com/jp-ja/careers/internships/programs",
+          "source_type": "公式採用本文",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "DSコースは早期選考のみ予定、夏回ES6/15・Web6/17。一般コンサル等とは分ける。"
+        },
+        {
+          "id": "IB-5",
+          "title": "2028年度 DS（コンサルティング）募集要項PDF",
+          "url": "https://www.ibm.com/downloads/documents/jp-ja/1227c12efab8b25d",
+          "source_type": "公式募集要項PDF",
+          "checked_at_jst": "2026-11-09T01:50:00+09:00",
+          "support": "28年4月日本国内就労、就業経験不問、DS業務と要件。PDFに現在回の期限は記載なし。"
+        }
+      ]
+    }
+  ]
+}

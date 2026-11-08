@@ -1,0 +1,314 @@
+{
+  "checked_on": "2026-11-09",
+  "scope": "ADLを05の二条件で再評価。企業・チーム環境と本人配属、日本新卒制度と現在28受付を分離。",
+  "recommendation": "主候補への追加を推薦。最終反映はroot判断。",
+  "change_summary": [
+    "新規：AI導入と経営KPI/部門責任/パートナー報酬を同時に変えた通信顧客の実案件。",
+    "新規：AI・Digitalの組織全体の能力形成、SPACEの横断体制、Vega ITとの設計開発運用JV。",
+    "再取得：BMS AI導入を計画・資本配分・運営・ITとの協働まで確認。",
+    "国内：NEDO案件のADL担当は要求/事業モデル/運用検討とDB構築支援。パートナーの直接開発をADLへ帰属させない。",
+    "採用：公式28卒PRで大学院生対象を補強。夏終了、次回未確認。"
+  ],
+  "companies": [
+    {
+      "id": "AD-A",
+      "company": "アーサー・ディ・リトル（ADL）",
+      "category": "戦略コンサル",
+      "environment": "東京オフィスの戦略コンサルタント × AI・Digital / SPACE・Digital Problem Solvingとの協働",
+      "official_unit_caveat": "AI・Digitalは公式サービス分類、SPACEは横断的問題解決モデル。東京新卒の正式な専用コース/配属先名としては確認していない。",
+      "decision": "recommend_main",
+      "proposed_selection": "主候補への追加を推薦（配属・技術担当の確認事項を付記）",
+      "previous_selection": "追加確認（①○、②●）",
+      "reason_for_change": "BMS実装だけでなく、AI/ML/RPAを用いる通信事業者の案件で、経営KPI・委託先報酬/SLA・部門責任の再設計を同時に行った具体的な協働事実を新規発見。現行AIサービスの組織能力形成とSPACE体制の説明も補強。",
+      "ideal_1": {
+        "symbol": "●",
+        "status": "複数専門性をAI導入に結び付ける案件事実あり",
+        "facts": [
+          "通信顧客の同一案件で、AI等の導入と、顧客価値目標・経営KPI・組織/委託先運営モデルをADLが一体で再設計。",
+          "BMSでは業界専門性、DS/AI、開発運営、ITが協働し、試験計画/資本配分と実行判断を支える基盤を展開。",
+          "現行AI・Digitalサービスは、組織全体のAI活用に必要な能力・構造・パートナーシップづくりまで支援対象とする。"
+        ],
+        "interpretation": "会社に別々の専門部門があるというだけでなく、AIを含む案件内で業務・組織運営・技術が接続することを確認できる。全社の全機能を一案件で完了した証明を要求しない現行基準では、主候補として検討する根拠がある。",
+        "limits": [
+          "通信事例は2019年の顧客対応領域、BMSは臨床R&D領域であり、全社全機能のAI変革達成とは表現しない。",
+          "人材施策の全領域が各AI案件に含まれるかまでは未確認。"
+        ],
+        "source_ids": [
+          "ADL-COMPLAINTS-1109",
+          "ADL-BMS-1109",
+          "ADL-AI-SERVICE-1109",
+          "ADL-SPACE-1109"
+        ]
+      },
+      "ideal_2": {
+        "symbol": "●",
+        "status": "構想・判断と実装の協働を案件/技術体制で確認",
+        "facts": [
+          "BMSのAI基盤は共同設計・導入済みで、計画/リスク判断と実行管理をつなぐ。",
+          "通信事例では改革目標と運営モデルを設計した上で、AI等を組み込み業績指標の改善を報告。",
+          "DPS/ADL Catalystには本番ソフトウェア開発知見があり、Vega ITとのJVには設計/開発/運用をつなぐ明示的な体制がある。",
+          "国内NEDO案件ではADLがユーザー/技術要求、DB構築支援と運用/事業モデルを担い、開発担当と協働する。"
+        ],
+        "interpretation": "構想を軸とするコンサルタントが技術設計・実装・運用知見に接続する環境は、社内・提携先を含め存在すると判断できる。本人のコーディングやすべての工程の内製は必須ではない。",
+        "limits": [
+          "海外DPS/SPACE・JVの実務に日本新卒がどの程度参加できるかは未確認。",
+          "国内で明確な個人職務は戦略〜PoCまで。本番構築/継続運用への本人関与の頻度は面談で確認する。",
+          "継続運用の体制と個々のコンサルタントによる継続関与を同一視しない。"
+        ],
+        "source_ids": [
+          "ADL-BMS-1109",
+          "ADL-COMPLAINTS-1109",
+          "ADL-CODE-1109",
+          "ADL-VEGA-JV-1109",
+          "ADL-JP-NEDO-1109",
+          "ADL-MATSUO-1109"
+        ]
+      },
+      "product_neutrality": {
+        "status": "外部専門性との連携が前提。案件ごとの選択自由度は確認対象",
+        "facts": [
+          "SPACEは複数の社外技術/専門家を組み合わせるモデル。国内NEDOでも複数企業と協働。"
+        ],
+        "limit": "自社/JV製品も保有するため、『一切の自社製品を使わない』とはいえない。製品販売専業ではなく、課題に応じて選べるかを確認。"
+      },
+      "ds_relation": "関連あり（BMS等のAI・データ分析案件）。DS専業が応募必須ではない。",
+      "hiring": {
+        "role": "東京オフィス一般新卒（戦略コンサルタント）",
+        "domestic_new_grad": true,
+        "masters_eligible": true,
+        "cohort_2028": true,
+        "current_status": "🟠28卒夏募集終了／次回・冬の28卒受付は未確認",
+        "status_code": "summer_closed_next_round_unconfirmed",
+        "deadline": "2026-05-17T23:59:00+09:00（終了済み夏）",
+        "next_deadline": null,
+        "job_url": "https://www.adlittle.com/jp-ja/apply",
+        "recruitment_url": "https://www.adlittle.com/jp-ja/apply",
+        "application_url": null,
+        "qualification": "2028年大学卒/大学院修了見込または相当者（過去の28夏公募）",
+        "placement": "AI専用新卒コースやSPACE/DPS配属確約は未確認",
+        "checked_on": "2026-11-09",
+        "source_ids": [
+          "ADL-HIRE-CURRENT-1109",
+          "ADL-HIRE-28-PR-1109"
+        ],
+        "warning": "2025年の『27卒冬・11/9』を現在28卒募集と混同しない。"
+      },
+      "work_url": "https://www.adlittle.com/ja/capabilities/AI-and-Digital",
+      "hiring_url": "https://www.adlittle.com/jp-ja/apply",
+      "limits": [
+        "日本での実案件・新卒入口は確認。主なAI本番/運用の強い根拠は海外だが、それだけを除外理由にはしない。",
+        "環境の適合評価であり本人の志望度確定ではない。",
+        "Blue Shiftの将来洞察とDPS/SPACE/JVの実装能力を、所属や共同案件の証拠なく同一個人の職務として合成しない。"
+      ],
+      "followup_questions": [
+        "日本の若手戦略コンサルがAI案件の要件/設計/PoC/本番/運用改善でどの判断を担当するか。",
+        "国内AI案件で戦略/組織/業務とDPS/SPACE/技術パートナーが同一チームを組む頻度・体制。",
+        "日本の新卒でAIやDigital案件を希望した場合の参加経路とアサイン比率。",
+        "28卒の次回受付・資格・期限。"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ADL-AI-SERVICE-1109",
+      "title": "AI・デジタル",
+      "url": "https://www.adlittle.com/ja/capabilities/AI-and-Digital",
+      "kind": "公式提供内容",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "AI診断、AI戦略、AIトランスフォーメーションを同じ提供内容として説明。組織全体の継続的なAI活用を支える能力・パートナー・構造を構築する。",
+        "社内チームと外部パートナーをつなぎ、戦略から実行まで支援すると説明。"
+      ],
+      "limits": [
+        "日本語サイト上のグローバル提供説明。国内個別案件や新卒配属の証明ではない。"
+      ]
+    },
+    {
+      "id": "ADL-COMPLAINTS-1109",
+      "title": "Resolving customer complaints in the digital era",
+      "url": "https://www.adlittle.com/en/insights/report/resolving-customer-complaints-digital-era",
+      "kind": "公式顧客事例入りレポート",
+      "checked_on": "2026-11-09",
+      "published": "2019-12",
+      "origin": "今回新規発見・本文確認",
+      "facts": [
+        "匿名通信事業者の顧客対応改革で、ADLが経営KPI、外部委託先のSLA/成果連動報酬、支援部門の責任・業務運営モデルを再設計。",
+        "同じ案件でAI/ML/RPA、予測チケット、チャットボット、自動経営ダッシュボードを組み込み、2日内解決率が65%から86%に改善したと報告。"
+      ],
+      "limits": [
+        "2019年公表の匿名海外事例。全社全機能のAI変革ではなく、顧客対応機能を部門横断で変える実績。ADL単独のコーディング担当割合は記載なし。"
+      ]
+    },
+    {
+      "id": "ADL-BMS-1109",
+      "title": "Clinical Development & AI Precision Analytics",
+      "url": "https://www.adlittle.com/en/client-story",
+      "kind": "公式顧客事例・顧客幹部コメント",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "11/8既存根拠を本文再取得",
+      "facts": [
+        "BMSの臨床開発において、業界/治療領域知識、DS/AI、開発運営、ITを結び、AI精密分析基盤を共同設計・導入。",
+        "新規試験を含む臨床試験ポートフォリオに展開し、試験計画、投資判断、リスク検知、実行管理を支援する。"
+      ],
+      "limits": [
+        "海外のR&D/臨床開発領域。BMS全社の全機能を刷新したとは書かれていない。"
+      ]
+    },
+    {
+      "id": "ADL-SPACE-1109",
+      "title": "Space by Arthur D. Little",
+      "url": "https://www.adlittle.com/ja/space",
+      "kind": "公式協働体制",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "部門横断の専門性・業界知識・社内AI能力を結集する支援モデルと説明。外部専門家/技術企業/研究機関の能力を組み合わせる。"
+      ],
+      "limits": [
+        "自社内のAI活用による助言生産性の説明も含む。その部分だけを顧客AI導入支援実績とは扱わない。日本新卒の専用配属制度ではない。"
+      ]
+    },
+    {
+      "id": "ADL-CODE-1109",
+      "title": "Cracking the Code: How AI Agents Are Reinventing the Software Development Lifecycle",
+      "url": "https://prisim.adlittle.com/cracking-the-code-how-ai-agents-are-reinventing-the-software-development-lifecycle/",
+      "kind": "公式PRISM・技術実践の取材記事",
+      "checked_on": "2026-11-09",
+      "published": "2026-10",
+      "origin": "11/7既存記事を本文再取得",
+      "facts": [
+        "Digital Problem SolvingのChief Architect Michael Papadopoulosが医薬/通信の規制産業で本番AI生成コードを運用していると説明。ADL CatalystのJoshua Sanzも試作・業務検証の実践を説明。"
+      ],
+      "limits": [
+        "顧客名、プロジェクト全体の専門性編成、日本での参加経路は未記載。ADLの開発経験を示す補強であり、単独で条件①の根拠にはしない。外部識者の発言とは区別。"
+      ]
+    },
+    {
+      "id": "ADL-VEGA-JV-1109",
+      "title": "Arthur D. Little and Vega IT unveil joint venture for digital innovation",
+      "url": "https://www.adlittle.com/en/arthur-d-little-and-vega-it",
+      "kind": "公式提携・本番製品の説明",
+      "checked_on": "2026-11-09",
+      "published": "2025-12",
+      "origin": "今回新規発見・本文確認",
+      "facts": [
+        "50:50 JV Axceler8 Solutionsを設立し、AI/デジタルソリューションの設計・開発・運用を担うと発表。",
+        "臨床開発向けAxceler8 Rxが稼働中。ADLの業界IPとVega ITのソフトウェア工学を組み合わせ、コンサル/商用化から統合/運用サービスまで連携。"
+      ],
+      "limits": [
+        "ADL本体の全員が開発/運用を担当する意味ではない。特定製品の実績は製品中立の個別案件担当を保証しない。BMS基盤と同一製品と断定しない。"
+      ]
+    },
+    {
+      "id": "ADL-JP-NEDO-1109",
+      "title": "小売店のロボットフレンドリーな環境の実現に向けてNEDOの商品情報データベースの研究開発に参画",
+      "url": "https://www.adlittle.com/jp-ja/press-release/toward-robot-friendly-environment-retail-stores",
+      "kind": "公式国内共同研究案件・担当明記",
+      "checked_on": "2026-11-09",
+      "published": "2022-10",
+      "origin": "既存NEDO根拠を担当分担まで再確認",
+      "facts": [
+        "ADLジャパンは技術/利用者要求の整理、DB構築支援、データ共有の事業エコシステム/サービスモデルと継続運用検討を担当。",
+        "開発・実装の主担当はSoftBank、Panasonic Connect等と明記され、事業構想と実装技術者との協働がある。"
+      ],
+      "limits": [
+        "2022〜24年度の社会実装研究。ADL本体がAI認識ソフトを直接開発したという証拠ではない。全社AI変革ではなく、技術の実装に接続する国内活動の補強。"
+      ]
+    },
+    {
+      "id": "ADL-MATSUO-1109",
+      "title": "松尾 直紀（東京パートナー）",
+      "url": "https://www.adlittle.com/ja/management-team/naoki-matsuo",
+      "kind": "公式国内リーダー職務プロフィール",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "経営計画・新規事業・組織変革・能力分析・業務設計・IT PMOを戦略から実行まで支援。AI等のデジタル領域で戦略からPoCまでをリード。"
+      ],
+      "limits": [
+        "公式検索索引の本文を確認。直接取得は403。国内の本番AI運用や全社AI変革完成を明記する職務ではない。"
+      ]
+    },
+    {
+      "id": "ADL-JOHNKIM-1109",
+      "title": "金 鍾勲（John Kim）",
+      "url": "https://www.adlittle.com/jp-ja/management-team/john-kim",
+      "kind": "公式国内リーダー職務プロフィール",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "東京オフィス所属・アジアデジタルチームリーダー。AI/デジタル、組織変革、戦略等の専門領域を併記。"
+      ],
+      "limits": [
+        "専門領域の列挙だけで同じ案件で協働した証明にはしない。国内応募者の配属確約でもない。"
+      ]
+    },
+    {
+      "id": "ADL-BLUESHIFT-1109",
+      "title": "Blue Shift",
+      "url": "https://www.adlittle.com/jp-ja/blueshift",
+      "kind": "公式調査・将来洞察の入口",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "科学技術がビジネス・社会等へもたらす影響を検討する報告群を掲載。"
+      ],
+      "limits": [
+        "未来洞察や記事の発信を実装チームの顧客案件実績と合成しない。今回の主候補環境はBlue Shift単体にしない。"
+      ]
+    },
+    {
+      "id": "ADL-HIRE-CURRENT-1109",
+      "title": "東京オフィス採用情報",
+      "url": "https://www.adlittle.com/jp-ja/apply",
+      "kind": "公式現行募集",
+      "checked_on": "2026-11-09",
+      "published": "2026-10（表示更新月）",
+      "origin": "11/8既存を現行本文再確認",
+      "facts": [
+        "現行新卒欄は28卒夏採用の募集終了を明記。日本の新卒入口が存在する。",
+        "2025/10告知の冬インターンは2027卒向けであり、28卒冬の11/9期限ではない。"
+      ],
+      "limits": [
+        "28卒冬/次回の受付や期限は確認できない。夏終了を年度全体の終了と断定しない。中途通年入口を新卒応募先へ転用しない。"
+      ]
+    },
+    {
+      "id": "ADL-HIRE-28-PR-1109",
+      "title": "28卒向け新卒採用サマーインターンシップの募集を開始",
+      "url": "https://www.adlittle.com/jp-en/press-release/28%E5%8D%92%E5%90%91%E3%81%91%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%81%AE%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B",
+      "kind": "公式28卒募集の告知",
+      "checked_on": "2026-11-09",
+      "published": "2026-03",
+      "origin": "今回募集資格を一次告知で補強",
+      "facts": [
+        "2028年に大学卒業/大学院修了見込の学生を対象。東京都内の夏インターンで選考。",
+        "公表締切は2026/5/17 23:59、プログラムは2026/8/3〜5または9/2〜4。"
+      ],
+      "limits": [
+        "過去の募集要項により国内院生の28卒入口を確認できる。現在受付は既に終了。AI専用採用/配属の確約はない。"
+      ]
+    }
+  ],
+  "not_used_as_decisive_evidence": [
+    {
+      "item": "Smart Search社内活用",
+      "reason": "顧客AI導入支援の実案件の代わりにしない。"
+    },
+    {
+      "item": "Blue Shiftの未来洞察",
+      "reason": "思想/調査成果。実装組織の関与や日本新卒配属の確約ではない。"
+    },
+    {
+      "item": "米国Manager DS/AIの非公式求人転載",
+      "reason": "職務の参考は見つかったが今回公式個別求人を確認できず、採用・能力の決定根拠には採用しない。"
+    }
+  ]
+}

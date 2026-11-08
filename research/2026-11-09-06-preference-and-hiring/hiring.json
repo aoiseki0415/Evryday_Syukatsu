@@ -1,0 +1,341 @@
+{
+  "checked_at": "2026-11-09",
+  "timezone": "Asia/Tokyo",
+  "base_fit_snapshot": "../2026-11-08-accuracy-and-coverage-audit/candidates.json",
+  "purpose": "現行の募集表示を履歴の候補適合と分けて管理",
+  "legend": {
+    "green": "受付表示または公開応募導線あり。登録・インターンを含む",
+    "yellow": "開始予定、または希望職種・28対象等が要確認",
+    "red": "記載した公表回の受付終了。会社の全募集終了を意味しない",
+    "gray": "現行28新卒入口・受付未確認"
+  },
+  "main_rows": [
+    {
+      "id": "DE-A",
+      "flag": "🟢 受付中",
+      "color": "green_bg",
+      "entry": "コンサルタント職",
+      "status": "国内28本選考受付中。公開締切なし／MyPage。AI&Data・DS/FDE配属は未確約。",
+      "url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html"
+    },
+    {
+      "id": "PW-A",
+      "flag": "🟢 受付中",
+      "color": "green_bg",
+      "entry": "デジタルコンサルタント（DC）",
+      "status": "28卒最終募集。ES＋DC登録：2027/1/8 23:59、Web：1/11 23:59（JST）。BCの11/15締切とは別。",
+      "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html"
+    },
+    {
+      "id": "EY-A",
+      "flag": "🟢 受付中",
+      "color": "green_bg",
+      "entry": "テクノロジーコンサルタント等",
+      "status": "国内28本選考受付中。現在回の対象コース・期限はMyPage。AI&データ配属は未確約。",
+      "url": "https://www.eysc.jp/recruit/new_graduate/entry/new/index.html"
+    },
+    {
+      "id": "KP-A",
+      "flag": "🟢 受付中",
+      "color": "green_bg",
+      "entry": "新卒4職種（DXA対応は要確認）",
+      "status": "公式トップで28卒エントリー受付中。職種別の現在回・期限はMyPage。DXA専用入口・配属は未確認。",
+      "url": "https://recruit.kpmg-consulting.jp/new-graduate"
+    },
+    {
+      "id": "AB-D",
+      "flag": "🟡 冬開始予定",
+      "color": "yellow_bg",
+      "entry": "Solution Consultant／デジタルコンサルタントコース",
+      "status": "28登録・イベント案内あり。秋本選考終了、冬は2026/12/9開始予定（締切ではない）。現時点の本選考ES受付は公開未確認。",
+      "url": "https://www.abeam.com/jp/ja/recruit/newgrad/"
+    },
+    {
+      "id": "IB-A",
+      "flag": "🟡 別職種受付／AI未確認",
+      "color": "yellow_bg",
+      "entry": "主環境：AIイノベーター／現行別入口：戦略・デジタルビジネス・ITスペシャリスト",
+      "status": "会社の28第1回は受付中の企業名義媒体告知あり：ES11/16正午、Web11/18正午（JST）。AIイノベーター旧夏回は6/15終了、再公募未確認。",
+      "url": "https://www.ibm.com/jp-ja/careers/career-opportunities",
+      "extra_url": "https://app.en-courage.com/events/01M2SW8FVAKAY8HKH6N4CDP882"
+    },
+    {
+      "id": "MK-D",
+      "flag": "🟡 Digitalの28扱い要確認",
+      "color": "yellow_bg",
+      "entry": "一般BA／別求人：BA – Tech & AI",
+      "status": "一般BAの28夏5/31・冬9/15は終了。Tech & AIの日本求人・専用応募先あり。ただし28卒選考としての受付・締切は未確認。",
+      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-techai-113784"
+    },
+    {
+      "id": "BC-T",
+      "flag": "🟢 一般Spring受付",
+      "color": "green_bg",
+      "entry": "一般新卒・経営コンサルタント（TDA未確約）",
+      "status": "28卒Spring Internship：2027/1/14 12:00 JST締切。BCG XのDS・AI Engineerは下の別入口参照。",
+      "url": "https://careers.bcg.com/jp/ja/japan-new-grads-2028"
+    },
+    {
+      "id": "BA-C",
+      "flag": "🔴 確認回終了",
+      "color": "red_bg",
+      "entry": "一般新卒AC",
+      "status": "国内28冬インターン：2026/10/7 13:00締切経過。一般ACの別回・追加本選考は未確認。AT&AI専門配属は未保証。",
+      "url": "https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/"
+    },
+    {
+      "id": "GL-S",
+      "flag": "🟢 エントリー受付",
+      "color": "green_bg",
+      "entry": "戦略コンサルタント（AI・デジタル職も同要項）",
+      "status": "国内大学・大学院の2027/4〜2028/9卒対象、現在エントリー受付中。個別選考回・ES期限はMyPage。",
+      "url": "https://globe-ing-recruit.snar.jp/jobboard/detail.aspx?id=Z5bZ6XgZjSU"
+    },
+    {
+      "id": "IG-C",
+      "flag": "⚪ 28新卒未確認",
+      "color": "gray_bg",
+      "entry": "本体の28新卒入口は未確認",
+      "status": "現行公式募集は中途・MBA。27新卒要項は過年度残存。新卒の恒久廃止・28採用なしとは断定しない。",
+      "url": "https://www.igpi.co.jp/recruit/"
+    },
+    {
+      "id": "DI-T",
+      "flag": "🔴 通常受付終了",
+      "color": "red_bg",
+      "entry": "BP／Technology & Amplify部門",
+      "status": "公表する28卒夏・冬の両回エントリー終了（冬10/16正午）。冬選考は進行中。追加募集は未確認。",
+      "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/"
+    },
+    {
+      "id": "AD-A",
+      "flag": "🔴 夏回終了／次回未確認",
+      "color": "red_bg",
+      "entry": "東京オフィス一般新卒（戦略コンサルタント）",
+      "status": "28卒・大学院生対象の国内新卒制度あり。夏は2026/5/17 23:59締切済み。28冬・追加回の現在受付は未確認。",
+      "url": "https://www.adlittle.com/jp-ja/apply"
+    }
+  ],
+  "specialist_routes": [
+    {
+      "id": "MK-GENERAL-28",
+      "company": "McKinsey",
+      "environment": "McKinsey Digital（主一覧の環境）",
+      "route": "国内28卒 Business Analyst（一般入口）",
+      "status": "掲載済み夏・冬の新規応募期限は終了",
+      "status_code": "published_rounds_closed",
+      "cohort_2028": true,
+      "domestic_masters": true,
+      "location": "日本オフィス",
+      "deadline": "2026-05-31 / 2026-09-15",
+      "job_url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-15136",
+      "recruitment_url": "https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028",
+      "application_url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-15136",
+      "facts": [
+        "Digitalの新卒応募制度はFAQに記載されている。",
+        "国内28卒の公表応募先は通常BAで、2回の掲載締切はいずれも経過した。"
+      ],
+      "interpretation": "『McKinsey Digitalで新卒採用していない』ではなく、『Digital新卒制度あり。国内28卒公表2回は締切済み。追加の28受付は別途未確認』とする。",
+      "unconfirmed": [
+        "国内28卒のDigital採用選択を応募フォーム内で指定できたか。",
+        "国内28卒Digitalの追加受付有無。",
+        "入社後Digital配属の確約。"
+      ],
+      "source_ids": [
+        "MK-DIGITAL-FAQ-1109",
+        "MK-DOMESTIC-1109",
+        "MK-28-1109"
+      ]
+    },
+    {
+      "id": "MK-TECHAI-BA-113784",
+      "company": "McKinsey",
+      "environment": "McKinsey Digital / Tech & AI",
+      "route": "Business Analyst - Tech & AI（113784）",
+      "status": "日本個別求人・専用応募導線あり／国内28卒の別受付か未確認",
+      "status_code": "job_apply_route_visible_2028_eligibility_unconfirmed",
+      "cohort_2028": "未記載",
+      "domestic_masters": "28卒院生の未就業応募可否は明示確認できず",
+      "location": "Tokyo / Osaka",
+      "deadline": null,
+      "job_url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-techai-113784",
+      "recruitment_url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-techai-113784",
+      "application_url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods?folderId=113784",
+      "facts": [
+        "求人本体とApply Nowがある。専用応募画面のタイトルも求人名に一致。",
+        "学位と対象業界3年未満の実務経験、日英能力を記載。",
+        "AI・技術と戦略/変革実行の接続を担う職務。"
+      ],
+      "interpretation": "一般BA以外の日本Tech & AI専門求人が存在し、追加探索に値する。ただし『国内28卒専用・現在受付中』には分類しない。『3年未満』には明示最低年数がないものの、未就業在学生を受け付けるかは不明。",
+      "unconfirmed": [
+        "2028年入社希望の未就業大学院生の対象性。",
+        "一般BAとの併願・同年度再応募制限の適用関係。",
+        "締切/入社可能時期。"
+      ],
+      "source_ids": [
+        "MK-BA-TECHAI-1109",
+        "MK-BA-TECHAI-APPLY-1109"
+      ]
+    },
+    {
+      "id": "MK-TECHAI-EXPERIENCED",
+      "company": "McKinsey",
+      "environment": "Tech & AI",
+      "route": "Junior Associate 113785 / Associate 113786",
+      "status": "経験者求人のため新卒入口から除外",
+      "status_code": "experienced_only",
+      "cohort_2028": false,
+      "domestic_masters": false,
+      "location": "Tokyo / Osaka",
+      "deadline": null,
+      "job_url": "https://www.mckinsey.com/careers/search-jobs/jobs/juniorassociate-techai-113785",
+      "recruitment_url": "https://www.mckinsey.com/careers/search-jobs/jobs/associate-techai-113786",
+      "facts": [
+        "Junior Associateは3年以上、Associateは5年以上の実務経験。"
+      ],
+      "interpretation": "日本所属の求人でも、28卒未就業院生の別入口として扱わない。",
+      "unconfirmed": [],
+      "source_ids": [
+        "MK-JA-TECHAI-1109",
+        "MK-AS-TECHAI-1109"
+      ]
+    },
+    {
+      "id": "BC-GENERAL-28",
+      "company": "BCG",
+      "environment": "BCG TDA（主一覧の環境）",
+      "route": "国内28卒 経営コンサルタント / Spring Internship",
+      "status": "一般Springの個別求人・応募導線あり：2027年1月14日正午JST締切",
+      "status_code": "open_job_and_apply_route_verified",
+      "cohort_2028": true,
+      "domestic_masters": true,
+      "location": "日本／Spring Internship東京",
+      "deadline": "2027-01-14T12:00:00+09:00",
+      "job_url": "https://careers.bcg.com/jp/ja/job/60380",
+      "recruitment_url": "https://careers.bcg.com/jp/ja/japan-new-grads-2028",
+      "application_url": "https://careers.bcg.com/jp/ja/job/60380",
+      "facts": [
+        "一般経営コンサルタント職の国内28卒採用入口。",
+        "個別求人60380に本文と応募ボタン、候補者ポータルへの接続を確認。28卒と29卒の合同求人。"
+      ],
+      "interpretation": "TDAを目指す一般新卒入口として保持。TDAやXの専門配属保証はない。",
+      "unconfirmed": [
+        "TDA案件の配属確度。",
+        "候補者ログイン後の提出可否。"
+      ],
+      "source_ids": [
+        "BC-28-GENERAL-1109",
+        "BC-SPRING-60380-1109"
+      ],
+      "application_portal_job_url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790319078599",
+      "application_portal_job_id": "790319078599",
+      "internship_dates": "2027-03-10 / 2027-03-11（予定）",
+      "selection_dates": [
+        "適性試験2027-01-22〜01-31",
+        "1次面接2月上旬",
+        "2次面接2月下旬"
+      ]
+    },
+    {
+      "id": "BC-X-DS-58408",
+      "company": "BCG",
+      "environment": "BCG X",
+      "route": "Data Scientist, 新卒/New Graduate 2028（58408）",
+      "status": "28卒日本語個別求人掲載・応募ボタン/候補者ポータル接続確認",
+      "status_code": "open_job_and_apply_route_verified",
+      "cohort_2028": true,
+      "domestic_masters": true,
+      "location": "Tokyo / 東京オフィス",
+      "deadline": null,
+      "job_url": "https://careers.bcg.com/jp/ja/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "recruitment_url": "https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x",
+      "application_url": "https://careers.bcg.com/jp/ja/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "application_portal_job_url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790316420875",
+      "application_portal_job_id": "790316420875",
+      "required_qualification": [
+        "フルタイム職歴なし、大学院在学中",
+        "関連領域の修士/博士を2027年9月〜2028年8月修了予定（学士見込不可）",
+        "Python開発経験、機械学習モデル経験、関連研究/インターン等",
+        "英語は日常会話以上"
+      ],
+      "selection": [
+        "書類",
+        "テクニカルテスト",
+        "複数回面接"
+      ],
+      "facts": [
+        "日本語個別求人には職務全文と応募ボタン。",
+        "課題定義からビジネス実装/組織業務定着までの職務と、戦略コンサル等との協働を記載。",
+        "応募ボタンは該当候補者ポータル求人へ接続し、ログイン表示になった。"
+      ],
+      "interpretation": "現在、日本の28卒専門職として公開応募導線がある。モデル開発専業とは読めず、既存の分断懸念を更新する具体的な職務根拠。ただし主一覧12は今回の依頼どおり変更せず、BCGの専門入口/BC-X追加確認として扱う。",
+      "unconfirmed": [
+        "公開された締切（未記載）。",
+        "ログイン後の実際の提出可否。",
+        "本人の研究/技術経験が必須要件を満たすか。",
+        "個々のアサインで構想に置ける比重。"
+      ],
+      "source_ids": [
+        "BC-X-DS-JP-1109",
+        "BC-X-LANDING-1109",
+        "BC-X-DS-EN-CONFLICT-1109"
+      ],
+      "conflict_resolution": "global/enはfilled、webのjp抽出は本文欠落。しかしjp/jaを実ブラウザで表示すると全文/応募がある。日本語個別求人＋応募先接続を今回の国内募集判断に用いる。"
+    },
+    {
+      "id": "BC-X-AI-59586",
+      "company": "BCG",
+      "environment": "BCG X",
+      "route": "AI Engineer, 新卒/New Graduate 2028（59586）",
+      "status": "28卒日本語個別求人掲載・応募ボタン/候補者ポータル接続確認",
+      "status_code": "open_job_and_apply_route_verified",
+      "cohort_2028": true,
+      "domestic_masters": true,
+      "location": "Tokyo / 東京オフィス",
+      "deadline": null,
+      "job_url": "https://careers.bcg.com/jp/ja/job/59586/AI-Engineer-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "recruitment_url": "https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x",
+      "application_url": "https://careers.bcg.com/jp/ja/job/59586/AI-Engineer-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "application_portal_job_url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790318617906",
+      "application_portal_job_id": "790318617906",
+      "required_qualification": [
+        "フルタイム職歴なし、大学院在学中",
+        "関連領域の修士/博士を2027年9月〜2028年8月修了予定（学士見込不可）",
+        "Python/TypeScript等のコーディング",
+        "ソフトウェア開発/運用、クラウドインフラ構築、関連研究/インターン等",
+        "英語は日常会話以上"
+      ],
+      "selection": [
+        "書類",
+        "テクニカルテスト",
+        "複数回面接"
+      ],
+      "facts": [
+        "日本語個別求人には職務全文と応募ボタン。",
+        "多職種協働、技術選定、開発、DevOps/MLOpsと品質、顧客運用体制の支援を記載。",
+        "応募ボタンは該当候補者ポータル求人へ接続し、ログイン表示になった。"
+      ],
+      "interpretation": "日本28卒の専門入口が現在公開されている。技術接続は強いが、エンジニアとして直接開発を担う職であり、構想軸足という本人志向との適合はDS/一般TDAと分ける。",
+      "unconfirmed": [
+        "公開された締切（未記載）。",
+        "ログイン後の実際の提出可否。",
+        "本人が開発/運用・クラウド要件を満たすか。",
+        "個々のアサインで構想に置ける比重。"
+      ],
+      "source_ids": [
+        "BC-X-AI-JP-1109",
+        "BC-X-LANDING-1109",
+        "BC-X-AI-EN-CONFLICT-1109"
+      ],
+      "conflict_resolution": "global/enはfilled、webのjp抽出は本文欠落。しかしjp/jaを実ブラウザで表示すると全文/応募がある。日本語個別求人＋応募先接続を今回の国内募集判断に用いる。"
+    }
+  ],
+  "source_files": [
+    "big4-abeam-ibm.json",
+    "mckinsey-bcg.json",
+    "bain-di-igpi-globe.json",
+    "di-reassessment.json",
+    "adl-reassessment.json"
+  ],
+  "additional_reassessment": "DIの通常夏冬新規受付終了を再確認。ADLの国内院生28制度・夏終了/次回未確認を補強。"
+}

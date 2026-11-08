@@ -1,0 +1,489 @@
+{
+  "checked_at": "2026-11-09",
+  "timezone": "Asia/Tokyo",
+  "purpose": "06の主一覧12を維持し、仕事内容の環境適合とは別に国内大学院28採用の現行性を更新する。",
+  "scope": "Bain、DI T&A、IGPI本体、Globe戦略。IGPI DI別法人は補助行として分離。",
+  "methods": [
+    "公式国内採用・個別要項・現行トップ・過年度残存ページを区別して確認。",
+    "特定回の受付終了、全通常公表回終了、登録導線、現在個別募集、専門配属を区別。",
+    "マイページ登録・応募・外部連絡・Notion/Git操作は行わない。",
+    "ページ公開日は明記のないものは未確認。検索クロール日を公開日としない。"
+  ],
+  "rows": [
+    {
+      "environment_id": "BA-C",
+      "company": "Bain & Company",
+      "legal_entity_scope": "東京オフィスの一般新卒AC。AT&AIの海外専門職とは分ける。",
+      "role": "Associate Consultant（一般新卒）×Applied Technology & AI協働環境",
+      "entry_role": "国内一般新卒・ACインターン経由",
+      "domestic_new_graduate_route": true,
+      "masters_eligible": true,
+      "graduation_window": "国内大学/大学院（修士・博士）2027年4月〜2028年8月卒修了予定",
+      "joining_window": "2028年4月または9月",
+      "qualification_notes": [
+        "日英ビジネスレベル、日本就労可能、フルタイム職歴なし。",
+        "AT&AI協働は仕事環境の根拠。AT&AI日本28新卒の専門入口は未確認。"
+      ],
+      "current_status_code": "ROUND_CLOSED_OTHER_ROUNDS_UNCONFIRMED",
+      "current_status": "国内28冬インターン受付終了。国内一般ACの別回・追加本選考受付は未確認。",
+      "entry_registration_status": "28MY PAGE登録リンクあり。登録先取得403で実際の現在登録可否は未確認。",
+      "rounds": [
+        {
+          "name": "28冬インターン",
+          "deadline": "2026-10-07 13:00",
+          "timezone": "Asia/Tokyo（東京国内採用として整理。頁表記は13:00PM、TZ明示なし）",
+          "status": "受付終了（公表締切経過）",
+          "event_dates": "2026-11-26〜2026-11-28",
+          "source_ids": [
+            "H1109-BA-DOM"
+          ]
+        }
+      ],
+      "other_route_limits": [
+        "BCFは26年10〜11月に海外滞在する交換留学生等向け。日本在住の国内学生の代替応募受付にしない。",
+        "共通AC職務のTokyo/Apply表示は年度・締切を伴わず、日本28新卒本選考の現在受付を示さない。",
+        "国内採用頁にある27年新卒採用終了を28全体終了へ読み替えない。"
+      ],
+      "user_report": "Bainの募集は不明（root経由の本人所感）",
+      "relation_to_user_report": "不明を解消できたのは特定冬回の締切まで。一般AC全体の28終了とは断定できない。",
+      "proposed_06_label": "冬インターン終了／別回・追加本選考未確認",
+      "hiring_url": "https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/",
+      "source_ids": [
+        "H1109-BA-DOM",
+        "H1109-BA-AC",
+        "H1109-BA-TEAM",
+        "H1109-BA-TOKYO",
+        "H1109-BA-REG"
+      ],
+      "unconfirmed": [
+        "国内28別回の新規受付",
+        "登録後MyPageの現行案内",
+        "日本AT&AI専門新卒の有無・専門配属"
+      ],
+      "confidence": "高：特定冬回の資格・締切。中：公開探索範囲で別回未確認という限界付き結論。",
+      "checked_at": "2026-11-09",
+      "main_selection_change": false,
+      "personal_preference_decision": "この調査では本人志望フラグを確定・変更しない。本人の募集所感と公式採用事実を区別。"
+    },
+    {
+      "environment_id": "DI-T",
+      "company": "ドリームインキュベータ",
+      "legal_entity_scope": "株式会社ドリームインキュベータ。IGPI DIと別。",
+      "role": "ビジネスプロデューサー（Technology & Amplify部門）",
+      "entry_role": "T&A部門別の新卒BP選考",
+      "domestic_new_graduate_route": true,
+      "masters_eligible": true,
+      "graduation_window": "大学/大学院卒業予定（28年4月または10月就職予定）",
+      "joining_window": "2028年4月または10月",
+      "qualification_notes": [
+        "フルタイム職歴なし。原則東京本社。",
+        "T&A採用もBPと共通募集要項。"
+      ],
+      "current_status_code": "ALL_PUBLISHED_REGULAR_ROUNDS_CLOSED",
+      "current_status": "公表している通常28新卒の夏・冬両回は新規エントリー終了。追加募集未確認。",
+      "entry_registration_status": "夏・冬とも公式にエントリー終了を表示。",
+      "rounds": [
+        {
+          "name": "28夏選考",
+          "deadline": "2026-06-12 12:00",
+          "timezone": "東京の国内選考。TZ明示なし",
+          "status": "公式エントリー終了表示",
+          "source_ids": [
+            "H1109-DI-REQ"
+          ]
+        },
+        {
+          "name": "28冬選考（T&Aを含む）",
+          "deadline": "2026-10-16 12:00",
+          "timezone": "東京の国内選考。TZ明示なし",
+          "status": "公式終了告知あり",
+          "selection_after_deadline": "T&A二次11/18以降、役員12/7以降〜2027年1月頃。選考自体の終了ではない。",
+          "source_ids": [
+            "H1109-DI-REQ",
+            "H1109-DI-WINTER"
+          ]
+        }
+      ],
+      "other_route_limits": [
+        "採用要項が夏冬計2回と明記するため、確認した冬回だけ終了という情報より強く『公表通常回の新規受付終了』と判断できる。",
+        "追加採用を将来行わないとの宣言はない。冬告知は今後の情報をHPで発表すると記載。"
+      ],
+      "user_report": "完全終了そう（root経由の本人所感）",
+      "relation_to_user_report": "現在の通常28新規エントリーが終わっている点は裏付け。選考進行・内定まで含む完全終了、追加募集永久なしの意味では裏付けない。",
+      "proposed_06_label": "通常28卒・夏冬の新規受付終了（追加募集未確認）",
+      "hiring_url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/",
+      "source_ids": [
+        "H1109-DI-REQ",
+        "H1109-DI-WINTER",
+        "H1109-DI-NEWS"
+      ],
+      "unconfirmed": [
+        "追加28募集・特別回・再募集の有無"
+      ],
+      "confidence": "高：夏冬2回と両回終了を公式に明記。",
+      "checked_at": "2026-11-09",
+      "main_selection_change": false,
+      "personal_preference_decision": "この調査では本人志望フラグを確定・変更しない。本人の募集所感と公式採用事実を区別。"
+    },
+    {
+      "environment_id": "IG-C",
+      "company": "経営共創基盤（IGPI本体）",
+      "legal_entity_scope": "株式会社経営共創基盤。株式会社IGPI Digital Intelligenceは別法人。",
+      "role": "経営コンサルタント（本体一般新卒の歴史的入口）",
+      "entry_role": "28国内新卒は現行確認できず。確認できた過年度入口は27年度。",
+      "domestic_new_graduate_route": "過年度制度は確認。現行28制度は未確認。",
+      "masters_eligible": "27要項は院生対象。28は未確認。",
+      "graduation_window": "過年度27要項：2026年4月〜2027年3月大学/院卒見込み。28条件未確認。",
+      "joining_window": "過年度27要項は2027年4月。28未確認。",
+      "qualification_notes": [
+        "現行本体採用トップの募集区分は中途/MBA。28国内修士新卒向けの明文資格・期限を確認できず。",
+        "27プロセスページの25年締切は残存過年度資料。"
+      ],
+      "current_status_code": "CURRENT_NEW_GRAD_ROUTE_UNCONFIRMED",
+      "current_status": "現行公開募集は中途/MBA中心。国内28新卒の入口・受付とも未確認。",
+      "entry_registration_status": "28新卒の現行登録導線は未確認。",
+      "rounds": [
+        {
+          "name": "過年度2027年度入社",
+          "deadline": "エントリー2025-04-11 13:00／ES2025-05-26 13:00",
+          "timezone": "未記載",
+          "status": "過年度資料。28現在募集の根拠に使わない",
+          "source_ids": [
+            "H1109-IG-OLD"
+          ]
+        }
+      ],
+      "other_route_limits": [
+        "現行トップで新卒掲載がないことは事実だが、新卒採用の恒久廃止や28採用ゼロの明示は見つかっていない。",
+        "古いgroup.igpi.co.jp等の27/26掲載を現行28の入口としない。",
+        "仕事環境の主一覧は維持し、現在応募可能のフラグを付けない。"
+      ],
+      "user_report": "新卒を取っていない説（root経由の本人所感）",
+      "relation_to_user_report": "現在の公式募集が中途/MBAのみという観察は整合。恒久的な新卒停止・28採用なしは断定せず未確認とする。",
+      "proposed_06_label": "28新卒入口・受付未確認（現行トップは中途/MBA）",
+      "hiring_url": "https://www.igpi.co.jp/recruit/",
+      "source_ids": [
+        "H1109-IG-ROOT",
+        "H1109-IG-REQ",
+        "H1109-IG-OLD",
+        "H1109-IG-GROUP",
+        "H1109-IG-ANNOUNCE"
+      ],
+      "unconfirmed": [
+        "28新卒の実施有無・卒年資格・締切",
+        "新卒掲載が消えている理由・募集停止の恒久性",
+        "本体からAI支援案件に入る現行新卒経路"
+      ],
+      "confidence": "高：現行掲載区分・過年度区分。未確認：28採用そのものの実施有無。",
+      "checked_at": "2026-11-09",
+      "main_selection_change": false,
+      "personal_preference_decision": "この調査では本人志望フラグを確定・変更しない。本人の募集所感と公式採用事実を区別。"
+    },
+    {
+      "environment_id": "IG-D",
+      "company": "IGPI Digital Intelligence",
+      "legal_entity_scope": "株式会社IGPI Digital Intelligence。本体IGPIの新卒制度を自動転用しない。",
+      "role": "データ解析を活用する経営コンサルタント／ハンズオン経営支援",
+      "entry_role": "確認できたのは中途採用のみ",
+      "domestic_new_graduate_route": "未確認",
+      "masters_eligible": "国内28新卒資格としては未確認",
+      "graduation_window": "国内28新卒資格は未確認",
+      "joining_window": "未確認",
+      "qualification_notes": [
+        "公式DI募集の見出しは中途。リンク先も中途採用の個人情報規約。",
+        "東京勤務地は確認。日本募集の存在と国内新卒28資格は別。"
+      ],
+      "current_status_code": "MID_CAREER_ONLY_VERIFIED",
+      "current_status": "中途募集は確認。新卒28の専用入口・受付は未確認。",
+      "entry_registration_status": "中途エントリー導線のみ確認。個人情報入力・送信は実施していない。",
+      "rounds": [],
+      "other_route_limits": [
+        "本体27新卒要項、DI専用中途求人、顧客AI案件を混ぜて国内28応募可能としない。"
+      ],
+      "user_report": "IGPI新卒採用への疑問に付随する法人切り分け",
+      "relation_to_user_report": "本体とDIを分けても、DIの国内28新卒入口は確認できない。",
+      "proposed_06_label": "別法人DI：中途のみ確認／28新卒未確認",
+      "hiring_url": "https://www.igpi.co.jp/recruit/di/",
+      "source_ids": [
+        "H1109-IG-DI",
+        "H1109-IG-DI-FORM"
+      ],
+      "unconfirmed": [
+        "日本28新卒の専用採用",
+        "本体採用からの出向・協働・配属の現行新卒経路"
+      ],
+      "confidence": "高：確認ページが中途区分。未確認：新卒採用の実施有無。",
+      "checked_at": "2026-11-09",
+      "main_selection_change": false,
+      "personal_preference_decision": "この調査では本人志望フラグを確定・変更しない。本人の募集所感と公式採用事実を区別。"
+    },
+    {
+      "environment_id": "GL-S",
+      "also_applies_to": [
+        "GL-A"
+      ],
+      "company": "グロービング",
+      "legal_entity_scope": "グロービング株式会社の日本国内新卒",
+      "role": "戦略コンサルタント（AI/デジタルコンサルタントも同じ国内募集本文に掲載）",
+      "entry_role": "国内新卒コンサルタント職",
+      "domestic_new_graduate_route": true,
+      "masters_eligible": true,
+      "graduation_window": "2027年4月〜2028年9月に国内大学（4年/6年）または大学院（修士/博士）卒業・修了見込み",
+      "joining_window": "今回公開本文に具体的入社月の記載を確認せず",
+      "qualification_notes": [
+        "全学部学科、文理・国籍性別不問。正社員。東京を中心に顧客先等。"
+      ],
+      "current_status_code": "DOMESTIC_ENTRY_OPEN_ROUND_DETAILS_IN_MYPAGE",
+      "current_status": "28対象を含む国内新卒のエントリー受付中を個別募集本文で確認。個別本選考回・ES期限はMyPage案内で未確認。",
+      "entry_registration_status": "登録ボタンの存在だけでなく、年度対象・職種・雇用条件と現在受付が同じ個別求人本文に明記。",
+      "rounds": [],
+      "other_route_limits": [
+        "エントリー受付は確認できるが、登録後の個別選考回が即時応募可能か、ES提出期限、選考枠の残数までは確認していない。",
+        "戦略/TLS/GS/AI事業部への配属確約やAI案件担当保証を意味しない。"
+      ],
+      "user_report": "未調査（root経由の本人所感）",
+      "relation_to_user_report": "国内院生28を含む現在エントリー受付を公式に補強。実際の選考回締切は本人MyPageで確認する情報として残す。",
+      "proposed_06_label": "国内新卒エントリー受付中／選考回・ES期限はMyPage",
+      "hiring_url": "https://globe-ing-recruit.snar.jp/jobboard/detail.aspx?id=Z5bZ6XgZjSU",
+      "source_ids": [
+        "H1109-GL-JOB",
+        "H1109-GL-MAIN",
+        "H1109-GL-INDEX"
+      ],
+      "unconfirmed": [
+        "選考回とES/検査の締切",
+        "入社月・戦略とAIデジタルの応募選択・併願制限",
+        "配属・AI案件の具体的参加経路"
+      ],
+      "confidence": "高：卒年・院生・職種・現在エントリー受付。未確認：個別本選考日程。",
+      "checked_at": "2026-11-09",
+      "main_selection_change": false,
+      "personal_preference_decision": "この調査では本人志望フラグを確定・変更しない。本人の募集所感と公式採用事実を区別。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "H1109-BA-DOM",
+      "url": "https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/",
+      "title": "国内新卒・2028年国内新卒採用",
+      "published_at": null,
+      "reviewed": "採用本文157〜232行。国内冬インターン、応募資格、BCF区分、選考プロセス、27終了表示を確認。",
+      "fact": "国内大学・大学院27/4〜28/8卒、28/4または9入社。国内冬インターン締切26/10/7 13:00。27全募集終了とは別の見出し。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-AC",
+      "url": "https://www.bain.com/ja/careers/find-a-role/position/?jobid=10397",
+      "title": "Associate Consultant",
+      "published_at": null,
+      "reviewed": "職務本文174〜215行。勤務地リストと応募要件を確認。",
+      "fact": "Tokyoを含む共通AC職務。非MBA修士等が対象だがオフィス別資格・締切は別案内に従う。グローバルApplyボタンは国内28別回受付の証拠ではない。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-TEAM",
+      "url": "https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/",
+      "title": "Applied Technology & AI",
+      "published_at": null,
+      "reviewed": "職務・協働説明174〜265行と掲載求人を確認。",
+      "fact": "一般コンサルと技術専門家の協働を明記。表示求人はブラジル/チリの上級職等。日本28専門新卒受付は確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-TOKYO",
+      "url": "https://www.bain.com/ja/careers/hiring-process/tokyo/",
+      "title": "東京オフィス募集要項・採用イベント",
+      "published_at": null,
+      "reviewed": "本文161〜187行の国内/海外/MBA/中途の区分を確認。",
+      "fact": "国内新卒は国内新卒ページへ誘導。中途2年以上、MBA/MD/JDは3年以上実務経験という別条件。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-REG",
+      "url": "https://axol.jp/zw/s/bain_28/entry/agreement",
+      "title": "Bain2028 MY PAGE登録先",
+      "published_at": null,
+      "reviewed": "公式国内新卒頁のリンクから取得を試行。403で本文取得できず。",
+      "fact": "現行の登録可否、ログイン後の別回選考有無は未確認。",
+      "access": "403 Forbidden",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-DI-REQ",
+      "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/",
+      "title": "2028年卒向・新卒募集要項",
+      "published_at": null,
+      "reviewed": "要項152〜214行。職種、T&A、資格、勤務地、夏冬エントリー状態を確認。",
+      "fact": "BP職、T&Aも同要項。職歴なし、28/4または10就職予定の大学/大学院卒予定。夏冬計2回を公表し両回エントリー終了。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-DI-WINTER",
+      "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/winter/",
+      "title": "新卒採用28卒・DI冬選考開催のお知らせ",
+      "published_at": "2026-09-01",
+      "publication_evidence": "H1109-DI-NEWSの公式日付",
+      "reviewed": "募集本文・終了告知・部門別選考表を確認。",
+      "fact": "26/10/16 12:00でエントリー締切。BP/T&A2部門。T&A二次11/18以降、役員12/7以降〜27/1頃。以後のスケジュール等はHP告知との記載。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-DI-NEWS",
+      "url": "https://www.dreamincubator.co.jp/news/?tab=4",
+      "title": "採用ニュース一覧",
+      "published_at": null,
+      "reviewed": "採用ニュース171〜203行を確認。",
+      "fact": "28冬告知26/9/1、28夏告知26/4/1を掲載。追加28回の告知は今回一覧では確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-ROOT",
+      "url": "https://www.igpi.co.jp/recruit/",
+      "title": "経営共創基盤・現行採用情報",
+      "published_at": null,
+      "reviewed": "採用本文28〜79行・募集区分を確認。",
+      "fact": "IGPI本体は中途/MBA、DIは中途を掲載。現行トップに新卒区分なし。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-REQ",
+      "url": "https://www.igpi.co.jp/recruit/igpi/",
+      "title": "IGPIカンパニー募集要項",
+      "published_at": null,
+      "reviewed": "現行職務本文とページメタ説明を確認。",
+      "fact": "現行ページは中途/MBA向け。28国内新卒資格・現在応募受付は確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-OLD",
+      "url": "https://www.igpi.co.jp/recruit/igpi/process/",
+      "title": "IGPIカンパニー選考プロセス・2027年度入社",
+      "published_at": null,
+      "reviewed": "要項40〜89行を確認。",
+      "fact": "27年度大学/院資格、25/4/11登録・25/5/26ES締切。28現在受付に使えない残存過年度ページ。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-GROUP",
+      "url": "https://igpi-group.com/recruit/",
+      "title": "IGPIグループ現行採用情報",
+      "published_at": null,
+      "reviewed": "募集要項一覧本文を確認。",
+      "fact": "本体/MSCは中途/MBA、DI他は中途。グループトップでも28国内新卒案内を確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-ANNOUNCE",
+      "url": "https://igpi-group.com/news/info_20250220/",
+      "title": "2027年度入社の採用募集開始のお知らせ",
+      "published_at": "2025-02-20",
+      "reviewed": "公式告知全文を確認。",
+      "fact": "27採用開始の歴史的事実。28の現在採用を示さない。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-DI",
+      "url": "https://www.igpi.co.jp/recruit/di/",
+      "title": "IGPI Digital Intelligence募集要項",
+      "published_at": null,
+      "reviewed": "職務本文40〜95行と公式応募導線を確認。",
+      "fact": "東京でデータ解析を活用する経営コンサル/ハンズオン支援。募集区分は中途。新卒28制度・院生資格は未確認。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-DI-FORM",
+      "url": "https://js02.jposting.net/igpi/u/bai/entry.phtml?job=6",
+      "title": "DIカンパニー中途エントリー規約",
+      "published_at": null,
+      "reviewed": "規約28〜34行。登録・同意・個人情報送信はしていない。",
+      "fact": "応募先ページも中途採用の規約で、IGPI DI法人を明記。新卒入口に読み替えない。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-GL-MAIN",
+      "url": "https://globe-ing.com/recruit/new-graduate/",
+      "title": "グロービング・新卒向け",
+      "published_at": null,
+      "reviewed": "新卒募集333〜353行と育成/配属説明を確認。",
+      "fact": "国内27/4〜28/9卒、戦略/AIデジタルのコンサルタント職、正社員東京。国内個別要項へリンク。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-GL-JOB",
+      "url": "https://globe-ing-recruit.snar.jp/jobboard/detail.aspx?id=Z5bZ6XgZjSU",
+      "title": "国内新卒・国内大学/大学院在学者の個別要項",
+      "published_at": null,
+      "reviewed": "個別求人本文37〜139行を確認。",
+      "fact": "現在エントリー受付と明記。国内27/4〜28/9大学/修士/博士修了見込み。戦略/AIデジタル職。選考/イベントは登録後MyPageで案内。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-GL-INDEX",
+      "url": "https://globe-ing-recruit.snar.jp/index.aspx",
+      "title": "グロービング新卒採用一覧",
+      "published_at": null,
+      "reviewed": "国内新卒43〜62行と海外との区分を確認。",
+      "fact": "国内と海外の卒年月条件・職種を区別し、国内エントリー受付を確認。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    }
+  ],
+  "remaining_global_limits": [
+    "ログイン後のMyPage情報は取得していない。",
+    "Bain登録先は403。IGPI DI独自/recruit/は取得失敗後、本体掲載の公式DI募集へ到達。",
+    "公開資料で見つからないことを採用の恒久停止と断定しない。"
+  ]
+}

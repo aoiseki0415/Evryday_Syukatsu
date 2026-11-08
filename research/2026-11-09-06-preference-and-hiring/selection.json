@@ -1,0 +1,57 @@
+{
+  "checked_at": "2026-11-09",
+  "environment_total": 32,
+  "main_count": 13,
+  "pending_count": 19,
+  "base": "../2026-11-08-accuracy-and-coverage-audit/candidates.json",
+  "main_ids": [
+    "DE-A",
+    "PW-A",
+    "EY-A",
+    "KP-A",
+    "AB-D",
+    "IB-A",
+    "MK-D",
+    "BC-T",
+    "BA-C",
+    "GL-S",
+    "IG-C",
+    "DI-T",
+    "AD-A"
+  ],
+  "pending_ids": [
+    "EY-FS",
+    "AC-B",
+    "AC-A",
+    "AC-S",
+    "GL-A",
+    "BC-X",
+    "NR-A",
+    "MR-A",
+    "OW-Q",
+    "KA-D",
+    "RB-A",
+    "IG-D",
+    "FAS-C",
+    "FO-A",
+    "PA-D",
+    "BY-A",
+    "ZS-BT",
+    "YC-DX",
+    "NT-S"
+  ],
+  "change": {
+    "id": "AD-A",
+    "from_selection": "追加確認",
+    "to_selection": "主一覧",
+    "decision": "本人の追加検討指示に基づくCodexの適合判断",
+    "source": "adl-reassessment.json",
+    "personal_preference": "未評価"
+  },
+  "di": {
+    "selection": "主一覧維持",
+    "personal_preference": "↗ 再評価中",
+    "assessment": "積極比較へ上げる合理的材料あり",
+    "source": "di-reassessment.json"
+  }
+}

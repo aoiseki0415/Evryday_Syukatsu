@@ -1,0 +1,934 @@
+{
+  "checked_at": "2026-11-09",
+  "records": 75,
+  "unique_urls": 72,
+  "sources": [
+    {
+      "id": "DE-1",
+      "title": "コンサルティング 新卒採用 募集要項／エントリー",
+      "url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "国内28卒本選考受付中、コンサルタント職、大学院資格、MyPage後の手続、早期終了留保。",
+      "company_id": "DE"
+    },
+    {
+      "id": "PW-1",
+      "title": "選考情報 新卒採用",
+      "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "DC最終募集のES1/8・Web1/11、BC国内ES11/15・Web11/18、入社時期、応募方法。",
+      "company_id": "PW"
+    },
+    {
+      "id": "PW-2",
+      "title": "デジタルコンサルタント職",
+      "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html",
+      "source_type": "公式職種説明",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "DCにおけるAI・データ等の専門領域。募集受付根拠はPW-1。",
+      "company_id": "PW"
+    },
+    {
+      "id": "EY-1",
+      "title": "新卒採用（エントリー・募集要項）",
+      "url": "https://www.eysc.jp/recruit/new_graduate/entry/new/index.html",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "28卒国内本選考受付中、修士博士資格、TC等の職種、コース別差異、詳細はMyPage。",
+      "company_id": "EY"
+    },
+    {
+      "id": "KP-1",
+      "title": "新卒採用トップ",
+      "url": "https://recruit.kpmg-consulting.jp/new-graduate",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "28卒エントリー受付中を明記。登録入口、イベント案内。",
+      "company_id": "KP"
+    },
+    {
+      "id": "KP-2",
+      "title": "募集要項・選考フロー",
+      "url": "https://recruit.kpmg-consulting.jp/new-graduate/job-description",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "4職種、2027年4月以降の大学/大学院卒業予定、日本勤務地、年間複数選考。",
+      "company_id": "KP"
+    },
+    {
+      "id": "KP-3",
+      "title": "新卒採用 FAQ",
+      "url": "https://recruit.kpmg-consulting.jp/new-graduate/faq",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "4職種の通年採用、詳細はMyPage。",
+      "company_id": "KP"
+    },
+    {
+      "id": "AB-1",
+      "title": "新卒採用TOP・FAQ",
+      "url": "https://www.abeam.com/jp/ja/recruit/newgrad/",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "秋本選考受付終了、冬12/9開始予定、28登録後に詳細案内。",
+      "company_id": "AB"
+    },
+    {
+      "id": "AB-2",
+      "title": "28卒 Solution Consultant職 募集要項",
+      "url": "https://www.abeam.com/jp/ja/recruit/newgrad/requirements2028/solution-cs/",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "28大学/大学院資格、デジタルコンサルタントコース、日本勤務。",
+      "company_id": "AB"
+    },
+    {
+      "id": "AB-3",
+      "title": "ABeam Connect",
+      "url": "https://www.abeam.com/jp/ja/recruit/newgrad/event/connect2026/",
+      "source_type": "公式イベント本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "28大学院生対象、デジタルコンサルタント等、12–1月予定、MyPage予約。",
+      "company_id": "AB"
+    },
+    {
+      "id": "AB-4",
+      "title": "28卒MyPage 新規登録・公開規約",
+      "url": "https://mypage.3070.i-webs.jp/abeam2028/applicant/entry/regulation/pra/bhajhbcegg-hjdb/entrycd/",
+      "source_type": "公式リンク先の応募サービス",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "28卒登録入口が公開到達可能。登録・同意・送信は実施していない。",
+      "company_id": "AB"
+    },
+    {
+      "id": "AB-5",
+      "title": "28卒 Solution Consultant職 コース紹介",
+      "url": "https://www.abeam.com/jp/ja/recruit/newgrad/course2028/solution-cs/",
+      "source_type": "公式職種・選考本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "デジタルコンサルタントの配属先・コース/選考説明。",
+      "company_id": "AB"
+    },
+    {
+      "id": "IB-1",
+      "title": "日本IBM 新卒採用情報",
+      "url": "https://www.ibm.com/jp-ja/careers/career-opportunities",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "28卒部門・職種別募集要項とMyPage入口、AI Innovator/DS/戦略/デジタルビジネス/ITスペシャリスト等の掲載。募集要項掲載のみで現在受付とは判定しない。",
+      "company_id": "IB"
+    },
+    {
+      "id": "IB-2",
+      "title": "＜日本IBM＞2028年 新卒採用 第1回募集",
+      "url": "https://app.en-courage.com/events/01M2SW8FVAKAY8HKH6N4CDP882",
+      "source_type": "企業名義の採用媒体掲載（IBMドメイン外）",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "第1回受付中、コンサル3職種等、ES11/16正午・Web11/18正午、日本国内28就労、応募リンク、併願制約。",
+      "limitation": "掲載は日本IBMの企業ページに属するが、媒体上の掲載。応募先axol本文は403で閲覧できなかった。",
+      "company_id": "IB"
+    },
+    {
+      "id": "IB-3",
+      "title": "IBM AI Innovator Hackathon",
+      "url": "https://www.ibm.com/jp-ja/careers/blog/ibm-ai-innovator-hackathon",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "AIイノベーターはハッカソン経由のみ予定、6/15正午締切、8月開催、国内28資格。",
+      "company_id": "IB"
+    },
+    {
+      "id": "IB-4",
+      "title": "インターンシップ2026 プログラム",
+      "url": "https://www.ibm.com/jp-ja/careers/internships/programs",
+      "source_type": "公式採用本文",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "DSコースは早期選考のみ予定、夏回ES6/15・Web6/17。一般コンサル等とは分ける。",
+      "company_id": "IB"
+    },
+    {
+      "id": "IB-5",
+      "title": "2028年度 DS（コンサルティング）募集要項PDF",
+      "url": "https://www.ibm.com/downloads/documents/jp-ja/1227c12efab8b25d",
+      "source_type": "公式募集要項PDF",
+      "checked_at_jst": "2026-11-09T01:50:00+09:00",
+      "support": "28年4月日本国内就労、就業経験不問、DS業務と要件。PDFに現在回の期限は記載なし。",
+      "company_id": "IB"
+    },
+    {
+      "id": "H1109-BA-DOM",
+      "url": "https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/",
+      "title": "国内新卒・2028年国内新卒採用",
+      "published_at": null,
+      "reviewed": "採用本文157〜232行。国内冬インターン、応募資格、BCF区分、選考プロセス、27終了表示を確認。",
+      "fact": "国内大学・大学院27/4〜28/8卒、28/4または9入社。国内冬インターン締切26/10/7 13:00。27全募集終了とは別の見出し。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-AC",
+      "url": "https://www.bain.com/ja/careers/find-a-role/position/?jobid=10397",
+      "title": "Associate Consultant",
+      "published_at": null,
+      "reviewed": "職務本文174〜215行。勤務地リストと応募要件を確認。",
+      "fact": "Tokyoを含む共通AC職務。非MBA修士等が対象だがオフィス別資格・締切は別案内に従う。グローバルApplyボタンは国内28別回受付の証拠ではない。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-TEAM",
+      "url": "https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/",
+      "title": "Applied Technology & AI",
+      "published_at": null,
+      "reviewed": "職務・協働説明174〜265行と掲載求人を確認。",
+      "fact": "一般コンサルと技術専門家の協働を明記。表示求人はブラジル/チリの上級職等。日本28専門新卒受付は確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-TOKYO",
+      "url": "https://www.bain.com/ja/careers/hiring-process/tokyo/",
+      "title": "東京オフィス募集要項・採用イベント",
+      "published_at": null,
+      "reviewed": "本文161〜187行の国内/海外/MBA/中途の区分を確認。",
+      "fact": "国内新卒は国内新卒ページへ誘導。中途2年以上、MBA/MD/JDは3年以上実務経験という別条件。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-BA-REG",
+      "url": "https://axol.jp/zw/s/bain_28/entry/agreement",
+      "title": "Bain2028 MY PAGE登録先",
+      "published_at": null,
+      "reviewed": "公式国内新卒頁のリンクから取得を試行。403で本文取得できず。",
+      "fact": "現行の登録可否、ログイン後の別回選考有無は未確認。",
+      "access": "403 Forbidden",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-DI-REQ",
+      "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/",
+      "title": "2028年卒向・新卒募集要項",
+      "published_at": null,
+      "reviewed": "要項152〜214行。職種、T&A、資格、勤務地、夏冬エントリー状態を確認。",
+      "fact": "BP職、T&Aも同要項。職歴なし、28/4または10就職予定の大学/大学院卒予定。夏冬計2回を公表し両回エントリー終了。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-DI-WINTER",
+      "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/winter/",
+      "title": "新卒採用28卒・DI冬選考開催のお知らせ",
+      "published_at": "2026-09-01",
+      "publication_evidence": "H1109-DI-NEWSの公式日付",
+      "reviewed": "募集本文・終了告知・部門別選考表を確認。",
+      "fact": "26/10/16 12:00でエントリー締切。BP/T&A2部門。T&A二次11/18以降、役員12/7以降〜27/1頃。以後のスケジュール等はHP告知との記載。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-DI-NEWS",
+      "url": "https://www.dreamincubator.co.jp/news/?tab=4",
+      "title": "採用ニュース一覧",
+      "published_at": null,
+      "reviewed": "採用ニュース171〜203行を確認。",
+      "fact": "28冬告知26/9/1、28夏告知26/4/1を掲載。追加28回の告知は今回一覧では確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-ROOT",
+      "url": "https://www.igpi.co.jp/recruit/",
+      "title": "経営共創基盤・現行採用情報",
+      "published_at": null,
+      "reviewed": "採用本文28〜79行・募集区分を確認。",
+      "fact": "IGPI本体は中途/MBA、DIは中途を掲載。現行トップに新卒区分なし。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-REQ",
+      "url": "https://www.igpi.co.jp/recruit/igpi/",
+      "title": "IGPIカンパニー募集要項",
+      "published_at": null,
+      "reviewed": "現行職務本文とページメタ説明を確認。",
+      "fact": "現行ページは中途/MBA向け。28国内新卒資格・現在応募受付は確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-OLD",
+      "url": "https://www.igpi.co.jp/recruit/igpi/process/",
+      "title": "IGPIカンパニー選考プロセス・2027年度入社",
+      "published_at": null,
+      "reviewed": "要項40〜89行を確認。",
+      "fact": "27年度大学/院資格、25/4/11登録・25/5/26ES締切。28現在受付に使えない残存過年度ページ。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-GROUP",
+      "url": "https://igpi-group.com/recruit/",
+      "title": "IGPIグループ現行採用情報",
+      "published_at": null,
+      "reviewed": "募集要項一覧本文を確認。",
+      "fact": "本体/MSCは中途/MBA、DI他は中途。グループトップでも28国内新卒案内を確認できず。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-ANNOUNCE",
+      "url": "https://igpi-group.com/news/info_20250220/",
+      "title": "2027年度入社の採用募集開始のお知らせ",
+      "published_at": "2025-02-20",
+      "reviewed": "公式告知全文を確認。",
+      "fact": "27採用開始の歴史的事実。28の現在採用を示さない。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-DI",
+      "url": "https://www.igpi.co.jp/recruit/di/",
+      "title": "IGPI Digital Intelligence募集要項",
+      "published_at": null,
+      "reviewed": "職務本文40〜95行と公式応募導線を確認。",
+      "fact": "東京でデータ解析を活用する経営コンサル/ハンズオン支援。募集区分は中途。新卒28制度・院生資格は未確認。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-IG-DI-FORM",
+      "url": "https://js02.jposting.net/igpi/u/bai/entry.phtml?job=6",
+      "title": "DIカンパニー中途エントリー規約",
+      "published_at": null,
+      "reviewed": "規約28〜34行。登録・同意・個人情報送信はしていない。",
+      "fact": "応募先ページも中途採用の規約で、IGPI DI法人を明記。新卒入口に読み替えない。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-GL-MAIN",
+      "url": "https://globe-ing.com/recruit/new-graduate/",
+      "title": "グロービング・新卒向け",
+      "published_at": null,
+      "reviewed": "新卒募集333〜353行と育成/配属説明を確認。",
+      "fact": "国内27/4〜28/9卒、戦略/AIデジタルのコンサルタント職、正社員東京。国内個別要項へリンク。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-GL-JOB",
+      "url": "https://globe-ing-recruit.snar.jp/jobboard/detail.aspx?id=Z5bZ6XgZjSU",
+      "title": "国内新卒・国内大学/大学院在学者の個別要項",
+      "published_at": null,
+      "reviewed": "個別求人本文37〜139行を確認。",
+      "fact": "現在エントリー受付と明記。国内27/4〜28/9大学/修士/博士修了見込み。戦略/AIデジタル職。選考/イベントは登録後MyPageで案内。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "H1109-GL-INDEX",
+      "url": "https://globe-ing-recruit.snar.jp/index.aspx",
+      "title": "グロービング新卒採用一覧",
+      "published_at": null,
+      "reviewed": "国内新卒43〜62行と海外との区分を確認。",
+      "fact": "国内と海外の卒年月条件・職種を区別し、国内エントリー受付を確認。",
+      "official": true,
+      "checked_at": "2026-11-09",
+      "timezone": "Asia/Tokyo",
+      "publication_date_note": "未記載の場合は確認日から推定しない。"
+    },
+    {
+      "id": "MK-DIGITAL-FAQ-1109",
+      "url": "https://www.mckinsey.com/jp/careers/role-descriptions/careers-in-digital",
+      "title": "マッキンゼー・デジタル採用情報",
+      "checked_on": "2026-11-09",
+      "method": "web本文＋ChromeゲストのFAQ展開",
+      "facts": [
+        "FAQは新卒応募可能と回答し、新卒募集職種としてジェネラルコンサルタントとデジタルコンサルタントを挙げる。",
+        "FAQの応募案内はキャンパス採用ページへ接続する。",
+        "現行職種一覧はJapan/Tech & AIの求人検索へ接続する。"
+      ],
+      "limits": [
+        "FAQ本文はweb抽出では欠落したが、実ブラウザで展開して確認した。",
+        "制度上の新卒応募可と、国内28卒の現在受付・Digital配属確約は同じではない。"
+      ]
+    },
+    {
+      "id": "MK-CAMPUS-1109",
+      "url": "https://www.mckinsey.com/jp/careers/application-method",
+      "title": "キャンパス採用（新卒、MBA等の海外大学院）",
+      "checked_on": "2026-11-09",
+      "method": "Chromeゲスト本文",
+      "facts": [
+        "在籍状況別に国内大学・海外大学・海外MBA・海外APDの入口を分ける。",
+        "国内大学リンクはdomestic-universityへ接続する。"
+      ],
+      "limits": []
+    },
+    {
+      "id": "MK-DOMESTIC-1109",
+      "url": "https://www.mckinsey.com/jp/careers/application-method/domestic-university",
+      "title": "国内大学新卒採用情報",
+      "checked_on": "2026-11-09",
+      "method": "web本文＋Chromeゲスト本文/リンク確認",
+      "facts": [
+        "国内四年制大学・大学院の学生はBusiness Analystとして採用する旨を記載。",
+        "2027年9月〜2028年8月卒の学士/修士、フルタイム職歴なし、日本語能力等を条件とする。",
+        "応募リンクは通常BAのjob15136であり、Digital専用の28卒リンクをこのページでは確認できない。"
+      ],
+      "limits": [
+        "『現在2028年度新卒募集中』の定型表現が残るが、詳細日程は28卒専用ページで判断する。"
+      ]
+    },
+    {
+      "id": "MK-28-1109",
+      "url": "https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028",
+      "title": "2028年国内大学新卒採用情報",
+      "checked_on": "2026-11-09",
+      "method": "web本文",
+      "facts": [
+        "28卒は2回実施と明記。夏締切2026年5月31日、冬締切2026年9月15日。",
+        "2027年9月〜2028年8月卒の日本国内四年制大学/大学院、学士/修士が対象。",
+        "応募先はBusiness Analystであり、同年度再応募不可。"
+      ],
+      "limits": [
+        "2026年11月9日時点で掲載済み2回の応募期限は経過。選考進行/インターン開催と新規応募受付は区別する。"
+      ]
+    },
+    {
+      "id": "MK-BA-TECHAI-1109",
+      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-techai-113784",
+      "title": "Business Analyst - Tech & AI（113784）",
+      "checked_on": "2026-11-09",
+      "method": "web個別全文＋Chromeゲスト本文/Apply Now確認",
+      "facts": [
+        "勤務地はTokyo/Osaka。職務は戦略的課題の設計、AIソリューション構築、技術基盤刷新、プロセス改革とAI活用能力づくり。",
+        "学位と日英能力を要求。経験は英語ではup-to 3 years、日本語では対象業界の3年未満の実務経験と記載。",
+        "Apply Nowは専用folderId113784の応募方法ページに接続する。"
+      ],
+      "limits": [
+        "28卒・国内新卒専用とする表記、入社時期、応募期限、未就業学生を明示的に受け付ける説明は確認できない。",
+        "経験の上限表現だけで『経験不要の28卒別入口』と断定しない。"
+      ]
+    },
+    {
+      "id": "MK-BA-TECHAI-APPLY-1109",
+      "url": "https://jobs.mckinsey.com/en_US/careers/ApplicationMethods?folderId=113784",
+      "title": "Applying to Business Analyst - Tech & AI",
+      "checked_on": "2026-11-09",
+      "method": "ChromeゲストでApply Now先を確認",
+      "facts": [
+        "求人113784専用の応募方法ページが表示され、新規応募者のCVアップロード/後日アップロード選択と既登録者ログインを提供。",
+        "終了/closed表示はこの公開導線では確認されない。"
+      ],
+      "limits": [
+        "個人情報入力、アカウント作成、応募提出はしていない。",
+        "応募導線の存在は28卒応募資格の証明にはならない。"
+      ]
+    },
+    {
+      "id": "MK-JA-TECHAI-1109",
+      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/juniorassociate-techai-113785",
+      "title": "Junior Associate - Tech & AI（113785）",
+      "checked_on": "2026-11-09",
+      "method": "web個別全文",
+      "facts": [
+        "Tokyo/Osaka。開発者・DS・テクニカルアーキテクト・デザイナー・一般コンサル等と協働。",
+        "対象業界で3年以上の実務経験が必要。"
+      ],
+      "limits": [
+        "国内新卒院生向け求人としては扱わない。"
+      ]
+    },
+    {
+      "id": "MK-AS-TECHAI-1109",
+      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/associate-techai-113786",
+      "title": "Associate - Tech & AI（113786）",
+      "checked_on": "2026-11-09",
+      "method": "公式検索結果の求人全文",
+      "facts": [
+        "Tokyo/Osaka。東京/関西オフィスのTech & AIチーム所属を明記。",
+        "対象業界で5年以上の実務経験を要求。"
+      ],
+      "limits": [
+        "国内28卒のDigital入口と混同しない。"
+      ]
+    },
+    {
+      "id": "BC-X-LANDING-1109",
+      "url": "https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x",
+      "title": "BCG X 新卒採用情報（国内大学/大学院在学中の方）",
+      "checked_on": "2026-11-09",
+      "method": "web本文",
+      "facts": [
+        "28卒のDS/AI Engineer採用案内を掲載。求人検索から各新卒求人に応募する案内。",
+        "フルタイム職歴なし、関連領域の修士/博士を条件とし、経営コンサルタントと専門職の併願可。"
+      ],
+      "limits": [
+        "上部は2027年9月〜2028年8月卒、本文は2026年9月〜2028年8月修了と幅に差がある。個別求人は両職とも2027年9月〜2028年8月を明記するため、個別を優先する。"
+      ]
+    },
+    {
+      "id": "BC-28-GENERAL-1109",
+      "url": "https://careers.bcg.com/jp/ja/japan-new-grads-2028",
+      "title": "2028年新卒採用情報（国内大学/大学院在学中の方）",
+      "checked_on": "2026-11-09",
+      "method": "web本文",
+      "facts": [
+        "一般経営コンサルタント職の28卒向けSpring Internshipを3月東京オフィスで開催。",
+        "応募締切は2027年1月14日正午12時JST。",
+        "国内大学/院2027年9月〜2028年8月卒、フルタイム職歴なし等が対象。"
+      ],
+      "limits": [
+        "TDA・BCG X専門職の配属を確約する募集ではない。X専門職の期限として転用しない。"
+      ]
+    },
+    {
+      "id": "BC-X-DS-JP-1109",
+      "url": "https://careers.bcg.com/jp/ja/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "title": "Data Scientist, 新卒/New Graduate 2028, BCG X, Japan（58408）",
+      "checked_on": "2026-11-09",
+      "method": "Chromeゲストの日本語個別求人全文＋応募ボタン先確認",
+      "facts": [
+        "Tokyo。職歴なしの大学院生、関連領域の修士/博士を2027年9月〜2028年8月修了予定。学士見込不可。",
+        "Python開発、機械学習モデリング、関連研究/インターン等、日常会話以上の英語を必須とする。",
+        "課題定義からモデル構築、ビジネス実装、組織/業務定着まで担当する説明。戦略コンサル等との協働と全社AI変革の設計実行を明記。",
+        "応募ボタンはstudenttalent.bcg.comの求人790316420875へ遷移し、候補者ログインに接続する。"
+      ],
+      "limits": [
+        "締切は公開求人全文に記載を確認できない。ログイン後の受付完了可否は未確認。",
+        "web本文抽出では求人本体が欠落した。英語URLのfilled表示と異なるため、実ブラウザで確認した日本語現行職務/応募導線を採用する。"
+      ]
+    },
+    {
+      "id": "BC-X-AI-JP-1109",
+      "url": "https://careers.bcg.com/jp/ja/job/59586/AI-Engineer-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "title": "AI Engineer, 新卒/New Graduate 2028, BCG X, Japan（59586）",
+      "checked_on": "2026-11-09",
+      "method": "Chromeゲストの日本語個別求人全文＋応募ボタン先確認",
+      "facts": [
+        "Tokyo。職歴なしの大学院生、関連領域の修士/博士を2027年9月〜2028年8月修了予定。学士見込不可。",
+        "Python/TypeScript等のコーディング、ソフトウェア開発/運用とクラウド構築、関連研究/インターン等、日常会話以上の英語を必須とする。",
+        "技術選定/構築、DevOps/MLOps・QA、多職種との橋渡し、開発チームリード、顧客運用体制の構築支援を説明。",
+        "応募ボタンはstudenttalent.bcg.comの求人790318617906へ遷移し、候補者ログインに接続する。"
+      ],
+      "limits": [
+        "締切は公開求人全文に記載を確認できない。ログイン後の受付完了可否は未確認。",
+        "日本語実ブラウザには本文と応募ボタンがある。英語URLのfilled表示だけで募集終了と判断しない。"
+      ]
+    },
+    {
+      "id": "BC-X-DS-EN-CONFLICT-1109",
+      "url": "https://careers.bcg.com/global/en/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "title": "DS58408の英語URL",
+      "checked_on": "2026-11-09",
+      "method": "web個別本文",
+      "facts": [
+        "英語URLではfilledの終了テンプレートを返した。"
+      ],
+      "limits": [
+        "同一IDの日本語実ブラウザで現行全文・応募ボタン・候補者ポータル接続が確認されたため、日本募集の終了根拠として使わない。"
+      ]
+    },
+    {
+      "id": "BC-X-AI-EN-CONFLICT-1109",
+      "url": "https://careers.bcg.com/global/en/job/59586/AI-Engineer-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan",
+      "title": "AI59586の英語URL",
+      "checked_on": "2026-11-09",
+      "method": "web個別本文",
+      "facts": [
+        "英語URLではfilledの終了テンプレートを返した。"
+      ],
+      "limits": [
+        "同一IDの日本語実ブラウザで現行全文・応募ボタン・候補者ポータル接続が確認されたため、日本募集の終了根拠として使わない。"
+      ]
+    },
+    {
+      "id": "BC-BCF-LINKS-1109",
+      "url": "https://bcg.eightfold.ai/events/candidate?plannedEventId=RN4ZpeDGe",
+      "title": "Boston Career Forum 2026",
+      "checked_on": "2026-11-09",
+      "method": "web公開イベント本文",
+      "facts": [
+        "海外大学/大学院向けのBCF2026案内が、BCG XのDS58408/AI59586の日本語求人を新卒採用の応募先として掲載する。"
+      ],
+      "limits": [
+        "海外在籍者向けイベントのため、これ自体を国内院生の応募資格・締切の根拠にはしない。11月13日のイベント登録締切はX求人の採用締切ではない。"
+      ]
+    },
+    {
+      "id": "BC-SPRING-60380-1109",
+      "url": "https://careers.bcg.com/jp/ja/job/60380",
+      "title": "JPN, Spring Internship, 国内大学新卒採用（2027年9月〜2029年8月卒予定）（60380）",
+      "checked_on": "2026-11-09",
+      "method": "国内28ページから詳細リンクを辿り、Chromeゲストで求人全文・応募ボタン先を確認",
+      "facts": [
+        "現在応募を案内する求人本文と応募ボタンがある。対象は国内大学/院の2027年9月〜2029年8月卒予定で、28卒と29卒を含む。",
+        "予定開催は2027年3月10〜11日、東京オフィス。締切は2027年1月14日正午。",
+        "適性試験1月22〜31日、1次面接2月上旬、2次面接2月下旬の予定。",
+        "応募ボタンはstudenttalentの求人790319078599に接続し、候補者ログインへ進む。"
+      ],
+      "limits": [
+        "TDA配属保証ではない。ログイン後の提出可否は未確認。"
+      ]
+    },
+    {
+      "id": "ADL-AI-SERVICE-1109",
+      "title": "AI・デジタル",
+      "url": "https://www.adlittle.com/ja/capabilities/AI-and-Digital",
+      "kind": "公式提供内容",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "AI診断、AI戦略、AIトランスフォーメーションを同じ提供内容として説明。組織全体の継続的なAI活用を支える能力・パートナー・構造を構築する。",
+        "社内チームと外部パートナーをつなぎ、戦略から実行まで支援すると説明。"
+      ],
+      "limits": [
+        "日本語サイト上のグローバル提供説明。国内個別案件や新卒配属の証明ではない。"
+      ]
+    },
+    {
+      "id": "ADL-COMPLAINTS-1109",
+      "title": "Resolving customer complaints in the digital era",
+      "url": "https://www.adlittle.com/en/insights/report/resolving-customer-complaints-digital-era",
+      "kind": "公式顧客事例入りレポート",
+      "checked_on": "2026-11-09",
+      "published": "2019-12",
+      "origin": "今回新規発見・本文確認",
+      "facts": [
+        "匿名通信事業者の顧客対応改革で、ADLが経営KPI、外部委託先のSLA/成果連動報酬、支援部門の責任・業務運営モデルを再設計。",
+        "同じ案件でAI/ML/RPA、予測チケット、チャットボット、自動経営ダッシュボードを組み込み、2日内解決率が65%から86%に改善したと報告。"
+      ],
+      "limits": [
+        "2019年公表の匿名海外事例。全社全機能のAI変革ではなく、顧客対応機能を部門横断で変える実績。ADL単独のコーディング担当割合は記載なし。"
+      ]
+    },
+    {
+      "id": "ADL-BMS-1109",
+      "title": "Clinical Development & AI Precision Analytics",
+      "url": "https://www.adlittle.com/en/client-story",
+      "kind": "公式顧客事例・顧客幹部コメント",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "11/8既存根拠を本文再取得",
+      "facts": [
+        "BMSの臨床開発において、業界/治療領域知識、DS/AI、開発運営、ITを結び、AI精密分析基盤を共同設計・導入。",
+        "新規試験を含む臨床試験ポートフォリオに展開し、試験計画、投資判断、リスク検知、実行管理を支援する。"
+      ],
+      "limits": [
+        "海外のR&D/臨床開発領域。BMS全社の全機能を刷新したとは書かれていない。"
+      ]
+    },
+    {
+      "id": "ADL-SPACE-1109",
+      "title": "Space by Arthur D. Little",
+      "url": "https://www.adlittle.com/ja/space",
+      "kind": "公式協働体制",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "部門横断の専門性・業界知識・社内AI能力を結集する支援モデルと説明。外部専門家/技術企業/研究機関の能力を組み合わせる。"
+      ],
+      "limits": [
+        "自社内のAI活用による助言生産性の説明も含む。その部分だけを顧客AI導入支援実績とは扱わない。日本新卒の専用配属制度ではない。"
+      ]
+    },
+    {
+      "id": "ADL-CODE-1109",
+      "title": "Cracking the Code: How AI Agents Are Reinventing the Software Development Lifecycle",
+      "url": "https://prisim.adlittle.com/cracking-the-code-how-ai-agents-are-reinventing-the-software-development-lifecycle/",
+      "kind": "公式PRISM・技術実践の取材記事",
+      "checked_on": "2026-11-09",
+      "published": "2026-10",
+      "origin": "11/7既存記事を本文再取得",
+      "facts": [
+        "Digital Problem SolvingのChief Architect Michael Papadopoulosが医薬/通信の規制産業で本番AI生成コードを運用していると説明。ADL CatalystのJoshua Sanzも試作・業務検証の実践を説明。"
+      ],
+      "limits": [
+        "顧客名、プロジェクト全体の専門性編成、日本での参加経路は未記載。ADLの開発経験を示す補強であり、単独で条件①の根拠にはしない。外部識者の発言とは区別。"
+      ]
+    },
+    {
+      "id": "ADL-VEGA-JV-1109",
+      "title": "Arthur D. Little and Vega IT unveil joint venture for digital innovation",
+      "url": "https://www.adlittle.com/en/arthur-d-little-and-vega-it",
+      "kind": "公式提携・本番製品の説明",
+      "checked_on": "2026-11-09",
+      "published": "2025-12",
+      "origin": "今回新規発見・本文確認",
+      "facts": [
+        "50:50 JV Axceler8 Solutionsを設立し、AI/デジタルソリューションの設計・開発・運用を担うと発表。",
+        "臨床開発向けAxceler8 Rxが稼働中。ADLの業界IPとVega ITのソフトウェア工学を組み合わせ、コンサル/商用化から統合/運用サービスまで連携。"
+      ],
+      "limits": [
+        "ADL本体の全員が開発/運用を担当する意味ではない。特定製品の実績は製品中立の個別案件担当を保証しない。BMS基盤と同一製品と断定しない。"
+      ]
+    },
+    {
+      "id": "ADL-JP-NEDO-1109",
+      "title": "小売店のロボットフレンドリーな環境の実現に向けてNEDOの商品情報データベースの研究開発に参画",
+      "url": "https://www.adlittle.com/jp-ja/press-release/toward-robot-friendly-environment-retail-stores",
+      "kind": "公式国内共同研究案件・担当明記",
+      "checked_on": "2026-11-09",
+      "published": "2022-10",
+      "origin": "既存NEDO根拠を担当分担まで再確認",
+      "facts": [
+        "ADLジャパンは技術/利用者要求の整理、DB構築支援、データ共有の事業エコシステム/サービスモデルと継続運用検討を担当。",
+        "開発・実装の主担当はSoftBank、Panasonic Connect等と明記され、事業構想と実装技術者との協働がある。"
+      ],
+      "limits": [
+        "2022〜24年度の社会実装研究。ADL本体がAI認識ソフトを直接開発したという証拠ではない。全社AI変革ではなく、技術の実装に接続する国内活動の補強。"
+      ]
+    },
+    {
+      "id": "ADL-MATSUO-1109",
+      "title": "松尾 直紀（東京パートナー）",
+      "url": "https://www.adlittle.com/ja/management-team/naoki-matsuo",
+      "kind": "公式国内リーダー職務プロフィール",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "経営計画・新規事業・組織変革・能力分析・業務設計・IT PMOを戦略から実行まで支援。AI等のデジタル領域で戦略からPoCまでをリード。"
+      ],
+      "limits": [
+        "公式検索索引の本文を確認。直接取得は403。国内の本番AI運用や全社AI変革完成を明記する職務ではない。"
+      ]
+    },
+    {
+      "id": "ADL-JOHNKIM-1109",
+      "title": "金 鍾勲（John Kim）",
+      "url": "https://www.adlittle.com/jp-ja/management-team/john-kim",
+      "kind": "公式国内リーダー職務プロフィール",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "東京オフィス所属・アジアデジタルチームリーダー。AI/デジタル、組織変革、戦略等の専門領域を併記。"
+      ],
+      "limits": [
+        "専門領域の列挙だけで同じ案件で協働した証明にはしない。国内応募者の配属確約でもない。"
+      ]
+    },
+    {
+      "id": "ADL-BLUESHIFT-1109",
+      "title": "Blue Shift",
+      "url": "https://www.adlittle.com/jp-ja/blueshift",
+      "kind": "公式調査・将来洞察の入口",
+      "checked_on": "2026-11-09",
+      "published": null,
+      "origin": "今回新規確認",
+      "facts": [
+        "科学技術がビジネス・社会等へもたらす影響を検討する報告群を掲載。"
+      ],
+      "limits": [
+        "未来洞察や記事の発信を実装チームの顧客案件実績と合成しない。今回の主候補環境はBlue Shift単体にしない。"
+      ]
+    },
+    {
+      "id": "ADL-HIRE-CURRENT-1109",
+      "title": "東京オフィス採用情報",
+      "url": "https://www.adlittle.com/jp-ja/apply",
+      "kind": "公式現行募集",
+      "checked_on": "2026-11-09",
+      "published": "2026-10（表示更新月）",
+      "origin": "11/8既存を現行本文再確認",
+      "facts": [
+        "現行新卒欄は28卒夏採用の募集終了を明記。日本の新卒入口が存在する。",
+        "2025/10告知の冬インターンは2027卒向けであり、28卒冬の11/9期限ではない。"
+      ],
+      "limits": [
+        "28卒冬/次回の受付や期限は確認できない。夏終了を年度全体の終了と断定しない。中途通年入口を新卒応募先へ転用しない。"
+      ]
+    },
+    {
+      "id": "ADL-HIRE-28-PR-1109",
+      "title": "28卒向け新卒採用サマーインターンシップの募集を開始",
+      "url": "https://www.adlittle.com/jp-en/press-release/28%E5%8D%92%E5%90%91%E3%81%91%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%81%AE%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B",
+      "kind": "公式28卒募集の告知",
+      "checked_on": "2026-11-09",
+      "published": "2026-03",
+      "origin": "今回募集資格を一次告知で補強",
+      "facts": [
+        "2028年に大学卒業/大学院修了見込の学生を対象。東京都内の夏インターンで選考。",
+        "公表締切は2026/5/17 23:59、プログラムは2026/8/3〜5または9/2〜4。"
+      ],
+      "limits": [
+        "過去の募集要項により国内院生の28卒入口を確認できる。現在受付は既に終了。AI専用採用/配属の確約はない。"
+      ]
+    },
+    {
+      "id": "DI-R-4Q",
+      "url": "https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf",
+      "title": "2026年3月期 決算説明会資料（日本語原本）",
+      "published_at": "2026-05-15",
+      "kind": "公式IR",
+      "read_extent": "p9・17・18を精読。p9は画像も確認。",
+      "limit": "匿名別顧客。最大30%は可能性、全社改革は実行決定。知財AIは導入進行と製品化検討。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-3Q",
+      "url": "https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/04/260203-DIIR_3Q_KSH.pdf",
+      "title": "2026年3月期第3四半期 決算補足説明資料",
+      "published_at": "2026-02-03",
+      "kind": "公式IR",
+      "read_extent": "p14の同じAI案件を抽出確認。",
+      "limit": "5月再掲を別顧客数へ加算しない。外販PoCはこの時点で企画中。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-2Q",
+      "url": "https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/11/261105-DIIR_2Q_KS.pdf",
+      "title": "2027年3月期第2四半期 決算説明会資料",
+      "published_at": "2026-11-05",
+      "kind": "公式IR",
+      "read_extent": "p6〜8・11・17を精読。p8は画像も確認。",
+      "limit": "ERP/PMO/AMLの事例はAIと明記なし。AI本番実績にしない。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-TA1",
+      "url": "https://www.dreamincubator.co.jp/careers/interview/ta-1/",
+      "title": "T&Aだからこそできる挑戦と成長",
+      "published_at": "2024-08-30",
+      "kind": "公式社員インタビュー",
+      "read_extent": "本文151〜229行の全文確認。",
+      "limit": "Jun W.／T&Aシニアアソシエイト（中途、記事時点）。新事業は実証協議段階。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-TA2",
+      "url": "https://www.dreamincubator.co.jp/careers/interview/ta-2-3/",
+      "title": "戦略×テクノロジーの最前線で活躍中の若手社員が明かす、T&Aで働く醍醐味",
+      "published_at": "2024-09-27",
+      "kind": "公式社員インタビュー",
+      "read_extent": "HTML本文約6800字を全文確認。",
+      "limit": "Masashi I.／T&Aプロジェクトリーダー（中途、記事時点）。一般DX経験をAI案件に置換しない。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-TA3",
+      "url": "https://www.dreamincubator.co.jp/careers/interview/ta-3/",
+      "title": "八木慶二郎が語る、戦略×ITの最前線",
+      "published_at": "2025-04-18",
+      "kind": "公式役員インタビュー",
+      "read_extent": "HTML本文約5500字を全文確認。",
+      "limit": "T&A執行役員・八木慶二郎（記事時点）。前職での開発/160人統括をDI実績にしない。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-OC",
+      "url": "https://www.onecareer.jp/articles/5402",
+      "title": "戦略もテクノロジーも武器にする。DIで身につける、構想を実現まで導く力。",
+      "published_at": "2026-05-27",
+      "kind": "DI協賛の社員一次証言・外部媒体",
+      "read_extent": "記事本文34〜152行の全文確認。DI公式採用ニュースからの紹介も確認。",
+      "limit": "スポンサー記事で独立第三者評価ではない。MVP段階で本番運用まで保証しない。",
+      "checked_at": "2026-11-09",
+      "official": false,
+      "endorsed_by_official_site": true
+    },
+    {
+      "id": "DI-R-AI",
+      "url": "https://www.dreamincubator.co.jp/service/theme/ai/",
+      "title": "AI／テクノロジー活用",
+      "published_at": null,
+      "kind": "公式サービス説明",
+      "read_extent": "本文152〜183行と関連事例一覧。",
+      "limit": "提供思想・範囲の説明で、単独では顧客納品実績ではない。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-REQ",
+      "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/",
+      "title": "2028年卒向 新卒募集要項",
+      "published_at": null,
+      "kind": "公式採用",
+      "read_extent": "職種・資格・勤務地・通常回の終了表示を再確認。",
+      "limit": "制度・院生資格と現在受付を区別。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-WINTER",
+      "url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/winter/",
+      "title": "DI冬選考開催のお知らせ",
+      "published_at": "2026-09-01",
+      "kind": "公式採用",
+      "read_extent": "終了告知・資格・T&A別日程を再確認。",
+      "limit": "新規受付終了と、進行中の選考活動を区別。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-NEWS",
+      "url": "https://www.dreamincubator.co.jp/news/?tab=4",
+      "title": "DI採用ニュース一覧",
+      "published_at": null,
+      "kind": "公式索引",
+      "read_extent": "夏冬の採用告知と5/27社員記事への公式紹介を確認。",
+      "limit": "追加回未発見は将来の追加なしの宣言ではない。",
+      "checked_at": "2026-11-09",
+      "official": true
+    },
+    {
+      "id": "DI-R-LIB",
+      "url": "https://www.dreamincubator.co.jp/ir/library/",
+      "title": "IRライブラリ",
+      "published_at": null,
+      "kind": "公式索引",
+      "read_extent": "2Q/4Q/3Qの現行PDFリンクを追跡。",
+      "limit": "資料索引自体は顧客業務の証拠ではない。",
+      "checked_at": "2026-11-09",
+      "official": true
+    }
+  ]
+}

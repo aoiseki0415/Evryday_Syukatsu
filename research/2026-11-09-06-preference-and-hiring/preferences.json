@@ -1,0 +1,114 @@
+{
+  "checked_at": "2026-11-09",
+  "source": "本人の本チャットでの評価と同日追加依頼",
+  "scope": "AI側06の主環境。既存企業DB・ITルートの志望度とは別",
+  "status": "暫定志望レベル。最終応募順・応募決定ではない",
+  "groups": [
+    {
+      "id": "DE-A",
+      "company": "デロイト",
+      "level": "A",
+      "label": "最上位",
+      "color": "purple_bg",
+      "reason": "04の公式記事の視座を特に高く評価。幅広い専門性と技術理解も評価。"
+    },
+    {
+      "id": "MK-D",
+      "company": "McKinsey",
+      "level": "A",
+      "label": "最上位",
+      "color": "purple_bg",
+      "reason": "04の公式記事の視座を特に高く評価。技術組織との接続も魅力。"
+    },
+    {
+      "id": "PW-A",
+      "company": "PwC",
+      "level": "B",
+      "label": "高い",
+      "color": "blue_bg",
+      "reason": "Big4の幅広さと技術理解が05の二条件によく合うという本人評価。"
+    },
+    {
+      "id": "EY-A",
+      "company": "EY",
+      "level": "B",
+      "label": "高い",
+      "color": "blue_bg",
+      "reason": "Big4の幅広さと技術理解が05の二条件によく合うという本人評価。"
+    },
+    {
+      "id": "KP-A",
+      "company": "KPMG",
+      "level": "B",
+      "label": "高い",
+      "color": "blue_bg",
+      "reason": "Big4の幅広さと技術理解が05の二条件によく合うという本人評価。"
+    },
+    {
+      "id": "BC-T",
+      "company": "BCG",
+      "level": "B",
+      "label": "高い",
+      "color": "blue_bg",
+      "reason": "MBBとしての魅力と技術部門を持つ環境を本人が評価。"
+    },
+    {
+      "id": "BA-C",
+      "company": "Bain",
+      "level": "B",
+      "label": "高い",
+      "color": "blue_bg",
+      "reason": "MBBとしての魅力と技術部門を持つ環境を本人が評価。"
+    },
+    {
+      "id": "AB-D",
+      "company": "アビーム",
+      "level": "C",
+      "label": "その他・比較継続",
+      "color": "gray_bg",
+      "reason": "本人の『それ以外』を比較継続と表示。現時点で他のC群との序列はない。"
+    },
+    {
+      "id": "IB-A",
+      "company": "日本IBM",
+      "level": "C",
+      "label": "その他・比較継続",
+      "color": "gray_bg",
+      "reason": "本人の『それ以外』を比較継続と表示。ITルートの志望度とは別。"
+    },
+    {
+      "id": "GL-S",
+      "company": "グロービング",
+      "level": "C",
+      "label": "その他・比較継続",
+      "color": "gray_bg",
+      "reason": "本人の『それ以外』を比較継続と表示。現在の採用状況と魅力度は別。"
+    },
+    {
+      "id": "IG-C",
+      "company": "IGPI本体",
+      "level": "D",
+      "label": "慎重",
+      "color": "yellow_bg",
+      "reason": "本人が『微妙な感じ』と述べた現時点の印象。除外・不適合の決定ではない。"
+    },
+    {
+      "id": "DI-T",
+      "company": "DI",
+      "level": null,
+      "label": "↗ 再評価中",
+      "color": "orange_bg",
+      "reason": "本人が評価引上げの可能性を再検討。調査上は積極比較の材料あり。変更後の本人段階は未確定。",
+      "previous_level": "D",
+      "previous_label": "慎重"
+    },
+    {
+      "id": "AD-A",
+      "company": "アーサー・ディ・リトル",
+      "level": null,
+      "label": "未評価",
+      "color": "gray_bg",
+      "reason": "本人が条件適合なら追加を依頼。調査上の主推薦であり本人の志望段階は未指定。"
+    }
+  ]
+}

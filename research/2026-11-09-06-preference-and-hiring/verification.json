@@ -1,0 +1,377 @@
+{
+  "checked_at": "2026-11-09",
+  "notion": {
+    "pages_read_back": 16,
+    "checks": {
+      "main_count_13": true,
+      "main_old12_retained": true,
+      "hiring_ids_match": true,
+      "pending_count19": true,
+      "adl_removed_pending": true,
+      "main_children_preserved": true,
+      "old_links_in_profiles_preserved": true,
+      "di_review_not_fixed_tier": true,
+      "adl_personal_not_evaluated": true,
+      "recruitment_mk28_separated": true,
+      "bcgx_two_job_links": true,
+      "colors_saved": true,
+      "all_profiles_current_dates": true,
+      "pending_table_cells_valid": true
+    },
+    "main_ids": [
+      "DE-A",
+      "PW-A",
+      "EY-A",
+      "KP-A",
+      "AB-D",
+      "IB-A",
+      "MK-D",
+      "BC-T",
+      "BA-C",
+      "GL-S",
+      "IG-C",
+      "DI-T",
+      "AD-A"
+    ],
+    "hiring_ids": [
+      "DE-A",
+      "PW-A",
+      "EY-A",
+      "KP-A",
+      "AB-D",
+      "IB-A",
+      "MK-D",
+      "BC-T",
+      "BA-C",
+      "GL-S",
+      "IG-C",
+      "DI-T",
+      "AD-A"
+    ],
+    "pending_ids": [
+      "EY-FS",
+      "AC-B",
+      "AC-A",
+      "AC-S",
+      "GL-A",
+      "BC-X",
+      "NR-A",
+      "MR-A",
+      "OW-Q",
+      "KA-D",
+      "RB-A",
+      "IG-D",
+      "FAS-C",
+      "FO-A",
+      "PA-D",
+      "BY-A",
+      "ZS-BT",
+      "YC-DX",
+      "NT-S"
+    ],
+    "existing_child_pages": 12,
+    "preserved_child_pages": 12,
+    "profile_preservation": [
+      {
+        "environment_id": "DE-A",
+        "page_id": "410161f28097810db713f7be6a311ea3",
+        "old_link_count": 11,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "PW-A",
+        "page_id": "410161f28097818ca3dccf7f97240fc7",
+        "old_link_count": 9,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "EY-A",
+        "page_id": "410161f28097818d833cf0e8c4e87058",
+        "old_link_count": 11,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "KP-A",
+        "page_id": "410161f2809781e0a775d28b4fd3317b",
+        "old_link_count": 11,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "BC-T",
+        "page_id": "410161f2809781439408eb8d6753c618",
+        "old_link_count": 14,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "MK-D",
+        "page_id": "410161f2809781618229fb11a280bd1b",
+        "old_link_count": 7,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "BA-C",
+        "page_id": "410161f28097812dacb2fe5d2dd8ffdb",
+        "old_link_count": 8,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "DI-T",
+        "page_id": "410161f28097819a8a52ce135a8a71c4",
+        "old_link_count": 9,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "GL-S",
+        "page_id": "410161f2809781ceb1dde28803a47b22",
+        "old_link_count": 6,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "IG-C",
+        "page_id": "410161f2809781b18a46c7a142958b6b",
+        "old_link_count": 8,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "AB-D",
+        "page_id": "412161f2809781e184c2f451f0e4a2bb",
+        "old_link_count": 6,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "IB-A",
+        "page_id": "412161f28097819ab39bc94f28f766db",
+        "old_link_count": 5,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      },
+      {
+        "environment_id": "AD-A",
+        "page_id": "412161f28097815ea4afc350daf0fd7a",
+        "old_link_count": 6,
+        "missing_old_links": [],
+        "dated_current_section": true,
+        "metadata": {
+          "type": "page"
+        }
+      }
+    ],
+    "readback_metadata": [
+      {
+        "id": "410161f280978090a555d5f5eb53fd70",
+        "title": "🔎 06｜企業・部門・職種の比較と選定",
+        "chars": 14204,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T17:05:02.437Z"
+      },
+      {
+        "id": "412161f2809781f7ababd51209e7d26a",
+        "title": "🔎 二条件での再検討｜追加確認・全候補・出典",
+        "chars": 41105,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T17:09:07.712Z"
+      },
+      {
+        "id": "40f161f280978009a9a0f7ba92ea2381",
+        "title": "🧭 AI導入支援｜業界理解から志望先選定へ",
+        "chars": 4104,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T17:04:06.539Z"
+      },
+      {
+        "id": "410161f28097810db713f7be6a311ea3",
+        "title": "デロイト トーマツ｜AI導入の環境・実案件・新卒入口",
+        "chars": 11328,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:51:44.095Z"
+      },
+      {
+        "id": "410161f28097818ca3dccf7f97240fc7",
+        "title": "PwCコンサルティング｜AI導入の環境・実案件・新卒入口",
+        "chars": 11196,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:51:44.831Z"
+      },
+      {
+        "id": "410161f28097818d833cf0e8c4e87058",
+        "title": "EYストラテジー・アンド・コンサルティング｜AI導入の環境・実案件・新卒入口",
+        "chars": 13998,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:51:45.612Z"
+      },
+      {
+        "id": "410161f2809781e0a775d28b4fd3317b",
+        "title": "KPMGコンサルティング｜AI導入の環境・実案件・新卒入口",
+        "chars": 11551,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:51:46.490Z"
+      },
+      {
+        "id": "410161f2809781439408eb8d6753c618",
+        "title": "BCG｜AI導入の環境・実案件・新卒入口",
+        "chars": 18896,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:54:52.576Z"
+      },
+      {
+        "id": "410161f2809781618229fb11a280bd1b",
+        "title": "マッキンゼー｜AI導入の環境・実案件・新卒入口",
+        "chars": 16095,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:54:53.259Z"
+      },
+      {
+        "id": "410161f28097812dacb2fe5d2dd8ffdb",
+        "title": "ベイン・アンド・カンパニー｜AI導入の環境・実案件・新卒入口",
+        "chars": 11104,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:51:49.470Z"
+      },
+      {
+        "id": "410161f28097819a8a52ce135a8a71c4",
+        "title": "ドリームインキュベータ｜AI導入の環境・実案件・新卒入口",
+        "chars": 17095,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T17:05:00.966Z"
+      },
+      {
+        "id": "410161f2809781ceb1dde28803a47b22",
+        "title": "グロービング｜AI導入の環境・実案件・新卒入口",
+        "chars": 11011,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:51:50.269Z"
+      },
+      {
+        "id": "410161f2809781b18a46c7a142958b6b",
+        "title": "IGPI本体とDigital Intelligence｜法人・職務・国内入口を分離",
+        "chars": 9280,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:51:51.132Z"
+      },
+      {
+        "id": "412161f2809781e184c2f451f0e4a2bb",
+        "title": "🏢 アビームコンサルティング株式会社｜AI導入の環境・実案件・新卒入口",
+        "chars": 4317,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:54:53.916Z"
+      },
+      {
+        "id": "412161f28097819ab39bc94f28f766db",
+        "title": "🏢 日本アイ・ビー・エム株式会社｜AI導入の環境・実案件・新卒入口",
+        "chars": 4649,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T16:54:54.431Z"
+      },
+      {
+        "id": "412161f28097815ea4afc350daf0fd7a",
+        "title": "🔎 アーサー・ディ・リトル｜案件・条件との対応・国内新卒",
+        "chars": 10878,
+        "metadata": {
+          "type": "page"
+        },
+        "page_last_edited_at": "2026-11-08T17:01:37.194Z"
+      }
+    ],
+    "limitations": [
+      "Notion fetchはmetadata.typeのみを提供した。truncated/unknown_block_count等の値は未提供であり、ゼロと見なさない。",
+      "保存された表のセル色・行・文字・リンクを読み戻しで検証。ピクセル描画の検証とは分ける。",
+      "MyPage認証後の応募提出・本人の資格判定は行っていない。"
+    ],
+    "pending_table_repair": {
+      "count": 19,
+      "restored_ids": [
+        "PA-D",
+        "BY-A",
+        "ZS-BT",
+        "YC-DX",
+        "NT-S"
+      ],
+      "no_new_candidates": true
+    }
+  },
+  "repository": {
+    "source_records": 75,
+    "unique_urls": 72,
+    "main_count": 13,
+    "pending_count": 19,
+    "total_environments": 32,
+    "peer_review": "重大な誤りなし。ADLの同一案件事実を公式再確認。HANDOFFの過去20→現在19の経緯を追補。"
+  }
+}
