@@ -23,7 +23,7 @@
 
 ## コンサル構造・AI現状の記録
 
-- 現在の人向け入口は[AI変革支援｜業界理解から志望先選定へ](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)。00用語〜06比較・参考資料へ再構成済み。03志向×04今後の必要性を05で統合する。[11/8の記録](research/2026-11-08-notion-rebuild/README.md)を優先する。
+- 現在の人向け入口は[AI変革支援｜業界理解から志望先選定へ](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)。00用語〜06比較・参考資料へ再構成済み。03志向×04今後の必要性を05で統合する。[11/8後半の二条件への再整理](research/2026-11-08-two-ideal-environments/README.md)を優先する。
 - [11/6の構造化記録](research/2026-11-06-consulting-structure-ai-architect/README.md)に4概念・AIの問いAとB・根拠・未決定点を保存。当時の人向け配置は[Notion親ページ（現在は全体案内）](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)。表面はセルに長文を入れないマトリックス、実情報・案件・出典は子ページ。
 - Aは着色工程の広がりで範囲、同色4段階で関与の程度を示す。役割の種類・ばらつき・不確実性を程度にしない。Bは対象範囲への支援の確認状況を丸・三角で示し、意味を分ける。
 - 合意・志向はMarkdown、セル値・凡例・留保はJSON、実情報と解釈・限界はevidenceへ。図・詳細・JSONの意味と値を照合し、Notionを読み戻す。片方だけの修正なら他方の保持も確認する。
@@ -32,7 +32,7 @@
 ## AI候補の現行比較とスプレッドシート履歴
 
 - 対象は[AIアーキテクト（企業職種候補）](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)。このチャットで本人が追加承認なしの編集を許可した対象。他のファイルへ一般化しない。
-- **現行の比較**は11/8の[再構成・再評価](research/2026-11-08-notion-rebuild/README.md)：Notion/GitHubに23環境。優先14・条件付き5・保留4はCodexの推薦で、本人の志望・応募決定ではない。Sheetは今回更新せず、以下の11/6時点の16行等を履歴として保持。
+- **現行の比較**は11/8後半の[二条件による再選定](research/2026-11-08-two-ideal-environments/README.md)：Notion/GitHubに24環境。主10・追加確認14はCodexの推薦で、本人の最終志望・応募決定ではない。旧C1〜C5・優先14等は履歴。Sheetは今回更新せず、以下の11/6時点の16行等を履歴として保持。
 - [記録の区分・作業の完了状況](research/2026-11-06-ideal-ai-environments/STATUS.md)を先に確認し、本人の合意、出典が述べる事実、Codexの判断、過去の議論、未確認を分けて読む。
 
 | タブ | 位置・範囲 | 用途・参照 |

@@ -1,0 +1,42 @@
+{
+  "rows": 24,
+  "main": 10,
+  "pending": 14,
+  "main_companies": 10,
+  "main_ids": [
+    "DE-A",
+    "PW-A",
+    "EY-A",
+    "KP-A",
+    "MK-D",
+    "BC-T",
+    "BA-C",
+    "GL-S",
+    "IG-C",
+    "DI-T"
+  ],
+  "main_company_ids": [
+    "bain",
+    "bcg",
+    "deloitte",
+    "di",
+    "ey",
+    "globe",
+    "igpi",
+    "kpmg",
+    "mckinsey",
+    "pwc"
+  ],
+  "pending_company_ids": [
+    "accenture",
+    "nri",
+    "mri",
+    "kearney",
+    "adl",
+    "rolandberger",
+    "oliverwyman",
+    "kpmg_fas"
+  ],
+  "photo_labels": 45,
+  "sources": 247
+}

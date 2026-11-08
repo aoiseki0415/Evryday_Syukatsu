@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "DE-A",
+    "company_id": "deloitte",
+    "company": "合同会社デロイト トーマツ（コンサルティング）",
+    "environment": "AI&Data／DS×FDE協働のAI変革支援",
+    "category": "総合コンサル",
+    "recommendation": "推薦",
+    "one_line": "構想側と技術側の接続を、企業価値と全社変革の体制として明示している。",
+    "entry_role": "コンサルタント職",
+    "work_url": "https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html",
+    "hiring_url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html",
+    "ideal_1": {
+      "status": "根拠あり",
+      "facts": "DSが企業価値・重点領域を特定しFDEと連携。AI Factoryは業務・クラウド・人材組織・Advisoryを組み合わせる。大和証券で金融×AI専門家が業務・人の役割・リスクを共同検討。",
+      "interpretation": "全社AI変革に必要な複数専門性を統合できる企業環境。個別ツール導入だけの射程を越えている。",
+      "source_ids": [
+        "G-DE1",
+        "G-DE2",
+        "G-DE3"
+      ],
+      "limits": "体制と提供範囲、ワークショップの実施を示す。国内全社の事業・組織改革を完了した1案件の証明ではない。"
+    },
+    "ideal_2": {
+      "status": "根拠あり",
+      "facts": "DS×FDEの役割接続、実装/運用・要件更新、技術人材の資格・育成・アサインを具体化。国内SOMPOでは技術的テスト・改善・再テストも実施。",
+      "interpretation": "①価値構想を軸に、実装専門家と協働して実践的知見を得る環境として適合。",
+      "source_ids": [
+        "G-DE1",
+        "G-DE2",
+        "T-DE1"
+      ],
+      "limits": "SOMPOは別担当組織の補助証拠。新卒DS/FDE専用採用、本人の①責任と③④参加は未確約。"
+    },
+    "hiring": {
+      "role": "コンサルタント職",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "要項本文で確認",
+      "current_status": "国内28本選考受付中",
+      "deadline": "公開確認できず／MyPage確認",
+      "placement": "AI&Data／DS／FDE確約未確認",
+      "sources": [
+        "G-DE4"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "DS/FDEを正式な新卒募集職種にしない。本人が③④の技術判断へ入る方法を確認。",
+    "remaining": [
+      "DSの若手が③④の設計・評価・改善の判断にどう参加するか",
+      "国内で事業価値・人材配置まで変えた進行/完了案件",
+      "希望職務に近い新卒配属経路"
+    ],
+    "product_choice": {
+      "status": "具体的な案件方針を確認",
+      "source_ids": [
+        "G-DE3"
+      ],
+      "fact": "顧客の既存環境を含め最適な組み合わせを考え、特定ツールを固定で押し込まない。"
+    },
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f28097810db713f7be6a311ea3",
+    "selection": "主一覧"
+  },
+  {
+    "id": "PW-A",
+    "company_id": "pwc",
+    "company": "PwCコンサルティング合同会社",
+    "environment": "DAX／AI&アナリティクス",
+    "category": "総合コンサル",
+    "recommendation": "推薦",
+    "one_line": "同一案件で業務の課題とAIの実現可能性を共同で詰めている具体性が強い。",
+    "entry_role": "デジタルコンサルタント",
+    "work_url": "https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html",
+    "hiring_url": "https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html",
+    "ideal_1": {
+      "status": "根拠あり",
+      "facts": "東電PGで業務コンサル・DSが同じチームに入り、全社方針と複数部門の課題から実行を組成。AI&アナリティクス新卒職務はAI戦略・組織設計・運用を含む。最新の顧客IT部門変革はデータ・人材・組織評価・統制を同時に扱う。",
+      "interpretation": "ビジネス・業務・技術を統合し、顧客組織・価値創出へ広げられる環境。",
+      "source_ids": [
+        "G-PW1",
+        "G-PW2",
+        "G-PW4"
+      ],
+      "limits": "東電PGで実施済みなのは共通AI全員展開と業務PoC等。9割は本番移行予定。最新IT部門サービスの担当をDAXと断定しない。"
+    },
+    "ideal_2": {
+      "status": "根拠あり",
+      "facts": "同じ国内顧客チームで課題抽出・構想・環境構築・生成AI開発を実行。AI&アナリティクスはMLOps/LLMOpsも担当範囲。",
+      "interpretation": "構想側とDSが同じ問題に取り組み、技術適性を実証から学べる具体的環境。",
+      "source_ids": [
+        "G-PW1",
+        "G-PW2"
+      ],
+      "limits": "④監視運用は職務説明の根拠。東電PGの本番移行後の運用実務・新卒本人の担当内訳は未確認。"
+    },
+    "hiring": {
+      "role": "デジタルコンサルタント",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "専用国内募集を確認",
+      "current_status": "国内28本選考最終募集受付中",
+      "deadline": "ES＋DC登録2027-01-08 23:59 JST／適性検査2027-01-11 23:59 JST",
+      "placement": "AI&アナリティクス配属確約未確認",
+      "sources": [
+        "G-PW3",
+        "G-PW1"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "DC内のAI領域配属・構想と技術の役割割合は未確約。",
+    "remaining": [
+      "AI&アナリティクス配属の選択・確定時期",
+      "③④の本人技術判断と構想側の担当範囲",
+      "複数製品選択・顧客への能力移転の案件証拠"
+    ],
+    "product_choice": {
+      "status": "技術選定の実態は追加確認",
+      "source_ids": [
+        "G-PW2",
+        "G-PW4"
+      ],
+      "fact": "顧客課題起点で解決法を選ぶ姿勢は明記。自社製品への非依存を全案件で保証する資料ではない。"
+    },
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f28097818ca3dccf7f97240fc7",
+    "selection": "主一覧"
+  },
+  {
+    "id": "EY-A",
+    "company_id": "ey",
+    "company": "EYストラテジー・アンド・コンサルティング株式会社",
+    "environment": "Technology Consulting／AI&データ",
+    "category": "総合コンサル",
+    "recommendation": "推薦",
+    "one_line": "少人数の同一チームがビジネス構想と技術実装を担う国内根拠が明瞭。",
+    "entry_role": "テクノロジーコンサルタント",
+    "work_url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-15/",
+    "hiring_url": "https://www.eysc.jp/recruit/new_graduate/entry/new/index.html",
+    "ideal_1": {
+      "status": "根拠あり",
+      "facts": "AI&データは経営・事業の価値を起点にセクター等の業務専門性とチームを編成。製造業の経営層/営業を巻き込むデータ戦略・AI活用、外食業の経営構想と組織・責任設計を紹介。",
+      "interpretation": "全社のデータ・技術だけでなく、経営・業務・組織の知見を結ぶ協働環境。",
+      "source_ids": [
+        "T-EY1",
+        "G-EY1"
+      ],
+      "limits": "別案件の実施内容を一案件へ合成しない。全社基盤の完成は全社事業・人材組織改革完了とは異なる。"
+    },
+    "ideal_2": {
+      "status": "根拠あり",
+      "facts": "少人数AI&データチームがデータ戦略から設計・開発・テスト、AI機能・海外拠点拡張までを実施。ユニット紹介は運用・定着までの活動も具体説明。",
+      "interpretation": "同一チームで構想と技術実行を接続し、実装の制約や知見を構想へ戻せる根拠がある。",
+      "source_ids": [
+        "G-EY1",
+        "T-EY1"
+      ],
+      "limits": "ユニット紹介の運用担当と製造業案件の全工程を一人の新卒担当へ変換しない。"
+    },
+    "hiring": {
+      "role": "テクノロジーコンサルタント",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "国内本選考表示を確認",
+      "current_status": "国内28本選考受付中",
+      "deadline": "公開確認できず／MyPage確認",
+      "placement": "AI&データ／FS確約未確認。デジタルエンジニアは別職種",
+      "sources": [
+        "G-EY4"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "専門ユニット配属と個人の①軸足は未保証。",
+    "remaining": [
+      "希望ユニットの全社価値創出・組織移行案件",
+      "④継続運用で若手が行う技術判断",
+      "AI&データとFSの新卒配置の違い"
+    ],
+    "product_choice": {
+      "status": "製品選定・専門家連携の実例／制度としての中立性は追加確認",
+      "source_ids": [
+        "G-EY1"
+      ],
+      "fact": "製品選定の情報を収集しSnowflake採用、リスク専門家と連携。単一製品専門職との違いを確認したい。"
+    },
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f28097818d833cf0e8c4e87058",
+    "selection": "主一覧"
+  },
+  {
+    "id": "EY-FS",
+    "company_id": "ey",
+    "company": "EYストラテジー・アンド・コンサルティング株式会社",
+    "environment": "金融サービスTC×AI&Data",
+    "category": "総合コンサル",
+    "recommendation": "条件付き",
+    "one_line": "保険業務の仮説とAIモデル評価を、業務担当と金融AI専門家が同じ案件でつなぐ。",
+    "entry_role": "テクノロジーコンサルタント（FS配置経路確認）",
+    "work_url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-21/",
+    "hiring_url": "https://www.eysc.jp/recruit/new_graduate/entry/new/index.html",
+    "ideal_1": {
+      "status": "範囲限定",
+      "facts": "保険業務メンバーと金融TCのAI&Dataが、内部管理・予測PoC、データルール・教育・経営層との合意形成を扱う。",
+      "interpretation": "業務・組織とAIの協働は具体的だが、全社変革の幅広い専門性の統合は追加確認。",
+      "source_ids": [
+        "G-EY3"
+      ],
+      "limits": "横断TCのAI&データ部門の別案件を、このFSチームの実績に合成しない。"
+    },
+    "ideal_2": {
+      "status": "PoCまで具体的",
+      "facts": "同一案件で保険業務側が仮説・評価観点、AI専門家が特徴量・モデル評価を分担。DB・可視化から予測PoCへ継続。",
+      "interpretation": "業務の構想と技術評価の接続は確認。③本番実装・④運用の役割は追加確認。",
+      "source_ids": [
+        "G-EY3"
+      ],
+      "limits": "横断TCの別製造業案件の本番開発・運用をFSへ転用しない。"
+    },
+    "hiring": {
+      "role": "テクノロジーコンサルタント（FS配置経路確認）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "国内本選考表示を確認",
+      "current_status": "国内28本選考受付中",
+      "deadline": "公開確認できず／MyPage確認",
+      "placement": "AI&データ／FS確約未確認。デジタルエンジニアは別職種",
+      "sources": [
+        "G-EY4"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "業務・AI専門家の同一案件協働は具体的。確認事例は内部管理と予測PoCが中心で、全社AI変革の統合支援と本番運用の役割を追加確認。",
+    "remaining": [
+      "希望ユニットの全社価値創出・組織移行案件",
+      "④継続運用で若手が行う技術判断",
+      "AI&データとFSの新卒配置の違い"
+    ],
+    "product_choice": "このFS案件での技術選択の自由は追加確認。",
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f28097818d833cf0e8c4e87058",
+    "selection": "追加確認"
+  },
+  {
+    "id": "KP-A",
+    "company_id": "kpmg",
+    "company": "KPMGコンサルティング株式会社",
+    "environment": "DXA／Data&AI・生成AIタスクフォース",
+    "category": "総合コンサル",
+    "recommendation": "推薦",
+    "one_line": "若手が顧客課題とAI実践の双方に入った実例がある。",
+    "entry_role": "新卒4職種（DXAへの対応は要確認）",
+    "work_url": "https://recruit.kpmg-consulting.jp/info/dxa",
+    "hiring_url": "https://recruit.kpmg-consulting.jp/new-graduate/job-description",
+    "ideal_1": {
+      "status": "根拠あり",
+      "facts": "Data&AIが全社戦略・基盤・モデルを扱い、部門横断タスクフォースが業務改革・UX・リスク・AI開発を接続。UACJでは経営方針から複数間接部門の業務と現場定着を伴走。",
+      "interpretation": "全社を見据え必要専門性を組み合わせる環境。AIガバナンス専業が条件ではなく、この統合能力の一部と評価。",
+      "source_ids": [
+        "G-KP1",
+        "G-KP2",
+        "G-KP3"
+      ],
+      "limits": "UACJは点から線・面へ向かう途中。全社事業・組織の変革達成とはしない。"
+    },
+    "ideal_2": {
+      "status": "根拠あり",
+      "facts": "DXAが構想・顧客思考の整理からAI検証・実装、利用者FB、ロードマップへ往復。新卒社員の検証・マニュアル化、現場リード例もある。",
+      "interpretation": "構想と技術を両立して学べる具体的な社員・案件証拠が強い。",
+      "source_ids": [
+        "G-KP3",
+        "G-KP4"
+      ],
+      "limits": "プロンプト設計・検証の事例だけで全AI技術の能力を実証したとはしない。新卒全員の配置・同じ成長経路の保証ではない。"
+    },
+    "hiring": {
+      "role": "新卒4職種（DXAへの対応は要確認）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "資格文は2027年4月以降卒業予定を含む。28専用表示未確認",
+      "current_status": "通年新卒採用制度・登録導線あり／28本選考の現在受付未確認",
+      "deadline": "公開確認できず",
+      "placement": "12〜18カ月育成後の専門配属。DXA確約なし",
+      "sources": [
+        "G-KP5",
+        "G-KP6"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "12〜18カ月育成後専門配属。28対象資格は含むが専用受付とDXA配属確約は未確認。",
+    "remaining": [
+      "エッジテクノロジー等4新卒職種とDXAの対応",
+      "28専用選考の受付と期限",
+      "AIガバナンス以外も含む全社価値創出案件への参加経路"
+    ],
+    "product_choice": {
+      "status": "明示がある部署の隣接情報／DXA案件は追加確認",
+      "source_ids": [
+        "G-KP1",
+        "G-KP3"
+      ],
+      "fact": "技術・業務の課題起点の選択を確認。Technology ConsultingのEAT説明には特定サービス非依存の中立戦略を記載するが、EATの説明をDXA全案件へ合成しない。"
+    },
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f2809781e0a775d28b4fd3317b",
+    "selection": "主一覧"
+  },
+  {
+    "id": "AC-B",
+    "company_id": "accenture",
+    "company": "アクセンチュア株式会社",
+    "environment": "ビジネスコンサルタント（RDE）×AI/技術専門家協働",
+    "category": "総合コンサル",
+    "recommendation": "条件付き",
+    "one_line": "会社の統合能力は具体的で追加確認の価値が高い。一方、主一覧は二条件を満たす同一環境の根拠がある先に絞るため、3つの新卒入口とも条件付きに残す。",
+    "entry_role": "ビジネスコンサルタント（RDE）",
+    "work_url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+    "hiring_url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+    "ideal_1": {
+      "status": "根拠あり",
+      "facts": "明治安田の全社変革で戦略・業務・AIデータ・IT・顧客体験の横断チーム。顧客の専担Hubで約200人が検討・開発・人材育成し、AI管理基盤や複数業務実装を進行。",
+      "interpretation": "全社変革を企業・顧客合同チームで進める統合能力の具体的根拠がある。",
+      "source_ids": [
+        "G-AC2",
+        "T-AC1"
+      ],
+      "limits": "全社改革完了ではない。約200人は両社を含む体制。人材300人育成等の将来計画と実施を分ける。"
+    },
+    "ideal_2": {
+      "status": "条件付き：BCの同一環境接続とAI職の①軸足が未確認",
+      "facts": "BCは戦略連動の業務・組織構想から実行・定着を担当と明示。RDEは少人数で現場の実践と反復改善を行う将来像。顧客合同チームとTfLS職務は業務構想・全体アーキテクチャとAI基盤/アプリ/運用の専門性を接続。",
+      "interpretation": "会社には構想から技術実行へつなぐ体制があるが、新卒入口ごとの役割へ絞ると両条件を同時に確かめ切れていない。BCは構想と技術判断の同一環境への接続、AI職は全社構想を軸にする役割配分を確認する。",
+      "source_ids": [
+        "G-AC1",
+        "T-AC1",
+        "T-AC2",
+        "G-AC3"
+      ],
+      "limits": "RDEは新卒BCも掲げる将来到達像、明治安田は会社横断の顧客実績、TfLSは経験者の技術組織の職務である。これらを合成しても、BCの構想担当が開発実装・運用の技術判断へ入る同一環境の接続は未立証。個人のコーディングや配属確約を求めているためではない。 TfLSは経験者向け求人で、新卒BCの同組織配属を保証しない。戦略職のAI案件頻度と技術参加も未確認。"
+    },
+    "hiring": {
+      "role": "ビジネスコンサルタント（RDE）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "国内28卒募集職種を確認",
+      "current_status": "28プレエントリー受付中。職種別本選考受付詳細はMyPage",
+      "deadline": "公開確認できず／MyPage確認",
+      "placement": "職種入口は明瞭。特定AI案件・①責任・専門チームは未確約",
+      "sources": [
+        "G-AC1"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "RDEは新卒BCも掲げる将来到達像、明治安田は会社横断の顧客実績、TfLSは経験者の技術組織の職務である。これらを合成しても、BCの構想担当が開発実装・運用の技術判断へ入る同一環境の接続は未立証。個人のコーディングや配属確約を求めているためではない。",
+    "remaining": [
+      "BCの構想担当がAI設計・検証・運用改善の技術判断へ入る同一チーム・案件の証拠。RDE将来像と別組織の存在だけで推定しない。",
+      "AI職で全社経営・事業構想をどの程度主導できるか",
+      "BC/戦略RDEが技術選定・実装評価に実際にどこまで入るか",
+      "本人の応募済み職種・選考経路との整合（今回未変更）"
+    ],
+    "product_choice": {
+      "status": "AI職務で明示",
+      "source_ids": [
+        "G-AC3"
+      ],
+      "fact": "特定ベンダー/ソリューションに縛られず評価選定できると説明。経験者職務の根拠であり新卒配属保証ではない。"
+    },
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f280978120b5c1f963596ed33e",
+    "selection": "追加確認"
+  },
+  {
+    "id": "AC-A",
+    "company_id": "accenture",
+    "company": "アクセンチュア株式会社",
+    "environment": "AI&Dataアーキテクト職",
+    "category": "総合コンサル",
+    "recommendation": "条件付き",
+    "one_line": "会社の統合能力は具体的で追加確認の価値が高い。一方、主一覧は二条件を満たす同一環境の根拠がある先に絞るため、3つの新卒入口とも条件付きに残す。",
+    "entry_role": "AI&Dataアーキテクト",
+    "work_url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+    "hiring_url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+    "ideal_1": {
+      "status": "根拠あり",
+      "facts": "明治安田の全社変革で戦略・業務・AIデータ・IT・顧客体験の横断チーム。顧客の専担Hubで約200人が検討・開発・人材育成し、AI管理基盤や複数業務実装を進行。",
+      "interpretation": "全社変革を企業・顧客合同チームで進める統合能力の具体的根拠がある。",
+      "source_ids": [
+        "G-AC2",
+        "T-AC1"
+      ],
+      "limits": "全社改革完了ではない。約200人は両社を含む体制。人材300人育成等の将来計画と実施を分ける。"
+    },
+    "ideal_2": {
+      "status": "条件付き：BCの同一環境接続とAI職の①軸足が未確認",
+      "facts": "BCは戦略連動の業務・組織構想から実行・定着を担当と明示。RDEは少人数で現場の実践と反復改善を行う将来像。顧客合同チームとTfLS職務は業務構想・全体アーキテクチャとAI基盤/アプリ/運用の専門性を接続。",
+      "interpretation": "会社には構想から技術実行へつなぐ体制があるが、新卒入口ごとの役割へ絞ると両条件を同時に確かめ切れていない。BCは構想と技術判断の同一環境への接続、AI職は全社構想を軸にする役割配分を確認する。",
+      "source_ids": [
+        "G-AC1",
+        "T-AC1",
+        "T-AC2",
+        "G-AC3"
+      ],
+      "limits": "RDEは新卒BCも掲げる将来到達像、明治安田は会社横断の顧客実績、TfLSは経験者の技術組織の職務である。これらを合成しても、BCの構想担当が開発実装・運用の技術判断へ入る同一環境の接続は未立証。個人のコーディングや配属確約を求めているためではない。 TfLSは経験者向け求人で、新卒BCの同組織配属を保証しない。戦略職のAI案件頻度と技術参加も未確認。"
+    },
+    "hiring": {
+      "role": "AI&Dataアーキテクト",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "国内28卒募集職種を確認",
+      "current_status": "28プレエントリー受付中。職種別本選考受付詳細はMyPage",
+      "deadline": "公開確認できず／MyPage確認",
+      "placement": "職種入口は明瞭。特定AI案件・①責任・専門チームは未確約",
+      "sources": [
+        "G-AC1"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "技術設計・実装運用と①課題分析は明記。全社の構想を軸足として持てる仕事配分は追加確認。",
+    "remaining": [
+      "BCの構想担当がAI設計・検証・運用改善の技術判断へ入る同一チーム・案件の証拠。RDE将来像と別組織の存在だけで推定しない。",
+      "AI職で全社経営・事業構想をどの程度主導できるか",
+      "BC/戦略RDEが技術選定・実装評価に実際にどこまで入るか",
+      "本人の応募済み職種・選考経路との整合（今回未変更）"
+    ],
+    "product_choice": {
+      "status": "AI職務で明示",
+      "source_ids": [
+        "G-AC3"
+      ],
+      "fact": "特定ベンダー/ソリューションに縛られず評価選定できると説明。経験者職務の根拠であり新卒配属保証ではない。"
+    },
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f280978120b5c1f963596ed33e",
+    "selection": "追加確認"
+  },
+  {
+    "id": "AC-S",
+    "company_id": "accenture",
+    "company": "アクセンチュア株式会社",
+    "environment": "戦略コンサルタント（RDE）",
+    "category": "総合コンサル",
+    "recommendation": "条件付き",
+    "one_line": "会社の統合能力は具体的で追加確認の価値が高い。一方、主一覧は二条件を満たす同一環境の根拠がある先に絞るため、3つの新卒入口とも条件付きに残す。",
+    "entry_role": "戦略コンサルタント（RDE）",
+    "work_url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+    "hiring_url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+    "ideal_1": {
+      "status": "根拠あり",
+      "facts": "明治安田の全社変革で戦略・業務・AIデータ・IT・顧客体験の横断チーム。顧客の専担Hubで約200人が検討・開発・人材育成し、AI管理基盤や複数業務実装を進行。",
+      "interpretation": "全社変革を企業・顧客合同チームで進める統合能力の具体的根拠がある。",
+      "source_ids": [
+        "G-AC2",
+        "T-AC1"
+      ],
+      "limits": "全社改革完了ではない。約200人は両社を含む体制。人材300人育成等の将来計画と実施を分ける。"
+    },
+    "ideal_2": {
+      "status": "条件付き：BCの同一環境接続とAI職の①軸足が未確認",
+      "facts": "BCは戦略連動の業務・組織構想から実行・定着を担当と明示。RDEは少人数で現場の実践と反復改善を行う将来像。顧客合同チームとTfLS職務は業務構想・全体アーキテクチャとAI基盤/アプリ/運用の専門性を接続。",
+      "interpretation": "会社には構想から技術実行へつなぐ体制があるが、新卒入口ごとの役割へ絞ると両条件を同時に確かめ切れていない。BCは構想と技術判断の同一環境への接続、AI職は全社構想を軸にする役割配分を確認する。",
+      "source_ids": [
+        "G-AC1",
+        "T-AC1",
+        "T-AC2",
+        "G-AC3"
+      ],
+      "limits": "RDEは新卒BCも掲げる将来到達像、明治安田は会社横断の顧客実績、TfLSは経験者の技術組織の職務である。これらを合成しても、BCの構想担当が開発実装・運用の技術判断へ入る同一環境の接続は未立証。個人のコーディングや配属確約を求めているためではない。 TfLSは経験者向け求人で、新卒BCの同組織配属を保証しない。戦略職のAI案件頻度と技術参加も未確認。"
+    },
+    "hiring": {
+      "role": "戦略コンサルタント（RDE）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "cohort_2028": "国内28卒募集職種を確認",
+      "current_status": "28プレエントリー受付中。職種別本選考受付詳細はMyPage",
+      "deadline": "公開確認できず／MyPage確認",
+      "placement": "職種入口は明瞭。特定AI案件・①責任・専門チームは未確約",
+      "sources": [
+        "G-AC1"
+      ],
+      "last_checked": "2026-11-08（本再評価で主要募集本文を再取得）"
+    },
+    "personal_limit": "①は近いが本人のAI技術実践・③④への参加環境の具体性は不足。",
+    "remaining": [
+      "BCの構想担当がAI設計・検証・運用改善の技術判断へ入る同一チーム・案件の証拠。RDE将来像と別組織の存在だけで推定しない。",
+      "AI職で全社経営・事業構想をどの程度主導できるか",
+      "BC/戦略RDEが技術選定・実装評価に実際にどこまで入るか",
+      "本人の応募済み職種・選考経路との整合（今回未変更）"
+    ],
+    "product_choice": {
+      "status": "AI職務で明示",
+      "source_ids": [
+        "G-AC3"
+      ],
+      "fact": "特定ベンダー/ソリューションに縛られず評価選定できると説明。経験者職務の根拠であり新卒配属保証ではない。"
+    },
+    "ds": "技術・分析専門性との接点あり。加点であり必須条件ではない。",
+    "profile_id": "410161f280978120b5c1f963596ed33e",
+    "selection": "追加確認"
+  },
+  {
+    "id": "MK-D",
+    "company_id": "mckinsey",
+    "company": "マッキンゼー",
+    "environment": "DigitalのAI変革 × QuantumBlack協働",
+    "category": "戦略",
+    "recommendation": "主推薦候補",
+    "one_line": "全社の価値・組織能力を設計し、QuantumBlackとAIを作って定着させる。",
+    "entry_role": "ビジネスアナリスト（一般新卒）",
+    "work_url": "https://www.mckinsey.com/jp/careers/role-descriptions/careers-in-digital",
+    "hiring_url": "https://www.mckinsey.com/jp/careers/careers-in-japan/application-process-for-undergrads-2028",
+    "ideal_1": {
+      "status": "●",
+      "facts": "EGAでは全社・事業ごとのロードマップと、デジタルファクトリー、CoE、アカデミー、統制・アジャイル運営を同時に整備。 東芝テックでは小売データ新事業とAI開発組織を、McKinsey・QuantumBlack・NVIDIAが支援。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-MK-EGA",
+        "ST-MK-TOSH"
+      ],
+      "limits": "EGAは海外。国内実例は事業創造であり東芝テック全社全領域の変革完了ではない。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "EGAでは複数AI施策を実装・展開。日本Digitalもコンサル、PO、デザイナー、DS、DEを含む多職種体制を明記。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-MK-EGA",
+        "ST-MK-DIG"
+      ],
+      "limits": "BA本人の開発担当や技術判断の深さは未確約。"
+    },
+    "hiring": {
+      "role": "ビジネスアナリスト（一般新卒）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "国内2027/9〜2028/8卒の学士・修士。博士は別入口。",
+      "cohort_2028": "国内2027/9〜2028/8卒の学士・修士。博士は別入口。",
+      "current_status": "公表28卒夏・冬2選考とも締切経過",
+      "deadline": "夏2026-05-31／冬2026-09-15（終了）",
+      "placement": "一般BA入口。Digital／QuantumBlack協働案件の配属確約なし。",
+      "sources": [
+        "ST-ENTRY-MK"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "一般BA入口を起点にDigital×QuantumBlackの案件へ接続する環境として推薦。東京の経験者DS/DE求人を新卒専門入口にしない。",
+    "remaining": [
+      "日本新卒BAからDigital案件へ入る頻度・希望反映",
+      "構想側が設計判断・検証・本番改善に参加する実態"
+    ],
+    "product_choice": "提携・独自ツールはある。特定自社製品の販売専業とする根拠はないが、案件ごとの技術選択は確認。",
+    "ds": "○：QuantumBlackのDS・DEと協働",
+    "profile_id": "410161f2809781618229fb11a280bd1b",
+    "key_case_ids": [
+      "MK-EGA",
+      "MK-TOSH"
+    ],
+    "selection": "主一覧"
+  },
+  {
+    "id": "BC-T",
+    "company_id": "bcg",
+    "company": "BCG",
+    "environment": "TDA／AI変革に関わる経営コンサルタント",
+    "category": "戦略",
+    "recommendation": "主推薦候補",
+    "one_line": "TDAがデジタルの構想を束ね、専門家との混成チームで運用に届くAIを作る。",
+    "entry_role": "一般新卒・経営コンサルタント（TDA配属は未確約）",
+    "work_url": "https://careers.bcg.com/jp/ja/japan-technology-and-digital-advantage",
+    "hiring_url": "https://careers.bcg.com/jp/ja/japan-new-grads-2028",
+    "ideal_1": {
+      "status": "●",
+      "facts": "PHOENIXの複数機能・複数市場で、AIテーマ選択とGen AI Factoryを経営の変革アジェンダへ統合。部門横断のチームで物流・調達・顧客対応等を扱う。 日本TDAの職務は戦略とデジタル技術を融合し、デジタル各チームを統合・リードする位置づけ。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-BC-PHO",
+        "ST-BC-TDA"
+      ],
+      "limits": "PHOENIXで人事制度全体の改革まで確認したわけではない。専門性の幅は実際に接続した範囲で評価。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "PHOENIXはMVP開発から業務組込み・市場展開へ。BCG PlatinionのAI技術アーキテクト等を明記。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-BC-PHO"
+      ],
+      "limits": "技術支援者はPlatinion等。海外案件をBCG X Japan DSの担当としない。TDA新卒本人の③④職責は未確約。"
+    },
+    "hiring": {
+      "role": "一般新卒・経営コンサルタント（TDA配属は未確約）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "一般：国内大学・院2027/9〜2028/8卒。X：関連修士・博士、本文2026/9〜2028/8修了。",
+      "cohort_2028": "一般：国内大学・院2027/9〜2028/8卒。X：関連修士・博士、本文2026/9〜2028/8修了。",
+      "current_status": "一般28卒Spring Internship応募案内あり／X新卒制度案内あり、個別受付未確定",
+      "deadline": "一般Spring：2027-01-14 12:00 JST",
+      "placement": "Springと本選考は別。X個別58408は11/6filled、今回は個別受付を再確定していない。",
+      "sources": [
+        "ST-ENTRY-BC"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "『戦略と技術は組織別だから分断』とはいえない。TDA一般コンサル側の技術判断接点を追加確認しながら狙う。",
+    "remaining": [
+      "一般新卒からTDAへの入口・担当機会",
+      "コンサル側が設計レビュー・実装検証・運用改善へ参加する程度"
+    ],
+    "product_choice": "複数技術組織・既存データ／クラウドとの接続を確認。個別案件の選定自由度は未確約。",
+    "ds": "○：X DSは中核／TDAは協働する立場",
+    "profile_id": "410161f2809781439408eb8d6753c618",
+    "key_case_ids": [
+      "BC-PHO"
+    ],
+    "selection": "主一覧"
+  },
+  {
+    "id": "BA-C",
+    "company_id": "bain",
+    "company": "ベイン・アンド・カンパニー",
+    "environment": "一般コンサルタント × Applied Technology & AI協働",
+    "category": "戦略",
+    "recommendation": "主推薦候補",
+    "one_line": "経営側への助言から、商品・従業員・顧客体験のAIを同じ混成チームで公開する。",
+    "entry_role": "アソシエイト・コンサルタント（AC）",
+    "work_url": "https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/",
+    "hiring_url": "https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/",
+    "ideal_1": {
+      "status": "●",
+      "facts": "Targetでは上級経営層への助言と企業全体のAI方針を、従業員支援、商品ページ、顧客向け提案の複数実装と能力構築に接続。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-BA-TARGET"
+      ],
+      "limits": "全社人材制度や全事業の一括再編までを実績として確認していない。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "同案件は戦略、プロダクト、DS、フルスタック開発者が共同で開発・公開。AT&AI職務もコンサルと技術者が構想・構築・本番展開を担う。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-BA-TARGET",
+        "ST-BA-ATAI"
+      ],
+      "limits": "主実証は海外。東京AC本人の技術関与度と長期運用の分担は未確定。"
+    },
+    "hiring": {
+      "role": "アソシエイト・コンサルタント（AC）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "国内大学・院2027/4〜2028/8卒、2028/4または9入社。",
+      "cohort_2028": "国内大学・院2027/4〜2028/8卒、2028/4または9入社。",
+      "current_status": "28卒国内冬インターンの確認回は締切済み",
+      "deadline": "2026-10-07 13:00 JST（終了）",
+      "placement": "一般AC入口。海外在籍用BCFを国内学生へ流用しない。",
+      "sources": [
+        "ST-ENTRY-BA"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "一般AC×AT&AI協働を対象とする。日本のAT&AI新卒専門職の直接募集を確認した意味ではない。",
+    "remaining": [
+      "日本ACが技術専門家と同席して意思決定する実態",
+      "AI案件比率と①から③④へ継続する担当機会"
+    ],
+    "product_choice": "AT&AI公式職務にTechnology agnosticと複数AI・クラウド・データ企業との提携を明記。特定製品販売専業とは異なる。案件ごとの制約は追加確認。",
+    "ds": "○：DS・技術専門家との協働／本人の担当は案件次第",
+    "profile_id": "410161f28097812dacb2fe5d2dd8ffdb",
+    "key_case_ids": [
+      "BA-TARGET"
+    ],
+    "selection": "主一覧"
+  },
+  {
+    "id": "GL-S",
+    "company_id": "globe",
+    "company": "グロービング",
+    "environment": "戦略コンサルタント（AI変革／TX・JIへの接続）",
+    "category": "戦略",
+    "recommendation": "主推薦候補",
+    "one_line": "経営に入り、全社AI戦略・組織を製造AIとMLOpsの実装へつなげる。",
+    "entry_role": "戦略コンサルタント",
+    "work_url": "https://globe-ing.com/case-study/gs-02/",
+    "hiring_url": "https://globe-ing-recruit.snar.jp/index.aspx",
+    "ideal_1": {
+      "status": "●",
+      "facts": "完成車OEMで全社AI戦略・推進組織・統制を設計し、製造現場の実装・人材継承・改善チームへ接続。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-GL-OEM"
+      ],
+      "limits": "実装の主対象は製造。全社全機能を実装完了したという意味ではない。匿名・抽象化した自社事例。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "同案件にAIモデル・国内外工場データ基盤・MLOps本番実装。CTOもAI部門とコンサル部門が協業しエンジニアが案件参加すると説明。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-GL-OEM",
+        "ST-GL-CTO"
+      ],
+      "limits": "戦略職本人がAI/TX/JI案件に入ることや役割比率は未確約。"
+    },
+    "hiring": {
+      "role": "戦略コンサルタント",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "国内大学・修士博士、2027/4〜2028/9卒修了。東京勤務。",
+      "cohort_2028": "国内大学・修士博士、2027/4〜2028/9卒修了。東京勤務。",
+      "current_status": "国内新卒エントリー受付中",
+      "deadline": "公開期限なし／選考日程MyPage",
+      "placement": "戦略／AIデジタル職表記あり。TX・JI配属や役割比率は未確認。",
+      "sources": [
+        "ST-ENTRY-GL"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "戦略/TX・JIとAI部門の接続を志望対象として定義。単に戦略職一般へ入れば満たすとはしない。",
+    "remaining": [
+      "戦略新卒のTX/JI・AI共同案件への配置",
+      "自社プロダクト案件と個社AI変革の比率",
+      "本人基準の企業ライン・志望度の再確認"
+    ],
+    "product_choice": "自社AIプロダクトも開発。顧客別の受託実装はあるが、自社製品に依存しない提案・案件選択は面談確認。",
+    "ds": "○：AIモデル・ML基盤・MLOps",
+    "profile_id": "410161f2809781ceb1dde28803a47b22",
+    "key_case_ids": [
+      "GL-OEM"
+    ],
+    "selection": "主一覧"
+  },
+  {
+    "id": "IG-C",
+    "company_id": "igpi",
+    "company": "経営共創基盤（IGPI）",
+    "environment": "一般コンサルタント：AI・DS組織の立上げ／企業変革",
+    "category": "戦略",
+    "recommendation": "主推薦候補",
+    "one_line": "AIモデルだけでなく、案件選択・人材・現場・データ組織そのものを一緒に作る。",
+    "entry_role": "コンサルタント（IGPI本体の一般新卒）",
+    "work_url": "https://www.igpi.co.jp/case/case_01/",
+    "hiring_url": "https://www.igpi.co.jp/recruit/igpi/process/",
+    "ideal_1": {
+      "status": "●",
+      "facts": "匿名顧客で全社データと案件を棚卸し、事業上の優先案件・役割を設計。現場の抵抗対応、社員規程、DS育成と組織運営を一体支援。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-IG-CASE"
+      ],
+      "limits": "対象はデータ活用組織の立上げ。企業全事業のポートフォリオ戦略を変えたとまでは確認できない。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "IGPI自身が顧客デジタル組織のコアに入り、解析環境のハード・ソフト選択とAI案件を共同実施。モデルを現場業務へ組込み、自走するまで伴走。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-IG-CASE"
+      ],
+      "limits": "匿名案件で時期・担当者職階は限定。一般新卒全員の技術実践は未保証。"
+    },
+    "hiring": {
+      "role": "コンサルタント（IGPI本体の一般新卒）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "27卒制度は2026年4月〜2027年3月の大学・大学院卒業見込み。28卒資格は未確認。",
+      "cohort_2028": "28卒資格は未確認。27卒制度は大学・大学院卒業見込みを明記。",
+      "current_status": "国内新卒制度あり／公開確認頁2027年度／28未確認",
+      "deadline": "28卒未確認",
+      "placement": "DI経験者専用求人を新卒入口へ使わない。27要項2025年日程も流用しない。",
+      "sources": [
+        "ST-ENTRY-IG"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "IGPI本体のHPに掲載された支援例。関与者には本体・DI双方に役職を持つ人も登場する。DI法人への直接新卒配属の根拠にはしない。",
+    "remaining": [
+      "IGPI一般新卒のAI/DS組織案件への接続",
+      "28卒の新募集日程",
+      "構想・AI実装を同じ担当が継続して担う機会"
+    ],
+    "product_choice": "顧客のデータ量・分析手法に合わせハード・ソフトを選択。製品中立性を一律確約はしない。",
+    "ds": "○：AI分析開発・組織育成",
+    "profile_id": "410161f2809781b18a46c7a142958b6b",
+    "key_case_ids": [
+      "IG-DSORG"
+    ],
+    "selection": "主一覧"
+  },
+  {
+    "id": "DI-T",
+    "company_id": "di",
+    "company": "ドリームインキュベータ",
+    "environment": "Technology & Amplify：ビジネスプロデューサー",
+    "category": "戦略",
+    "recommendation": "推薦（全社改革は計画・進行段階）",
+    "one_line": "事業・全社構想とAI開発をT&Aでつなぐ。広い改革側の実装実績は進行段階を確認。",
+    "entry_role": "ビジネスプロデューサー（T&A部門）",
+    "work_url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/",
+    "hiring_url": "https://www.dreamincubator.co.jp/careers/entry/newgraduates/new2028/winter/",
+    "ideal_1": {
+      "status": "●",
+      "facts": "ソフトウェア企業で開発部門を除く営業・企画・人事・品質等を調査し、AI適用と組織人員再編を統合提案。顧客は2年の改革を決定。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-DI-IR"
+      ],
+      "limits": "この案件は改革計画・決定段階。試算効果を実績としない。実装済み知財AIは別顧客。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "別の総合IT企業の知財部門で複数エージェントAIを企画・開発・導入。T&A職務と新卒入口は経営構想と実行実装の接続を示す。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-DI-IR",
+        "ST-DI-ROLE",
+        "ST-ENTRY-DI"
+      ],
+      "limits": "幅広い全社改革案件とAI開発がどの程度同じ若手チームで連続するか、④長期運用は補強。"
+    },
+    "hiring": {
+      "role": "ビジネスプロデューサー（T&A部門）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "大学・院卒予定、フルタイム職歴なし、2028/4または10入社。2部門。",
+      "cohort_2028": "大学・院卒予定、フルタイム職歴なし、2028/4または10入社。2部門。",
+      "current_status": "28卒冬選考の確認回は受付終了",
+      "deadline": "2026-10-16 12:00 JST（終了）",
+      "placement": "T&A部門別入口あり。担当AI案件・全社改革は未保証。",
+      "sources": [
+        "ST-ENTRY-DI"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "部門別の国内新卒T&A入口がある点は強い。①軸足と技術実践が同じ職務体系にあるが、担当案件の約束ではない。",
+    "remaining": [
+      "全社AI改革の計画後の実装・組織定着の進捗",
+      "T&A新卒がAI設計・検証・運用改善に入る分担"
+    ],
+    "product_choice": "AI技術を企業別に組み合わせる提供説明。特定自社製品への専業依存を示す根拠なし。",
+    "ds": "○：AIモデル・エージェント活用。DS専任の比率は未確認",
+    "profile_id": "410161f28097819a8a52ce135a8a71c4",
+    "key_case_ids": [
+      "DI-IP",
+      "DI-ORG"
+    ],
+    "root_judgment": "領域横断の改革提案と、同一T&A職務体系のAI開発実例から環境として採用。二つの顧客を一案件に合成せず、全社改革完了・④長期運用は未確認と表示。",
+    "selection": "主一覧"
+  },
+  {
+    "id": "GL-A",
+    "company_id": "globe",
+    "company": "グロービング",
+    "environment": "AIコンサルタント・デジタルコンサルタント",
+    "category": "戦略",
+    "recommendation": "条件付き有力／①軸足を確認",
+    "one_line": "幅広い企業変革と技術実装の接続は具体的。AI職での構想担当比率が条件。",
+    "entry_role": "AIコンサルタント／デジタルコンサルタント",
+    "work_url": "https://globe-ing.com/recruit/work/?tab=ai",
+    "hiring_url": "https://globe-ing-recruit.snar.jp/index.aspx",
+    "ideal_1": {
+      "status": "●",
+      "facts": "戦略/TX×AIの完成車OEM案件に専門性の接続根拠がある。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-GL-OEM"
+      ],
+      "limits": "GL-Sと同じ環境証拠であり別案件数に数えない。"
+    },
+    "ideal_2": {
+      "status": "○",
+      "facts": "AI部門のエンジニアがコンサル案件に参加し開発実装に責任を持つ。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-GL-CTO"
+      ],
+      "limits": "技術接点は強いがAI/デジタル職本人が構想に軸足を置ける比率は未確認。"
+    },
+    "hiring": {
+      "role": "AIコンサルタント／デジタルコンサルタント",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "国内大学・修士博士、2027/4〜2028/9卒修了。東京勤務。",
+      "cohort_2028": "国内大学・修士博士、2027/4〜2028/9卒修了。東京勤務。",
+      "current_status": "国内新卒エントリー受付中",
+      "deadline": "公開期限なし／選考日程MyPage",
+      "placement": "戦略／AIデジタル職表記あり。TX・JI配属や役割比率は未確認。",
+      "sources": [
+        "ST-ENTRY-GL"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "新卒に戦略職とAI/デジタル職の両方がある。後者は①軸足を確認するまで主推薦と同列にしない。",
+    "remaining": [
+      "AIコンサル／デジタルコンサルの役割差と構想比率"
+    ],
+    "product_choice": "自社プロダクト開発比率と個社AI変革の裁量を確認。",
+    "ds": "○：AIモデル・ML基盤・MLOps",
+    "profile_id": "410161f2809781ceb1dde28803a47b22",
+    "key_case_ids": [
+      "GL-OEM"
+    ],
+    "selection": "追加確認"
+  },
+  {
+    "id": "BC-X",
+    "company_id": "bcg",
+    "company": "BCG",
+    "environment": "BCG X Data Scientist",
+    "category": "戦略",
+    "recommendation": "条件付き有力／①主導範囲を確認",
+    "one_line": "技術理解は深めやすい。DS専門職として構想側を主導できるかが条件。",
+    "entry_role": "BCG X Data Scientist（専門新卒案内）",
+    "work_url": "https://careers.bcg.com/jp/ja/japan-bcgx",
+    "hiring_url": "https://careers.bcg.com/jp/ja/japan-new-grads-bcg-x",
+    "ideal_1": {
+      "status": "●",
+      "facts": "BCGグループのPHOENIX案件は部門横断・技術協働を具体化。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-BC-PHO",
+        "ST-BC-TDA"
+      ],
+      "limits": "技術担当にPlatinionを明記し、X Japan DSの実績へ読み替えない。"
+    },
+    "ideal_2": {
+      "status": "○",
+      "facts": "日本XはDS/AI Engineerの修士博士新卒入口とモデル構築・専門家協働の職務を持つ。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-BC-X",
+        "ST-ENTRY-BCX"
+      ],
+      "limits": "DSとして技術実装は強いが、本人の①構想軸足は未確認。個別DS求人のfilledと一覧掲載の差も未解消。"
+    },
+    "hiring": {
+      "role": "BCG X Data Scientist（専門新卒案内）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "一般：国内大学・院2027/9〜2028/8卒。X：関連修士・博士、本文2026/9〜2028/8修了。",
+      "cohort_2028": "一般：国内大学・院2027/9〜2028/8卒。X：関連修士・博士、本文2026/9〜2028/8修了。",
+      "current_status": "一般28卒Spring Internship応募案内あり／X新卒制度案内あり、個別受付未確定",
+      "deadline": "X専用職の現在の個別締切は未確認（一般1/14を流用しない）",
+      "placement": "Springと本選考は別。X個別58408は11/6filled、今回は個別受付を再確定していない。",
+      "sources": [
+        "ST-ENTRY-BCX"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "X DSとTDAを別候補として扱う。Xの専門採用が理想の役割比率に合うかを確認。",
+    "remaining": [
+      "DSとして経営課題・変革構想を主導する範囲",
+      "国内新卒の個別求人の現在受付"
+    ],
+    "product_choice": "個別案件のモデル・製品選択を確認。",
+    "ds": "○：X DSは中核／TDAは協働する立場",
+    "profile_id": "410161f2809781439408eb8d6753c618",
+    "key_case_ids": [
+      "BC-PHO"
+    ],
+    "selection": "追加確認"
+  },
+  {
+    "id": "NR-A",
+    "company_id": "nri",
+    "company": "野村総合研究所",
+    "environment": "AI戦略コンサルティング部 × 実装組織との接続",
+    "category": "ITコンサル（シンクタンク・経営コンサル起点）",
+    "recommendation": "追加確認／国内接続実例は補強",
+    "one_line": "国内で基盤→ML→業務アプリまで継続支援。AI戦略部の全社変革との接続を追加確認。",
+    "entry_role": "国内新卒・経営戦略コンサルティング",
+    "work_url": "https://progres07.jposting.net/pgnri/u/job.phtml?job_code=465",
+    "hiring_url": "https://working.nri.co.jp/recruit/2028/",
+    "ideal_1": {
+      "status": "○",
+      "facts": "経営改革の提供説明には戦略・組織人材・AI統制。JAL実例では業務とシステムの共創を確認。 北米の別案件はM&A後の専門家・ナレッジ連携をAIで支援。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-NR-ORG",
+        "ST-NR-JAL",
+        "ST-NR-NA"
+      ],
+      "limits": "JAL実例はデジタルマーケ領域。北米ナレッジアプリを日本AI戦略部の全社経営改革と合成しない。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "JALで継続的なデータ基盤整備・ML活用・Streamlitアプリ開発。公式説明は戦略コンサル・ITスペシャリスト・AIエンジニアの一貫体制。 AI Future Transformationは構想〜FDE実装運用を掲げる。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-NR-JAL",
+        "ST-NR-AFT"
+      ],
+      "limits": "前者の担当は通信・サービスソリューション側。後者はサービス開始案内で、AI戦略コンサル本人の実案件分担が未確認。"
+    },
+    "hiring": {
+      "role": "国内新卒・経営戦略コンサルティング",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "国内28卒経営戦略コンサルティング入口。",
+      "cohort_2028": "国内28卒経営戦略コンサルティング入口。",
+      "current_status": "28卒サイトあり／冬インターン締切済み／本選考受付未確認",
+      "deadline": "経営戦略冬インターン2026-09-30 12:00 JST（終了）",
+      "placement": "ITソリューションと混同しない。AI戦略部配属は未確約。",
+      "sources": [
+        "ST-ENTRY-NR"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "純SIer職ではなく経営戦略コンサルのAI変革を対象。ITソリューション部門の開発力だけで本人の②充足を断定しない。",
+    "remaining": [
+      "AI戦略コンサル部が人材・組織部門と技術実装チームを結ぶ顧客全社案件",
+      "経営コンサル新卒の技術設計・実装検証への担当範囲"
+    ],
+    "product_choice": "複数パートナー・製品、自社AI製品もある。戦略側の選定裁量を確認。",
+    "ds": "○：データ・AI戦略、モデル等の専門家との協働",
+    "profile_id": "410161f280978150a1eee42cd1410b4b",
+    "key_case_ids": [
+      "NR-JAL",
+      "NR-NA"
+    ],
+    "selection": "追加確認"
+  },
+  {
+    "id": "MR-A",
+    "company_id": "mri",
+    "company": "三菱総合研究所",
+    "environment": "産業DX／AIファースト変革を担う研究員・コンサルタントの環境",
+    "category": "ITコンサル（シンクタンク・経営／産業DX起点）",
+    "recommendation": "追加確認／提供説明の寄与が大きい",
+    "one_line": "業務・人の役割・AI基盤を一体設計する提供。全社専門性の案件内接続を補強。",
+    "entry_role": "研究員・コンサルタント（28要項は未確認）",
+    "work_url": "https://dx.mri.co.jp/service/ai-first-consulting/",
+    "hiring_url": "https://job.mynavi.jp/28/pc/search/corp58559/is.html?func=corpinfo",
+    "ideal_1": {
+      "status": "○",
+      "facts": "AI-first提供は業務、人の役割、データ、AI基盤、組織運用を一体で再設計。 匿名卸売A社では複数工程・承認者をまたぐHuman-in-the-Loop型を扱う。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-MR-SERVICE",
+        "ST-MR-CASE"
+      ],
+      "limits": "全社の経営・人材戦略まで専門家が共同支援した体制は限定。顧客の既存全社基盤をMRI構築実績にしない。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "匿名2案件でAIツール開発から現場の判断・例外を発見し、必要データや全社基盤要件を修正する往復を記載。 キリンとAIを用いたインテリジェンス基盤を共同構築。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-MR-CASE",
+        "ST-MR-KIRIN"
+      ],
+      "limits": "本人の構想・開発の担当比率は未確約。社内AI共創推進センター採用を顧客向け産業DX新卒と混同しない。"
+    },
+    "hiring": {
+      "role": "研究員・コンサルタント（28要項は未確認）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "研究員・コンサルタント制度は過年度要項。28個別要項は別確認。",
+      "cohort_2028": "研究員・コンサルタント制度は過年度要項。28個別要項は別確認。",
+      "current_status": "国内新卒制度・28インターン入口あり／28本選考現行要項未確認",
+      "deadline": "現行取得の企業掲載インターン頁は受付中コースなし／本選考期限未確認",
+      "placement": "取得頁4/8更新・サマー終了。11/6冬9/28は履歴。公式404は廃止の証拠ではない。",
+      "sources": [
+        "ST-ENTRY-MR"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "産業DX・AI-firstの研究員/コンサル候補として保持。社内AI基盤職と分離。",
+    "remaining": [
+      "組織人材戦略本部等と産業DXが同じ顧客AI変革を進めた実例",
+      "28卒本選考と初期配属"
+    ],
+    "product_choice": "AI-firstは個社に合わせた設計。開発・パートナー選択の実務範囲は確認。",
+    "ds": "○：AI評価・データ整備・モデル専門家との協働",
+    "profile_id": "410161f28097814288dbf1798fd5bd53",
+    "key_case_ids": [
+      "MR-A",
+      "MR-B",
+      "MR-KIRIN"
+    ],
+    "selection": "追加確認"
+  },
+  {
+    "id": "OW-Q",
+    "company_id": "oliverwyman",
+    "company": "オリバー・ワイマン",
+    "environment": "一般コンサルタント×Quotient（AI変革支援）",
+    "category": "戦略",
+    "recommendation": "条件付き有力／国内専門接続・案件詳細を補強",
+    "one_line": "戦略と実装をQuotientへ統合。全社Agent Factory実例はあるが短記・国内接続が限定。",
+    "entry_role": "Entry-level Consultant（Tokyo）",
+    "work_url": "https://www.oliverwyman.com/our-expertise/capabilities/digital/ai-consulting-quotient.html",
+    "hiring_url": "https://careers.marsh.com/global/en/job/MAMCGLOBALR370298EXTERNALENGLOBAL/Oliver-Wyman-Entry-level-Consultant-March-2028-Tokyo",
+    "ideal_1": {
+      "status": "●",
+      "facts": "50超の関連組織でAgent Factoryを作り新運営モデルを埋め込み、採用・調達へAIを展開した匿名顧客短記。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-OW-QUOTIENT"
+      ],
+      "limits": "顧客名・所在地・人材改革の詳細は非公表。50%短縮・数十億ドル削減は目標で実績値ではない。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "Quotientは戦略・技術・AI実装を統合。AI職務は事業課題→技術要件→DS/開発者と本番展開を含む。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-OW-QUOTIENT",
+        "ST-OW-ROLE"
+      ],
+      "limits": "職務の具体資料は海外経験者。東京新卒のQuotient接続・構想と開発の継続参加は未確認。"
+    },
+    "hiring": {
+      "role": "Entry-level Consultant（Tokyo）",
+      "domestic_new_grad": true,
+      "masters_eligible": true,
+      "qualification": "国内大学・院2027/7〜2028/3卒修了予定。日本語・英語要件。",
+      "cohort_2028": "国内大学・院2027/7〜2028/3卒修了予定。日本語・英語要件。",
+      "current_status": "国内28卒東京一般コンサル求人OPENを公式HTMLで確認",
+      "deadline": "2026-11-25 23:59 JST",
+      "placement": "Quotient専門採用ではなく一般コンサル。",
+      "sources": [
+        "ST-ENTRY-OW"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "東京一般コンサル28卒入口は実在。Quotient日本専門新卒を確認したという意味ではない。",
+    "remaining": [
+      "日本Quotientのチームと一般新卒の配置",
+      "50組織案件の実装・組織人材の分担詳細"
+    ],
+    "product_choice": "Anthropic/AWS等の提携と複数自社ソリューションあり。案件別の中立選定を確認。",
+    "ds": "○：DS・AIエンジニア",
+    "profile_id": "412161f280978132ae9dd313c511559f",
+    "key_case_ids": [
+      "OW-FACTORY"
+    ],
+    "selection": "追加確認"
+  },
+  {
+    "id": "KA-D",
+    "company_id": "kearney",
+    "company": "カーニー",
+    "environment": "Digital & Analytics／一般コンサル×Cervello協働",
+    "category": "戦略",
+    "recommendation": "保留／二条件の接続を補強",
+    "one_line": "戦略×構築は具体的。今回の二条件に合うAI全社案件・国内接続が不足。",
+    "entry_role": "日本の一般新卒コンサルタント",
+    "work_url": "https://www.jp.kearney.com/about-us/diversity-inclusion",
+    "hiring_url": "https://www.jp.kearney.com/careers/working-here/",
+    "ideal_1": {
+      "status": "○",
+      "facts": "戦略とCervelloの設計構築を統合。英国銀行のデータ戦略・運営モデル、製薬の全社データ運営等の実例。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-KA-DATA"
+      ],
+      "limits": "顧客のAI全社変革で、事業・人組織・技術が接続する具体例は今回補強できず。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "データアーキテクチャ・エンジニアリング・DSを実装し運営モデルを稼働。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-KA-DATA"
+      ],
+      "limits": "国内新卒のCervello/AI案件接続と①軸足でのAI実装実践は未確認。"
+    },
+    "hiring": {
+      "role": "日本の一般新卒コンサルタント",
+      "domestic_new_grad": true,
+      "masters_eligible": null,
+      "qualification": "未確認",
+      "cohort_2028": "未確認",
+      "current_status": "日本新卒制度・2027/2028エントリー案内あり／28現在期限未確認",
+      "deadline": "未確認",
+      "placement": "個別新卒頁の取得が限定。二次情報のNN採用12/3は公式未確認。",
+      "sources": [
+        "ST-ENTRY-KA"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "一般新卒制度と当該AI専門環境の接続は別確認。",
+    "remaining": [
+      "顧客のAI全社変革で、事業・人組織・技術が接続する具体例は今回補強できず。",
+      "国内新卒のCervello/AI案件接続と①軸足でのAI実装実践は未確認。"
+    ],
+    "product_choice": "案件別の製品選択・提携依存度は未確約。",
+    "ds": "○：DS・DE",
+    "profile_id": "412161f28097810b9b06c7173b47ebb3",
+    "key_case_ids": [],
+    "selection": "追加確認"
+  },
+  {
+    "id": "AD-A",
+    "company_id": "adl",
+    "company": "アーサー・ディ・リトル",
+    "environment": "AI & Digital／Digital Problem Solvingとの接続",
+    "category": "戦略",
+    "recommendation": "保留／二条件の接続を補強",
+    "one_line": "AIの実装力は実例あり。全社専門性の接続と国内新卒担当を補強。",
+    "entry_role": "東京オフィス一般新卒",
+    "work_url": "https://www.adlittle.com/en/client-story",
+    "hiring_url": "https://www.adlittle.com/jp-ja/apply",
+    "ideal_1": {
+      "status": "○",
+      "facts": "BMS臨床試験の計画・投資判断・統制・実行をAI分析基盤でつなぐ。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-AD-BMS"
+      ],
+      "limits": "R&Dポートフォリオの広がりはあるが、全社の事業・人組織・AI変革の統合体制は未確認。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "BMSとAI基盤を設計・導入し、試験データとモデルを業務意思決定へ実装。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-AD-BMS"
+      ],
+      "limits": "日本一般新卒がSPACE/AI開発と連続して関わる経路が未確認。"
+    },
+    "hiring": {
+      "role": "東京オフィス一般新卒",
+      "domestic_new_grad": true,
+      "masters_eligible": null,
+      "qualification": "未確認",
+      "cohort_2028": "未確認",
+      "current_status": "東京28卒夏終了／次の28受付未確認",
+      "deadline": "夏2026-05-17（履歴）／現行頁は夏募集終了",
+      "placement": "2027冬11/9の旧告知を28冬へ流用しない。",
+      "sources": [
+        "ST-ENTRY-AD"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "一般新卒制度と当該AI専門環境の接続は別確認。",
+    "remaining": [
+      "R&Dポートフォリオの広がりはあるが、全社の事業・人組織・AI変革の統合体制は未確認。",
+      "日本一般新卒がSPACE/AI開発と連続して関わる経路が未確認。"
+    ],
+    "product_choice": "案件別の製品選択・提携依存度は未確約。",
+    "ds": "○：AI・NLP・分析",
+    "profile_id": "412161f28097815ea4afc350daf0fd7a",
+    "key_case_ids": [],
+    "selection": "追加確認"
+  },
+  {
+    "id": "RB-A",
+    "company_id": "rolandberger",
+    "company": "ローランド・ベルガー",
+    "environment": "一般戦略コンサル×Analytics & Platform Solutions／AI & Data",
+    "category": "戦略",
+    "recommendation": "保留／二条件の接続を補強",
+    "one_line": "戦略とAI開発の能力はある。全社変革の統合事例を補強するまで保留。",
+    "entry_role": "日本の一般新卒コンサルタント",
+    "work_url": "https://www.rolandberger.com/en/Expertise/Solutions/Analytics-Platform-Solutions.html",
+    "hiring_url": "https://www.rolandberger.com/ja/Locations/Japan/Career/",
+    "ideal_1": {
+      "status": "○",
+      "facts": "多職種のAnalytics & Platform Solutionsが戦略・データ・AIを扱う。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-RB-ANALYTICS"
+      ],
+      "limits": "組織人材専門性とAI実装が同じ全社変革で接続した具体案件が不足。"
+    },
+    "ideal_2": {
+      "status": "●",
+      "facts": "DS・DE・ソフトウェア開発者のチーム、製油所のAI予測モデル等を構築。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-RB-ANALYTICS"
+      ],
+      "limits": "海外・個別業務例。日本一般新卒の①と③④の接続は未確認。"
+    },
+    "hiring": {
+      "role": "日本の一般新卒コンサルタント",
+      "domestic_new_grad": true,
+      "masters_eligible": null,
+      "qualification": "未確認",
+      "cohort_2028": "未確認",
+      "current_status": "日本一般新卒制度あり／現行一覧27通年・海外大／国内28受付未確認",
+      "deadline": "国内28未確認",
+      "placement": "MBA Class of2028は国内通常修士の新卒入口ではない。",
+      "sources": [
+        "ST-ENTRY-RB"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "一般新卒制度と当該AI専門環境の接続は別確認。",
+    "remaining": [
+      "組織人材専門性とAI実装が同じ全社変革で接続した具体案件が不足。",
+      "海外・個別業務例。日本一般新卒の①と③④の接続は未確認。"
+    ],
+    "product_choice": "案件別の製品選択・提携依存度は未確約。",
+    "ds": "○：DS・DE",
+    "profile_id": "412161f28097814da656db1e87cb93d0",
+    "key_case_ids": [],
+    "selection": "追加確認"
+  },
+  {
+    "id": "IG-D",
+    "company_id": "igpi",
+    "company": "IGPI Digital Intelligence",
+    "environment": "デジタル変革・AI/データ専門職",
+    "category": "戦略・経営変革",
+    "recommendation": "保留／国内新卒専門入口が未確認",
+    "one_line": "IGPI本体の強い事例を保持しつつ、DI法人の新卒入口へは転用しない。",
+    "entry_role": "DI法人の日本新卒入口は未確認",
+    "work_url": "https://igpi-di.co.jp/business/",
+    "hiring_url": "https://www.igpi.co.jp/recruit/di/",
+    "ideal_1": {
+      "status": "○",
+      "facts": "全社DX・事業戦略とデータ・アルゴリズム開発を一体支援する提供説明。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-IG-DI"
+      ],
+      "limits": "IGPI本体のDS組織案件が当該法人の担当だったとは断定しない。"
+    },
+    "ideal_2": {
+      "status": "○",
+      "facts": "専門集団としてビッグデータ解析・AIアルゴリズム開発を提供。",
+      "interpretation": "",
+      "source_ids": [
+        "ST-IG-DI"
+      ],
+      "limits": "DI経験者求人は新卒入口ではない。国内新卒から①軸足で実装へ入るルートは未確認。"
+    },
+    "hiring": {
+      "role": "DI法人の日本新卒入口は未確認",
+      "domestic_new_grad": null,
+      "masters_eligible": null,
+      "qualification": "未確認",
+      "cohort_2028": "未確認",
+      "current_status": "DI法人の日本新卒入口は未確認／IGPI本体は別",
+      "deadline": "未確認",
+      "placement": "IGPI一般新卒制度をDI法人の直接新卒採用の根拠にしない。",
+      "sources": [
+        "ST-ENTRY-IGDI"
+      ],
+      "last_checked": "2026-11-08"
+    },
+    "personal_limit": "就職対象の法人と職種をIGPI本体から分離。",
+    "remaining": [
+      "DI法人の日本新卒制度・28卒募集",
+      "本体との案件協働と配属・出向経路"
+    ],
+    "product_choice": "個社別の技術選択の自由度を確認。",
+    "ds": "○：データ解析・AI開発",
+    "profile_id": "410161f2809781b18a46c7a142958b6b",
+    "key_case_ids": [],
+    "selection": "追加確認"
+  },
+  {
+    "id": "FAS-C",
+    "company_id": "kpmg_fas",
+    "company": "KPMG FAS",
+    "environment": "Client Value Analytics（CVA）",
+    "category": "総合コンサル隣接／FAS",
+    "recommendation": "追加確認・保留",
+    "selection": "追加確認",
+    "one_line": "CVAの価値分析と、顧客自身のAI変革支援を区別。",
+    "entry_role": "AI・データサイエンス主導型コンサルタント（28院卒専用）",
+    "work_url": "https://kpmg.com/jp/ja/careers/fas/year-round-recruitment/client-value-analytics.html",
+    "hiring_url": "https://recruit.kpmg-fas.jp/recruitinginformation-d.html",
+    "ideal_1": {
+      "status": "未確認",
+      "facts": "価値分析・M&A等の専門性は確認。顧客のAIを前提に複数領域を再設計する同一環境の根拠は不足。",
+      "interpretation": "",
+      "source_ids": [
+        "R-FAS1",
+        "R-FAS2"
+      ],
+      "limits": "CVAとAIXの異なる職務を混ぜない。"
+    },
+    "ideal_2": {
+      "status": "未確認",
+      "facts": "分析・技術の活動は確認するが、顧客のAI構想から本番・運用への接続は不足。",
+      "interpretation": "",
+      "source_ids": [
+        "R-FAS1",
+        "R-FAS2"
+      ],
+      "limits": "コンサル自身の分析自動化と顧客の変革を区別。"
+    },
+    "hiring": {
+      "current_status": "掲載募集回の締切経過。CVAの追加募集・再開は未確認",
+      "deadline": "2026-05-29 13:00（掲載回終了）",
+      "cohort_2028": "国内28院卒専門入口あり",
+      "placement": "CVA部門・職種の専門入口は明瞭。ただし担当案件・工程ごとの役割は未保証",
+      "sources": [],
+      "last_checked": "2026-11-08先行調査を再利用"
+    },
+    "personal_limit": "専用入口はあっても二条件の職務根拠が不足。",
+    "remaining": [
+      "CVA自身が顧客のAI活用・業務・組織運営を変えた具体的案件と実施工程",
+      "分析専業に閉じず経営・事業構想と技術判断の双方へ入る担当モデル",
+      "顧客への本番導入後の運用・改善と能力移転の責任",
+      "CVA専用の28追加募集と現在受付"
+    ],
+    "product_choice": "",
+    "ds": "中核。ただし顧客自身のAI変革の証拠は補強",
+    "profile_id": "412161f2809781049973fabad0ca013f"
+  }
+]
