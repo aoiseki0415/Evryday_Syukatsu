@@ -61,5 +61,12 @@
     ],
     "via": "Notion native app screenshot and accessibility",
     "result": "cards, story order, compact comparison tables, external work links rendered"
+  },
+  "git_publication": {
+    "content_commit": "427cdd98438e3da8cc26b35f49381998479ddab4",
+    "origin_main_at_readback": "427cdd98438e3da8cc26b35f49381998479ddab4",
+    "remote_sha_matched": true,
+    "verification_record_saved_in_followup_commit": true,
+    "unrelated_untracked_file_untouched": ".DS_Store"
   }
 }

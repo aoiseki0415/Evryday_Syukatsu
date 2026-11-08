@@ -92,3 +92,8 @@ STRATEGYに合意した用語と統合方法、HANDOFFに現在地と募集上�
 本人の最終志望順位・応募先、専門配属、若手の技術判断、MyPageの現行回は未確定。日本新卒入口と28受付を分離し、閉じた公表回だけで候補を消さない。ITルート、企業DB志望度・応募状態、Sheet、メール・カレンダーは変更していない。
 
 STRATEGY/HANDOFF/README/OPERATIONS/RESEARCH_POLICYの現行参照を更新。同日先行の旧条件と現在の二条件を切り分けた。関連ファイルをコミット・pushし、remote反映まで確認する。
+
+
+### Git反映の確認
+
+今回の整理・調査を `427cdd98438e3da8cc26b35f49381998479ddab4` でコミットし、指定origin/mainへpush済み。`git ls-remote origin refs/heads/main`とローカルHEADが同SHAで一致することを確認した。この確認結果は後続の記録コミットへ保存する。無関係な未追跡`.DS_Store`は変更・追加していない。
