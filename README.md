@@ -16,6 +16,8 @@
 
 **11/7・現在の議論**：[顧客のAI変革をどう支援するか：公式記事の横断整理](research/2026-11-07-ai-transformation-views/README.md)。15社・44資料の本文を確認し、共通点と相違点を別々に要約。Notionの指定見出しに概要、子ページに発信者・部門・具体例・原文・留保を保存して読み戻した。企業・募集の再調査や新しい志望順位の決定ではない。
 
+**11/8・IDC外部評価**：[世界AIサービス2025の照合記録](research/2026-11-08-idc-worldwide-ai-services.md)。理想環境一覧の15社グループをIDC #US52978525の20社と照合し、対象6社の評価区分と公開プロフィールの範囲、対象外9社を区別。[Notion「IDC内容まとめ」](https://app.notion.com/p/412161f28097803ab223d065a22cb1a6)の親＋6子ページへ整理・読み戻し済み。世界の企業グループ評価であり、国内の希望部署や本人の志望順位の決定ではない。
+
 ## 議論の記録とチャット間の引き継ぎ
 
 - **GitHubをCodex用の記憶の正本**とする。新しいチャットでは対象リポジトリを確認して最初に `git pull --ff-only origin main` を行い、[HANDOFF.md](HANDOFF.md) と [STRATEGY.md](STRATEGY.md) を読む。必要に応じて [logs](logs/README.md) とNotionの原資料を確認する。
