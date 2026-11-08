@@ -695,5 +695,13 @@
   "final_term_corrections_read_back": [
     "Bain追補のAI導入支援表現",
     "Kearney追補の全社レベルのAI導入表現"
-  ]
+  ],
+  "publication": {
+    "content_commit": "9e125ac333f74b685cc93538422909778e818834",
+    "remote": "https://github.com/aoiseki0415/Evryday_Syukatsu.git",
+    "branch": "main",
+    "push_exit_code": 0,
+    "remote_sha_verified": "9e125ac333f74b685cc93538422909778e818834",
+    "note": "本確認を保存する後続記録コミットを作り、その最終HEADも改めてremote照合する。"
+  }
 }

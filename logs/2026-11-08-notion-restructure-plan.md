@@ -127,3 +127,7 @@ STRATEGY/HANDOFF/README/OPERATIONS/RESEARCH_POLICYの現行参照を更新。同
 STRATEGYを現行結論、HANDOFFを短い入口、本ログとPROCESSを経緯、各監査JSON/MDを事実・留保、candidates/sourcesを現行環境比較として分離。旧24環境は削除せず後続訂正への案内を追加。共有Sheet、企業DB志望度・選考状態、メール・カレンダー、応募、ITルートは変更していない。次は主12を本人と比較し、専門配属と①軸足・③④参加を面談等で補う。
 
 関連ファイルのみ差分を確認してコミット・pushし、HEADと指定origin/mainの同SHAを確認する。未追跡`.DS_Store`は今回も変更・追加しない。
+
+### 再点検内容のGit反映確認
+
+再点検の内容を `9e125ac333f74b685cc93538422909778e818834` でコミットし、指定origin/mainへのpush成功を確認。`git ls-remote origin refs/heads/main`とローカルHEADが同SHAだった。この結果を後続の記録コミットへ保存し、その最終HEADもremoteへ照合する。無関係な`.DS_Store`は未追跡のまま保持した。
