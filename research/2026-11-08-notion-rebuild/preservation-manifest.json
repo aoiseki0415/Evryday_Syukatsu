@@ -1,0 +1,354 @@
+[
+  {
+    "page_id": "40f161f280978009a9a0f7ba92ea2381",
+    "original_title": "🏢 コンサルの構造化",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "4919eae90a5858847257d15c017a20e97e61b9bf3a45a34cd5d3c945fce967b8",
+    "current_body_sha256": "e24819b859768fc6ede3059031e024e584d6ddd98a36dee2711545c9a86453d8"
+  },
+  {
+    "page_id": "40f161f2809781baa997d046afb8e9f8",
+    "original_title": "🛠️ 問いAの調査根拠｜実装・運用への関与",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "761e1d7db9406ccaeb4f9f56001abbd6d09e5b9b8ea7502dbc7870dbd2fbf2cc",
+    "current_body_sha256": "05947cdedd6b0fd7eee37583a54ca632f880f6ff26d1dacf3d38530c52bdff66"
+  },
+  {
+    "page_id": "40f161f280978163a7f2fb1845065074",
+    "original_title": "🔎 問いBの調査根拠｜対象範囲と現在のトレンド",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "7ee0f65869ac82405890d8a5870f3c7d68e5e2018b196f85c2db048cbc3d4a62",
+    "current_body_sha256": "f56d05bca31d9a732019bb2f3965dadbffab1f6bb5dea45de31ad6e8ec109ea8"
+  },
+  {
+    "page_id": "410161f280978090a555d5f5eb53fd70",
+    "original_title": "理想の企業像を満たす環境一覧",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "18da5748c6015c3b8dbe336c67ecdc3113364e6a9d6faf048388643a667bcee9",
+    "current_body_sha256": "b9fe6ce7b476419a6ba5d345f553b6dd294b64433fc8e3fccfc21688827784d0"
+  },
+  {
+    "page_id": "412161f28097803ab223d065a22cb1a6",
+    "original_title": "IDC内容まとめ",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "226e3ac6eb44ec9baeef0b3515442e3b93ed936fcc1789d7c1fcbff673110269",
+    "current_body_sha256": "2e2385602c47ef4a94ddff4b247e7a53f163b12788b4c46ab686300dd9834b18"
+  },
+  {
+    "page_id": "410161f28097810db713f7be6a311ea3",
+    "original_title": "デロイト トーマツ｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "5207724bf5c4059256a004e01eccf10db3b0a791bff6d6310e045ce9488909ce",
+    "current_body_sha256": "60053dae204aa72e9cb63329453844d054a4f3c8ee182d2746e013d67722c16d"
+  },
+  {
+    "page_id": "410161f28097818ca3dccf7f97240fc7",
+    "original_title": "PwCコンサルティング｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "5494f1f2dc2723ce71cac67b6bd29a946bc24e924dabfcec3316898ddb2b2e15",
+    "current_body_sha256": "8b58964043aa09cfa50093e4926cc9b35a68bbd76205ae14d73c66fd3b224ff9"
+  },
+  {
+    "page_id": "410161f28097818d833cf0e8c4e87058",
+    "original_title": "EYストラテジー・アンド・コンサルティング｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "fe4c044db1e846578efde38dde80330bc15abd1827ac9543392f960176bfbfd3",
+    "current_body_sha256": "220f40d2a68074ba405783860a2c7f95f954acf938fa1be396e6d620b547bafa"
+  },
+  {
+    "page_id": "410161f2809781e0a775d28b4fd3317b",
+    "original_title": "KPMGコンサルティング｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "824cd792bb760d0d30ca9fd50e8492036579faef54a92b46be3c239de7ab749c",
+    "current_body_sha256": "104d452dc25bb39c29baf911c785bd8fb97c6c356580c2cdc7402eb268ce6c06"
+  },
+  {
+    "page_id": "410161f280978120b5c1f963596ed33e",
+    "original_title": "アクセンチュア｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "6700648764f3370ce24b6d6464ef9cd7365ccfec5e0a41b1f3b3eb6ba51a3eb3",
+    "current_body_sha256": "f9c25d9ba8c91ba292a65369ba1f8d37aa937f64dedcd8ab018a16b49c39bb8d"
+  },
+  {
+    "page_id": "410161f2809781439408eb8d6753c618",
+    "original_title": "BCG｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "beed67f12ed23f7481f159747f2fd0b9c52292308ba43f45c039a73819269263",
+    "current_body_sha256": "dc5f0fbdc8a6730664262eb0ab297d8cf7aabff6aed5111d73ff83326e59492f"
+  },
+  {
+    "page_id": "410161f2809781618229fb11a280bd1b",
+    "original_title": "マッキンゼー｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "fe36b2edbba97e08cd22f31cb8f877547beaf68fc86bcec1232761d46c1eeaa4",
+    "current_body_sha256": "0abe6e1e868eb32092e4472a58bd6e7f497754b93820b194b4f318f695082f7c"
+  },
+  {
+    "page_id": "410161f28097812dacb2fe5d2dd8ffdb",
+    "original_title": "ベイン・アンド・カンパニー｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "17a3d180f8333cf50a3c4d65d85268b237db7a19d76d871c56003dc92793e84a",
+    "current_body_sha256": "d5af3e9865ddf5305a3f9f1b08497c4e31029dce4955f7bf11d5e4a1be36c72f"
+  },
+  {
+    "page_id": "410161f28097819a8a52ce135a8a71c4",
+    "original_title": "ドリームインキュベータ｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "485cb42e1949d311ab1ad115cc42a9c1507a1c129069af5533afc1580c9f6125",
+    "current_body_sha256": "1b5849d0d9342b0f99624337533d94e0c2106dd1d2889d137dd8107ce832ea05"
+  },
+  {
+    "page_id": "410161f2809781ceb1dde28803a47b22",
+    "original_title": "グロービング｜AI変革の環境・実案件・新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "b588d0b7a2cc26c4c2cd6d31a4291c7e40771f5fbecb9dc62881a950bb09cc1d",
+    "current_body_sha256": "392e0f13c3db704980909611dffac6df4736ceac713227f53c426838ce6a1156"
+  },
+  {
+    "page_id": "410161f280978150a1eee42cd1410b4b",
+    "original_title": "野村総合研究所｜AI戦略・実装接続と国内新卒入口",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "9cfb6fcb4e3abccbfa4bf4e94756db6a0d9d89085e1063b0ae312f8ff2dc1c1f",
+    "current_body_sha256": "0f40bc4bef188e3e8034a85604a26bcaee6018915345013cbcb5025ea1108f1c"
+  },
+  {
+    "page_id": "410161f2809781b18a46c7a142958b6b",
+    "original_title": "IGPI／IGPI DI｜環境は有力・28卒経路の確認待ち",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "4e40a3985fae88f52168d277d78594c167d6eda5eb1f4c25c16fd5dfac4d55d1",
+    "current_body_sha256": "3145a57e46364d94d73d9b320e2de53667db396dd97533e8dcc4222b5067ef51"
+  },
+  {
+    "page_id": "410161f2809781abb320ddf11f1c0cea",
+    "original_title": "探索台帳｜61ラベルの扱い・保留理由",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "3e38bd2f3eff89722a7862b6955e666bf2fe8bc3bd0c0023ef994b1ef6d07ef2",
+    "current_body_sha256": "3e38bd2f3eff89722a7862b6955e666bf2fe8bc3bd0c0023ef994b1ef6d07ef2"
+  },
+  {
+    "page_id": "410161f28097814f8782f0213dae3475",
+    "original_title": "出典台帳｜116 URL・125参照記録",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "35272306930f78575dd1cfb78bdc615b1b5dfadfd63cc9ffdfc606d8745e1138",
+    "current_body_sha256": "35272306930f78575dd1cfb78bdc615b1b5dfadfd63cc9ffdfc606d8745e1138"
+  },
+  {
+    "page_id": "410161f28097814288dbf1798fd5bd53",
+    "original_title": "三菱総合研究所｜産業DX・AIファースト変革",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "98191f439a4aab202df11a80f27dc8238299ee43164b0ff45319e03db3e5f871",
+    "current_body_sha256": "d970a048b7175dc640b4f2bb5f21f8b1aa65673c5582a8f722b7048317f2a77e"
+  },
+  {
+    "page_id": "410161f2809781a8b769db538ce8f52c",
+    "original_title": "添付45社の再検討｜確認根拠と前回からの修正",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "b85bf2932f71ab2c27db539141e08e88d6694f57ec4aec7d81624de8f59e9472",
+    "current_body_sha256": "b85bf2932f71ab2c27db539141e08e88d6694f57ec4aec7d81624de8f59e9472"
+  },
+  {
+    "page_id": "410161f28097815381e8d1259255ed88",
+    "original_title": "追加有力候補｜カーニー・ADL・KPMG FAS CVA",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "007cbc67be42771d1f884c4b8b33dfbcaebe55062d1030d6230398952b4858d2",
+    "current_body_sha256": "007cbc67be42771d1f884c4b8b33dfbcaebe55062d1030d6230398952b4858d2"
+  },
+  {
+    "page_id": "411161f28097816293eafd03492f8672",
+    "original_title": "📚 記事別の要約と出典｜AIに関わる顧客企業の変革支援",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "a998cd90f55bbd1f3b07ddb16e6c1b4ee9783a0c8ca223dc9b41540a6bcda637",
+    "current_body_sha256": "a998cd90f55bbd1f3b07ddb16e6c1b4ee9783a0c8ca223dc9b41540a6bcda637"
+  },
+  {
+    "page_id": "412161f280978103bfbfc160c550bb49",
+    "original_title": "デロイト｜IDC 2025 世界AIサービス評価",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "ee4bab9208508fc1bc28c616c2965ff02b3e3a5c4e4cc7ed6ba9b84452a0a18e",
+    "current_body_sha256": "8fa39ae534159f1e3ff5d7e3210e104f97c1200e73e12a7552c3ad49b3e2f1ff"
+  },
+  {
+    "page_id": "412161f28097817b8069ca02924c6e68",
+    "original_title": "PwC｜IDC 2025 世界AIサービス評価",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "1dd55dee4029ac575f763fb35320bd19caed3787188c06ea89a4c5b0b9941648",
+    "current_body_sha256": "467126cec2fc7dc3f11561bd1094e28a57863877ab19f0abeb26d1ef4f5c9c11"
+  },
+  {
+    "page_id": "412161f2809781ae911ad22d1cfc3e29",
+    "original_title": "EY｜IDC 2025 世界AIサービス評価",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "f915b3da724640fdcd4e062b1ddbfaee8b7ea434e1af7476bc464e57c9eb481d",
+    "current_body_sha256": "a3cde884dc2933b93eb3d7991ffd3863d378a105226c67e74ad2173d76bac2e5"
+  },
+  {
+    "page_id": "412161f2809781879194cdfde7a2dcf5",
+    "original_title": "KPMG｜IDC 2025 世界AIサービス評価",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "22cb2c15f51ddba1364595fe3404fbf6676f35d71b70dc1c5ed0a642f46ed93e",
+    "current_body_sha256": "5a246ae388fe78b637edd8fca51971a29fc34c2bcfb13077dee4eb42c750420c"
+  },
+  {
+    "page_id": "412161f28097816b9376f41dd1d997f9",
+    "original_title": "BCG｜IDC 2025 世界AIサービス評価",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "60849d9f1ad3a10aa7f9197d876563592a8f71ec0fa2626a71b0bd485ddf2034",
+    "current_body_sha256": "f81e59bd3aafe49c0d6b7c62d24a009d0a85331374cfae623dafdf804b5747a0"
+  },
+  {
+    "page_id": "412161f2809781d5a175d66101dfc48b",
+    "original_title": "アクセンチュア｜IDC 2025 世界AIサービス評価",
+    "reachable_after": true,
+    "body_identical": false,
+    "original_body_sha256": "53ade2707e6e4a2a2a392672b3717695c411100e67a39cd35e9afa0e44a133a0",
+    "current_body_sha256": "96ad6981d4f861243a040628b58810fa304549da38b361a963d0f6e8209719f3"
+  },
+  {
+    "page_id": "411161f2809781499b30d8e6d8254ec5",
+    "original_title": "📖 デロイト トーマツ｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "e421d85b6a3bc2240b895487a38c3aa34ec069799172ff74b9fc8354cf334cb5",
+    "current_body_sha256": "e421d85b6a3bc2240b895487a38c3aa34ec069799172ff74b9fc8354cf334cb5"
+  },
+  {
+    "page_id": "411161f2809781edb0c9cfa2ba639286",
+    "original_title": "📖 PwC｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "974a790089ede90cd4e01f3a03a0411074d608b064ed101835453a7ab8192971",
+    "current_body_sha256": "974a790089ede90cd4e01f3a03a0411074d608b064ed101835453a7ab8192971"
+  },
+  {
+    "page_id": "411161f280978155af49fd34c02ce5f4",
+    "original_title": "📖 EY｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "6a09b507c74ed4fdfb97ad7fbd60f74ba04e0faabca6beff8cb875d6a9b1f820",
+    "current_body_sha256": "6a09b507c74ed4fdfb97ad7fbd60f74ba04e0faabca6beff8cb875d6a9b1f820"
+  },
+  {
+    "page_id": "411161f2809781e39befee1b8e00c4f8",
+    "original_title": "📖 KPMG｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "153784b71c097cad9a3edba324e8bb1163ab576ac7f3c82cae9a81035f99d9d2",
+    "current_body_sha256": "153784b71c097cad9a3edba324e8bb1163ab576ac7f3c82cae9a81035f99d9d2"
+  },
+  {
+    "page_id": "411161f2809781969332fa8186b299ac",
+    "original_title": "📖 アクセンチュア｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "83e1c5e910c14270638adc0b14ae696447eafd3e7bdae8998a8cb75fbef19705",
+    "current_body_sha256": "83e1c5e910c14270638adc0b14ae696447eafd3e7bdae8998a8cb75fbef19705"
+  },
+  {
+    "page_id": "411161f28097814f8488dbd313d30271",
+    "original_title": "📖 BCG｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "f886d11b36f053c32bc16190ab086c519306091d85dd96cadc2e0640d527523e",
+    "current_body_sha256": "f886d11b36f053c32bc16190ab086c519306091d85dd96cadc2e0640d527523e"
+  },
+  {
+    "page_id": "411161f28097811d9fd2daa0f735f5cf",
+    "original_title": "📖 マッキンゼー｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "c3424dce75c15a229f5c88b88bf541653b42b8f1df86a0c2500bdfb7b4d93301",
+    "current_body_sha256": "c3424dce75c15a229f5c88b88bf541653b42b8f1df86a0c2500bdfb7b4d93301"
+  },
+  {
+    "page_id": "411161f28097819f92ecc9c6f5bcdd81",
+    "original_title": "📖 ベイン｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "e8d1c00799b21837b980f76233926c9d755270fe13cdb6b184b639cca25d927b",
+    "current_body_sha256": "e8d1c00799b21837b980f76233926c9d755270fe13cdb6b184b639cca25d927b"
+  },
+  {
+    "page_id": "411161f2809781a39d3ecae0e7d38618",
+    "original_title": "📖 ドリームインキュベータ｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "b0880d3fcb4ae4113675acced44398cd13b3ea77ff260d1874d67099203d2cc9",
+    "current_body_sha256": "b0880d3fcb4ae4113675acced44398cd13b3ea77ff260d1874d67099203d2cc9"
+  },
+  {
+    "page_id": "411161f28097814497e7ceceda77bd40",
+    "original_title": "📖 グロービング｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "a06e0a6af656ec5b98055a1128bf337d6b9d71af899e8d16f04c9084ca6e2179",
+    "current_body_sha256": "a06e0a6af656ec5b98055a1128bf337d6b9d71af899e8d16f04c9084ca6e2179"
+  },
+  {
+    "page_id": "411161f28097816683aaea67145859ed",
+    "original_title": "📖 野村総合研究所｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "d3abfac2ed9b310f12264dd790a16dd26bad0e3e60470fb7a91aeeee7d5ba12b",
+    "current_body_sha256": "d3abfac2ed9b310f12264dd790a16dd26bad0e3e60470fb7a91aeeee7d5ba12b"
+  },
+  {
+    "page_id": "411161f2809781cd9270ea9822e0aea4",
+    "original_title": "📖 三菱総合研究所｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "3594a7f3d14ce1940332dcb12fb6c513a112ed9d1a5bdfb6369c41ce06989937",
+    "current_body_sha256": "3594a7f3d14ce1940332dcb12fb6c513a112ed9d1a5bdfb6369c41ce06989937"
+  },
+  {
+    "page_id": "411161f280978169a42fc8ae526bc844",
+    "original_title": "📖 カーニー｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "027661f47caf226a45d7f6598f77bc17670f47bb871cdfd45d2e39b4361e75ef",
+    "current_body_sha256": "027661f47caf226a45d7f6598f77bc17670f47bb871cdfd45d2e39b4361e75ef"
+  },
+  {
+    "page_id": "411161f2809781a5b852fdf9c6f087fb",
+    "original_title": "📖 アーサー・ディ・リトル｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "e292b7655064f7184d62386802975882be0a18ed7865758cce74886b05729bdc",
+    "current_body_sha256": "e292b7655064f7184d62386802975882be0a18ed7865758cce74886b05729bdc"
+  },
+  {
+    "page_id": "411161f28097816687fadcc979051882",
+    "original_title": "📖 IGPI／IGPI DI｜顧客AI変革をどう支援するか",
+    "reachable_after": true,
+    "body_identical": true,
+    "original_body_sha256": "43f549e51e6eb675c8260050de82f0663dcfe770c40bf02d3f312154fe288d00",
+    "current_body_sha256": "43f549e51e6eb675c8260050de82f0663dcfe770c40bf02d3f312154fe288d00"
+  }
+]

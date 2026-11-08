@@ -8,15 +8,15 @@
 - [就活戦略_現状整理.md](就活戦略_現状整理.md) は初期の資料を整理した記録。現在の決定は [STRATEGY.md](STRATEGY.md) を優先し、企業・部署・選考方針を根拠に応じて更新する。
 - 他チャットの議論を引き継ぐ [2026年10月20日版のキャリア資料](career-context-2026-10-20.md)を参照し、その後に変わった考えと混同しない。
 - 企業・職種・新卒選考の事実調査は [RESEARCH_POLICY.md](RESEARCH_POLICY.md) に従う。
-- **企業・募集の調査入口（2026/11/6・再調査済み）**：[理想環境の再調査](research/2026-11-06-ideal-ai-environments/README.md)。今回添付45社をすべて公式検索・主要頁本文で再検討し、主12社16環境へ更新。MRI追加、NRIは海外法人の顧客案件を補足して主一覧へ、EYは国内の同一チームによる構想・開発の根拠を強化。カーニー・ADL・FAS CVA等は有力保留。[Notion一覧](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)と共有シート新2タブへ保存。125参照レコード・116固有URL。[45社の検討記録](research/2026-11-06-ideal-ai-environments/audit-45.json)に全社の事実・判断・限界を保存。本人の志望順位・応募先の決定ではない。
-- **11/5後半に定めたAI側の志向・候補条件**：[技術理解と全社変革](research/2026-11-05-ai-strategy-positioning/README.md)を継続。国内新卒制度・28受付・配属は別。旧52行は[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)の「候補一覧」に保持。現在は「理想環境_再調査」16行と「添付45社_検討記録」45行を入口にする。
+- **最新の入口（11/8）**：[AI変革支援の再構成・候補再評価](research/2026-11-08-notion-rebuild/README.md)と[Notion全体案内](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)。00用語→01業界→02AI現状→03志向×04今後の必要性→05支援像・条件→06比較。23環境・17企業グループ（優先14／条件付き5／保留4）を整理。本人の志望順位・応募先は未決定。[11/6の45社調査](research/2026-11-06-ideal-ai-environments/README.md)は日付付きの探索履歴。
+- **11/5後半に定めたAI側の志向・候補条件**：[技術理解と全社変革](research/2026-11-05-ai-strategy-positioning/README.md)を継続。国内新卒制度・28受付・配属は別。旧52行は[共有シート](https://docs.google.com/spreadsheets/d/1CNEXFFjm2nrVyXCGOwl2PlUUrAf09oIE-4Ctoea9ZRk/edit)の「候補一覧」に保持。Sheetの「理想環境_再調査」16行と「添付45社_検討記録」45行は11/6時点の履歴。11/8の現行比較はNotion/GitHubにあり、今回Sheetは更新していない。
 - [STRATEGY.md](STRATEGY.md) が現在の二本の就活戦略と未決定事項、[OPERATIONS.md](OPERATIONS.md) が別チャットへの引き継ぎを含む具体的な手順。[Notion「就活戦略・現在地」](https://app.notion.com/p/401161f28097815d8accc34852300c95)は本人向けの見やすい要約。
 
 **11/7・記録点検済み**：[情報の区分と完了状況](research/2026-11-06-ideal-ai-environments/STATUS.md)。前回調査のGit反映を確認し、運用文書・概念記録に残った未着手表示を修正。意思決定、確認事実、候補の解釈、過程、未確認を分けて再開できる。
 
-**11/7・現在の議論**：[顧客のAI変革をどう支援するか：公式記事の横断整理](research/2026-11-07-ai-transformation-views/README.md)。15社・44資料の本文を確認し、共通点と相違点を別々に要約。Notionの指定見出しに概要、子ページに発信者・部門・具体例・原文・留保を保存して読み戻した。企業・募集の再調査や新しい志望順位の決定ではない。
+**11/7・記事整理の履歴**：[顧客のAI変革をどう支援するか：公式記事の横断整理](research/2026-11-07-ai-transformation-views/README.md)。15社・44資料の本文を確認し、共通点と相違点を別々に要約。Notionの指定見出しに概要、子ページに発信者・部門・具体例・原文・留保を保存して読み戻した。企業・募集の再調査や新しい志望順位の決定ではない。
 
-**11/8・IDC外部評価**：[世界AIサービス2025の照合記録](research/2026-11-08-idc-worldwide-ai-services.md)。理想環境一覧の15社グループをIDC #US52978525の20社と照合し、対象6社の評価区分と公開プロフィールの範囲、対象外9社を区別。[Notion「IDC内容まとめ」](https://app.notion.com/p/412161f28097803ab223d065a22cb1a6)の親＋6子ページへ整理・読み戻し済み。世界の企業グループ評価であり、国内の希望部署や本人の志望順位の決定ではない。
+**11/8・IDC外部評価**：[世界AIサービス2025の照合記録](research/2026-11-08-idc-worldwide-ai-services.md)。先行する理想環境一覧の15社グループをIDC #US52978525の20社と照合し、対象6社の評価区分と公開プロフィールの範囲、対象外9社を区別。[Notion「IDC内容まとめ」](https://app.notion.com/p/412161f28097803ab223d065a22cb1a6)の親＋6子ページへ整理・読み戻し済み。世界の企業グループ評価であり、国内の希望部署や本人の志望順位の決定ではない。
 
 ## 議論の記録とチャット間の引き継ぎ
 

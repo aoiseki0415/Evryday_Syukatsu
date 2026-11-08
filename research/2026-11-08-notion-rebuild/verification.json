@@ -1,0 +1,71 @@
+{
+  "checked_at": "2026-11-08",
+  "checks": {
+    "all_original_pages_reachable": true,
+    "all_original_external_urls_preserved": true,
+    "all_original_red_green_annotations_preserved": true,
+    "all_original_media_assets_preserved": true,
+    "all_article_detail_bodies_unchanged": true,
+    "no_truncated_or_unknown_blocks": true,
+    "source_ids_unique": true,
+    "all_criteria_source_ids_resolve": true,
+    "all_candidates_have_profiles": true,
+    "all_candidates_and_links_in_overview": true,
+    "root_has_eight_sections": true,
+    "comparison_has_eighteen_profiles": true,
+    "references_has_nine_children": true,
+    "candidate_counts": true
+  },
+  "counts": {
+    "original_pages": 44,
+    "current_pages": 59,
+    "original_external_urls": 320,
+    "original_media_assets": 5,
+    "original_red_green_annotation_occurrences": 21,
+    "article_details_unchanged": 15,
+    "candidate_environments": 23,
+    "company_groups": 17,
+    "profile_pages": 18,
+    "source_records": 177
+  },
+  "issues": {
+    "missing_pages": [],
+    "missing_urls": [],
+    "missing_media": [],
+    "missing_annotations": [],
+    "unknown_sources": [],
+    "missing_candidate_ids": [],
+    "missing_work_links": [],
+    "missing_hiring_links": [],
+    "bad_pages": []
+  },
+  "visual_check": {
+    "checked_at": "2026-11-08",
+    "status": "passed_representative_pages",
+    "native_notion_pages": [
+      "40f161f280978009a9a0f7ba92ea2381",
+      "412161f280978182bbcbcf0f5ee9f025",
+      "410161f280978090a555d5f5eb53fd70"
+    ],
+    "confirmed": [
+      "親ページの色付き読書導線と列",
+      "05の志向×必要性のカードと統合表",
+      "06の候補ID・職務別行・丸マトリックス・条件付き/保留トグル"
+    ],
+    "not_all_pages_visually_inspected": true,
+    "media_resolution": {
+      "references_resolved": 9,
+      "unresolved": 0,
+      "unique_original_asset_ids_preserved": 5
+    },
+    "repair": "Notionのページmentionは独自の表示ラベルよりページの正式タイトルを表示する。候補表はIDと役割を通常テキストで表示し、根拠は企業別子ページへ分離した。"
+  },
+  "independent_review": {
+    "status": "passed_with_repair",
+    "note": "General-firm reviewer checked 05/06 and ratings. PwC feature now explicitly includes planned production migration."
+  },
+  "git_delivery_verification": {
+    "method": "Compare final HEAD with origin refs/heads/main after push",
+    "result_location": "Final conversation tool result; this file verifies the Notion/data readbacks, not its own containing commit"
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "checked_at": "2026-11-08",
+  "scope": "Big4+Accenture 5社の企業×部門×役割×国内新卒入口の再評価",
+  "status": "Codexの候補提案。本人の志望順位・応募決定ではない。",
+  "preservation": "既存の5社環境ページと5社記事ページを全文確認。既存の案件・出典・留保・赤緑注釈は再構成で維持する。",
+  "method": "既存Notion・候補台帳を読み、公式職務・実案件・採用本文をライブ再確認。将来思想、提供体制、案件活動、個人担当例、新卒応募を分離。",
+  "firms": [
+    {
+      "id": "deloitte",
+      "company": "合同会社デロイト トーマツ（コンサルティング）",
+      "category": "総合",
+      "environment": "AI&Data／DS×FDEの協働環境",
+      "verdict": "推薦環境・配属条件付き",
+      "reason": "①価値構想と技術実行を役割・育成・アサインの制度まで接続しており、本人の軸足に近い。全社変革の提供体制は明瞭だが、日本の完了案件の強さは別に確認。",
+      "evidence": [
+        {
+          "sources": [
+            "G-DE1",
+            "G-DE2"
+          ],
+          "aspect": "構想と実装の接続",
+          "fact": "DSが企業価値・重点領域を分析しFDEと協働。AI Factoryは技術実行・改善と人材組織を含む。",
+          "interpretation": "①から③④を見渡せる組織設計の根拠。制度発表とサービスの範囲であり個人経験保証ではない。"
+        },
+        {
+          "sources": [
+            "G-DE3"
+          ],
+          "aspect": "国内実案件・統合設計",
+          "fact": "大和証券で金融担当とAI担当が共同し、AI/RPA比較、モック、業務・役割・責任・教育を一体議論。",
+          "interpretation": "複数専門家が同じ顧客課題を扱う具体例。ワークショップから本番運用済みとは言えない。"
+        }
+      ],
+      "personal_environment": "DS（Deployment Strategist）はData Scientistではない。①を担いFDEと協働する方向が適合するが、初期新卒アサイン・技術判断の参加方法は未確認。",
+      "transformation_scope": "国内の部門横断ワークショップ＋全社変革体制。SOMPOの統制・海外Thomson Reutersの基盤は既存根拠として保持し、国内の全社事業改革実績へ合成しない。",
+      "product_neutrality": {
+        "status": "具体的な案件方針を確認",
+        "source_ids": [
+          "G-DE3"
+        ],
+        "fact": "顧客の既存環境を含め最適な組み合わせを考え、特定ツールを固定で押し込まない。"
+      },
+      "hiring": {
+        "role": "コンサルタント職",
+        "domestic_new_grad": true,
+        "masters_eligible": true,
+        "cohort_2028": "要項本文で確認",
+        "current_status": "国内28本選考受付中",
+        "deadline": "公開確認できず／MyPage確認",
+        "placement": "AI&Data／DS／FDE確約未確認",
+        "sources": [
+          "G-DE4"
+        ]
+      },
+      "article_information_to_preserve": "AI能力を起点に作業・配置・損益・余力の使い道を一緒に設計するというAI&Data×Human Capitalの発信。将来提言と顧客案件の証拠を別枠で保持。",
+      "remaining_questions": [
+        "DSの若手が③④の設計・評価・改善の判断にどう参加するか",
+        "国内で事業価値・人材配置まで変えた進行/完了案件",
+        "希望職務に近い新卒配属経路"
+      ],
+      "rows": [
+        {
+          "id": "DE-A",
+          "environment": "AI&Data／DS×FDE協働",
+          "entry_role": "コンサルタント",
+          "recommendation": "推薦環境・配属条件付き"
+        }
+      ]
+    },
+    {
+      "id": "pwc",
+      "company": "PwCコンサルティング合同会社",
+      "category": "総合",
+      "environment": "DAX／AI&アナリティクス",
+      "verdict": "推薦環境・配属条件付き",
+      "reason": "国内顧客で業務コンサルとDSが同一チームに入り、課題選定からAI実行へつなぐ根拠が具体的。新卒職務にも戦略・組織・MLOpsがそろう。",
+      "evidence": [
+        {
+          "sources": [
+            "G-PW1",
+            "G-PW2"
+          ],
+          "aspect": "構想と技術の同一案件協働",
+          "fact": "業務コンサルとDSが東電PGの課題抽出、ユースケース、環境構築/PoCを担当。AI&アナリティクス職務は組織設計・MLOpsまで掲示。",
+          "interpretation": "①と実装が分断されない環境の強い根拠。個人が全工程を担うとは限らない。"
+        },
+        {
+          "sources": [
+            "G-PW4"
+          ],
+          "aspect": "人材組織×技術×統制",
+          "fact": "AI駆動開発を顧客IT部門の役割・KPI・人材・統制の変革と一体提供。",
+          "interpretation": "将来必要性との接点を補う。DAXの実案件担当・全社変革完了とは確定しない。"
+        }
+      ],
+      "personal_environment": "共同チームの実例は明瞭。DC職からAI&アナリティクスへ進む配置・若手のビジネス側と技術側への参加割合は未確認。",
+      "transformation_scope": "東電PGは全社方針・共通AI全社員展開＋複数部門の業務PoC。全社事業・組織変革の達成ではなく、その方向へ広げられる環境として評価。",
+      "product_neutrality": {
+        "status": "技術選定の実態は追加確認",
+        "source_ids": [
+          "G-PW2",
+          "G-PW4"
+        ],
+        "fact": "顧客課題起点で解決法を選ぶ姿勢は明記。自社製品への非依存を全案件で保証する資料ではない。"
+      },
+      "hiring": {
+        "role": "デジタルコンサルタント（DC）",
+        "domestic_new_grad": true,
+        "masters_eligible": true,
+        "cohort_2028": "専用国内募集を確認",
+        "current_status": "国内28本選考最終募集受付中",
+        "deadline": "ES＋DC登録2027-01-08 23:59 JST／適性検査2027-01-11 23:59 JST",
+        "placement": "AI&アナリティクス配属確約未確認",
+        "sources": [
+          "G-PW3",
+          "G-PW1"
+        ]
+      },
+      "article_information_to_preserve": "個人能力の増幅から組織形の再設計へ、CAIOは価値創出とリスクを統治。2035/AGIは将来シナリオ、ペルソナは構成人物、紹介記事とPDFを同一系列として保持。",
+      "remaining_questions": [
+        "AI&アナリティクス配属の選択・確定時期",
+        "③④の本人技術判断と構想側の担当範囲",
+        "複数製品選択・顧客への能力移転の案件証拠"
+      ],
+      "rows": [
+        {
+          "id": "PW-A",
+          "environment": "DAX／AI&アナリティクス",
+          "entry_role": "デジタルコンサルタント",
+          "recommendation": "推薦環境・配属条件付き"
+        }
+      ]
+    },
+    {
+      "id": "ey",
+      "company": "EYストラテジー・アンド・コンサルティング株式会社",
+      "category": "総合",
+      "environment": "Technology Consulting／AI&データ、金融サービスTC×AI&Data",
+      "verdict": "AI&データは推薦環境、FSは対象・工程条件付き",
+      "reason": "AI&データは国内同一少人数チームの構想〜開発が強く裏付けられる。FSは業務とAI専門家の協働が具体的だが予測AIはPoCで、範囲と④を確認したい。",
+      "evidence": [
+        {
+          "sources": [
+            "G-EY1"
+          ],
+          "aspect": "同じチームによる構想と開発",
+          "fact": "大手製造業で数名のAI&データチームがデータ戦略からシステム設計・開発・テストを担当し、AI機能と全社利用を拡張。",
+          "interpretation": "本人可能性の間接証拠として強い。顧客IT部門が相手の基盤案件であり、全社の経営戦略変更まで確定しない。"
+        },
+        {
+          "sources": [
+            "G-EY2",
+            "G-EY3"
+          ],
+          "aspect": "事業意思決定と業務・AI専門家の協働",
+          "fact": "事業開発の戦略判断をAI化するPoCと、FSの業務仮説×特徴量・モデル評価の協働。",
+          "interpretation": "構想と技術を往復する実態。2案件を一案件の全工程実績へ合成しない。"
+        }
+      ],
+      "personal_environment": "AI&データでは同一チーム、FSでは専門家協働。Tech新卒入口は専門領域だがAI&データ又はFS配置の保証はない。",
+      "transformation_scope": "国内製造業の全社データ活用は実現。サービス企業は事業開発部門、FSは内部管理とリスク部門が主対象。全社基盤と全社事業・組織変革を分ける。",
+      "product_neutrality": {
+        "status": "製品選定・専門家連携の実例／制度としての中立性は追加確認",
+        "source_ids": [
+          "G-EY1"
+        ],
+        "fact": "製品選定の情報を収集しSnowflake採用、リスク専門家と連携。単一製品専門職との違いを確認したい。"
+      },
+      "hiring": {
+        "role": "テクノロジーコンサルタント",
+        "domestic_new_grad": true,
+        "masters_eligible": true,
+        "cohort_2028": "国内本選考表示を確認",
+        "current_status": "国内28本選考受付中",
+        "deadline": "公開確認できず／MyPage確認",
+        "placement": "AI&データ／FS確約未確認。デジタルエンジニアは別職種",
+        "sources": [
+          "G-EY4"
+        ]
+      },
+      "article_information_to_preserve": "戦略×人材×技術、人とAIのネットワーク、ERPの権限・承認・監査とAIの動的実行を組み合わせる考え。COO Sara等の例は仮想、全面超流動化は理論段階と保持。",
+      "remaining_questions": [
+        "希望ユニットの全社価値創出・組織移行案件",
+        "④継続運用で若手が行う技術判断",
+        "AI&データとFSの新卒配置の違い"
+      ],
+      "rows": [
+        {
+          "id": "EY-A",
+          "environment": "Technology Consulting／AI&データ",
+          "entry_role": "テクノロジーコンサルタント",
+          "recommendation": "推薦環境・配属条件付き"
+        },
+        {
+          "id": "EY-FS",
+          "environment": "金融サービスTC×AI&Data",
+          "entry_role": "テクノロジーコンサルタント（FS配置経路要確認）",
+          "recommendation": "条件付き：範囲・本番運用・配属確認"
+        }
+      ]
+    },
+    {
+      "id": "kpmg",
+      "company": "KPMGコンサルティング株式会社",
+      "category": "総合",
+      "environment": "DXA／Data&AI・生成AIタスクフォース",
+      "verdict": "推薦環境・採用経路条件付き",
+      "reason": "新たに確認した国内社員案件が、構想と実装・利用者改善の往復、AI専門家協働、新卒の技術とコンサル両方の成長を具体化している。",
+      "evidence": [
+        {
+          "sources": [
+            "G-KP3",
+            "G-KP4"
+          ],
+          "aspect": "本人可能性と実行",
+          "fact": "DXAが顧客構想、生成AI検証・実装、利用者FB、将来ロードマップを担当。新卒社員も検証・マニュアル化や現場リーダーを担う事例。",
+          "interpretation": "企業一般のサービス説明を越え、同じ部署でビジネスと技術が接続する強い間接証拠。全員同じ担当とは言えない。"
+        },
+        {
+          "sources": [
+            "G-KP1",
+            "G-KP2"
+          ],
+          "aspect": "全社方向性・定着",
+          "fact": "UACJで全社方針の下の部門業務へAIを導入し利用定着を伴走。DXAは全社Data&AI戦略からモデル運用を提供。",
+          "interpretation": "全社志向と③④への根拠。UACJは部分実装から全体へ向かう段階であり、事業モデル変革達成ではない。"
+        }
+      ],
+      "personal_environment": "DXA新卒出身者の役割例がある。FAQでは12〜18カ月育成後に専門配属。本人希望は考慮するがスキル・経験・戦略必要性で決まる。",
+      "transformation_scope": "UACJは全社方針＋財務・人事・設備。新事業評価AIは一部業務と社内横展開。全社対象と同一案件での個人役割を混同しない。",
+      "product_neutrality": {
+        "status": "明示がある部署の隣接情報／DXA案件は追加確認",
+        "source_ids": [
+          "G-KP1",
+          "G-KP3"
+        ],
+        "fact": "技術・業務の課題起点の選択を確認。Technology ConsultingのEAT説明には特定サービス非依存の中立戦略を記載するが、EATの説明をDXA全案件へ合成しない。"
+      },
+      "hiring": {
+        "role": "エッジテクノロジー／ビジネス等4職種からのDXA経路は要確認",
+        "domestic_new_grad": true,
+        "masters_eligible": true,
+        "cohort_2028": "資格文は2027年4月以降卒業予定を含む。28専用表示未確認",
+        "current_status": "通年新卒採用制度・登録導線あり／28本選考の現在受付未確認",
+        "deadline": "公開確認できず",
+        "placement": "12〜18カ月育成後の専門配属。DXA確約なし",
+        "sources": [
+          "G-KP5",
+          "G-KP6"
+        ]
+      },
+      "article_information_to_preserve": "経営判断の前提と責任をAI統制・ライフサイクルへ翻訳する方向性。KPMG Consulting、Advisory Holdings、あずさ、Forensic&Risk Advisoryの発言を法人別に保持し、FAS CVAの実務へ合成しない。",
+      "remaining_questions": [
+        "エッジテクノロジー等4新卒職種とDXAの対応",
+        "28専用選考の受付と期限",
+        "AIガバナンス以外も含む全社価値創出案件への参加経路"
+      ],
+      "rows": [
+        {
+          "id": "KP-A",
+          "environment": "DXA／Data&AI・生成AIタスクフォース",
+          "entry_role": "新卒4職種とDXA配属の対応は未確認",
+          "recommendation": "推薦環境・採用経路条件付き"
+        }
+      ]
+    },
+    {
+      "id": "accenture",
+      "company": "アクセンチュア株式会社",
+      "category": "総合",
+      "environment": "AI&Dataアーキテクト／ビジネスコンサルタント（RDE）／戦略コンサルタント（RDE）",
+      "verdict": "AI職とBCは推薦環境・役割条件付き、戦略RDEは追加の条件付き候補",
+      "reason": "国内全社案件に戦略・業務・技術・顧客体験の横断チームと能力移転がある。新卒職種別の入口が明瞭だが①軸足と技術参加を別方向から確認する。",
+      "evidence": [
+        {
+          "sources": [
+            "G-AC2"
+          ],
+          "aspect": "全社価値・実装・顧客能力",
+          "fact": "明治安田の全社横断プログラムで部門横断チームを編成。営業3.6万人向け導入を実施し、主導人材育成と機能拡張を計画。",
+          "interpretation": "業務実装だけでなく顧客への価値提供と自走能力を含む国内環境。新卒各職種の担当配分は不明。"
+        },
+        {
+          "sources": [
+            "G-AC1",
+            "G-AC3"
+          ],
+          "aspect": "入口ごとの違い",
+          "fact": "AI職は課題分析〜実装運用、BCは経営戦略に連動する業務組織変革を構想。RDEは職種ではなく将来像。経験者AI職では製品中立を明記。",
+          "interpretation": "AI職は①の軸足、BC/戦略職は技術判断・実装の参加を確認することで比較できる。"
+        }
+      ],
+      "personal_environment": "AI入口で技術専門性を得る道と、BC/戦略入口で構想を軸に専門家と協働する道を分ける。RDE到達像だけで全新人が全工程を担うと断定しない。",
+      "transformation_scope": "明治安田は全社横断DX・AIと人の提供価値を結ぶ長期プログラム。具体的に確認できる初期成果は営業デジタル秘書。全社員展開・人材300名育成は計画と区別。",
+      "product_neutrality": {
+        "status": "AI職務で明示",
+        "source_ids": [
+          "G-AC3"
+        ],
+        "fact": "特定ベンダー/ソリューションに縛られず評価選定できると説明。経験者職務の根拠であり新卒配属保証ではない。"
+      },
+      "hiring": {
+        "role": "AI&Dataアーキテクト／ビジネスコンサルタント（RDE）／戦略コンサルタント（RDE）",
+        "domestic_new_grad": true,
+        "masters_eligible": true,
+        "cohort_2028": "国内28卒募集職種を確認",
+        "current_status": "28プレエントリー受付中。職種別本選考受付詳細はMyPage",
+        "deadline": "公開確認できず／MyPage確認",
+        "placement": "職種入口は明瞭。特定AI案件・①責任・専門チームは未確約",
+        "sources": [
+          "G-AC1"
+        ]
+      },
+      "article_information_to_preserve": "人材・学習・役割・部門境界・資源配分を連動させ変わり続ける企業能力を支援する方向性。Radisson顧客例と自社マーケティング例、予測・自己申告効果を分離。",
+      "remaining_questions": [
+        "AI職で全社経営・事業構想をどの程度主導できるか",
+        "BC/戦略RDEが技術選定・実装評価に実際にどこまで入るか",
+        "本人の応募済み職種・選考経路との整合（今回未変更）"
+      ],
+      "rows": [
+        {
+          "id": "AC-A",
+          "environment": "AI&Dataアーキテクト職",
+          "entry_role": "同名の新卒職種",
+          "recommendation": "推薦環境・①の軸足条件付き"
+        },
+        {
+          "id": "AC-B",
+          "environment": "ビジネスコンサルタント（RDE）",
+          "entry_role": "同名の新卒職種",
+          "recommendation": "推薦環境・技術判断参加条件付き"
+        },
+        {
+          "id": "AC-S",
+          "environment": "戦略コンサルタント（RDE）",
+          "entry_role": "同名の新卒職種",
+          "recommendation": "追加条件付き：AI案件頻度・③④技術参加未確認"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "G-DE1",
+      "title": "Deloitte DS×FDE体制発表",
+      "url": "https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html",
+      "published_at": "2026-04-30",
+      "kind": "体制発表",
+      "facts": "DSが企業価値構造と重点変革領域を特定し、FDEがAI・データ・基盤を実装する協働モデル。社内育成・資格・アサイン調整も記載。",
+      "limits": "制度・提供モデルの発表。個別案件の実績や新卒専用コースではない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-DE2",
+      "title": "Deloitte AI Factory as a Service",
+      "url": "https://www.deloitte.com/jp/ja/services/consulting/services/ai-factory.html",
+      "published_at": null,
+      "kind": "サービス",
+      "facts": "構想、業務、基盤、技術検証・開発・継続改善、人材・組織移行を一体提供する。",
+      "limits": "サービス提供範囲。全工程を本人が担当する保証ではない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-DE3",
+      "title": "大和証券とDeloitteのAI・業務変革対談",
+      "url": "https://www.deloitte.com/jp/ja/services/consulting/perspectives/ai-daiwa.html",
+      "published_at": "2026-05-14",
+      "kind": "国内顧客対談",
+      "facts": "金融担当とAI担当が協働し、実業務情報の整理、AI/RPA適性判断、モックを使った2日間の体験設計を実施。人の役割・評価・責任・育成と業務再設計を接続し、特定ツールを固定して押し込まないと説明。",
+      "limits": "本件で確認できるのは準備・体験・モックと変革論。実システム本番化、全社組織改革完了を示さない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-DE4",
+      "title": "Deloitte国内28新卒採用",
+      "url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting-students.html",
+      "published_at": null,
+      "kind": "新卒募集",
+      "facts": "国内2028年入社本選考エントリー受付の表示を再確認。コンサルタント職、2028年4月又は10月入社、学士・修士・博士対象。",
+      "limits": "公開国内締切なし。AI&Data・DS/FDE配属や個人担当の確約を確認できない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-PW1",
+      "title": "PwC デジタルコンサルタント新卒職務",
+      "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/recruiting-info/technology-consulting.html",
+      "published_at": null,
+      "kind": "新卒職務",
+      "facts": "AI&アナリティクスの活動としてAI戦略、アナリティクス組織、生成AI・エージェント等の分析、MLOps/LLMOpsを明記。DCには他にも複数専門領域がある。",
+      "limits": "DC職内の専門領域紹介。DAX/AI&アナリティクスへの配属確約ではない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-PW2",
+      "title": "PwC×東京電力パワーグリッド",
+      "url": "https://www.pwc.com/jp/ja/knowledge/column/dataanalytics/nikkeibusiness10.html",
+      "published_at": "2025-08-18",
+      "kind": "国内顧客対談",
+      "facts": "業務コンサルとデータサイエンティストが同じチームで顧客課題・ユースケース選定から生成AI環境・業務PoCに従事。全社員向け共通AIを展開、業務特化PoC10件を実施。",
+      "limits": "9割は本番実装予定との説明。全社事業・組織改革完了や全PoC本番化と扱わない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-PW3",
+      "title": "PwC国内28選考",
+      "url": "https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html",
+      "published_at": null,
+      "kind": "新卒募集",
+      "facts": "DC28卒最終募集。2027年10月・2028年4月/10月入社。共通ESとDC登録2027-01-08 23:59 JST、適性検査2027-01-11 23:59 JST。",
+      "limits": "BC職や海外BCFの締切を混ぜない。AI領域配属確約は未確認。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-PW4",
+      "title": "PwC AI駆動開発・IT部門変革サービス",
+      "url": "https://www.pwc.com/jp/ja/press-room/2026/ai-driven-development-transformation.html",
+      "published_at": "2026-11-04",
+      "kind": "公式発表",
+      "facts": "顧客IT部門にAIを組み込む実装・運用支援を体系化。データ、人材・スキル、ガバナンス、組織・評価を連動し、将来IT部門像・ロードマップを描く。匿名の実運用までの支援実績を記載。",
+      "limits": "最大70%工数削減は会社申告の特定条件下の結果。全社全事業の成果やDAX担当を確定する根拠ではない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-EY1",
+      "title": "EY AI&データ 大手製造業全社データ活用基盤",
+      "url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-15/",
+      "published_at": null,
+      "kind": "国内匿名顧客事例",
+      "facts": "AI&データの数名チームがデータ戦略、業務・システム要件、設計、開発、テストを完遂。AI予測・意思決定支援、海外拠点と機能の拡張を実施。経営企画・営業を巻き込む構想とリスク専門家の知見を接続。",
+      "limits": "全社データ利活用の事例。事業ポートフォリオや組織全体の改革達成は別。若手個人の全工程保証でもない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-EY2",
+      "title": "EY AI&データ 大手サービス事業開発",
+      "url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-17/",
+      "published_at": null,
+      "kind": "国内匿名顧客事例",
+      "facts": "消費者・市場情報をAI/NLPで構造化し、事業戦略策定の意思決定支援を検証。少人数AI&データチームが構想とPoC・要件をつなぐ。",
+      "limits": "本格実装・高度化は今後の予定。対象は事業開発部門で、全社案件の証明にしない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-EY3",
+      "title": "EY FS TC 生命保険のリスク検知AI",
+      "url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-21/",
+      "published_at": null,
+      "kind": "国内匿名顧客事例",
+      "facts": "保険業務メンバーが仮説・評価観点、FS TC AI&Data専門家が特徴量・モデル評価を分担。DB・可視化から予測AI PoCへ継続し、データルール・教育・経営層との合意形成も課題として記載。",
+      "limits": "本番予測AIの全社展開・④運用の責任は未確認。横断TC AI&データと同一部署に合成しない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-EY4",
+      "title": "EYSC国内28新卒",
+      "url": "https://www.eysc.jp/recruit/new_graduate/entry/new/index.html",
+      "published_at": null,
+      "kind": "新卒募集",
+      "facts": "2028年卒国内本選考受付を表示。大学・大学院生対象。テクノロジーコンサルタントは専門入口で、IT戦略・導入・新サービス開発を記載。",
+      "limits": "日程詳細はMyPage。Tech職とAI&データ又はFS専門配属確約は別。デジタルエンジニアと区別。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-KP1",
+      "title": "KPMG DXA Data&AI",
+      "url": "https://recruit.kpmg-consulting.jp/info/dxa",
+      "published_at": null,
+      "kind": "組織・中途職務",
+      "facts": "Data&AIは戦略、全社データ構成、ガバナンス、AIモデル設計・運用・評価を支援。生成AIタスクフォースは部門横断で戦略・業務・リスク・開発等を接続。",
+      "limits": "中途向け紹介。これだけで新卒専用配属を確定しない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-KP2",
+      "title": "KPMG×UACJ進捗対談",
+      "url": "https://kpmg.com/jp/ja/insights/2026/08/case-uacj.html",
+      "published_at": "2026-08-31",
+      "kind": "国内顧客対談・広告転載",
+      "facts": "全社の競争力強化方針の下で財務・人事・設備の8ユースケース、7件実用段階。プロンプト構築後の利用停滞に対しヒアリング等を伴走し、点から線・面への拡張を志向。",
+      "limits": "意図的に点から開始。時間削減は見込みを含む。全社全体最適は今後の課題。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-KP3",
+      "title": "KPMG DXA IT開発管理業務のAI化",
+      "url": "https://recruit.kpmg-consulting.jp/work/technologyconsulting/case-study01",
+      "published_at": null,
+      "kind": "国内匿名顧客・社員対談",
+      "facts": "同じDXA案件で顧客課題・目指す姿を定め、プロンプト開発・約5回の利用者フィードバック、横展開の将来像・リスク整理・ロードマップへ往復。AI専門家と協働。",
+      "limits": "対象はIT開発管理の特定業務。技術の深さを全案件に一般化せず、全社変革達成とはしない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-KP4",
+      "title": "KPMG DXA 暗黙知と新規事業評価AI",
+      "url": "https://recruit.kpmg-consulting.jp/work/technologyconsulting/case-study02",
+      "published_at": null,
+      "kind": "国内匿名顧客・新卒社員対談",
+      "facts": "2022年大学院新卒が現場リーダー、2023年新卒が1年ローテ後DXAで検証〜マニュアル化を担当。顧客と評価思考を可視化しAI化。技術とコンサルの両技能、提案から実現までの人材育成を示す。",
+      "limits": "新規事業評価の一部業務と社内横展開の仕組み。新卒全員の同じ成長経路・①責任の保証ではない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-KP5",
+      "title": "KPMG新卒募集要項",
+      "url": "https://recruit.kpmg-consulting.jp/new-graduate/job-description",
+      "published_at": null,
+      "kind": "新卒募集",
+      "facts": "現行の募集は戦略、ビジネス、ITソリューション、エッジテクノロジーの4職種。2027年4月以降大学/大学院卒予定が資格で、日本東京・大阪。",
+      "limits": "28対象者は資格文に含まれるが、28専用本選考の現在受付・期限・DXAと各採用職種の対応は未確認。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-KP6",
+      "title": "KPMG新卒FAQ",
+      "url": "https://recruit.kpmg-consulting.jp/new-graduate/faq",
+      "published_at": null,
+      "kind": "新卒配属制度",
+      "facts": "4職種で通年採用を実施。原則12〜18カ月育成後、適性や志望に応じ専門チーム配属。配属はスキル・経験・戦略上の必要性を勘案し本人希望も重視。",
+      "limits": "通年制度は特定28回の今すぐ応募可能を意味しない。DXA配属保証なし。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-AC1",
+      "title": "Accenture国内28新卒5職種",
+      "url": "https://www.accenture.com/jp-ja/careers/life-at-accenture/entry-level",
+      "published_at": null,
+      "kind": "新卒募集・職務",
+      "facts": "28プレエントリー受付。AI&Dataアーキテクトは課題分析・選定・構成・実装運用。戦略/ビジネス/エンジニア職にRDE表記があり、RDEは5職種共通の将来到達像と説明。",
+      "limits": "職種ごとの本選考・要項詳細はMyPage。独立RDE求人を作らず、職種と到達像を区別。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-AC2",
+      "title": "Accenture×明治安田 全社横断DX",
+      "url": "https://newsroom.accenture.jp/jp/news/2025/release-20250116",
+      "published_at": "2025-01-16",
+      "kind": "国内顧客案件発表",
+      "facts": "戦略・業務・AIデータ・エンジニア・顧客体験の横断チームで全社プログラム。MYパレットを2024年10月営業約3.6万人に導入。2030年3月まで伴走、実装と主導人材300人育成を計画。",
+      "limits": "全員向け導入と300人育成、全社改革完了は計画。個々の新卒担当は記載なし。",
+      "checked_at": "2026-11-08",
+      "official": true
+    },
+    {
+      "id": "G-AC3",
+      "title": "Accenture AIアーキテクト職務・技術中立性",
+      "url": "https://www.accenture.com/jp-ja/careers/jobdetails?id=R00334406_ja",
+      "published_at": null,
+      "kind": "経験者職務",
+      "facts": "AI導入のデータ解析・モデル選定・ToBe・構築・継続学習を示し、特定ベンダーや製品に縛られない中立選定を明記。",
+      "limits": "経験者向け求人。仕事内容・中立性の参考であり28新卒の応募口には使わない。",
+      "checked_at": "2026-11-08",
+      "official": true
+    }
+  ],
+  "changes_from_2026_11_06": [
+    "KPMGの新卒募集職種が現在は4職種、卒業資格は2027年4月以降。旧一般コンサルタント・2026年4月以降を更新。",
+    "KPMG DXAの新卒社員役割と構想/技術実行の往復の案件証拠を追加。",
+    "Deloitte大和証券の金融×AI担当協働、製品固定なし、組織役割と技術を結ぶ具体例を追加。ただし体験/モックから本番化へ格上げしない。",
+    "Accenture戦略コンサルタント（RDE）を条件付きの追加比較入口として明示。RDEを独立職種にしない。",
+    "PwC 2026-11-04顧客IT部門変革の最新提供内容を補助根拠に追加。",
+    "PwCの2027-01-08/01-11締切、Deloitte/EY国内28本選考、Accenture28プレエントリーを本文で再確認。"
+  ]
+}

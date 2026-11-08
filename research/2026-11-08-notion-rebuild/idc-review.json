@@ -1,0 +1,320 @@
+{
+  "checked_at": "2026-11-08",
+  "report": {
+    "title": "IDC MarketScape: Worldwide Artificial Intelligence Services 2025 Vendor Assessment",
+    "authors": [
+      "Jennifer Hamel",
+      "Reid Sherard"
+    ],
+    "original_doc_id": "US52978525",
+    "excerpt_doc_id": "US52978525e",
+    "pdf_cover_date": "2025-07",
+    "geographic_market": "worldwide",
+    "vendor_count": 20,
+    "notion_candidate_groups": 15,
+    "overlap_leaders": 6,
+    "not_assessed_groups": 9
+  },
+  "notion_review": {
+    "parent_id": "412161f28097803ab223d065a22cb1a6",
+    "child_pages_checked": 6,
+    "read_only": true
+  },
+  "sources": [
+    {
+      "id": "IDC_PWC_PDF",
+      "url": "https://www.pwc.com/gx/en/news-room/assets/analyst-citations/idc-worldwide-artificial-intelligence-2025.pdf",
+      "type": "officially_hosted_IDC_excerpt",
+      "read_scope": "full_11_pages_text_and_common_figures_checked",
+      "pages_total": 11,
+      "checked_at": "2026-11-08",
+      "profile_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "IDC_EY_PDF",
+      "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/about-us/analyst-relations/documents/ey-gl-idc-marketscape-worldwide-artificial-intelligence-services-2025-vendor-assessment-08-2025.pdf",
+      "type": "officially_hosted_IDC_excerpt",
+      "read_scope": "full_11_pages_text_and_common_figures_checked",
+      "pages_total": 11,
+      "checked_at": "2026-11-08",
+      "profile_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "IDC_KPMG_PDF",
+      "url": "https://assets.kpmg.com/content/dam/kpmgsites/fi/pdf/2025/09/fi-idc-ai-services_KPMG.pdf",
+      "type": "officially_hosted_IDC_excerpt",
+      "read_scope": "full_11_pages_text_and_common_figures_checked",
+      "pages_total": 11,
+      "checked_at": "2026-11-08",
+      "profile_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "IDC_DELOITTE_PDF",
+      "type": "user_supplied_IDC_excerpt",
+      "url": null,
+      "read_scope": "original_attachment_found_full_11_pages_text_and_figure_2_image_reviewed",
+      "pages_total": 11,
+      "checked_at": "2026-11-08",
+      "profile_pages": [
+        5,
+        6
+      ],
+      "public_source_fallback": "https://www.deloitte.com/global/en/about/recognition/analyst-relations/deloitte-named-leader-in-worldwide-artificial-intelligence-services-by-idc-marketscape.html",
+      "raw_attachment_or_text_not_committed": true
+    },
+    {
+      "id": "IDC_DELOITTE_NEWS",
+      "url": "https://www.deloitte.com/global/en/about/recognition/analyst-relations/deloitte-named-leader-in-worldwide-artificial-intelligence-services-by-idc-marketscape.html",
+      "type": "company_official_announcement_with_IDC_quotes",
+      "read_scope": "complete_article_body",
+      "checked_at": "2026-11-08",
+      "published_at": "2025-08-20"
+    },
+    {
+      "id": "IDC_BCG_NEWS",
+      "url": "https://www.bcg.com/news/15september2025-bcg-named-worldwide-leader-artificial-intelligence-services",
+      "type": "company_official_announcement_with_IDC_quotes",
+      "read_scope": "complete_article_body",
+      "checked_at": "2026-11-08",
+      "published_at": "2025-09-15"
+    }
+  ],
+  "common_findings": [
+    {
+      "id": "IDC01",
+      "kind": "IDC_general_advice",
+      "claim": "顧客の事業目的・成熟度を確認し、技術より先に成果と優先順位を考える",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "IDC02",
+      "kind": "IDC_general_advice",
+      "claim": "戦略・ガバナンス・人材計画とデータ・開発・技術基盤をつなぐ",
+      "pages": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "IDC03",
+      "kind": "IDC_general_advice",
+      "claim": "顧客内部チーム・事業部門・ITと協働し、本番化と展開を支える",
+      "pages": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "IDC04",
+      "kind": "customer_importance_survey",
+      "claim": "成功要因の重要度は成果達成が最上位。AI技能・データ・適切な用途・技術能力も重視",
+      "pages": [
+        8,
+        9
+      ],
+      "sample_n": 72,
+      "not_vendor_scores": true
+    },
+    {
+      "id": "IDC05",
+      "kind": "customer_satisfaction_aggregate",
+      "claim": "顧客内部チームと提供側チームを統合する能力への満足度が全体で最上位",
+      "pages": [
+        3
+      ],
+      "different_question_from_importance": true
+    }
+  ],
+  "companies": {
+    "deloitte": {
+      "category": "Leaders",
+      "offering_description": [
+        "Readiness・Acceleration・Advantage",
+        "経営・技術・人材・規制の統合"
+      ],
+      "IDC_strategy_items_identified_as_strengths": [
+        "提供内容",
+        "顧客採用",
+        "ポートフォリオ",
+        "提携"
+      ],
+      "customer_regard": [
+        "データ価値活用",
+        "AI管理基盤",
+        "全工程対応",
+        "顧客COE構築"
+      ],
+      "IDC_challenges": [
+        "基盤型提供の一貫性",
+        "成果連動型料金の普及"
+      ],
+      "profile_source_id": "IDC_DELOITTE_PDF",
+      "category_source": "IDC_EY_PDF figure_1 p.1",
+      "japan_role_or_placement_proof": false
+    },
+    "pwc": {
+      "category": "Leaders",
+      "offering_description": [
+        "AI戦略・責任あるAI・構築導入・運用・人材"
+      ],
+      "IDC_strategy_items_identified_as_strengths": [
+        "顧客採用",
+        "ポートフォリオ",
+        "成長",
+        "研究開発"
+      ],
+      "customer_regard": [
+        "全社展開ワークショップ",
+        "新論点知見",
+        "知財サービス",
+        "提携",
+        "ツール方法論",
+        "全工程"
+      ],
+      "IDC_challenges": [
+        "採用育成戦略",
+        "提携の幅",
+        "基盤型提供の一貫性"
+      ],
+      "profile_source_id": "IDC_PWC_PDF",
+      "category_source": "IDC_EY_PDF figure_1 p.1",
+      "japan_role_or_placement_proof": false
+    },
+    "ey": {
+      "category": "Leaders",
+      "offering_description": [
+        "事業・技術・人材・リスクを統合",
+        "社内実践と顧客向け基盤"
+      ],
+      "IDC_strategy_items_identified_as_strengths": [
+        "提供内容",
+        "提供モデル",
+        "顧客採用",
+        "成長",
+        "人材スキル・定着"
+      ],
+      "customer_regard": [
+        "技術・AIの知見",
+        "事業と技術の双方を備えた人材"
+      ],
+      "IDC_challenges": [
+        "発信対象階層",
+        "プラットフォーム認定への投資"
+      ],
+      "profile_source_id": "IDC_EY_PDF",
+      "category_source": "IDC_EY_PDF figure_1 p.1",
+      "japan_role_or_placement_proof": false
+    },
+    "kpmg": {
+      "category": "Leaders",
+      "offering_description": [
+        "基盤・機能・全社の段階展開",
+        "戦略・人材・信頼・技術と実行"
+      ],
+      "IDC_strategy_items_identified_as_strengths": [
+        "提供内容・幅",
+        "提供モデル",
+        "提携",
+        "研究開発"
+      ],
+      "customer_regard": [
+        "現地対応",
+        "柔軟な価格",
+        "関係者調整",
+        "非技術者への知識移転"
+      ],
+      "IDC_challenges": [
+        "発信テーマと対象階層",
+        "プラットフォーム認定への投資"
+      ],
+      "profile_source_id": "IDC_KPMG_PDF",
+      "category_source": "IDC_EY_PDF figure_1 p.1",
+      "japan_role_or_placement_proof": false
+    },
+    "bcg": {
+      "category": "Leaders",
+      "offering_description": [
+        "戦略・業界・機能・組織変革とBCG X",
+        "生産性・機能変革・事業モデル革新"
+      ],
+      "IDC_strategy_items_identified_as_strengths": [
+        "顧客採用",
+        "成長",
+        "研究開発"
+      ],
+      "customer_regard": [
+        "業界機能別方法論",
+        "関係者調整",
+        "新AI論点の知見"
+      ],
+      "IDC_challenges": null,
+      "profile_source_id": "IDC_BCG_NEWS",
+      "category_source": "IDC_EY_PDF figure_1 p.1",
+      "japan_role_or_placement_proof": false
+    },
+    "accenture": {
+      "category": "Leaders",
+      "offering_description": null,
+      "IDC_strategy_items_identified_as_strengths": null,
+      "customer_regard": null,
+      "IDC_challenges": null,
+      "profile_source_id": null,
+      "category_source": "IDC_EY_PDF figure_1 p.1",
+      "japan_role_or_placement_proof": false
+    }
+  },
+  "interpretations_for_05": [
+    {
+      "kind": "assistant_inference_not_new_user_decision",
+      "user_orientation": "全社変革",
+      "evidence": "事業計画・統制・人材・技術運営をつなぐ助言",
+      "assessment_question": "全社共通基盤に加え企業の活動と役割が変わる案件があるか"
+    },
+    {
+      "kind": "assistant_inference_not_new_user_decision",
+      "user_orientation": "①構想軸と技術理解",
+      "evidence": "優先案件の判断と技術的洞察・基盤・本番化を重視",
+      "assessment_question": "構想と②–④の判断・実践がつながるか"
+    },
+    {
+      "kind": "assistant_inference_not_new_user_decision",
+      "user_orientation": "構想と実装の接続",
+      "evidence": "事業／IT調整、顧客内部チームとの統合、専門性の補完",
+      "assessment_question": "専門家との共同設計と学習の往復があるか"
+    }
+  ],
+  "limitations": [
+    "世界の企業グループ評価を日本の部門・職種・配属の評価に変換しない",
+    "Leaders区分内の数値順位・点数を主張しない",
+    "対象外9社の個別除外理由は未確認",
+    "BCG抜粋は2026-11-08も404で課題未確認",
+    "Accenture固有プロフィール未取得",
+    "4社PDFの共通部分は同一報告書の再掲であり4つの独立調査ではない",
+    "共通助言と強みは公開採点内訳そのものではない"
+  ],
+  "corrections": {
+    "major_factual_errors_found": false,
+    "additions": [
+      "共通本文の買い手向け助言p.4–5",
+      "顧客重要度調査のn=72と各社スコアとの区別",
+      "成果達成の重要度と内部チーム統合への満足度の区別"
+    ],
+    "bibliographic_note": "Deloitte公式発表は原本2025年8月と表記する一方、同じ文書番号の提供PDF表紙は2025年7月"
+  }
+}

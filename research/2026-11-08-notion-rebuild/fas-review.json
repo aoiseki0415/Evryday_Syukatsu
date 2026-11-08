@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-11-08",
+  "company": "株式会社KPMG FAS",
+  "department": "Client Value Analytics（CVA）",
+  "role": "AI・データサイエンス主導型コンサルタント",
+  "candidate_status": "有力保留を維持",
+  "decision_type": "Codexの調査上の判断。本人の応募先・志望順位変更ではない。",
+  "reason": "経営・事業価値創出とデータサイエンス、ソリューション開発の接点は明瞭で、国内28院卒専門入口も存在する。一方、顧客自身がAIを活用して全社の価値創出・組織運営を変える具体的案件と、構想を軸に導入・運用へ関与する環境の裏付けが不足する。",
+  "hiring": {
+    "domestic_new_grad": true,
+    "cohort": "2028年4月又は10月入社",
+    "masters": "2027年10月〜2028年9月に大学院修了見込み。理系・経済・経営関連",
+    "skills": "研究又は準ずる課外活動でPython/R分析経験",
+    "internship_required": true,
+    "published_round_deadline": "2026-05-29 13:00",
+    "timezone": "本文にJST明記なし。国内募集の時刻として記載",
+    "current_status": "掲載募集回の締切経過。CVAの追加募集・再開は未確認",
+    "warning": "受付開始という残存文言やFAS全体の冬期選考を現在のCVA受付へ読み替えない。AIX・フォレンジックの2027-01-06締切は別。",
+    "placement": "CVA部門・職種の専門入口は明瞭。ただし担当案件・工程ごとの役割は未保証",
+    "source_ids": ["FAS1", "FAS3", "FAS4"]
+  },
+  "ratings": {
+    "C1": {
+      "value": "○",
+      "source_ids": ["FAS1", "FAS2"],
+      "note": "企業価値・事業計画・ポートフォリオとAI・分析に関わる職務説明。AIを前提にした顧客全社の事業・組織変革を実行する具体的案件は未確認。"
+    },
+    "C2": {
+      "value": "○",
+      "source_ids": ["FAS1", "FAS2"],
+      "note": "ソリューション企画・実装とLLM・AIエージェント・業務Webアプリ開発の職務説明あり。顧客本番AIの開発と運用改善の責任について実案件の活動は未確認。"
+    },
+    "C3": {
+      "value": "●",
+      "source_ids": ["FAS1", "FAS2"],
+      "note": "DSとデータストラテジストを組み合わせたCVAチームが戦略・会計・業務等と連携する具体的な体制を記載。体制の確認であり、同一個人の全工程担当保証や一案件の全工程証明ではない。"
+    }
+  },
+  "future_support_fit": {
+    "confirmed": "事業価値を起点に経営判断と技術的解決をつなぐ方向性、戦略等の専門家との協働。",
+    "unconfirmed": "顧客自身がAIを使って事業・全社運営を変える案件。人とAIの役割・権限、顧客組織移行、継続運用・能力移転までの同一環境。",
+    "distinction": "AI・データ分析を用いてM&A・戦略のコンサルティングを行う仕事と、顧客自身のAI変革支援は重なる可能性があるが同一ではない。"
+  },
+  "remaining_questions": [
+    "CVA自身が顧客のAI活用・業務・組織運営を変えた具体的案件と実施工程",
+    "分析専業に閉じず経営・事業構想と技術判断の双方へ入る担当モデル",
+    "顧客への本番導入後の運用・改善と能力移転の責任",
+    "CVA専用の28追加募集と現在受付"
+  ],
+  "existing_notion_checked": "https://app.notion.com/p/410161f28097815381e8d1259255ed88",
+  "sources": [
+    {
+      "id": "FAS1",
+      "title": "KPMG FAS CVA新卒募集",
+      "url": "https://recruit.kpmg-fas.jp/recruitinginformation-d.html",
+      "kind": "公式国内28新卒募集",
+      "checked_at": "2026-11-08",
+      "facts": "CVA専用28院卒入口。M&A・経営戦略局面で分析とソリューション企画・実装を行い、会計・戦略・業務の専門家と連携。",
+      "limits": "期限2026-05-29 13:00は経過。顧客がAIを使う全社変革の実案件・本番運用はこの説明から確定しない。"
+    },
+    {
+      "id": "FAS2",
+      "title": "KPMG FAS CVA中途職務",
+      "url": "https://kpmg.com/jp/ja/careers/fas/year-round-recruitment/client-value-analytics.html",
+      "kind": "公式部門・経験者職務",
+      "checked_at": "2026-11-08",
+      "facts": "DSと財務経営管理を持つデータストラテジストのチーム。LLM・AIエージェント、戦略検討支援、業務Webアプリの開発と顧客へのデリバリーを説明。",
+      "limits": "新卒入口ではない。顧客案件名・対象範囲・本番移行・運用改善・個人の構想責任は未確認。"
+    },
+    {
+      "id": "FAS3",
+      "title": "KPMG FAS新卒採用トップ",
+      "url": "https://recruit.kpmg-fas.jp/",
+      "kind": "公式国内新卒索引",
+      "checked_at": "2026-11-08",
+      "facts": "28冬期本選考案内と複数職種別の入口がある。",
+      "limits": "採用トップの冬期受付をCVA専用の受付再開へ一般化しない。"
+    },
+    {
+      "id": "FAS4",
+      "title": "KPMG FAS AIX・フォレンジック別職種の新卒",
+      "url": "https://recruit.kpmg-fas.jp/recruitinginformation-g.html",
+      "kind": "公式別部門・別新卒職種",
+      "checked_at": "2026-11-08",
+      "facts": "別募集は2028年4月・10月入社、締切2027-01-06 13:00。AIXはコンサル自身の業務高度化、フォレンジックは不正検知・調査とAIツール開発・提供。",
+      "limits": "CVAの締切・顧客AI変革の役割へ転用しない。KPMG Consulting DXAとも混同しない。"
+    }
+  ],
+  "notion_edited": false
+}
