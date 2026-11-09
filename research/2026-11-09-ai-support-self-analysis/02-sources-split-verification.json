@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-09",
+  "parent": "https://app.notion.com/p/413161f2809781178c78d5bd39ed5a40",
+  "pages": {
+    "front": "https://app.notion.com/p/413161f280978173bfe6fe368f0d3541",
+    "contact": "https://app.notion.com/p/413161f28097816ba5e6c6c6711432ad",
+    "now": "https://app.notion.com/p/413161f2809781bdbfbfd3fe9eb2a312",
+    "neuro": "https://app.notion.com/p/413161f280978198a4d9ff53d48dbfbc",
+    "constraints": "https://app.notion.com/p/413161f2809781b08780e08566bdeb57"
+  },
+  "checks": {
+    "userEditedCoreTextAndImagePreserved": true,
+    "frontierSectionVerbatim": true,
+    "qiaAndContactSectionsVerbatim": true,
+    "currentAISectionVerbatim": true,
+    "neuroscienceSectionVerbatim": true,
+    "chronologyNotesPreserved": true,
+    "useExperienceNotesPreserved": true,
+    "allOriginalExternalURLsPreserved": true,
+    "fourBackgroundsAndExistingConstraints": true,
+    "frontierAfterRecognitionBeforeQia": true,
+    "contactAfterQiaBeforeCommonBackground": true,
+    "currentAIAfterCommonBackgroundBeforePersonalResponses": true,
+    "neuroscienceAfterGeneralStateBeforeOwnExperience": true,
+    "technicalConstraintsStillAfterOwnEpisode": true,
+    "diagramStillAfterConclusion": true,
+    "allBackgroundsReturnTo02": true
+  },
+  "originalExternalURLCount": 12,
+  "scope": {
+    "coreRewritten": false,
+    "parentAIHubEdited": false,
+    "originalPageIdsReusedForFrontierAndCurrentAI": true,
+    "newPages": 2,
+    "existingPagesDeleted": 0,
+    "newExternalResearch": false
+  },
+  "renderInspection": false
+}
