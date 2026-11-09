@@ -1,0 +1,40 @@
+{
+  "parent_previous_content_before_ai_preserved": true,
+  "parent_previous_content_after_ai_preserved": true,
+  "parent_ai_toggle_replaced_by_one_child_page": true,
+  "main_no_toggle_or_mermaid": true,
+  "main_images_saved": true,
+  "details_adjacent_to_corresponding_chapters": true,
+  "hardware_page_adjacent_to_research_difficulty": true,
+  "previous_external_sources_retained": true,
+  "external_source_count": 9,
+  "missing_previous_external_urls": [],
+  "all_new_pages_readback": true,
+  "linked_company_analysis": true,
+  "analysis_hub_links_new_main": true,
+  "no_china_policy_sources": true,
+  "date": "2026-11-09",
+  "notion_main": "https://app.notion.com/p/413161f280978152bbaac99b57a18506",
+  "parent_it_and_db_preservation": "Exact text before and after old AI section retained",
+  "hub_body_after_navigation_unchanged": true,
+  "hardware_personal_experience_limited_to_measurement": true,
+  "all_pages": {
+    "self": "https://app.notion.com/p/335161f28097805a992dc29557c46da4",
+    "main": "https://app.notion.com/p/413161f280978152bbaac99b57a18506",
+    "details": [
+      "https://app.notion.com/p/413161f28097815ab06de4baac7b542d",
+      "https://app.notion.com/p/413161f2809781178c78d5bd39ed5a40",
+      "https://app.notion.com/p/413161f28097814e975df402441914e1"
+    ],
+    "hardware": "https://app.notion.com/p/413161f2809781b08780e08566bdeb57",
+    "company_analysis": "https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381"
+  },
+  "image_references": [
+    "notion-file-block://7be55826-2ec6-4742-b16e-c0de72dd9120/825945e3-d46c-493e-b18e-0ae4dd2d0210?space_id=940161f2-8097-8172-9cae-0003eed707a4&name=value-bridge.png",
+    "notion-file-block://e839df43-b8e4-413e-b2d0-4568a7721025/67485f20-06e6-49ee-b1ac-1807f2bfe259?space_id=940161f2-8097-8172-9cae-0003eed707a4&name=ai-interest-journey.png"
+  ],
+  "image_visual_qa": "Both generated PNG files inspected with view_image; text and illustration layout checked",
+  "notion_render_qa": "Page markup and stable uploaded image refs read back; whole Notion page screenshot not inspected",
+  "independent_content_review": "Core narrative, personal experiences, supplementary hypotheses and uncertain items retained; measurement/intervention overstatement corrected",
+  "source_url_policy": "Previous nine external source URLs preserved near associated explanations; Chinese policy excluded"
+}

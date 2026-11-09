@@ -23,7 +23,7 @@
 
 AIへの関心は、脳科学からの広がり、研究で解明の難しさを経験した視点から感じるAIの進歩への感銘、自らAIを研究へ活用した実感に根差す。脳科学全体の停滞や、ハードウェアが最大の原因という主張にはしない。今後の研究継続や、第二の説明案との比較は未確定。
 
-[Notion自己分析](https://app.notion.com/p/335161f28097805a992dc29557c46da4)のAI側トグルに主線・図・詳細・出典を整理し、[企業分析](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)へ接続した。「なぜこの仕事か」と、05・06の「なぜその環境か」を分ける。[現在の骨子](research/2026-11-09-ai-support-self-analysis/README.md)／[議論・操作](logs/2026-11-09-ai-support-self-analysis.md)。個別ES・応募先の確定ではない。
+[AI導入支援を志望する理由](https://app.notion.com/p/413161f280978152bbaac99b57a18506)の専用主ページに独自イラストと主線を置き、各章の直後の子ページへ経験・出典を分けた。同日、本人の修正依頼で初版のトグル構成から移行した。[親の自己分析](https://app.notion.com/p/335161f28097805a992dc29557c46da4)と[企業分析](https://app.notion.com/p/40f161f280978009a9a0f7ba92ea2381)から接続する。「なぜこの仕事か」と、05・06の「なぜその環境か」を分ける。[現在の骨子](research/2026-11-09-ai-support-self-analysis/README.md)／[構造・内容監査](research/2026-11-09-ai-support-self-analysis/DESIGN-V2.md)／[議論・操作](logs/2026-11-09-ai-support-self-analysis.md)。個別ES・応募先の確定ではない。
 
 ## 現行のAI側方針：二つの理想企業像（2026-11-08確定・実装）
 
