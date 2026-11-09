@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-09",
+  "target": "https://app.notion.com/p/413161f2809781178c78d5bd39ed5a40",
+  "pages": {
+    "main": "https://app.notion.com/p/413161f280978152bbaac99b57a18506",
+    "frontierAndNeuroAI": "https://app.notion.com/p/413161f280978173bfe6fe368f0d3541",
+    "currentBackground": "https://app.notion.com/p/413161f2809781bdbfbfd3fe9eb2a312",
+    "researchConstraints": "https://app.notion.com/p/413161f2809781b08780e08566bdeb57"
+  },
+  "checks": {
+    "parentBefore02Including01Unchanged": true,
+    "parent03AndLaterUnchanged": true,
+    "parentChildPageTagsRetained": true,
+    "section2Order": true,
+    "generalBackgroundBeforePersonalResponses": true,
+    "section3GeneralThenPersonal": true,
+    "researchProgressAndUseDistinguished": true,
+    "userPreferredResearchPhrase": true,
+    "firstConferenceNoiseEpisode": true,
+    "conclusionAfterSection4": true,
+    "threeChildPagesRetained": true,
+    "source2NearSection2": true,
+    "constraintsNearSection3": true,
+    "sourceURLsRetainedAcrossLayers": true,
+    "noInventedUseOutcome": true,
+    "chronologicalCaveatInSources": true,
+    "supplementalEvidenceRetained": true,
+    "fullDiagramSaved": true,
+    "parentCompactDiagramSaved": true,
+    "fourColorsSaved": true,
+    "fullDiagramAfterConclusion": true,
+    "finalSavedBodyMatchesIntended": true
+  },
+  "originalExternalURLCount": 7,
+  "localDiagramsVisuallyInspected": true,
+  "notionWholePageScreenshotInspected": false,
+  "imagePlacementCorrection": "Initial file-upload image appeared after common background; moved its saved stable reference after final conclusion and read back.",
+  "newSourcesVerified": [
+    "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+    "https://www.nimh.nih.gov/about/strategic-planning-reports/goals/goal-1-define-the-brain-mechanisms-underlying-complex-behaviors",
+    "https://openai.com/index/chatgpt/"
+  ],
+  "sourceCheckLimits": [
+    "Zador 2023 PMC returned a challenge page and Nature returned a redirect error during this run; prior source record retained."
+  ]
+}
