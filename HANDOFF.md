@@ -2,6 +2,8 @@
 
 更新：2026年11月9日。本人がAI導入支援の自己分析は一旦完了と判断。Notionの主線・企業分析への接続とGitHub記録を点検済み。
 
+**企業DBの最新更新**：[11/9の指示・操作・読み戻し](logs/2026-11-09-company-db-mckinsey-bain-followup.md)。[Notion「コンサル」表](https://app.notion.com/p/32d161f28097806e868de3a30cc28441)でMcKinsey Tech & AI、BCG X、ADL、グロービングをレベル5にし、NRI・NTTデータ・IBMをレベル4へ。McKinsey/BCGは既存行、ADL/グロービングは新規行。「志望するコース」を併記し、既存行の選考進捗とマイページ情報の不変を読み戻し確認。[06](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)は本人の指定どおり変更していない。McKinseyの未経験28卒資格とADL冬公募は未確認。Bainは新規応募可能な別本選考を公開確認できず、DB行は変更していない。
+
 **完了判断と監査**：[監査結果](research/2026-11-09-ai-support-self-analysis/COMPLETION-AUDIT.md)／[読み取り・リンク確認](research/2026-11-09-ai-support-self-analysis/completion-audit-verification.json)。主要18ページ・接続12件を照合し、自己分析01・02→03で志望理由→企業分析03志向×04外部見解→05二条件→06比較という主線を確認。今回はNotionを変更せず、本人の手修正を保持。技術的補足のCST/TMS史と網様体脊髄路の評価手段には留保あり。企業別ES・応募判断は別段階で、自己分析の未完了課題とはしない。
 
 **自己分析の配置追補**：本人の指定により、IT側も[専用ページ](https://app.notion.com/p/413161f280978137b783de3510325bee)へ本文・図・添付をそのまま移行。[親の自己分析](https://app.notion.com/p/335161f28097805a992dc29557c46da4)にITとAIが別ページとして並ぶ。AI側の原資料リンクも移行先へ更新した。[内容保持の確認](logs/2026-11-09-it-self-analysis-page-migration.md)。
@@ -41,7 +43,7 @@
 
 ## 本人の暫定志望度と採用情報
 
-**11/9の企業DB更新相談・募集追補**：[調査ログ](logs/2026-11-09-company-db-mckinsey-bain-followup.md)。本人はAI導入支援の注目企業を「コンサル」DBへ反映したい。McKinsey・BCGは専門職応募を想定し、ADL・グロービングも挙げた。DBにはMcKinsey・BCG・Bainが既にレベル1/希望コース空欄で存在し、ADL・グロービングは検索範囲で未登録。「志望するコース」列はあるが独立した職種列はない。**今回は調査を先に実施し、DBは未編集**。McKinsey BA–Tech & AI 113784の3年未満は経験上限の表記だが、未経験28卒院生の対象性は未確認。Bain国内28冬インターン10/7締切後に本採用面接が続くが、別の一般応募回は公開確認できず、追加募集の有無は未確認。本人の志望度をどのレベルへ反映するか・希望コースの正式名称を次に整理する。
+**11/9の企業DB更新前の募集調査**：[調査ログ](logs/2026-11-09-company-db-mckinsey-bain-followup.md)。McKinsey BA–Tech & AI 113784の3年未満は経験上限の表記だが、未経験28卒院生の対象性は未確認。Bain国内28冬インターン10/7締切後に参加者の本採用面接が続くが、別の一般応募回は公開確認できず、追加募集の有無は未確認。本人の後続指示でDBを更新した結果は冒頭を参照。
 
 11/9本人評価：**A最上位＝デロイト・McKinsey、B高い＝他Big4・BCG・Bain、Cその他/比較継続＝アビーム・IBM・Globe、D慎重＝IGPI本体**。DIは当初Dだったが、追加発言で評価引上げを再検討中。戦略担当の若手とT&Aの生成AI MVP協働等から、積極比較へ上げる材料ありとCodexは判断するが、本人の新段階は未確定。ADLは再調査で二条件に適合すると判断し、本人の許可に従い主一覧へ追加。本人の今回の指定で志望度は再評価中。同段階内の順位・最終応募判断とは別。
 
@@ -62,6 +64,6 @@
 
 ## 他ツール・履歴
 
-Notion編集の範囲・リンク保持・赤緑注記・画像・全子ページ到達の確認は監査verificationへ。共有Sheetの11/6版は未更新。企業DBの志望度・選考状態、メール、カレンダー、応募は未変更。二本のルートのうちITはNRI/NTTデータ/IBM等の従来方針を維持。AIの純SIer職除外、技術選択の柔軟性、DS加点も維持。毎日就活運用は再開しない。
+06制作時のNotion編集の範囲・リンク保持・赤緑注記・画像・全子ページ到達の確認は監査verificationへ。共有Sheetの11/6版は未更新。企業DBの志望度は上記の後続指示で変更したが、選考状態、メール、カレンダー、応募は未変更。二本のルートのうちITはNRI/NTTデータ/IBM等の従来方針を維持。AIの純SIer職除外、技術選択の柔軟性、DS加点も維持。毎日就活運用は再開しない。
 
 [同日操作ログ](logs/2026-11-08-notion-restructure-plan.md)／[議論ログ](logs/2026-11-08-ai-transformation-scope-and-governance.md)／[記事15社44資料](research/2026-11-07-ai-transformation-views/README.md)／[IDC](research/2026-11-08-idc-worldwide-ai-services.md)。今回も関連ファイルだけコミット・pushしremote確認する。

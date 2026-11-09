@@ -1,12 +1,12 @@
 # 企業DB更新の相談とMcKinsey・Bain募集確認
 
-確認日：2026年11月9日（JST）。[Notion「コンサル」企業DB](https://app.notion.com/p/32d161f28097806e868de3a30cc28441)と両社の公式採用情報を読み直した。今回、Notionの行・志望度・選考状態は変更していない。
+確認日：2026年11月9日（JST）。[Notion「コンサル」企業DB](https://app.notion.com/p/32d161f28097806e868de3a30cc28441)と両社の公式採用情報を読み直した。先行する調査時点ではNotionを変更せず、後続の本人指示により同日、下記の対象行を更新した。
 
 ## 本人の希望と表の現状
 
 - AI導入支援で注目した企業を企業DBに反映したい。既存の会社は重複追加しない。McKinseyとBCGは一般ビジネスコンサルではなく専門職への応募を想定。ADLとグロービングも候補に挙げた。具体的な志望度の段階は今回まだ指定していない。
-- DBには「企業名」「志望度」「志望するコース」があり、独立した「職種」列はない。SQLで確認した既存行はMcKinsey、BCG、Bainがいずれもレベル1、希望コース空欄。ADLとグロービングは企業名の表記ゆれも含め検索した範囲で見当たらない。これらの現行値は[AI導入支援06の暫定評価](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)へまだ連動していない。
-- 会社の新規追加、既存行の評価変更、希望コースの記入は調査結果を本人と確認してから扱う。以前のレベル5の8社は保持する。
+- DBには「企業名」「志望度」「志望するコース」があり、独立した「職種」列はない。更新前のSQLで確認した既存行はMcKinsey、BCG、Bainがいずれもレベル1、希望コース空欄。ADLとグロービングは企業名の表記ゆれも含め検索した範囲で見当たらなかった。この時点のDB値は[AI導入支援06の暫定評価](https://app.notion.com/p/410161f280978090a555d5f5eb53fd70)へ連動していなかった。
+- この時点では会社の新規追加、既存行の評価変更、希望コースの記入を保留した。後続指示で対象とレベルが確定し、下記の更新を実施した。
 
 ## McKinsey：BA - Tech & AI 113784
 
@@ -24,6 +24,18 @@
 
 結論：**現時点で国内28卒の新規応募可能な別本選考は確認できない**。追加回の有無は未発表・未確認であり、「28卒採用が完全終了」とも断定しない。MyPage内の案内は未確認。
 
-## 次の論点
+## 後続指示とNotion反映
 
-本人がDBの志望度をどのレベルへ反映するか、McKinsey/BCGの「志望するコース」欄をどの正式職種名で埋めるかを確定する。Bainは本人の今回の追加指定には入っていないが、既存レベル1と06のB評価の差をどう扱うか確認する。ADLとグロービングは重複を再確認してから追加する。募集状態は志望度と分ける。
+本人はMcKinsey Tech & AIを候補に残し、BCG XのData Scientist／AI Engineerは二択のまま、ADL・グロービングを加えた4社を**レベル5**に指定。NRI・NTTデータ・IBMは**レベル4**へ下げるよう指定した。06の比較内容、インターン/本選考の進捗、マイページ情報は変更しない。Bainは「無理そうかも」との所感で、DB変更の対象指定はなかった。
+
+| 対象 | 操作 | 志望するコースの記入 |
+| --- | --- | --- |
+| [McKinsey](https://app.notion.com/p/332161f280978052857cf7d62072cf10) | 既存レベル1→5 | Business Analyst – Tech & AI |
+| [BCG](https://app.notion.com/p/331161f2809780d2a529c85a4e2b4edb) | 既存レベル1→5 | BCG X：Data Scientist／AI Engineer（選択検討中） |
+| [ADL](https://app.notion.com/p/413161f2809781b0a708f30345f50e63) | 新規、レベル5、種類「戦略」 | 東京オフィス新卒採用（AI・デジタル領域志望） |
+| [グロービング](https://app.notion.com/p/413161f280978144a5f4e9e06243aca3) | 新規、レベル5、種類「戦略」 | 国内新卒：戦略コンサルタント／AIコンサルタント・デジタルコンサルタント（選択検討中） |
+| [NRI](https://app.notion.com/p/331161f2809780e48c72f3f43e1d8156)、[NTTデータ](https://app.notion.com/p/3c6161f280978067b2aecf4c5500646c)、[IBM](https://app.notion.com/p/3a9161f280978096898af6261cc314cd) | 各既存レベル5→4 | 既存値を保持 |
+
+対象7行の企業名・志望度・希望コースを読み戻した。既存更新5行について選考進捗・マイページ情報を更新前後で照合し、一致した。Bainはレベル1のまま。06ページは操作しなかった。追加の全DB集計はNotionのQuery Data Source利用上限に達して実行できなかったが、指定行の読み戻しは完了している。
+
+**根拠と留保**：[McKinsey個別求人](https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-techai-113784)、[BCG XのDS](https://careers.bcg.com/jp/ja/job/58408/Data-Scientist-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan)／[AI Engineer](https://careers.bcg.com/jp/ja/job/59586/AI-Engineer-%E6%96%B0%E5%8D%92-New-Graduate-2028-BCG-X-Japan)、[ADL東京採用](https://www.adlittle.com/jp-ja/apply)、[グロービング国内新卒要項](https://globe-ing-recruit.snar.jp/jobboard/detail.aspx?id=Z5bZ6XgZjSU)。McKinseyの未経験28卒資格は未確認。ADLの28卒夏募集は終了し、冬の正式実施・日程・受付は未確認。「志望するコース」は志向・検討中の選択肢を記し、専門配属の保証ではない。06の時点付き暫定評価は本人の指定で保持し、今回の企業DB評価へ自動同期しない。
