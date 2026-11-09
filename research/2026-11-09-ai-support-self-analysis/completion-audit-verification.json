@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-09",
+  "scope": "AI自己分析の完了判断、企業分析への主線・リンク、GitHub記録の照合",
+  "notionPages": {
+    "selfHub": {
+      "id": "335161f28097805a992dc29557c46da4",
+      "title": "🧑‍💻 自己分析"
+    },
+    "selfMain": {
+      "id": "413161f280978152bbaac99b57a18506",
+      "title": "🧭 AI導入支援を志望する理由"
+    },
+    "self01": {
+      "id": "413161f28097815ab06de4baac7b542d",
+      "title": "📖 01｜知を活用する仕事を選んだ理由"
+    },
+    "self02": {
+      "id": "413161f2809781178c78d5bd39ed5a40",
+      "title": "🧠 02｜脳科学からAIへ、関心が深まった経緯"
+    },
+    "self03": {
+      "id": "413161f28097814e975df402441914e1",
+      "title": "🧭 03｜職業としての選択と、これからの問い"
+    },
+    "companyHub": {
+      "id": "40f161f280978009a9a0f7ba92ea2381",
+      "title": "🧭 AI導入支援｜業界理解から志望先選定へ"
+    },
+    "terms": {
+      "id": "412161f2809781a3bb42f325f75b2019",
+      "title": "📘 00｜用語と読み方"
+    },
+    "pref": {
+      "id": "412161f280978190a584ee4379f61ec1",
+      "title": "👤 03｜自分の志向"
+    },
+    "future": {
+      "id": "412161f28097817cb32de6b7da86fb74",
+      "title": "🔭 04｜今後求められるAI導入支援"
+    },
+    "criteria": {
+      "id": "412161f280978182bbcbcf0f5ee9f025",
+      "title": "🎯 05｜目指す支援像と志望先の条件"
+    },
+    "selection": {
+      "id": "410161f280978090a555d5f5eb53fd70",
+      "title": "🔎 06｜企業・部門・職種の比較と選定"
+    },
+    "front": {
+      "id": "413161f280978173bfe6fe368f0d3541",
+      "title": "📚 背景資料｜先端・フロンティア領域としての位置付け"
+    },
+    "contact": {
+      "id": "413161f28097816ba5e6c6c6711432ad",
+      "title": "🔗 背景資料｜Qiaでの経験と、脳科学・AIの接点"
+    },
+    "now": {
+      "id": "413161f2809781bdbfbfd3fe9eb2a312",
+      "title": "🔎 背景資料｜現在のAIの進展と社会への広がり"
+    },
+    "neuro": {
+      "id": "413161f280978198a4d9ff53d48dbfbc",
+      "title": "🧠 背景資料｜脳科学研究に残る課題"
+    },
+    "constraints": {
+      "id": "413161f2809781b08780e08566bdeb57",
+      "title": "🔬 補足｜脳科学研究ならではの制約と、研究の進みにくさ"
+    },
+    "structure": {
+      "id": "412161f2809781b69958c04be397d445",
+      "title": "🧭 01｜コンサル業界の構造"
+    },
+    "present": {
+      "id": "412161f2809781e4a1fada29734b8331",
+      "title": "🔧 02｜AI導入支援の現状"
+    }
+  },
+  "links": {
+    "selfHubToSelfMain": true,
+    "selfMainToCompanyHub": true,
+    "selfMainToCriteria": true,
+    "selfMainToSelection": true,
+    "companyHubBackToSelfMain": true,
+    "self03ToPreferences": true,
+    "self03ToCriteria": true,
+    "self03ToSelection": true,
+    "preferencesToCriteria": true,
+    "futureToCriteria": true,
+    "criteriaToSelection": true,
+    "selectionBackToCriteria": true
+  },
+  "findings": {
+    "centralStoryCoherent": true,
+    "mainMotivationCompleteAsUserDecision": true,
+    "technicalSupplementRequiresQualifications": true,
+    "quantifiedAIUseExamplesOptionalForFutureES": true,
+    "noFinalApplicationDecisionInferred": true
+  },
+  "notionMutated": false,
+  "newHiringResearch": false,
+  "externalSpotCheck": [
+    {
+      "source": "https://journals.physiology.org/doi/10.1152/jn.00158.2019",
+      "finding": "Noninvasive indirect assessment of putative tecto-reticulospinal excitability is proposed; an absence of all noninvasive approaches is not supported."
+    },
+    {
+      "source": "https://www.nature.com/articles/285227a0",
+      "finding": "1980 human cortical electrical stimulation predates 1985 TMS; the blanket assertion of no prior functional knowledge should not be used."
+    }
+  ],
+  "limits": [
+    "Not an exhaustive new verification of every company, article, or recruitment listing.",
+    "Technical supplement was manually revised after prior safeguards; current statements were preserved and flagged.",
+    "Notion rendering was not inspected in a full-page screenshot."
+  ]
+}
