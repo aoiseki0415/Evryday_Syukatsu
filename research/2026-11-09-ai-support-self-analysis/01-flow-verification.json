@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-09",
+  "scope": {
+    "mainPage": "https://app.notion.com/p/413161f280978152bbaac99b57a18506",
+    "detail01": "https://app.notion.com/p/413161f28097815ab06de4baac7b542d"
+  },
+  "checks": {
+    "mainBefore01Unchanged": true,
+    "main02AndLaterUnchanged": true,
+    "detailSections1to3Retained": true,
+    "detailSupplementAndSourcesRetained": true,
+    "clientProblemSupportAndAcceleratedValue": true,
+    "paletteBothPages": true,
+    "mainChildPagesRetained": true,
+    "mainOneNewDiagram": true,
+    "detailOneNewDiagram": true,
+    "previous01DiagramReplaced": true,
+    "retainedValueSharingConcern": true,
+    "retainedITSource": true
+  },
+  "imageFileInspected": true,
+  "notionFullPageRenderInspected": false,
+  "otherPagesMutated": false
+}
