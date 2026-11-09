@@ -1,0 +1,20 @@
+{
+  "original_other_content_before_unchanged": true,
+  "original_other_content_after_unchanged": true,
+  "old_ai_empty_toggle_removed": true,
+  "new_story_title_present": true,
+  "detailed_toggles_count": 6,
+  "sources_present": true,
+  "enterprise_links_present": true,
+  "chinese_policy_excluded": true,
+  "unsupported_ai_transformation_name_absent": true,
+  "hub_reciprocal_link": true,
+  "hub_existing_body_and_child_pages_unchanged": true,
+  "hub_specific_toggle_instruction_present": true,
+  "notion_self_page_id": "335161f2-8097-805a-992d-c29557c46da4",
+  "notion_hub_page_id": "40f161f2-8097-8009-a9a0-f7ba92ea2381",
+  "verified_on": "2026-11-09",
+  "verification_method": "Notion fetch readback and exact comparison outside the targeted AI toggle / prepended hub callout",
+  "render_verification": "Saved Mermaid, color, column, table and toggle markup read back; independent rendered screenshot not checked",
+  "git_base_before_work": "ce30ee31d4a139ac1a4606e84c40a7eee0debee6"
+}
