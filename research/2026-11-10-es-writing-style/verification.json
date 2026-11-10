@@ -1,0 +1,73 @@
+{
+  "checked_on": "2026-11-10",
+  "scope": "ES writing-style documentation; Notion read only; no new application answer or career-strategy change",
+  "artifact_checks": {
+    "passed": 25,
+    "failed": 0,
+    "checks": {
+      "summary_counts_match_arrays": true,
+      "company_category_counts": true,
+      "company_page_ids_unique": true,
+      "record_page_ids_unique": true,
+      "record_ids_sequential": true,
+      "record_kinds_match": true,
+      "all_returned_texts_reviewed": true,
+      "all_views_complete_and_unfiltered": true,
+      "table_record_counts_sum": true,
+      "table_collections_unique": true,
+      "company_tables_match_inventory": true,
+      "all_records_resolve_to_companies": true,
+      "all_tables_resolve_to_companies": true,
+      "per_company_record_counts": true,
+      "duplicate_references_are_earlier_canonical_records": true,
+      "canonical_and_duplicate_counts": true,
+      "canonical_prose_count": true,
+      "source_index_rows_match_manifest": true,
+      "guide_evidence_ids_exist": true,
+      "local_markdown_links_resolve": true,
+      "coverage_records_have_only_public_fields": true,
+      "coverage_companies_have_only_public_fields": true,
+      "coverage_tables_have_only_public_fields": true,
+      "no_signed_urls_credentials_emails_or_body_fields": true,
+      "git_diff_check": true
+    },
+    "method": "Python check of coverage.json, source index rows, relative links, public-field allowlists, selected sensitive string patterns and git diff --check"
+  },
+  "source_reconciliation": {
+    "raw_records": 79,
+    "raw_unique_urls": 79,
+    "raw_groups": 57,
+    "stored_groups_match": true,
+    "public_duplicate_mapping_matches_raw": true,
+    "public_urls_match_raw": true,
+    "all_fetches_succeeded": true,
+    "public_record_kind_counts": {
+      "es_answer": 70,
+      "web_test_note": 4,
+      "answer_not_recorded": 1,
+      "interview_prepared_answer": 2,
+      "empty": 2
+    },
+    "all_text_read": true,
+    "all_view_complete": true
+  },
+  "original_text_copy_check": {
+    "checked_records": 79,
+    "minimum_characters": 80,
+    "exact_long_paragraph_copies_found": 0,
+    "method": "Compare whitespace-normalized source paragraphs with markup removed, at least 80 characters, against new Markdown documents. Short generic language and abstract constructions are retained; this is not an exhaustive semantic disclosure detector."
+  },
+  "privacy_review": "Manual review of new documentation and diffs: source links, company/record labels, abstract style rules only; no detailed ES answer, private selection message, employer prompt image or company access properties copied.",
+  "git": {
+    "branch": "main",
+    "expected_origin": "https://github.com/aoiseki0415/Evryday_Syukatsu.git",
+    "preexisting_untracked_file": ".DS_Store (untouched)",
+    "remote_verification": "Performed after commit and push; SHA and result reported in final chat, outside this pre-commit artifact."
+  },
+  "limitations": [
+    "Coverage is limited to accessible live Notion company pages and returned ES rows.",
+    "Notion submission status is not independent evidence of external submission.",
+    "Qualitative writing-style analysis; not a statistical authorship model.",
+    "Authorship/edit history and all scientific or employer claims inside old ES were not independently audited."
+  ]
+}
