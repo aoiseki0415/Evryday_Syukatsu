@@ -1,0 +1,1276 @@
+{
+  "as_of": "2026-11-15",
+  "scope": "既存26企業ページの理想②に追記。個別ページのない35名義の新規作成なし。",
+  "method_ref": "README.md#評価方法",
+  "companies": [
+    {
+      "company": "デロイト",
+      "page_id": "410161f28097810db713f7be6a311ea3",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "採用情報にAI&D・データサイエンス・データエンジニアリング・FDEの専門職務があり、日本語で自社RAG開発の技術課題と対応も説明する。専門体制と実装知見の公開が厚い。",
+      "quantity_reason": "採用情報にAI&D・データサイエンス・データエンジニアリング・FDEの専門職務があり、日本語で自社RAG開発の技術課題と対応も説明する。専門体制と実装知見の公開が厚い。",
+      "quality_reason": "採用情報にAI&D・データサイエンス・データエンジニアリング・FDEの専門職務があり、日本語で自社RAG開発の技術課題と対応も説明する。専門体制と実装知見の公開が厚い。",
+      "japan": "日本のコンサルティング事業の採用本文、自社RAG開発、国内FDE活用方針を日本語で確認。",
+      "limitations": "DSの正式名称はDeployment Strategist。求人・体制方針と、個人の配属／全案件での実装担当を区別する。",
+      "sources": [
+        {
+          "title": "合同会社デロイト トーマツ／コンサルティング 採用情報",
+          "url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting.html",
+          "language": "日本語",
+          "scope": "日本のコンサルティング採用・職務紹介。個人の配属確約ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "多機能RAGアプリを開発（2024年7月8日）",
+          "url": "https://www.deloitte.com/jp/ja/about/press-room/nr20240708.html",
+          "language": "日本語",
+          "scope": "日本法人の自社開発・サービス活用の発表。顧客別の本番稼働を列挙した記事ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "FDE人材の活用を本格化（2026年4月30日）",
+          "url": "https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html",
+          "language": "日本語",
+          "scope": "国内体制整備・育成等を表明した発表。2026年6月設置予定という発表時点の記述を実施確認に置き換えない。",
+          "access": "本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "AI&DをAI・データ基盤等の専門集団と説明。戦略立案コンサル、データサイエンティスト、データエンジニアが協働し、戦略から実装・保守まで支援。AutoML/MLOpsも掲示。",
+          "source_url": "https://www.deloitte.com/jp/ja/careers/deloitte-tohmatsu-consulting.html"
+        },
+        {
+          "text": "当時のデロイト トーマツ コンサルティングが多機能RAGを開発。検索精度、図表などのマルチモーダル、独自用語、複合質問への対応を説明。クライアントサービスに活用すると記載。",
+          "source_url": "https://www.deloitte.com/jp/ja/about/press-room/nr20240708.html"
+        },
+        {
+          "text": "DS（Deployment Strategist）とFDEの協働を説明。FDEにフロントエンド・バックエンド・インフラにわたるAIシステム／データ連携の設計・実装を求める。",
+          "source_url": "https://www.deloitte.com/jp/ja/about/press-room/nr20260430.html"
+        }
+      ]
+    },
+    {
+      "company": "PwCコンサルティング",
+      "page_id": "410161f28097818ca3dccf7f97240fc7",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "Technology Laboratoryの専門家・独自開発に加え、生成AI連載でRAGの構成・データ処理・閉域接続を日本語で説明。技術を実装する知見を確認できる。",
+      "quantity_reason": "Technology Laboratoryの専門家・独自開発に加え、生成AI連載でRAGの構成・データ処理・閉域接続を日本語で説明。技術を実装する知見を確認できる。",
+      "quality_reason": "Technology Laboratoryの専門家・独自開発に加え、生成AI連載でRAGの構成・データ処理・閉域接続を日本語で説明。技術を実装する知見を確認できる。",
+      "japan": "日本のPwCコンサルティング採用内のラボ紹介と、同法人が開発した社内RAGの日本語技術記事がある。",
+      "limitations": "グループの別法人や海外組織へ技術を一律に帰属させない。RAG記事の開発実績は社内用途。",
+      "sources": [
+        {
+          "title": "Technology Laboratory｜PwCコンサルティング採用",
+          "url": "https://www.pwc.com/jp/ja/careers/consulting/mid-career/department/tc-et.html",
+          "language": "日本語",
+          "scope": "日本のPwCコンサルティング。基盤モデルの基礎研究所と断定しない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "社内データの活用を高度化するRAGシステムの設計と実装（2026年4月24日）",
+          "url": "https://www.pwc.com/jp/ja/knowledge/column/generative-ai/vol16.html",
+          "language": "日本語",
+          "scope": "PwCコンサルティング開発の社内システム。顧客導入事例ではなく、今後の機能予定も含む。",
+          "access": "本文確認"
+        },
+        {
+          "title": "Technology Laboratory",
+          "url": "https://www.pwc.com/jp/ja/technology-laboratory.html",
+          "language": "日本語",
+          "scope": "国内ラボ紹介。採用先の個別職務との接続は別確認。",
+          "access": "本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "ロボット、XR、IoT、脳科学、量子などの領域の専門家を紹介。独自ソリューション開発を踏まえ、事業構想・開発・伴走を行うと説明。",
+          "source_url": "https://www.pwc.com/jp/ja/careers/consulting/mid-career/department/tc-et.html"
+        },
+        {
+          "text": "生成AI連載第16回。自社Knowledge Fusion Platformの構成、IaC、閉域接続、WAF、ベクトルDB、データ処理とアプリの流れを説明。",
+          "source_url": "https://www.pwc.com/jp/ja/knowledge/column/generative-ai/vol16.html"
+        },
+        {
+          "text": "テクノロジーラボの専門領域を日本語で紹介する公式ページがある。",
+          "source_url": "https://www.pwc.com/jp/ja/technology-laboratory.html"
+        }
+      ]
+    },
+    {
+      "company": "EYストラテジー・アンド・コンサルティング（EYSC）",
+      "page_id": "410161f28097818d833cf0e8c4e87058",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "新卒採用からAI&データの専門組織と複数の案件を読める。業務理解から基盤開発・稼働までの役割は具体的だが、今回の主要資料はアルゴリズムや評価指標より案件工程の説明が中心。",
+      "quantity_reason": "新卒採用からAI&データの専門組織と複数の案件を読める。業務理解から基盤開発・稼働までの役割は具体的だが、今回の主要資料はアルゴリズムや評価指標より案件工程の説明が中心。",
+      "quality_reason": "新卒採用からAI&データの専門組織と複数の案件を読める。業務理解から基盤開発・稼働までの役割は具体的だが、今回の主要資料はアルゴリズムや評価指標より案件工程の説明が中心。",
+      "japan": "EYSCの日本語採用サイトで、国内AI&データの担当者と、製造業の基盤開発等の実際の仕事を確認。",
+      "limitations": "今回の確認では詳細なコードや数理的な性能比較までは評価していない。EYSCと他EY法人の研究組織を混同しない。",
+      "sources": [
+        {
+          "title": "テクノロジー：AI&データ｜新卒採用ユニット紹介",
+          "url": "https://www.eysc.jp/recruit/new_graduate/capabilities/tc/aid/",
+          "language": "日本語",
+          "scope": "日本のEYSCの採用紹介・案件説明。EY新日本監査法人のAIラボとは別。",
+          "access": "本文確認"
+        },
+        {
+          "title": "データ活用促進に向けた全社データ基盤構築支援",
+          "url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-15/",
+          "language": "日本語",
+          "scope": "顧客の製造業案件。顧客名・具体的なモデル性能は非公開。",
+          "access": "本文確認"
+        },
+        {
+          "title": "テクノロジーコンサルティングの事例一覧",
+          "url": "https://www.eysc.jp/recruit/new_graduate/capabilities/tc/tccase/",
+          "language": "日本語",
+          "scope": "掲載一覧。個々の案件の技術的深さは本文で別判定。",
+          "access": "本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "AI&データのリーダーが、データ基盤の構想から開発・運用までを説明。製造業IoT基盤で高速加工処理の開発、可視化、AI環境の構築を担当したと紹介。",
+          "source_url": "https://www.eysc.jp/recruit/new_graduate/capabilities/tc/aid/"
+        },
+        {
+          "text": "少人数のAI&データチームが、データ戦略から要件・設計・開発・テストを担当。モックで顧客と確認し、段階的な基盤拡張と稼働を行ったと説明。",
+          "source_url": "https://www.eysc.jp/recruit/capabilities/tc/tccase/offerings-15/"
+        },
+        {
+          "text": "新卒採用内に複数のTechnology案件の紹介を配置。",
+          "source_url": "https://www.eysc.jp/recruit/new_graduate/capabilities/tc/tccase/"
+        }
+      ]
+    },
+    {
+      "company": "KPMGコンサルティング",
+      "page_id": "410161f2809781e0a775d28b4fd3317b",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "DXA・Data&AIの専門チーム、複数の技術職務・日本語の顧客事例を確認。暗黙知の構造化とプロンプト設計・検証の進め方は具体的。主要事例の公開度は案件・職務中心と評価。",
+      "quantity_reason": "DXA・Data&AIの専門チーム、複数の技術職務・日本語の顧客事例を確認。暗黙知の構造化とプロンプト設計・検証の進め方は具体的。主要事例の公開度は案件・職務中心と評価。",
+      "quality_reason": "DXA・Data&AIの専門チーム、複数の技術職務・日本語の顧客事例を確認。暗黙知の構造化とプロンプト設計・検証の進め方は具体的。主要事例の公開度は案件・職務中心と評価。",
+      "japan": "国内DXAの日本語採用サイトで東京・大阪の職務と新卒社員を含む顧客案件を確認できる。",
+      "limitations": "職務で求める技術と、公開済み顧客成果は区別。顧客事例はコード・モデル性能などの細部までは非公開。",
+      "sources": [
+        {
+          "title": "DXA採用情報",
+          "url": "https://recruit.kpmg-consulting.jp/info/dxa",
+          "language": "日本語",
+          "scope": "日本のKPMGコンサルティング採用・サービス紹介。",
+          "access": "本文確認"
+        },
+        {
+          "title": "生成AIを活用した新規事業のアイデア評価支援",
+          "url": "https://recruit.kpmg-consulting.jp/work/technologyconsulting/case-study02",
+          "language": "日本語",
+          "scope": "日本の顧客案件の採用紹介。独立した基礎研究所ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "Data/AIソリューションアーキテクト",
+          "url": "https://recruit.kpmg-consulting.jp/job-description/13955",
+          "language": "日本語",
+          "scope": "キャリア採用の職務。新卒で同職務を担当できることや、記載全機能の納入実績を保証しない。",
+          "access": "本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "DX専門組織、生成AIタスクフォース、Data&AIを紹介。データ構成設計からAIモデルの設計・運用・評価、自社アセットやAIエージェント開発を掲示。関連技術解説へリンク。",
+          "source_url": "https://recruit.kpmg-consulting.jp/info/dxa"
+        },
+        {
+          "text": "DXAはR&D的役割も担うと説明。顧客技術者の思考過程を整理し、QFDやTRLの評価をAIで扱うためのプロンプト設計・検証を紹介。新卒入社者の参画も記載。",
+          "source_url": "https://recruit.kpmg-consulting.jp/work/technologyconsulting/case-study02"
+        },
+        {
+          "text": "RAG・LLM・AIエージェントの既存システム連携、自社ソリューション開発、モデル最適化、Web/API実装を職務として記載。勤務地は東京・大阪。",
+          "source_url": "https://recruit.kpmg-consulting.jp/job-description/13955"
+        }
+      ]
+    },
+    {
+      "company": "アビームコンサルティング",
+      "page_id": "412161f2809781e184c2f451f0e4a2bb",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "AI専門セクターとデータ基盤・AIサービス開発を国内採用サイトで説明。AIエージェントの技術記事は、役割分担、システム間連携、データ管理などの構成設計まで踏み込む。",
+      "quantity_reason": "AI専門セクターとデータ基盤・AIサービス開発を国内採用サイトで説明。AIエージェントの技術記事は、役割分担、システム間連携、データ管理などの構成設計まで踏み込む。",
+      "quality_reason": "AI専門セクターとデータ基盤・AIサービス開発を国内採用サイトで説明。AIエージェントの技術記事は、役割分担、システム間連携、データ管理などの構成設計まで踏み込む。",
+      "japan": "日本語採用にAI & Technology Modernization BUとArtificial Intelligence Leap Sectorを掲示。日本語の技術記事・国内顧客の事例への導線もある。",
+      "limitations": "質3は構成設計に踏み込む公開記事への評価。独自基盤モデルの研究成果や、全新卒の実装担当を示すものではない。",
+      "sources": [
+        {
+          "title": "AI & Technology Modernization Business Unit",
+          "url": "https://www.abeam.com/jp/ja/recruit/about/department/dt/",
+          "language": "日本語",
+          "scope": "日本の採用部門紹介。個人の配属確約ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "Artificial Intelligence Leap Sector",
+          "url": "https://www.abeam.com/jp/ja/recruit/about/department/dt/ail/",
+          "language": "日本語",
+          "scope": "専門組織とサービス内容。掲載顧客事例は人材育成等も含み、全部がAIモデル開発事例ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "AIエージェントの力を最大限に活用するためには？～企業が考えるべきアーキテクチャ～（2025年7月1日）",
+          "url": "https://www.abeam.com/jp/ja/insights/114/",
+          "language": "日本語",
+          "scope": "同社の技術的な提言・設計解説。記載の将来像が顧客で実装済みという意味ではない。",
+          "access": "本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "採用サイトに技術・AIを専門とするBUと配下セクターを紹介。",
+          "source_url": "https://www.abeam.com/jp/ja/recruit/about/department/dt/"
+        },
+        {
+          "text": "事業構想、分析、基盤構築、データ管理・ガバナンスからソリューション提供まで支援。AIソーシング基盤や新サービス開発、AIサービス設計・実装を説明。",
+          "source_url": "https://www.abeam.com/jp/ja/recruit/about/department/dt/ail/"
+        },
+        {
+          "text": "AIエージェントの階層的な役割分担、システム構成、データと組織知識、A2A/MCPなどの連携を解説。",
+          "source_url": "https://www.abeam.com/jp/ja/insights/114/"
+        }
+      ]
+    },
+    {
+      "company": "日本IBM",
+      "page_id": "412161f28097819ab39bc94f28f766db",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "日本の基礎研究所、研究職、AI導入支援を公式サイトから確認できる。研究プロジェクト・論文の公開が厚く、強化学習などの具体的研究領域まで示す。日本語の研究所説明もある。",
+      "quantity_reason": "日本の基礎研究所、研究職、AI導入支援を公式サイトから確認できる。研究プロジェクト・論文の公開が厚く、強化学習などの具体的研究領域まで示す。日本語の研究所説明もある。",
+      "quality_reason": "日本の基礎研究所、研究職、AI導入支援を公式サイトから確認できる。研究プロジェクト・論文の公開が厚く、強化学習などの具体的研究領域まで示す。日本語の研究所説明もある。",
+      "japan": "東京基礎研究所の日本語本文で国内顧客との協働やThink Lab Tokyoを説明。日本IBMのデリバリーチームとの接点は英語のAI in Tokyoに記載。研究の深い資料には英語も多い。",
+      "limitations": "研究所の技術を日本IBMコンサルティング職で直接担当できる保証ではない。国内組織の存在・日本語情報・希望職務は別々に確認する。",
+      "sources": [
+        {
+          "title": "日本｜IBM Research",
+          "url": "https://research.ibm.com/jp-ja/labs/japan",
+          "language": "日本語（一部英語）",
+          "scope": "日本の研究拠点。コンサルティング職そのものの配属先ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "AI in Tokyo",
+          "url": "https://research.ibm.com/projects/ai-in-tokyo",
+          "language": "英語",
+          "scope": "IBM Research–Tokyoの研究。個別研究はグローバル他研究所との共著・協働を含む。",
+          "access": "本文確認"
+        },
+        {
+          "title": "データおよびAIコンサルティング・サービス",
+          "url": "https://www.ibm.com/jp-ja/consulting/data-ai",
+          "language": "日本語",
+          "scope": "日本語のグローバルサービス紹介。ここに載る顧客事例をすべて国内案件としない。",
+          "access": "本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "東京基礎研究所のAI・クラウド・量子・半導体研究、日本の顧客との連携、Think Lab Tokyoでの研究者との共創を説明。",
+          "source_url": "https://research.ibm.com/jp-ja/labs/japan"
+        },
+        {
+          "text": "企業向けAI研究として自然言語・音声・AutoAI等を紹介。オフライン強化学習、方策評価、安全性、多主体意思決定などの研究と論文一覧を掲載。国内顧客・日本IBMのデリバリーとの接点も明記。",
+          "source_url": "https://research.ibm.com/projects/ai-in-tokyo"
+        },
+        {
+          "text": "AI戦略、AIソリューションの設計・構築・拡張、データ基盤、ガバナンスを説明し複数事例へリンク。",
+          "source_url": "https://www.ibm.com/jp-ja/consulting/data-ai"
+        }
+      ]
+    },
+    {
+      "company": "アクセンチュア",
+      "page_id": "410161f280978120b5c1f963596ed33e",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "日本語採用のAI/DS専門領域、LabsのAI開発事例、日本のAI事業体制を確認。海外Labs事例でもモデル学習・テスト、画像／動画処理などの中身を日本語で読める。",
+      "quantity_reason": "日本語採用のAI/DS専門領域、LabsのAI開発事例、日本のAI事業体制を確認。海外Labs事例でもモデル学習・テスト、画像／動画処理などの中身を日本語で読める。",
+      "quality_reason": "日本語採用のAI/DS専門領域、LabsのAI開発事例、日本のAI事業体制を確認。海外Labs事例でもモデル学習・テスト、画像／動画処理などの中身を日本語で読める。",
+      "japan": "日本語の技術・事例本文に加え、日本でのAnthropicビジネスグループ活動と国内向け支援を公式発表している。",
+      "limitations": "海外Labs研究と日本の職務を直結させない。以前のLabs求人R00294294_enは現在求人検索へリダイレクトされるため今回の根拠から外した。",
+      "sources": [
+        {
+          "title": "AI/データサイエンスの仕事と募集要項",
+          "url": "https://www.accenture.com/jp-ja/careers/explore-careers/area-of-interest/ai-data-science-careers",
+          "language": "日本語",
+          "scope": "日本語のグローバル職務・事例紹介。掲載の全案件が日本発ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "エアバス：よりスマートなものづくりのための共創",
+          "url": "https://www.accenture.com/ja/case-studies/technology/airbus",
+          "language": "日本語",
+          "scope": "海外顧客のPoC。日本のLabsや国内導入実績という意味ではない。",
+          "access": "本文確認（旧jp-ja URLから公式ja URLへリダイレクト）"
+        },
+        {
+          "title": "Anthropicとの日本での協業体制を強化（2026年5月11日）",
+          "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-anthropic-to-drive-enterprise-reinvention-with-ai-in-japan",
+          "language": "日本語",
+          "scope": "日本の事業体制・提供サービスの発表。これだけで個別顧客の完了実績を示さない。",
+          "access": "本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "AI/DSを採用専門領域として紹介し、画像・動画を用いたコンピュータービジョンの開発などの技術事例を掲載。",
+          "source_url": "https://www.accenture.com/jp-ja/careers/explore-careers/area-of-interest/ai-data-science-careers"
+        },
+        {
+          "text": "深圳のLabsとAirbus中国イノベーションセンターが協働したPoC。業界専門家とAI・画像認識の専門家が組み、モデル学習・テストと動画処理の改善を説明。",
+          "source_url": "https://www.accenture.com/ja/case-studies/technology/airbus"
+        },
+        {
+          "text": "日本でのAnthropicビジネスグループ活動の本格始動を発表。国内顧客向けにAI変革、AI駆動開発、基幹刷新、セキュリティを提供すると説明。",
+          "source_url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-anthropic-to-drive-enterprise-reinvention-with-ai-in-japan"
+        }
+      ]
+    },
+    {
+      "company": "野村総合研究所（NRI）",
+      "page_id": "410161f280978150a1eee42cd1410b4b",
+      "scope": "対象法人・研究組織を出典ごとに区別",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "AI/LLM研究開発の職務、AI専門サイト、atlax技術ブログを日本語で公開。RAG記事は評価データ、RAGAS、ログ構成、検索・回答別の改善まで説明する。",
+      "quantity_reason": "AI/LLM研究開発の職務、AI専門サイト、atlax技術ブログを日本語で公開。RAG記事は評価データ、RAGAS、ログ構成、検索・回答別の改善まで説明する。",
+      "quality_reason": "AI/LLM研究開発の職務、AI専門サイト、atlax技術ブログを日本語で公開。RAG記事は評価データ、RAGAS、ログ構成、検索・回答別の改善まで説明する。",
+      "japan": "国内採用のAI研究職、日本語のNRI技術者による開発知見、国内IT基盤サービスへの採用導線がある。",
+      "limitations": "NRI全体・IT部門の研究／技術力と、経営コンサル職からの接続を分ける。ブログに別グループ法人の内容も含まれるため記事単位で帰属を確認する。",
+      "sources": [
+        {
+          "title": "AI関連エンジニア・研究開発職の紹介",
+          "url": "https://career.nri.co.jp/blog/1636",
+          "language": "日本語",
+          "scope": "NRIのキャリア採用。経営コンサル職や新卒への配属確約ではない。",
+          "access": "本文確認"
+        },
+        {
+          "title": "atlaxブログ紹介・技術記事一覧",
+          "url": "https://atlax.nri.co.jp/blogs/",
+          "language": "日本語",
+          "scope": "NRIグループのIT基盤・クラウドの専門情報。経営コンサル部門の仕事と区別。",
+          "access": "本文確認"
+        },
+        {
+          "title": "RAGの真価を引き出す：生成AIチャットボット回答精度向上の実践的アプローチ",
+          "url": "https://atlaxblogs.nri.co.jp/entry/20240815",
+          "language": "日本語",
+          "scope": "NRI技術者の自社サービス用開発知見。具体的な国内顧客納入事例ではない。",
+          "access": "公式ブログ一覧から辿って本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "AI・LLM・ロボットの研究開発職を紹介。ビジネス現場と連携してLLM等のシステムを提案・構築する役割も説明。",
+          "source_url": "https://career.nri.co.jp/blog/1636"
+        },
+        {
+          "text": "AWS/Azure/Google Cloud/OCIや先進技術の記事が多数。RAG構築・回答精度向上・クラウド設計等の専門記事へ公式にリンク。",
+          "source_url": "https://atlax.nri.co.jp/blogs/"
+        },
+        {
+          "text": "自社サービスのヘルプデスク用RAG開発経験を基に、評価用データ、RAGAS/SageMaker、会話履歴、検索精度と生成品質の改善方法を解説。",
+          "source_url": "https://atlaxblogs.nri.co.jp/entry/20240815"
+        }
+      ]
+    },
+    {
+      "company": "三菱総合研究所",
+      "page_id": "410161f28097814288dbf1798fd5bd53",
+      "scope": "AI共創推進センター（ACC）にチェンジマネジメントと開発・PoCの二つの役割を紹介。",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "AI共創推進センター（ACC）にチェンジマネジメントと開発・PoCの二つの役割を紹介。 きんでんのRAG事例は前処理・構造化、専門用語辞書、現行検索との比較、複数LLMの検証、残る課題まで説明。",
+      "quantity_reason": "DX・AI専用サイトにコラム連載、サービス、複数の顧客事例、資料を継続掲載。件数の全数集計ではない。",
+      "quality_reason": "きんでんのRAG事例は前処理・構造化、専門用語辞書、現行検索との比較、複数LLMの検証、残る課題まで説明。",
+      "japan": "公式日本語の専門サイト・採用本文と国内顧客きんでんのPoC事例を確認。",
+      "limitations": "採用のACC例は社内案件。きんでんはPoC。掲載情報から新卒配属・本番導入完了は保証しない。",
+      "sources": [
+        {
+          "title": "AI共創推進センター 採用情報",
+          "url": "https://dx.mri.co.jp/recruit/",
+          "language": "ja",
+          "scope": "国内専門組織・社内案件",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "きんでんの生成AI・RAG PoC",
+          "url": "https://dx.mri.co.jp/cases/rag-generative-ai/",
+          "language": "ja",
+          "scope": "国内顧客PoC",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "三菱総合研究所のDX＆AI支援",
+          "url": "https://dx.mri.co.jp/",
+          "language": "ja",
+          "scope": "技術・サービス・事例集",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "採用サイトでACCの開発・PoCグループと社内の業務特化型AIエージェントの試作・検証を説明。これは三菱総研自身の社内活用の例。",
+          "source_url": "https://dx.mri.co.jp/recruit/"
+        },
+        {
+          "text": "きんでんの顧客事例では、技術文書へのRAG構築に際し、キーワード・トピック抽出、要約、専門用語登録、現行検索との比較を実施。2024年12月取材時点のPoCであり、全社本番稼働とは記さない。",
+          "source_url": "https://dx.mri.co.jp/cases/rag-generative-ai/"
+        },
+        {
+          "text": "DX・AIサイトに生成AI・AIガバナンス等の連載と複数の顧客事例・サービスを掲載。",
+          "source_url": "https://dx.mri.co.jp/"
+        }
+      ]
+    },
+    {
+      "company": "ローランド・ベルガー",
+      "page_id": "412161f28097814da656db1e87cb93d0",
+      "scope": "Analytics & Platform SolutionsでDS、データエンジニア、ソフトウェアエンジニアを紹介。",
+      "quantity": 2,
+      "quality": 3,
+      "japanese": "一部あり",
+      "assessment": "Analytics & Platform SolutionsでDS、データエンジニア、ソフトウェアエンジニアを紹介。 英語の顧客事例でNLPを用いた価格予測、バックテスト、モデル学習を説明。日本語記事もIT/OT接続、安全制御、受入試験や更新・ロールバックまで踏み込む。",
+      "quantity_reason": "AIのテーマ別発信とAnalytics & Platform Solutions、国内向けの技術・経営記事を複数確認。高度な実装事例は英語中心。",
+      "quality_reason": "英語の顧客事例でNLPを用いた価格予測、バックテスト、モデル学習を説明。日本語記事もIT/OT接続、安全制御、受入試験や更新・ロールバックまで踏み込む。",
+      "japan": "日本語のフィジカルAI記事に東京オフィスの執筆者と国内CxO調査を明記。ただしAnalytics & Platform Solutionsの掲載専門家は欧州。",
+      "limitations": "英語の技術チーム紹介と欧州等の匿名事例は、日本法人の専任組織・応募職務での担当を直接証明しない。日本語記事の設計論と、モデルを自ら実装した顧客成果も区別する。",
+      "sources": [
+        {
+          "title": "Analytics & Platform Solutions",
+          "url": "https://www.rolandberger.com/en/Expertise/Solutions/Analytics-Platform-Solutions.html",
+          "language": "en",
+          "scope": "グローバル専門組織・事例",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "日本企業がフィジカルAIをPoCで終わらせない4つの条件",
+          "url": "https://www.rolandberger.com/ja/Insights/Publications/日本企業がフィジカルAIをPoCで終わらせない4つの条件.html",
+          "language": "ja",
+          "scope": "国内向け技術・経営記事",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Analytics & Platform Solutionsの公式ページはデータサイエンス、データエンジニアリング、ソフトウェア開発のチームと、データ基盤から実装までの支援を説明。価格予測でニュースのNLP・バックテストを使う事例も掲載。",
+          "source_url": "https://www.rolandberger.com/en/Expertise/Solutions/Analytics-Platform-Solutions.html"
+        },
+        {
+          "text": "日本語のフィジカルAI記事は、本番リリース、安全制御、受入試験、IT/OT統合、更新・ロールバック等の設計上の論点を説明。国内CxO調査と東京オフィスの執筆者を示す。",
+          "source_url": "https://www.rolandberger.com/ja/Insights/Publications/日本企業がフィジカルAIをPoCで終わらせない4つの条件.html"
+        }
+      ]
+    },
+    {
+      "company": "KPMG FAS（CVA）",
+      "page_id": "412161f2809781049973fabad0ca013f",
+      "scope": "CVAにデータサイエンティストと財務・経営管理系のデータストラテジスト。別途AIX・フォレンジックのAI開発職も紹介。",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "CVAにデータサイエンティストと財務・経営管理系のデータストラテジスト。別途AIX・フォレンジックのAI開発職も紹介。 AIエージェント・Webアプリ開発、分析・財務・戦略の協働を具体的に説明するが、詳細な構成・検証結果の公開は今回の主資料では限定的。",
+      "quantity_reason": "CVA専門部門の新卒・中途採用に加え、FASのAI開発部門も確認。公開情報は職務の説明が中心。",
+      "quality_reason": "AIエージェント・Webアプリ開発、分析・財務・戦略の協働を具体的に説明するが、詳細な構成・検証結果の公開は今回の主資料では限定的。",
+      "japan": "公式日本語本文でCVAの職務と東京勤務を明記。",
+      "limitations": "職務記載を完了済み顧客案件の成果とは扱わない。AIXの社内AI開発や別のフォレンジック職をCVAの仕事として混同しない。今回採用日程は評価対象外。",
+      "sources": [
+        {
+          "title": "Client Value Analytics部門",
+          "url": "https://kpmg.com/jp/ja/careers/fas/year-round-recruitment/client-value-analytics.html",
+          "language": "ja",
+          "scope": "国内専門部門・職務",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "新卒AI・データサイエンス主導型コンサルタント（CVA）",
+          "url": "https://recruit.kpmg-fas.jp/recruitinginformation-d.html",
+          "language": "ja",
+          "scope": "新卒職務",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "AIX・フォレンジックのAI・エンジニア職",
+          "url": "https://recruit.kpmg-fas.jp/recruitinginformation-g.html",
+          "language": "ja",
+          "scope": "別部門との区別",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "CVAはデータサイエンティストとデータストラテジストが、会計・戦略・オペレーション等の専門家と協働する部門。LLMのAIエージェント、戦略検討支援、Webアプリを使う業務改善ソリューションの開発も説明。",
+          "source_url": "https://kpmg.com/jp/ja/careers/fas/year-round-recruitment/client-value-analytics.html"
+        },
+        {
+          "text": "新卒CVAの職務にもデータ・AI分析を使うM&A・経営判断支援と、新規ソリューションの企画・実装を記載。",
+          "source_url": "https://recruit.kpmg-fas.jp/recruitinginformation-d.html"
+        }
+      ]
+    },
+    {
+      "company": "フォーティエンス",
+      "page_id": "412161f2809781a39206cac34516b996",
+      "scope": "デジタルトランスフォーメーションの専門人材・FDEによる支援を説明。今回の主要資料で独立の基礎AI研究所は未確認。",
+      "quantity": 2,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "デジタルトランスフォーメーションの専門人材・FDEによる支援を説明。今回の主要資料で独立の基礎AI研究所は未確認。 Agent Mesh Architecture、AIエージェントとRAGの統制、段階拡張、データ前処理、誤答抑制・運用設計を説明。",
+      "quantity_reason": "AI専門サービスの複数ページと、AI技術動向の連載・講演を確認。",
+      "quality_reason": "Agent Mesh Architecture、AIエージェントとRAGの統制、段階拡張、データ前処理、誤答抑制・運用設計を説明。",
+      "japan": "対象サービス・技術解説・専門職の説明が公式日本語本文。",
+      "limitations": "提供メニュー・参照構成・講演は完了済み顧客成果と区別。視察報告の他社開発成果を自社成果としない。旧回答の『講演中心』より具体的なサービス設計情報を今回確認。",
+      "sources": [
+        {
+          "title": "AI実行環境のアーキテクチャ設計",
+          "url": "https://www.fortience.com/solutions/infrastructure-and-technical/ai-execution-environment-architecture/",
+          "language": "ja",
+          "scope": "提供サービス・設計",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "SuperAI 2026 視察報告 第2回",
+          "url": "https://www.fortience.com/insight/column/260713/",
+          "language": "ja",
+          "scope": "技術解説・視察報告",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "AI Transformation",
+          "url": "https://www.fortience.com/solutions/ai-transformation/",
+          "language": "ja",
+          "scope": "専門サービス一覧",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "AI実行環境の設計ページに、複数のAIエージェントとRAGをオーケストレーターで統制する参照構成『Agent Mesh Architecture』を掲載。クラウド・オンプレや段階導入、前処理・回答精度・運用を説明。",
+          "source_url": "https://www.fortience.com/solutions/infrastructure-and-technical/ai-execution-environment-architecture/"
+        },
+        {
+          "text": "公式のSuperAI 2026連載は、モデル・推論・データ基盤、RAGやMCP、エージェント運用などを解説。ただし会議での他社発表や著者の解釈も含む。",
+          "source_url": "https://www.fortience.com/insight/column/260713/"
+        },
+        {
+          "text": "AI Transformationのページに生成AI・RAG、グラフRAG、AI構築・運用定着など複数の支援メニューを掲載。",
+          "source_url": "https://www.fortience.com/solutions/ai-transformation/"
+        }
+      ]
+    },
+    {
+      "company": "PwCアドバイザリー",
+      "page_id": "412161f28097815395d9ebabb79d2aa8",
+      "scope": "Digital／デジタル&データアナリティクスの専門職務を掲載。",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "Digital／デジタル&データアナリティクスの専門職務を掲載。 M&AソーシングのAI推薦、地理空間・人流解析、PMIのデータモデルと継続監視の構想を具体化。技術構成・比較実験の細部は限定的。",
+      "quantity_reason": "Dealのデータ分析サービス・専門職の日本語説明は複数ある。グループ全体の情報量を法人単独へ転用しない。",
+      "quality_reason": "M&AソーシングのAI推薦、地理空間・人流解析、PMIのデータモデルと継続監視の構想を具体化。技術構成・比較実験の細部は限定的。",
+      "japan": "公式日本語のDealサービスにPwCアドバイザリー所属責任者を明記。専門職の東京勤務も採用本文で確認。",
+      "limitations": "Technology LaboratoryはPwCコンサル側であり、この法人の自前ラボとは記さない。サービス説明を導入完了・成果保証としない。採用ページは検索取得の全文で確認したが、直接openは502が継続したため、主根拠は直接取得できた公式サービスに置く。",
+      "sources": [
+        {
+          "title": "Dealのデータアナリティクス",
+          "url": "https://www.pwc.com/jp/ja/services/deals/stakeholder-focused-06.html",
+          "language": "ja",
+          "scope": "国内法人のサービス",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Digital／デジタル&データアナリティクス",
+          "url": "https://jobs.jp.pwc.com/recruit/advisory/job/detail?job_code=a0C5F00001nfdd0UAA",
+          "language": "ja",
+          "scope": "国内専門職・検索本文確認、直接取得502",
+          "access": "検索取得の公式本文を確認。直接取得は502"
+        },
+        {
+          "title": "PwC Japanグループ データ＆AI",
+          "url": "https://www.pwc.com/jp/ja/services/data-analytics-ai.html",
+          "language": "ja",
+          "scope": "グループ情報・対象法人との区別",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Deal向けデータアナリティクスの公式サービスは、AI推薦によるM&A候補選定、地理空間・人流解析、PMIのデータモデル・半自動更新の経営モニタリングを説明し、PwCアドバイザリーの責任者を掲載。",
+          "source_url": "https://www.pwc.com/jp/ja/services/deals/stakeholder-focused-06.html"
+        },
+        {
+          "text": "Digitalの公式採用本文で、財務・事業データの収集加工分析可視化、顧客へのソリューション提供、新規ソリューション開発と東京勤務を記載。",
+          "source_url": "https://jobs.jp.pwc.com/recruit/advisory/job/detail?job_code=a0C5F00001nfdd0UAA"
+        }
+      ]
+    },
+    {
+      "company": "ベイカレント",
+      "page_id": "412161f2809781369dced3f2ee2e6a04",
+      "scope": "データサイエンス職でインタラクティブGr.のワンチーム体制を紹介。",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "データサイエンス職でインタラクティブGr.のワンチーム体制を紹介。 モデル・パイプライン・試作検証の職務と、嗜好性AI、映像解析、チャットボットの案件を具体化。アルゴリズム・比較評価の詳細は少ない。",
+      "quantity_reason": "AIサービスに複数の案件を掲載し、データサイエンス専門職の説明もある。詳細な技術論文・構成記事の量は今回未集計。",
+      "quality_reason": "モデル・パイプライン・試作検証の職務と、嗜好性AI、映像解析、チャットボットの案件を具体化。アルゴリズム・比較評価の詳細は少ない。",
+      "japan": "公式日本語の職務・顧客案件紹介があり、日本企業向けの案件を記載。",
+      "limitations": "グループ内のコンサル・テクノロジー法人や外部開発者の担当範囲を同一視しない。職務ページ・短い匿名事例だけから全案件の自社実装や新卒配属を断定しない。",
+      "sources": [
+        {
+          "title": "データサイエンスの専門職務",
+          "url": "https://www.baycurrent.co.jp/careers/mid-career/データサイエンス/",
+          "language": "ja",
+          "scope": "国内専門職",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "AIサービス・プロジェクト事例",
+          "url": "https://www.baycurrent.co.jp/industry-service/service/ai/",
+          "language": "ja",
+          "scope": "顧客案件集",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "DS採用ページは統計・機械学習・AIモデルの設計、パイプライン構築、プロトタイプの実装検証、事業構想から定着までを職務として記載。",
+          "source_url": "https://www.baycurrent.co.jp/careers/mid-career/データサイエンス/"
+        },
+        {
+          "text": "AIサービスページに嗜好性AIエンジン、ドラレコ映像解析、製鉄会社の報告書検索チャットボットなどの案件を掲載。異物検出案件にはベンダー管理も記載され、開発の内外分担には注意が必要。",
+          "source_url": "https://www.baycurrent.co.jp/industry-service/service/ai/"
+        }
+      ]
+    },
+    {
+      "company": "ZS",
+      "page_id": "412161f2809781a38e96c0e2bcf4718c",
+      "scope": "AI・Analytics、技術専門職とZAIDYNなどの自社プラットフォームを紹介。",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "一部あり",
+      "assessment": "AI・Analytics、技術専門職とZAIDYNなどの自社プラットフォームを紹介。 武田薬品の事例は患者・医師データ、予測・クラスタリング、現場フィードバックを活用し、実業務用アプリにつなぐ過程を説明。",
+      "quantity_reason": "AI・Analyticsの専門ハブに技術職、複数の顧客事例、自社製品・AI関連知見がある。主要な情報は英語。",
+      "quality_reason": "武田薬品の事例は患者・医師データ、予測・クラスタリング、現場フィードバックを活用し、実業務用アプリにつなぐ過程を説明。",
+      "japan": "公式ドメインでアステラス欧州のAI導入事例を日本語PDFとして公開。日本オフィスも公式採用で確認。ただし国内開発担当の証拠とは別。",
+      "limitations": "日本語記事がないとは言えないが、確認した高度な技術・採用情報は英語中心。日本語PDFの存在や日系顧客名から、日本拠点が開発した・国内新卒で携われるとは判断しない。対象領域は製薬・医療に強みがあるが、それだけに限定されない。",
+      "sources": [
+        {
+          "title": "AI & Analytics",
+          "url": "https://www.zs.com/capabilities/artificial-intelligence-and-analytics",
+          "language": "en",
+          "scope": "専門ハブ",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Takeda OncologyとのAI営業アプリ",
+          "url": "https://www.zs.com/about/case-studies/case-study-takeda-oncology-and-zs-create-ai-sales-application",
+          "language": "en",
+          "scope": "顧客事例、国内実施未確定",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "アステラス欧州のAI導入事例（日本語PDF）",
+          "url": "https://www.zs.com/content/dam/global/master/pdfs/astellas-jp-case-study.pdf",
+          "language": "ja",
+          "scope": "日本語・海外顧客事例",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Japan採用・オフィス",
+          "url": "https://www.zs.com/careers/where-we-work/east-asia/japan",
+          "language": "en",
+          "scope": "国内拠点",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "AI・Analyticsハブがデータ管理・AIシステム、複数の顧客事例・技術知見を掲載し、ZAIDYNなどの自社製品へつながる。",
+          "source_url": "https://www.zs.com/capabilities/artificial-intelligence-and-analytics"
+        },
+        {
+          "text": "武田薬品のAI営業アプリ事例で、疾患・患者行動・医師選択のデータ、予測・クラスタリングと現場のフィードバックを組み合わせ、日々の行動へつなぐ過程を説明。案件の日本実施はこの資料から断定しない。",
+          "source_url": "https://www.zs.com/about/case-studies/case-study-takeda-oncology-and-zs-create-ai-sales-application"
+        },
+        {
+          "text": "公式日本語PDFにアステラス ファーマ ヨーロッパのAIプラットフォーム事例を掲載。公式に日本語で技術・導入を説明しているが、対象は欧州法人。",
+          "source_url": "https://www.zs.com/content/dam/global/master/pdfs/astellas-jp-case-study.pdf"
+        }
+      ]
+    },
+    {
+      "company": "YCP",
+      "page_id": "412161f2809781669694fd624f56a774",
+      "scope": "Professional SolutionsのDigital Transformationを専門サービスとして紹介。",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "Professional SolutionsのDigital Transformationを専門サービスとして紹介。 DXの役割、AI/RPA、システム開発・UI/UXやクラウド利用を具体化。モデル・評価の詳細は限定的。",
+      "quantity_reason": "公式日本語のDX専門サービス、日本向けの開発事例、生成AI関連共同レポートを複数確認。",
+      "quality_reason": "DXの役割、AI/RPA、システム開発・UI/UXやクラウド利用を具体化。モデル・評価の詳細は限定的。",
+      "japan": "日本向けDXページの日本語本文に日本の会計・アドバイザリー企業向けシステム開発を掲載。",
+      "limitations": "共同レポートの設計論や非AIのシステム実装を、AIモデル自社開発の実績と取り違えない。旧2022年の海外デジタルスタジオ情報のみで現在の日本の開発組織は断定しない。",
+      "sources": [
+        {
+          "title": "デジタルトランスフォーメーション",
+          "url": "https://ycp.com/ja/business/professional-solutions/digital-transformation",
+          "language": "ja",
+          "scope": "専門サービス",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "日本DXコンサルティング・システム開発例",
+          "url": "https://ycp.com/ja/lp/japan-digital-transformation-consulting-ja",
+          "language": "ja",
+          "scope": "日本の顧客事例（非AI開発含む）",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "生成AI時代のSI 共同ホワイトペーパー",
+          "url": "https://ycp.com/ja/about/news-update/ndi-ycp-and-ai-brain-partners-release-joint-whitepaper-on-the-future-of-system-integration-in-the-generative-ai-era",
+          "language": "ja",
+          "scope": "共同技術・経営レポート",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "公式DXサービスは戦略、実行・ガバナンス、AI/RPAを使う業務再設計、ソリューション開発を説明。",
+          "source_url": "https://ycp.com/ja/business/professional-solutions/digital-transformation"
+        },
+        {
+          "text": "日本向けのDXページは、日本の会計・アドバイザリー企業向けの業務システム開発（UI/UX、クラウド、日中2言語対応）を紹介。この案件はAI開発事例とは限らない。",
+          "source_url": "https://ycp.com/ja/lp/japan-digital-transformation-consulting-ja"
+        },
+        {
+          "text": "NTT DATA INTELLILINK・AI Brain Partnersとの共同ホワイトペーパーを日本語で紹介し、AIエージェントの権限・監視・監査証跡・制御基盤を論じる。",
+          "source_url": "https://ycp.com/ja/about/news-update/ndi-ycp-and-ai-brain-partners-release-joint-whitepaper-on-the-future-of-system-integration-in-the-generative-ai-era"
+        }
+      ]
+    },
+    {
+      "company": "NTTデータ経営研究所",
+      "page_id": "412161f280978103b75fee3d1a048025",
+      "scope": "ニューロ・コグニティブ・イノベーションユニット。脳・神経科学、認知科学、CS・DS等の専門家を紹介。",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "ニューロ・コグニティブ・イノベーションユニット。脳・神経科学、認知科学、CS・DS等の専門家を紹介。 香りのAI予測・提案ツールなど研究開発案件の内容は具体的。今回の直接読取資料ではモデル構成・検証の細部まで確認していない。",
+      "quantity_reason": "専門ユニットの採用紹介、メンバー、研究・論文・案件の一覧を公開。脳科学・人間データ領域に特徴。",
+      "quality_reason": "香りのAI予測・提案ツールなど研究開発案件の内容は具体的。今回の直接読取資料ではモデル構成・検証の細部まで確認していない。",
+      "japan": "公式日本語の採用・専門組織・研究成果紹介があり、東京大学・味の素などとの国内共同開発を説明。",
+      "limitations": "NTTデータ本体のAI製品や研究を、この会社の自社成果に付け替えない。専門ユニット・共同開発の証拠はあるが、一般新卒でそのユニットへ配属される保証ではない。",
+      "sources": [
+        {
+          "title": "ニューロ・コグニティブ・イノベーションユニット採用紹介",
+          "url": "https://www.nttdata-strategy.com/recruit/team/niu/",
+          "language": "ja",
+          "scope": "国内専門組織・共同AI開発",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Works & Publications",
+          "url": "https://www.nttdata-strategy.com/neuro/works.html",
+          "language": "ja",
+          "scope": "研究成果集・公式から外部論文等へリンク",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "専門メンバー紹介",
+          "url": "https://www.nttdata-strategy.com/neuro/team.html",
+          "language": "ja",
+          "scope": "国内専門家",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "採用サイトの専門ユニット紹介で、脳・神経科学、認知科学、CS・DS等の専門家、調査・データ分析・研究開発から事業化までの支援を説明。",
+          "source_url": "https://www.nttdata-strategy.com/recruit/team/niu/"
+        },
+        {
+          "text": "同ページで東京大学・味の素と、香りの感じ方をAIで予測し、ターゲット消費者に合う香りを提案する機能も実装したと記載。",
+          "source_url": "https://www.nttdata-strategy.com/recruit/team/niu/"
+        },
+        {
+          "text": "Works & Publicationsに脳波・音楽推薦などの研究成果、論文・学会・事業化の記録を公式に集約。プレプリントと査読済論文を同一視しない。",
+          "source_url": "https://www.nttdata-strategy.com/neuro/works.html"
+        }
+      ]
+    },
+    {
+      "company": "McKinsey",
+      "page_id": "410161f2809781618229fb11a280bd1b",
+      "scope": "Tech & AI／QuantumBlack（日本オフィスとグローバルLabsを区別）",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "開発資産と国内案件の技術詳細をともに確認でき、理想②を支える公開根拠は厚い。",
+      "quantity_reason": "日本のTech & AIページにAI記事・国内案件・専門職紹介が複数あり、グローバルにはLabsの開発ツール集がある。",
+      "quality_reason": "国内案件がライブラリ、実行環境、前処理、モデル、比較・検証まで説明し、LabsはOSS・MLOpsを含む開発資産を公開する。",
+      "japan": "日本語本文で日本オフィスのDS・エンジニア等の存在を説明。東芝テック案件はQuantumBlackとの協業とDocker／Merlin／Transformers4Rec等の構成を記載。",
+      "limitations": "Labsのすべての活動に日本で携われるとは限らない。Tech & AIのBusiness AnalystとQuantumBlack技術職を同一視せず、応募資格・配属は別確認。数値成果は企業発表であり独立検証ではない。",
+      "sources": [
+        {
+          "title": "日本｜Tech & AI",
+          "url": "https://www.mckinsey.com/jp/our-work/tech-and-ai",
+          "language": "日本語本文",
+          "scope": "日本",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "QuantumBlack Labs",
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/labs",
+          "language": "英語本文",
+          "scope": "グローバル",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "東芝テック・NVIDIAとの小売データ分析",
+          "url": "https://www.mckinsey.com/jp/our-insights/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia",
+          "language": "日本語本文",
+          "scope": "日本企業との協業",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "日本のTech & AIサイトは日本オフィスのデジタル専門家とグローバル専門家の連携、QuantumBlack、複数のAI関連記事を掲載。",
+          "source_url": "https://www.mckinsey.com/jp/our-work/tech-and-ai"
+        },
+        {
+          "text": "QuantumBlack LabsはKedro、Vizro、再利用可能なAI部品、MLOps等の開発資産を紹介。グローバルの取り組み。",
+          "source_url": "https://www.mckinsey.com/capabilities/quantumblack/labs"
+        },
+        {
+          "text": "東芝テック・QuantumBlack・NVIDIAの協業記事はDocker実行環境、GPU前処理、レコメンドモデル、従来手法との比較とパイロット検証を日本語で説明。",
+          "source_url": "https://www.mckinsey.com/jp/our-insights/how-toshiba-tec-and-mckinsey-are-turning-retail-data-into-real-time-decisions-with-nvidia"
+        }
+      ]
+    },
+    {
+      "company": "BCG",
+      "page_id": "410161f2809781439408eb8d6753c618",
+      "scope": "TDA／BCG X（同一の職種ではない）",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "専門職・研究組織・技術手法の記事が揃い、国内の技術職への接点も日本語で見える。",
+      "quantity_reason": "日本語のBCG X採用・AI組織紹介と、英語の技術ブログ／記事が複数ある。",
+      "quality_reason": "技術職の設計・実装範囲に加え、RAG評価の記事は知識の網羅性をクラスタリング等で確認する方法を説明する。",
+      "japan": "BCG X日本語採用でDS、Forward Deployed AI Engineer等の職務を具体的に説明。AI Science Instituteの日本語発表と日本担当者の記載もある。",
+      "limitations": "TDAの経営コンサル職、BCG Xの専門職、グローバル研究所は区別。日本語設立発表があっても研究所への国内配属や関与は保証されない。",
+      "sources": [
+        {
+          "title": "BCG Xでのキャリア",
+          "url": "https://careers.bcg.com/jp/ja/japan-bcgx",
+          "language": "日本語本文（英語も一部）",
+          "scope": "日本の採用",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "BCG X、AIサイエンス研究所を設立",
+          "url": "https://www.bcg.com/ja-jp/press/24april2025-bcg-x-launches-ai-science-institute",
+          "language": "日本語本文",
+          "scope": "グローバル（日本向け発表）",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "How to Measure RAG Evaluation Completeness",
+          "url": "https://www.bcg.com/x/the-multiplier/how-measure-rag-evaluation-completeness",
+          "language": "英語本文",
+          "scope": "グローバル",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "日本語採用はDSが機械学習・数理最適化等でモデルを設計・構築し、AI Engineerがプロダクト・ソリューションを開発・実装すると説明。",
+          "source_url": "https://careers.bcg.com/jp/ja/japan-bcgx"
+        },
+        {
+          "text": "2025年の日本語発表はAI Science Institute設立を説明。大学・産業R&Dとの連携による科学的研究の加速が目的。グローバル組織。",
+          "source_url": "https://www.bcg.com/ja-jp/press/24april2025-bcg-x-launches-ai-science-institute"
+        },
+        {
+          "text": "The MultiplierのRAG評価記事は評価質問の知識網羅性を測る方法を解説する。",
+          "source_url": "https://www.bcg.com/x/the-multiplier/how-measure-rag-evaluation-completeness"
+        }
+      ]
+    },
+    {
+      "company": "Bain",
+      "page_id": "410161f28097812dacb2fe5d2dd8ffdb",
+      "scope": "Applied Technology & AI（グローバル）と日本語AI発信",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "一部あり",
+      "assessment": "グローバルの技術組織・開発事例は厚い。日本語発信はあるが、日本の希望職種からの接続が残る。",
+      "quantity_reason": "採用サイトに専門チーム・複数の技術領域・顧客事例があり、日本語CompassにもAI・デジタル解説がある。",
+      "quality_reason": "AI Engineering／Data Science／Architectureの職務と、深層学習デジタルツインの入力・用途・評価指標を説明する事例を確認。",
+      "japan": "公式日本語PDFに生成AIの導入、データ基盤、開発チーム等の解説がある。ただし専門組織の詳しい採用・開発事例は英語中心で、日本の新卒からの接続は未確認。",
+      "limitations": "日本語の活用論は国内での技術開発案件・専門職配属の直接証拠ではない。Compassは2023年資料で現在の募集・組織構成を保証しない。",
+      "sources": [
+        {
+          "title": "Applied Technology & AI careers",
+          "url": "https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/",
+          "language": "英語本文",
+          "scope": "グローバル",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Athena PathwayのAIシミュレーション",
+          "url": "https://www.bain.com/careers/impact-stories/athena-pathway/",
+          "language": "英語本文",
+          "scope": "英国顧客",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Compass Vol.1 2023｜生成AIがもたらす未来",
+          "url": "https://www.bain.com/contentassets/e61f41c4617d48428b420fe059199fed/bain--company-2023-compass-vol.1.pdf",
+          "language": "日本語本文",
+          "scope": "日本向け過去解説",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Applied Technology & AIではエンジニア、DS、デザイナー等がコンサルと協働し、本番用システムの構築・導入・拡大を担うと説明。",
+          "source_url": "https://www.bain.com/careers/work-with-us/integrated-teams/applied-technology-ai/"
+        },
+        {
+          "text": "Athena Pathway案件はセンサーデータを用いた深層学習デジタルツインを開発し、陸上シミュレーションに使用したと説明。海外顧客事例。",
+          "source_url": "https://www.bain.com/careers/impact-stories/athena-pathway/"
+        },
+        {
+          "text": "日本語Compass（2023年）は生成AI導入に必要なデータ管理、インフラ構成、開発チーム・外部連携等を論じる。",
+          "source_url": "https://www.bain.com/contentassets/e61f41c4617d48428b420fe059199fed/bain--company-2023-compass-vol.1.pdf"
+        }
+      ]
+    },
+    {
+      "company": "ADL",
+      "page_id": "412161f28097815ea4afc350daf0fd7a",
+      "scope": "Blue Shift／AI・デジタル（研究センターの性格を区別）",
+      "quantity": 3,
+      "quality": 3,
+      "japanese": "あり",
+      "assessment": "技術動向の研究と技術解説が厚く、構成・検証記事もある。Blue Shiftとモデル開発研究所は区別する。",
+      "quantity_reason": "Blue Shiftの継続的な技術レポート群、日本語AI・デジタル解説、PRISMの技術記事がある。",
+      "quality_reason": "英語PRISMには知識ボットの構成図と社内パイロットの検証手順があり、技術動向の概要以上の記述を確認。",
+      "japan": "Blue Shiftの目的・位置づけ、AI・デジタルの支援内容に公式日本語本文がある。日本語のエージェントAI論考も確認。国内の開発組織・配属の直接証拠は今回限定的。",
+      "limitations": "Blue Shiftは技術の事業・社会への影響を研究する組織で、基盤モデル開発研究所と同義ではない。英語の社内検証を国内顧客への実装実績としない。日本の新卒がどの程度開発するかは別確認。",
+      "sources": [
+        {
+          "title": "Blue Shift",
+          "url": "https://www.adlittle.com/jp-ja/blueshift",
+          "language": "日本語本文・英語レポート紹介が混在",
+          "scope": "グローバル（日本語紹介）",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "AI・デジタル",
+          "url": "https://www.adlittle.com/ja/capabilities/AI-and-Digital",
+          "language": "日本語本文（スタッフ紹介等は一部英語）",
+          "scope": "グローバル（日本語紹介）",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "PRISM｜Taking control of AI",
+          "url": "https://www.adlittle.com/sites/default/files/prism/ADL_PRISM_S2_2023_Taking%20control%20of%20AI.pdf",
+          "language": "英語本文",
+          "scope": "グローバル／社内検証",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Blue Shiftは技術と戦略の接点で新技術の影響を研究する未来志向の研究センター。AI・ロボット等のレポートを継続掲載。",
+          "source_url": "https://www.adlittle.com/jp-ja/blueshift"
+        },
+        {
+          "text": "日本語AI・デジタルページはAI診断、戦略、全社変革、内部チーム・外部パートナー連携を説明。",
+          "source_url": "https://www.adlittle.com/ja/capabilities/AI-and-Digital"
+        },
+        {
+          "text": "英語PRISMは知識ボットの構成、モデル選択、社内技術者を対象とした6週間のパイロットと回答評価・時間節約の算定を説明。顧客案件ではなく社内検証。",
+          "source_url": "https://www.adlittle.com/sites/default/files/prism/ADL_PRISM_S2_2023_Taking%20control%20of%20AI.pdf"
+        }
+      ]
+    },
+    {
+      "company": "DI",
+      "page_id": "410161f28097819a8a52ce135a8a71c4",
+      "scope": "Technology & Amplify（T&A）",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "国内の技術専門家と事業構想・構成設計をつなぐ仕事は具体的。AI開発・技術公開の深さは追加確認。",
+      "quantity_reason": "採用サイトに複数のT&Aインタビューがある一方、研究成果・コード・詳細なAI実装の技術記事集は今回未確認。",
+      "quality_reason": "具体的案件でシミュレーション、データ解析、機能要件・システム構成、技術専門家との協働を説明する。",
+      "japan": "日本語採用記事で日本企業の案件と、AI専門家・技術者との国内協働を具体的に説明。",
+      "limitations": "技術を用いた事業構想・設計の説明であり、AIモデル開発・本番システムを自社だけで構築した証拠とは区別。ラボ・研究成果の厚さは今回確認不足。",
+      "sources": [
+        {
+          "title": "T&Aだからこそできる挑戦と成長",
+          "url": "https://www.dreamincubator.co.jp/careers/interview/ta-1/",
+          "language": "日本語本文",
+          "scope": "日本の採用・国内案件",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "T&Aで働く醍醐味",
+          "url": "https://www.dreamincubator.co.jp/careers/interview/ta-2-3/",
+          "language": "日本語本文",
+          "scope": "日本の採用・国内案件",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "採用情報",
+          "url": "https://www.dreamincubator.co.jp/careers/",
+          "language": "日本語本文",
+          "scope": "日本の採用",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "T&A採用記事は大手自動車メーカーの新事業案件について、シミュレーション・解析、機能要件、構成設計、AI専門家等への相談を説明。",
+          "source_url": "https://www.dreamincubator.co.jp/careers/interview/ta-1/"
+        },
+        {
+          "text": "別の採用記事はDX戦略、業務・システムの棚卸しから構成設計・ロードマップ、AIを用いた業務改善経験者との協働を説明。",
+          "source_url": "https://www.dreamincubator.co.jp/careers/interview/ta-2-3/"
+        }
+      ]
+    },
+    {
+      "company": "グロービング",
+      "page_id": "410161f2809781ceb1dde28803a47b22",
+      "scope": "AI事業本部",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "国内AI事業本部と技術職の実装範囲が具体的。技術研究・性能検証の公開は今回限定的。",
+      "quantity_reason": "日本語採用にAI事業本部、技術職、複数の技術者インタビュー・AI製品紹介がある。独立した技術研究記事の蓄積は今回限定的。",
+      "quality_reason": "RAG、MLOps、データ基盤、Web開発等の実装職務が具体的。一方、求人は要求する能力の証拠で、完了した顧客案件や性能検証と同一ではない。",
+      "japan": "AI事業本部の仕事内容・CTOインタビューを日本語で確認。国内採用・開発体制の接点が直接見える。",
+      "limitations": "主に採用・自社説明に基づく。技術職と一般新卒コンサルの配属・役割は別確認。社内製品と顧客案件も区別する。",
+      "sources": [
+        {
+          "title": "仕事を知る｜AI事業本部",
+          "url": "https://globe-ing.com/recruit/work/",
+          "language": "日本語本文",
+          "scope": "日本の組織・採用",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "CTOインタビュー",
+          "url": "https://globe-ing.com/recruit/people/keisuke-ueda/",
+          "language": "日本語本文",
+          "scope": "日本の技術者",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "人を知る",
+          "url": "https://globe-ing.com/recruit/people/",
+          "language": "日本語本文",
+          "scope": "日本の採用",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "AI事業本部の採用にAIコンサル、AIエンジニア等を掲載。生成AI・RAG・MLOpsを用いる開発、ETL/ELT・DWH/データレイク・DataOpsを扱う職務を明記。",
+          "source_url": "https://globe-ing.com/recruit/work/"
+        },
+        {
+          "text": "CTOインタビューでAI事業本部、コンサルと技術を結ぶ仕事・AIプロダクトを紹介。",
+          "source_url": "https://globe-ing.com/recruit/people/keisuke-ueda/"
+        }
+      ]
+    },
+    {
+      "company": "IGPI",
+      "page_id": "410161f2809781b18a46c7a142958b6b",
+      "scope": "IGPI本体／別法人IGPI Digital Intelligence",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "あり",
+      "assessment": "国内の専門会社とデータ活用案件は確認できる。別法人・配属と詳細技術の証拠には留保。",
+      "quantity_reason": "日本語のデータ活用案件、デジタル専門会社、採用情報がある。技術的な設計・検証の詳細記事集は今回限定的。",
+      "quality_reason": "データ棚卸し、解析基盤のハード・ソフト選択、AIモデルの業務組込み、組織自走までの作業を具体的に説明する。",
+      "japan": "国内の専門会社と東京のデータ解析職務、日本語の顧客案件を確認。",
+      "limitations": "Digital Intelligenceは本体とは別法人。中途求人から本体の新卒配属を推定しない。今回の本人決定により06の選定一覧から外すが、技術活動がないと評価したわけではない。",
+      "sources": [
+        {
+          "title": "データサイエンティスト組織を自走させる",
+          "url": "https://www.igpi.co.jp/case/case_01/",
+          "language": "日本語本文",
+          "scope": "日本本体の顧客案件",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Digital Intelligenceの募集要項",
+          "url": "https://www.igpi.co.jp/recruit/di/",
+          "language": "日本語本文",
+          "scope": "日本の別法人採用",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "IGPI Digital Intelligence",
+          "url": "https://igpi-di.co.jp/",
+          "language": "日本語本文",
+          "scope": "日本の別法人",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "IGPI本体の事例は、顧客のデータ整理、データ量・手法に応じた解析環境整備、案件実行、AIモデルの業務運用を説明。",
+          "source_url": "https://www.igpi.co.jp/case/case_01/"
+        },
+        {
+          "text": "本体採用サイトがDigital Intelligenceを別のグループ会社として案内。東京勤務のデータ解析を用いる経営支援職を掲載（中途）。",
+          "source_url": "https://www.igpi.co.jp/recruit/di/"
+        },
+        {
+          "text": "公式にリンクされたDigital Intelligenceサイトはビッグデータ解析・アルゴリズム開発からデジタル全社変革までを日本語で説明。",
+          "source_url": "https://igpi-di.co.jp/"
+        }
+      ]
+    },
+    {
+      "company": "カーニー",
+      "page_id": "412161f28097810b9b06c7173b47ebb3",
+      "scope": "本体と専門子会社Cervello等",
+      "quantity": 3,
+      "quality": 2,
+      "japanese": "一部あり",
+      "assessment": "専門子会社との戦略から基盤構築までの体制は有力。国内の実装職務との接続は未確認。",
+      "quantity_reason": "グローバルのデータ・AIサービス、Cervelloとの設計構築事例、公式日本語のデータ・AI解説資料がある。",
+      "quality_reason": "海外顧客の構成設計やAzureデータ基盤構築が具体的だが、今回の3資料ではモデル・コード・性能検証の詳細は限定的。",
+      "japan": "日本語公式サイトでCervello・OPTANOのグループ加入を説明。日本語のデータ分析技術解説もあるが、今回確認した詳細な構築事例は海外・英語。",
+      "limitations": "専門子会社の海外能力を、日本の一般新卒が直接担当する技術実装範囲としない。日本語Agendaは旧資料で、現在の組織や募集の根拠ではない。",
+      "sources": [
+        {
+          "title": "私たちの物語",
+          "url": "https://www.jp.kearney.com/about/our-story/",
+          "language": "日本語本文",
+          "scope": "グローバル企業史（日本語）",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "The data dividend",
+          "url": "https://www.kearney.com/service/digital-analytics/data-and-ai/the-data-dividend-how-to-unlock-value-from-data",
+          "language": "英語本文",
+          "scope": "英国・世界的企業の案件",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "Agenda Vol.9｜データアナリティクス",
+          "url": "https://www.jp.kearney.com/documents/1457875/10846022/Agenda_Vol9_all.pdf/c179f1a0-0c5d-0b53-d982-a55c8f24c123?t=1588835466000",
+          "language": "日本語本文",
+          "scope": "日本向け過去解説",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "日本語の公式沿革はCervelloとAIソリューション会社OPTANOの買収を明記。",
+          "source_url": "https://www.jp.kearney.com/about/our-story/"
+        },
+        {
+          "text": "英語サービスページはCervelloのデータ構成・エンジニアリング・DSを本体の戦略専門性と組み合わせる体制を説明。英国銀行と世界的消費財会社の基盤設計・Azure構築例を掲載。",
+          "source_url": "https://www.kearney.com/service/digital-analytics/data-and-ai/the-data-dividend-how-to-unlock-value-from-data"
+        },
+        {
+          "text": "日本語Agenda Vol.9はデータ分析を対象データ・アルゴリズム・用途に分け、機械学習等を解説。過去資料。",
+          "source_url": "https://www.jp.kearney.com/documents/1457875/10846022/Agenda_Vol9_all.pdf/c179f1a0-0c5d-0b53-d982-a55c8f24c123?t=1588835466000"
+        }
+      ]
+    },
+    {
+      "company": "オリバー・ワイマン",
+      "page_id": "412161f280978132ae9dd313c511559f",
+      "scope": "Digital／Quotient（日本語の顧客案件と英語専門組織を区別）",
+      "quantity": 2,
+      "quality": 2,
+      "japanese": "一部あり",
+      "assessment": "国内の生成AI案件は確認できるが、日本語の技術情報・希望職種との接続は限定的。主一覧に追加しない。",
+      "quantity_reason": "グローバルにデジタル・AI専門職と複数の知見がある一方、日本語の技術情報は確認できた範囲で一部。",
+      "quality_reason": "国内顧客記事は生成AIのプロンプト調整、サンプル検証、開示データとの突合を具体的に説明する。モデル・コード・性能評価の詳細公開までは確認不足。",
+      "japan": "日本生命との生成AI案件には公式日本語本文・動画文字起こしがある。DigitalやQuotientの日本向けURLはナビ・見出しが日本語でも本文は英語中心。",
+      "limitations": "国内のAI顧客案件は存在するが、Quotientへの日本新卒の接続は未確認。ユーザーはHPを見てADLとはニュアンスが違うと判断し、06の主一覧へ追加しないと決定。判断を技術活動不存在の事実に置き換えない。",
+      "sources": [
+        {
+          "title": "Digital and Technology careers",
+          "url": "https://www.oliverwyman.com/careers/digital-technology.html",
+          "language": "英語本文",
+          "scope": "グローバル",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "日本生命｜生成AIによるスチュワードシップ高度化",
+          "url": "https://www.oliverwyman.com/jp/our-expertise/insights/2025/oct/generative-ai-corporate-governance-stewardship-nippon-life.html",
+          "language": "日本語本文・文字起こし",
+          "scope": "日本企業との協業",
+          "access": "公式本文確認"
+        },
+        {
+          "title": "日本向けDigital紹介",
+          "url": "https://www.oliverwyman.com/jp/our-expertise/capabilities/digital.html",
+          "language": "見出し・ナビ日本語／技術本文は英語中心",
+          "scope": "日本向けURL／グローバル組織",
+          "access": "公式本文確認"
+        }
+      ],
+      "facts": [
+        {
+          "text": "採用にソフトウェア開発、DS・データエンジニアリング、Digitalの専門経路を記載。英語・グローバル。",
+          "source_url": "https://www.oliverwyman.com/careers/digital-technology.html"
+        },
+        {
+          "text": "日本生命との国内案件は対話記録のAI分析、サンプルでのプロンプト検証、財務・開示資料との突合を日本語で説明。",
+          "source_url": "https://www.oliverwyman.com/jp/our-expertise/insights/2025/oct/generative-ai-corporate-governance-stewardship-nippon-life.html"
+        },
+        {
+          "text": "日本向けDigitalページにデータ・エンジニアリングの専門体制を紹介する本文はあるが、確認時の本文は英語。日本語ナビのみを日本語技術情報とは数えない。",
+          "source_url": "https://www.oliverwyman.com/jp/our-expertise/capabilities/digital.html"
+        }
+      ]
+    }
+  ]
+}

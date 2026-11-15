@@ -1,0 +1,245 @@
+{
+  "checked_at": "2026-11-15",
+  "normalization": "Notionの表・段落改行と空白、URLパーセントエンコード、リテラルunderscoreのエスケープのみ正規化",
+  "companies": [
+    {
+      "id": "410161f28097810db713f7be6a311ea3",
+      "company": "デロイト",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f28097818ca3dccf7f97240fc7",
+      "company": "PwCコンサルティング",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f28097818d833cf0e8c4e87058",
+      "company": "EYストラテジー・アンド・コンサルティング（EYSC）",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f2809781e0a775d28b4fd3317b",
+      "company": "KPMGコンサルティング",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f2809781e184c2f451f0e4a2bb",
+      "company": "アビームコンサルティング",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f28097819ab39bc94f28f766db",
+      "company": "日本IBM",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f280978120b5c1f963596ed33e",
+      "company": "アクセンチュア",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f280978150a1eee42cd1410b4b",
+      "company": "野村総合研究所（NRI）",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f28097814288dbf1798fd5bd53",
+      "company": "三菱総合研究所",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f28097814da656db1e87cb93d0",
+      "company": "ローランド・ベルガー",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f2809781049973fabad0ca013f",
+      "company": "KPMG FAS（CVA）",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f2809781a39206cac34516b996",
+      "company": "フォーティエンス",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f28097815395d9ebabb79d2aa8",
+      "company": "PwCアドバイザリー",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f2809781369dced3f2ee2e6a04",
+      "company": "ベイカレント",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f2809781a38e96c0e2bcf4718c",
+      "company": "ZS",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f2809781669694fd624f56a774",
+      "company": "YCP",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f280978103b75fee3d1a048025",
+      "company": "NTTデータ経営研究所",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f2809781618229fb11a280bd1b",
+      "company": "McKinsey",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f2809781439408eb8d6753c618",
+      "company": "BCG",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f28097812dacb2fe5d2dd8ffdb",
+      "company": "Bain",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f28097815ea4afc350daf0fd7a",
+      "company": "ADL",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f28097819a8a52ce135a8a71c4",
+      "company": "DI",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f2809781ceb1dde28803a47b22",
+      "company": "グロービング",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "410161f2809781b18a46c7a142958b6b",
+      "company": "IGPI",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f28097810b9b06c7173b47ebb3",
+      "company": "カーニー",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    },
+    {
+      "id": "412161f280978132ae9dd313c511559f",
+      "company": "オリバー・ワイマン",
+      "oneSupplement": true,
+      "supplementContentVerified": true,
+      "previousContentPreserved": true,
+      "sourceLinksPresent": true
+    }
+  ],
+  "main": {
+    "selectedCount": 12,
+    "igpiSelectedRemoved": true,
+    "igpiHiringRemoved": true,
+    "oliverNotAdded": true,
+    "remainingHiringRowsUnchanged": true,
+    "section4HeadingPresent": true,
+    "section4Count": 12,
+    "igpiSection4Removed": true,
+    "colorA": true,
+    "colorB": true,
+    "colorC": true
+  },
+  "method": {
+    "methodAdded": true,
+    "originalContentPreserved": true
+  },
+  "history": {
+    "igpiParentChanged": true,
+    "igpiChildInHistory": true,
+    "previousHistoryPreserved": true,
+    "ledgerOriginalPreserved": true
+  },
+  "newCompanyPagesCreated": 0,
+  "corporateDatabaseEdited": false,
+  "independent_review": {
+    "completed": true,
+    "scope": "26社の追記・旧本文保持と06構造",
+    "minor_corrections": "IBMの日本語／英語根拠を分離、デロイトのデータサイエンティスト略称を展開。修正後2ページを再取得して26件比較を再実行",
+    "all_company_preservation_checks_passed": true
+  }
+}
