@@ -1,57 +1,61 @@
-# ケース面接・フェルミ推定｜リアルタイム支援
+# ケース面接・フェルミ推定｜対話支援の基盤
 
-開始・更新：2026-11-25。目的・2モードと共通基盤・記録と学習の運用を確定。解法の収集、演習、具体的な支援手順は未着手。
+更新：2026-11-25。現在は4領域の情報・学習環境を整備。教材未登録、①未学習・未評価、②開始前。本番準備未完了。
 
-## 目的
+## 目的と進め方
 
-**このプロジェクトの新しいWorkチャットで「ケース面接サポート」「フェルミ推定サポート」と伝えれば、Codexが現行文書と学習記録を読み、定めた手順で対話支援できる仕組みを作る。** アプリケーション開発は目的ではない。
+新しいWorkチャットで支援を依頼すると、Codexが文書と学習成果を読み込み、準備後に対話支援する。アプリ開発は目的に含めない。
 
-中心は資料のinputだけでなく、問題への取り組み、回答例・本人のフィードバックとの照合や共同検討、改善の記録と次回への反映を通じて支援精度を高めること。
+**①お題への回答全体を正確に導く → 十分な精度を教材で確認 → ②その一部を、本人に素早く認識できる形で提示する方法を調整。** 最初に示すのがきっかけだけでも、Codexの分析対象は回答全体。
 
-## 最初に読む
-
-[START_HERE](START_HERE.md) → [SPEC](SPEC.md) → [OPERATIONS](OPERATIONS.md) → モード別の手順 → [採用済みの学び](learning/CURRENT.md)。本領域の作業規則は[AGENTS](AGENTS.md)。
-
-| 依頼 | モード | フェルミ推定との関係 |
+| | ① solve：問題集・解答・解説で学習 | ② support：①を土台に本人の評価で調整 |
 | --- | --- | --- |
-| ケース面接を手伝ってほしい | [ケース面接](modes/case/PLAYBOOK.md) | 必要な推定を内部で使い、ケースモードを維持 |
-| フェルミ推定を手伝ってほしい | [単独フェルミ推定](modes/fermi/PLAYBOOK.md) | 推定そのものが単独出題されるときのみ |
+| ケース | [解法・知識・全体回答](modes/case/solve/README.md) | [初手・途中依頼への支援](modes/case/support/README.md) |
+| 単独フェルミ | [解法・概数・全体回答](modes/fermi/solve/README.md) | [式・仮定・結果の提示と追加支援](modes/fermi/support/README.md) |
 
-両者は完全独立ではない。解法・前提知識・探索経路・学びは適用範囲を明記し[共通基盤](shared/README.md)でつなぐ。
+ケース内で推定が必要ならケースモードのまま。単独フェルミモードは推定そのものが単独出題される場合のみ。共通知識は参照で共有する。
 
-Notionの対応ページ：[ケース面接](https://app.notion.com/p/423161f280978186882eeb3b8d463ceb)／[単独フェルミ推定](https://app.notion.com/p/423161f28097813880b7e95b2a016062)／[共通運用・記録](https://app.notion.com/p/423161f2809781a285def6c74f0cd315)／[学習・知識更新](https://app.notion.com/p/423161f28097815fa33ef64eba128381)。
+## 入口
 
-## 保存先と編集境界
+- [START_HERE](START_HERE.md)：新チャットで読む順・モードと目的の判別。
+- [SPEC](SPEC.md)：現行の全体仕様。
+- [INFORMATION_MAP](INFORMATION_MAP.md)：4領域それぞれに保管する情報。
+- [DOCUMENTATION](DOCUMENTATION.md)：A/B/C、重要要約・全情報索引・種類別本文・議論履歴の役割。
+- [ROADMAP](ROADMAP.md)：これから行うことと現在地。
+- [OPERATIONS](OPERATIONS.md)：編集境界・記録・更新の運用。
+- [NOTION_INDEX](NOTION_INDEX.md)：4領域と目的別文書のNotion保存先。
+- [精度と移行条件](learning/READINESS.md)／[準備セット](ready/README.md)。
 
-- GitHub：既存repoの **interview-support/ と配下のみ**。Codex用に仕様、根拠、判断理由、試行・修正、実践と学習履歴を詳細に記録する。
-- Notion：[専用ホーム](https://app.notion.com/p/423161f2809781ff9677d9f3c6a9e488)と子孫のみ。本人向けに最新の確定事項、重要なエッセンスと構造を端的に可視化する。
-- 配下の拡張は可。関連資料の参照は、その資料を編集する権限ではない。親README・HANDOFF・logsや他のNotionページをついでに変更しない。初回の親文書へも追記する運用は、後続の領域限定指示で変更した。
-
-## 構造
+## 保存構造
 
 ```text
 interview-support/
-├── AGENTS.md / START_HERE.md   作業規則・新チャットの入口
-├── SPEC.md / OPERATIONS.md    現行の全体像・共通運用
+├── AGENTS.md / START_HERE.md
+├── SPEC.md / INFORMATION_MAP.md / ROADMAP.md / OPERATIONS.md
 ├── modes/
-│   ├── case/PLAYBOOK.md       ケース面接サポート
-│   └── fermi/PLAYBOOK.md      単独フェルミ推定サポート
+│   ├── case/
+│   │   ├── PLAYBOOK.md
+│   │   ├── solve/    ①のINPUT・LEARNING、CORE・INDEX・details・HISTORY
+│   │   └── support/  ②のINPUT・LEARNING、CORE・INDEX・details・HISTORY
+│   └── fermi/        caseと同じ情報・学習文書の構造
 ├── shared/
-│   ├── knowledge/            解法・前提知識・施策例
-│   └── research/             必要時に調べる探索経路
-├── sessions/                 問題・支援・フィードバックの実記録
-├── learning/                 採用済みの学びと改善の検証履歴
-├── logs/                     議論・決定理由・操作の履歴
-├── archive/                  旧版・失効情報への入口
-└── assets/                   Notion用の構造図など
+│   ├── materials/   問題集・解答・解説の共通台帳
+│   ├── knowledge/   共通知識・ラフな値・施策・出典
+│   └── research/    必要時に素早く調べる探索経路
+├── learning/        4領域の索引・①の精度/移行状態
+├── sessions/        ②や本番の対話記録
+├── ready/           次のチャットが読む準備セット
+├── logs/            議論・決定理由・操作の履歴
+├── archive/         旧版への入口
+└── assets/          Notion用の構造図
 ```
 
-現行情報はSPEC・OPERATIONS・PLAYBOOK・learning/CURRENT、議論はlogs、実践はsessions、検証の経緯はlearningの日付付き記録、旧版はarchiveとGitの固定コミット。詳細は[運用](OPERATIONS.md)。
+各領域のINPUTは資料の索引、実資料ノートは受領後にinput/へ。LEARNINGは学習方法と索引、実績は実施後にlearning/へ。CURRENTは現行文書への入口。採用済みAはCORE、全項目はINDEX、本文はdetails、議論と変更はHISTORYから履歴へ。空の実績・教材を作らず、未登録・未評価を明記する。
 
-## 現在地と再開
+## Notionと編集境界
 
-親AGENTSのGit対象・状態確認とpullを行い、既存の親README/HANDOFFからこの領域へ到達したらSTART_HEREに従う。サポートの毎返信で全資料を再読せず、開始時に現行版を確認し変更時に再読する。
+[Notionホーム](https://app.notion.com/p/423161f2809781ff9677d9f3c6a9e488)は本人向けの最新の要点と構造を可視化する入口。GitHubはCodex向けの詳細な正本。
 
-今回は全体構造と運用の整備まで。情報収集、会員サイト利用、知識のinput、問題演習はまだ実施しない。具体的な解法・対話手順・回答形式・評価基準も今後策定する。過去のGD・ケース資料を自動的に現行仕様へ採用しない。
+編集はこのフォルダとNotionホームの配下のみ。階層追加は可。親README・HANDOFF・logsや他のNotionページをついでに変更しない。既存の親文書のリンクから本READMEへ到達し、START_HEREへ進む。公開GitHubには認証情報、私的な連絡、非公開の問題・解説の全文を保存しない。
 
-GitHubは公開設定。認証情報、私的な連絡、非公開の問題・解説の全文等を保存せず、参照先と公開可能な要約を置く。
+次は教材の受領・整理、その後①のinputと演習。今回は構造更新のみで、Web収集・教材学習・問題演習は開始していない。

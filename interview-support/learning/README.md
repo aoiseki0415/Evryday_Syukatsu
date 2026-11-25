@@ -1,22 +1,16 @@
-# 学習と改善の履歴
+# 学習の全体索引と運用
 
-目的：inputだけで完了にせず、問題とフィードバックを通してCodexの支援方法・知識を更新する。新システムの演習による検証済みの学びはまだない。
+現行の主軸はケース/フェルミ × ①solve/②supportの4領域。input・演習・評価・採用済みの改善を各領域で分ける。本人の修正により、①が十分に高精度になる前に②へ進む案は採用しない。
 
-## 改善の循環
+| 領域 | input | 学習 | 採用済み |
+| --- | --- | --- | --- |
+| ケース① | [INPUT](../modes/case/solve/INPUT.md) | [LEARNING](../modes/case/solve/LEARNING.md) | [CURRENT](../modes/case/solve/CURRENT.md) |
+| ケース② | [INPUT](../modes/case/support/INPUT.md) | [LEARNING](../modes/case/support/LEARNING.md) | [CURRENT](../modes/case/support/CURRENT.md) |
+| フェルミ① | [INPUT](../modes/fermi/solve/INPUT.md) | [LEARNING](../modes/fermi/solve/LEARNING.md) | [CURRENT](../modes/fermi/solve/CURRENT.md) |
+| フェルミ② | [INPUT](../modes/fermi/support/INPUT.md) | [LEARNING](../modes/fermi/support/LEARNING.md) | [CURRENT](../modes/fermi/support/CURRENT.md) |
 
-知識のinput → 問題に取り組む → 回答例・フィードバックとの照合または本人との共同検討 → 改善案を検証 → 採用した内容を現行手順・知識へ → 次回に適用・再確認。
+①は問題集・解答・解説等で学習・照合し、本人を正誤の採点役にしない。②は①の回答全体を土台に、本人が使いやすい提示・途中依頼への適応を評価する。
 
-本人の学びとCodexの支援方法の改善を区別する。この「学習」は記録・参照・改善の運用であり、モデル自体の追加訓練ではない。
+実際の①演習は各solve/learningに記録。②の対話はsessions、評価・改善は各support/learningへ参照で結ぶ。採用した内容の本文はdetails、全項目はINDEX、重要な採用済みAはCOREへ。CURRENTはそれらの入口。ここへ同じ履歴を複製しない。
 
-## 履歴と現行索引
-
-履歴はYYYY-MM-DD-NN-topic.md、採用済みの要点は[CURRENT](CURRENT.md)へ。履歴の記録項目：
-
-- 学習ID、関連session、適用モードcase/fermi/shared、使用した手順版。
-- 本人の評価、回答例との比較、観察できた事実、解釈、未評価点。
-- 改善案、試す方法と結果、採用/保留/撤回、適用条件。
-- 反映したPLAYBOOK・knowledge等の正本と、Notionの重要な要約へのリンク。
-
-回答例や評価がない場合は本人との検討を記録し、未検証を検証済みにしない。解答例1つとの差だけで誤りと断定しない。単発の印象を一般ルールへ自動昇格させない。
-
-共通化できる学びは適用条件を確認して1件で管理する。ケース/単独フェルミの手順は参照リンクで利用する。精度向上は実際に評価した範囲だけ述べる。評価指標と採用基準の具体化は今後行う。
+[READINESS](READINESS.md)が①の精度と②への移行の状態の正本、[CURRENT](CURRENT.md)が4領域の現行索引。現在は全領域の学習実績なし。学習は文書・知識・手順の更新と次回適用を意味し、モデル自体の追加訓練や精度向上の実証を意味しない。

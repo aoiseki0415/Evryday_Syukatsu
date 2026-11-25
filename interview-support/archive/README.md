@@ -8,3 +8,7 @@
 | [11/25保存先ログ](../logs/2026-11-25-storage-and-roles.md) | 初回の配置判断と操作 | [後続の方針ログ](../logs/2026-11-25-project-direction.md) |
 
 初回文書の親HANDOFF・親logsへの追記方針は、後続の本人指示で本領域だけの記録へ変更された。過去の操作記録は書き換えず現行運用で境界を示す。
+
+## 4領域と優先度の導入前
+
+[4ae7574時点の文書](https://github.com/aoiseki0415/Evryday_Syukatsu/tree/4ae75749989c0b195ec959027ef112f06c788894/interview-support)は2モードと共通学習の初版。①②の評価主体と優先度別の文書構造は後続の指示で具体化された。現行はSPEC・DOCUMENTATION・ROADMAPを読む。①の正誤を本人へ依頼する旧記述は現在の方針として使わない。

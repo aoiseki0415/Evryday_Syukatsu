@@ -1,7 +1,12 @@
-# 現在採用している学び・改善
+# 4領域の現行採用情報への入口
 
-更新：2026-11-25。**新システムの演習・フィードバックから検証・採用された改善はまだない。**
+更新：2026-11-25。検証・採用済みの学習成果はまだない。設計上の合意を実践で学習済みとしない。
 
-ここは後続のチャットが最初に読む現行索引。設計段階のルールはSPEC/OPERATIONSにあり、実践で学習済みとは扱わない。
+| 領域 | 現行の正本 |
+| --- | --- |
+| ケース① | [solve/CURRENT](../modes/case/solve/CURRENT.md) |
+| ケース② | [support/CURRENT](../modes/case/support/CURRENT.md) |
+| フェルミ① | [solve/CURRENT](../modes/fermi/solve/CURRENT.md) |
+| フェルミ② | [support/CURRENT](../modes/fermi/support/CURRENT.md) |
 
-改善が生じたら、ID、適用モードcase/fermi/shared、要点、根拠となる学習記録・セッション、適用条件、反映先、検証状態を短く記す。失効した改善は現行索引から外し、履歴と後継への参照を残す。
+採用ルールの本文をここへ重複記入しない。[READINESS](READINESS.md)で精度と移行状態、[ready](../ready/README.md)で新チャットへの読み込みを確認する。
