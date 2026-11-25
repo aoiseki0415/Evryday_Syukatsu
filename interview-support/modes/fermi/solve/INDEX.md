@@ -10,8 +10,6 @@
 | [FERMI-SOLVE-A-002：検算・感度](details/method-selection.md) | 検証／標準手順として採用済みv2。算術とモデル/独立性を分ける | 係数の裏付けと全体精度は別に評価 |
 | [KNOW-JP-001：人口](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。全国在住者、ラフ1.2億等 | 公的統計確認v1、使用条件あり |
 | [KNOW-JP-002：世帯](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。ラフ6000万世帯・2人等 | 国勢調査確認v1、一般世帯の定義あり |
-
-
 | [KNOW-METHOD-001：集計範囲・分母](../../../shared/knowledge/methods/measurement-boundaries.md) | 共通確認規則／採用済みv1。対象・イベント・実人数・期間を合わせる | 公式定義と演習後の再input |
 
 ## B 重要
@@ -29,6 +27,7 @@
 
 - [FERMI-SOLVE-B-003：人流の境界と加重](details/flow-boundaries.md)：B候補v1。東京駅の対象ずれから登録、羽田/列車で転用を自己照合。
 - [KNOW-METHOD-002〜004：客室指標/価格、回避支出、工程能力](../../../shared/knowledge/methods/measurement-boundaries.md)：共通B、公式定義・条件付き代数・モデルの範囲で採用済みv1。問題全体の高精度認定とは分ける。
+- [KNOW-METHOD-005：状態/実人数・業務量/FTE/移管の境界](../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通B候補v1。状態stock/流入・再発、実人数と換算業務量が関わる場合に確認。現行制度・効果率は採用しない。
 
 - [KNOW-JP-007/008：住宅・車両の概数](../../../shared/knowledge/facts/housing-vehicles.md)：B採用済みv1。時点・居住/空き家・乗用/全車種の条件あり。世帯と戸数、保有と年販売を混ぜない。
 

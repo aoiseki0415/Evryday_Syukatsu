@@ -9,8 +9,6 @@
 | [CASE-SOLVE-A-001：回答全体の骨格](details/method-selection.md) | 方法／標準手順として採用済みv2。問い・仮説・比較・結論・検証 | 複数型の演習・再input・転用が根拠。全型の精度認定とは別 |
 | [KNOW-JP-001：人口](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。全国在住者、ラフ1.2億等 | 公的統計確認v1、使用条件あり |
 | [KNOW-JP-002：世帯](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。ラフ6000万世帯・2人等 | 国勢調査確認v1、一般世帯の定義あり |
-
-
 | [KNOW-METHOD-001：集計範囲・分母](../../../shared/knowledge/methods/measurement-boundaries.md) | 共通確認規則／採用済みv1。対象・イベント・実人数・期間を合わせる | 公式定義と演習後の再input |
 
 ## B 重要
@@ -21,6 +19,8 @@
 
 - [CASE-SOLVE-B-002：問題型・条件に応じた方法選択](details/method-selection.md)：v2。枝別に限定採用と候補を区別。適用/切替/検証条件を読み、全分岐を検証済みとしない。
 - [CASE-SOLVE-B-003/004/005：コホートと継続採算、行動障害、現行実装と最終指標](details/cohorts-behavior-metrics.md)：条件付きの確認手順として採用済みv2。具体的な原因/介入効果率は未検証。
+- [CASE-SOLVE-B-006/007：段階投資の限界判断・複合施策の検証](details/staged-decisions.md)：B候補v1。留保評価の不足から再inputし、追加別問での適用・評価を記録する。過去便益と追加便益、セットと成分を区別。
+- [KNOW-METHOD-005：状態/実人数・業務量/FTE/移管の境界](../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通B候補v1。Care比較から整理。制度の現行要件・効果率は採用せず、追加別問で確認する。
 - [KNOW-JP-003：年齢の概数](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-004：国土面積](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-005：就業者](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。

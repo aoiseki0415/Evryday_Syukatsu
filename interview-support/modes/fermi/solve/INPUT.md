@@ -20,6 +20,8 @@
 
 ## 登録済みの情報
 
+- [住宅・車両の追加アンカーinput](../../../shared/knowledge/input/2026-11-25-additional-anchors.md)：公的な定義/時点、粗い数と未採用の探索入口。
+- [共通Care再input](../../../shared/knowledge/input/2026-11-25-care-followup.md)：状態stockと遷移、実人数/時間/FTEの境界。METHOD-005候補へ接続。
 - [演習後の再input](input/2026-11-25-feedback-methods.md)：stock/flow・寿命、道路区分、平均と加重、現存と必要配置。一次/公式6資料、採用範囲と保留を分離。
 - [共通の測定・収益・工程の再input](../../../shared/knowledge/input/2026-11-25-followup-definitions.md)：駅・分母のずれ、期間、能力と実量を確認。
 
