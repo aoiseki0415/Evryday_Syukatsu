@@ -4,6 +4,7 @@
 
 ## 環境設計の記録
 
+- [2026-11-26追加学習](../../../logs/2026-11-26-solve-learning-execution.md)：追加12問。面積/密度・能力のinput、森林定義と生産/出荷の再input、別問転用からB007/008候補v1を登録。共通METHOD006は公式定義/同境界の代数のみB限定採用v1。自由係数の実測認定とは分離。
 - [本格input・演習・再inputの実行履歴](../../../logs/2026-11-25-solve-learning-execution.md)：初回答の版、比較、共通知識採用と方法候補、Notion反映。
 
 - [4領域の分離と①先行の学習方針](../../../logs/2026-11-25-four-track-learning.md)
