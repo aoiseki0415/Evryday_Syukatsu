@@ -3,7 +3,7 @@
 - exercise_id：GYM-003／GYM-004、cycle_id：SOLVE-CYCLE-001。2026-11-25。
 - source_id：GYM-001、[ケース面接ジム](https://casemensetsu.com/practice/fermi)。親が問題と対象範囲のみを中継した。自販機は[stock経路](https://casemensetsu.com/practice/session?type=fermi&category=stock)、エアコンは[ownership経路](https://casemensetsu.com/practice/session?type=fermi&category=ownership)。ランダム経路のためURLだけで同じ問題の再現を保証しない。
 - 区分：初期input v1を使った新規学習問題。親の画面はどちらもヒント0/4、解答例・講評は親/本担当とも未読。関連する一般的な推定の経験はある。解答・設置台数の統計検索はしていない。
-- 使用版：Git HEAD c5ce908ad453474f06523185a08eb23bf001b36d＋未コミット[フェルミ方法v1](../details/method-selection.md)と[共通概数v1](../../../shared/knowledge/facts/japan-anchors.md)。方法は候補、概数は出典・定義の確認済みの範囲で採用済み。
+- 使用版：Git HEAD c5ce908ad453474f06523185a08eb23bf001b36d＋未コミット[フェルミ方法v1](../details/method-selection.md)と[共通概数v1](../../../../shared/knowledge/facts/japan-anchors.md)。方法は候補、概数は出典・定義の確認済みの範囲で採用済み。
 - 事前評価観点：対象と数える単位、個人/法人等の範囲、母数・率・個数の分母、重複/抜け、単位と算術、感度・別の点検、結論の適切な丸め。難度はサイトの表示未受領で未記録。学習用であり留保した未見ホールドアウト評価ではない。
 - 本担当の回答開始：2026-11-25 20:15:56 JST。親の問題受領時刻は推測しない。資料の再読、計算の実行確認、文書化を含む。保存確認時刻は末尾に追記する。
 

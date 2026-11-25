@@ -3,7 +3,7 @@
 - exercise_id：GYM-C-002／GYM-C-005／GYM-C-010、cycle_id：SOLVE-CYCLE-001。2026-11-25。
 - source_id：GYM-001、[ケース面接ジム](https://casemensetsu.com/practice/case)。親が画面の短い問題のみを中継。カテゴリは順にprivate／sales-growth／decision。個別問題をURLだけで再現できるかは未確認。
 - 区分：初期inputを使う新規学習。3問ともヒント0/4、親・本担当とも解説未閲覧。特定の与件は問題の短文以外になく、下記の目標値・率・人数・費用は**全て説明用の独自仮定**。実績・正答例を検索していない。関連する一般論/事例は既読。
-- 使用版：Git HEAD c5ce908ad453474f06523185a08eb23bf001b36d＋未コミット[CASE-SOLVE-A-001/B-002 v1](../details/method-selection.md)、[共通施策v1](../../../shared/knowledge/measures/mechanisms.md)。方法は候補、共通施策の企業報告部分は採用済みB、横展開と効果は仮説。
+- 使用版：Git HEAD c5ce908ad453474f06523185a08eb23bf001b36d＋未コミット[CASE-SOLVE-A-001/B-002 v1](../details/method-selection.md)、[共通施策v1](../../../../shared/knowledge/measures/mechanisms.md)。方法は候補、共通施策の企業報告部分は採用済みB、横展開と効果は仮説。
 - 事前評価観点：問いの指標/期間/制約、仮説と事実の区別、根拠を得る検証、施策の作用、比較・増分採算、実行条件・リスク、条件付き結論。サイト難度・採点点数は未受領。学習用であり留保ホールドアウトの精度評価ではない。
 - 時間：本担当範囲の記録開始20:21:31 JST。直前問題CM-C-003の講評追記、施策資料の再読、下記3問の計算・記録を含む。問題受領時刻/各問別の純粋な解答時間は未計測。保存後に時刻を追記する。
 

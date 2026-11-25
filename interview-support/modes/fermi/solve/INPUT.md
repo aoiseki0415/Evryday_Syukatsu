@@ -20,6 +20,9 @@
 
 ## 登録済みの情報
 
+- [演習後の再input](input/2026-11-25-feedback-methods.md)：stock/flow・寿命、道路区分、平均と加重、現存と必要配置。一次/公式6資料、採用範囲と保留を分離。
+- [共通の測定・収益・工程の再input](../../../shared/knowledge/input/2026-11-25-followup-definitions.md)：駅・分母のずれ、期間、能力と実量を確認。
+
 - [FERMI-INPUT-20261125-METHODS：初期input・複数資料比較](input/2026-11-25-initial-methods.md)：CaseMatch・ジム・教育資料等の読解範囲と方法の違いを保存。[全体回答・型選択・検算の候補v1](details/method-selection.md)へ統合。
 - [概数アンカーの一次確認ノート](../../../shared/knowledge/input/2026-11-25-facts-measures.md) → [ラフ値と定義の本文](../../../shared/knowledge/facts/japan-anchors.md)。
 

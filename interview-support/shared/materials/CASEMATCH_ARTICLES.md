@@ -11,10 +11,10 @@
 | ID | 資料・所在 | 主な用途 | 確認範囲 |
 | --- | --- | --- | --- |
 | CM-ART-01 | [フェルミ推定 評価の6観点](https://casematch.jp/column/newgrads-midcareer-fermi-estimation-case-interview/) | フェルミ①の手順・根拠・検算・修正の観点 | 本文確認。[inputノート](../../modes/fermi/solve/input/2026-11-25-casematch-evaluation.md) |
-| CM-ART-02 | [ケース面接 4パターン別の解き方](https://casematch.jp/column/newgrads-case-prep-question-patterns/) | ケース①の問題分類・解法の見取り図 | 見出し・冒頭確認。利益改善、参入、公共課題、抽象・二択の分類と、分析・原因・施策・比較の章がある。細部は今後読解 |
-| CM-ART-03 | [フェルミで使う数字50選](https://casematch.jp/column/newgrads-fermi-numbers/) | ラフなアンカー数値の候補 | 検索・記事リンクの存在のみ確認。数値の本文・現行性は未確認 |
-| CM-ART-04 | [フェルミの例題と解法](https://casematch.jp/column/newgrads-fermi-examples/) | 複数の問題型・解法比較 | 検索・記事リンクの存在のみ確認。本文は未確認 |
-| CM-ART-05 | [ケース回答例とNG比較](https://casematch.jp/column/newgrads-case-prep-explanation-vol2/) | ケース①の良い回答・失敗の照合 | 関連リンクの存在のみ確認。本文は未確認 |
+| CM-ART-02 | [ケース面接 4パターン別の解き方](https://casematch.jp/column/newgrads-case-prep-question-patterns/) | ケース①の問題分類・解法の見取り図 | 後続inputで4分類・5ステップ・通し例導入の本文を確認。[範囲と比較](../../modes/case/solve/input/2026-11-25-initial-methods.md)。記事全体を読了した扱いにしない |
+| CM-ART-03 | [フェルミで使う数字50選](https://casematch.jp/column/newgrads-fermi-numbers/) | ラフなアンカー数値の候補 | 後続inputで導入・簡易計算・妥当性確認を読解。[範囲と比較](../../modes/fermi/solve/input/2026-11-25-initial-methods.md)。数字一覧の全検証は未実施。採用概数は公的資料で別途確認 |
+| CM-ART-04 | [フェルミの例題と解法](https://casematch.jp/column/newgrads-fermi-examples/) | 複数の問題型・解法比較 | 後続inputで基本過程・前提・分解・精緻化・計算・回答の指定節を確認。[読解記録](../../modes/fermi/solve/input/2026-11-25-initial-methods.md)。読んだ例題を完全未見評価へ戻さない |
+| CM-ART-05 | [ケース回答例とNG比較](https://casematch.jp/column/newgrads-case-prep-explanation-vol2/) | ケース①の良い回答・失敗の照合 | 後続inputで前提・3C/4Pと施策接続まで本文確認。[範囲と比較](../../modes/case/solve/input/2026-11-25-initial-methods.md)。企業事実・効果の実証として使わない |
 
 ## 事実と本人の判断を分ける
 

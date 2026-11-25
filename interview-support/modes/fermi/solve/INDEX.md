@@ -1,13 +1,13 @@
 # フェルミ①｜全情報の索引
 
-状態：初期input v1と方法候補を登録。共通概数/事例は確認済みの範囲で採用。領域の十分な精度は未評価。優先度と状態を別に読む。
+状態：初期input→演習→再input→別問題適用を経て標準手順v2へ更新。型選択の候補と、定義/条件付き式の採用を区別する。領域全体の十分な精度は未認定。優先度と状態を別に読む。
 
 ## A 必須
 
 | ID・要点 | 種類・状態・条件 | 根拠・版 |
 | --- | --- | --- |
-| [FERMI-SOLVE-A-001：全体回答](details/method-selection.md) | 方法／候補。対象定義から検証・結論まで | 初期input比較v1 |
-| [FERMI-SOLVE-A-002：検算・感度](details/method-selection.md) | 検証／候補。算術とモデルの確認を分ける | 初期input比較v1 |
+| [FERMI-SOLVE-A-001：全体回答](details/method-selection.md) | 方法／標準手順として採用済みv2。対象定義から検証・結論まで | 複数型の演習と再input、精度/速度の認定とは別 |
+| [FERMI-SOLVE-A-002：検算・感度](details/method-selection.md) | 検証／標準手順として採用済みv2。算術とモデル/独立性を分ける | 係数の裏付けと全体精度は別に評価 |
 | [KNOW-JP-001：人口](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。全国在住者、ラフ1.2億等 | 公的統計確認v1、使用条件あり |
 | [KNOW-JP-002：世帯](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。ラフ6000万世帯・2人等 | 国勢調査確認v1、一般世帯の定義あり |
 
@@ -20,7 +20,8 @@
 | --- | --- | --- | --- |
 | [FERMI-SOLVE-B-001：制約差のある層で割合を作る](details/constraint-segmentation.md) | 解法・分解／利用や所有の制約差が重要な場合 | 候補、2026-11-25。別問題での再現は未確認 | [GYM-FERMI-001](learning/2026-11-25-01-gym-navigation-pilot.md)。旧状態なし、自己比較から新規。[変更](../../../logs/2026-11-25-research-and-casematch.md)。失効・後継なし |
 
-- [FERMI-SOLVE-B-002：問題型・条件に応じた方法選択](details/method-selection.md)：B候補v1。各分岐の適用/切替/検証条件付き。全分岐の演習検証はこれから。
+- [FERMI-SOLVE-B-002：問題型・条件に応じた方法選択](details/method-selection.md)：B候補v2。各分岐の適用/切替/検証条件と演習根拠を対応。未実施枝・仮定根拠を留保。
+- [FERMI-SOLVE-B-004/005：stock/更新と時間/群の加重](details/stock-time-weighting.md)：B採用済み情報版v1。一次定義と条件付き式のみ、個別の寿命/稼働/一般精度は未認定。
 - [KNOW-JP-003：年齢の概数](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-004：国土面積](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-005：就業者](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
@@ -28,6 +29,8 @@
 
 - [FERMI-SOLVE-B-003：人流の境界と加重](details/flow-boundaries.md)：B候補v1。東京駅の対象ずれから登録、羽田/列車で転用を自己照合。
 - [KNOW-METHOD-002〜004：客室指標/価格、回避支出、工程能力](../../../shared/knowledge/methods/measurement-boundaries.md)：共通B、公式定義・条件付き代数・モデルの範囲で採用済みv1。問題全体の高精度認定とは分ける。
+
+- [KNOW-JP-007/008：住宅・車両の概数](../../../shared/knowledge/facts/housing-vehicles.md)：B採用済みv1。時点・居住/空き家・乗用/全車種の条件あり。世帯と戸数、保有と年販売を混ぜない。
 
 ## C 補足
 

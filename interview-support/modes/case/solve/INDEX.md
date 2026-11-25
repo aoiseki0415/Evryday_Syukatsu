@@ -1,12 +1,12 @@
 # ケース①｜全情報の索引
 
-状態：初期input v1と方法候補を登録。共通概数/事例は確認済みの範囲で採用。領域の十分な精度は未評価。優先度と状態を別に読む。
+状態：初期input→演習→再input→別問題適用を経て標準手順v2へ更新。採用範囲と候補/未評価を枝ごとに分ける。領域全体の十分な精度は未認定。優先度と状態を別に読む。
 
 ## A 必須
 
 | ID・要点 | 種類・状態・条件 | 根拠・版 |
 | --- | --- | --- |
-| [CASE-SOLVE-A-001：回答全体の骨格](details/method-selection.md) | 方法／候補。問い・仮説・比較・結論・検証 | 初期input比較v1、演習検証へ |
+| [CASE-SOLVE-A-001：回答全体の骨格](details/method-selection.md) | 方法／標準手順として採用済みv2。問い・仮説・比較・結論・検証 | 複数型の演習・再input・転用が根拠。全型の精度認定とは別 |
 | [KNOW-JP-001：人口](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。全国在住者、ラフ1.2億等 | 公的統計確認v1、使用条件あり |
 | [KNOW-JP-002：世帯](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。ラフ6000万世帯・2人等 | 国勢調査確認v1、一般世帯の定義あり |
 
@@ -19,7 +19,8 @@
 | --- | --- | --- | --- |
 | [CASE-SOLVE-B-001：効果の下振れ境界を目標から逆算](details/target-sensitivity.md) | 検証・結論／定量目標の実行判断に重要 | 候補。目標と施策効果を定量化できる場合。2026-11-25確認 | [CM-TEXT-001](learning/2026-11-25-01-casematch-text-pilot.md)。生成類題1問と計算照合のみ。独立・未見評価なし。[変更](../../../logs/2026-11-25-research-and-casematch.md)。失効・後継なし |
 
-- [CASE-SOLVE-B-002：問題型・条件に応じた方法選択](details/method-selection.md)：B候補v1。各分岐の適用/切替/検証条件付き。全分岐の演習検証はこれから。
+- [CASE-SOLVE-B-002：問題型・条件に応じた方法選択](details/method-selection.md)：v2。枝別に限定採用と候補を区別。適用/切替/検証条件を読み、全分岐を検証済みとしない。
+- [CASE-SOLVE-B-003/004/005：コホートと継続採算、行動障害、現行実装と最終指標](details/cohorts-behavior-metrics.md)：条件付きの確認手順として採用済みv2。具体的な原因/介入効果率は未検証。
 - [KNOW-JP-003：年齢の概数](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-004：国土面積](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-005：就業者](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
@@ -30,6 +31,8 @@
 - [KNOW-MEASURE-004：受取制約](../../../shared/knowledge/measures/mechanisms.md)：共通B、企業公式の事例事実として採用済みv1。転用効果は仮説で演習検証対象。
 
 - [KNOW-METHOD-002〜004：客室指標/価格、回避支出、工程能力](../../../shared/knowledge/methods/measurement-boundaries.md)：共通B、公式定義・条件付き代数・モデルの範囲で採用済みv1。問題全体の高精度認定とは分ける。
+
+- [KNOW-JP-007/008：住宅・車両の概数](../../../shared/knowledge/facts/housing-vehicles.md)：B採用済みv1。時点・居住/空き家・乗用/全車種の条件あり。世帯と戸数、保有と年販売を混ぜない。
 
 ## C 補足
 

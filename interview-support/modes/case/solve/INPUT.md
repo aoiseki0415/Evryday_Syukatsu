@@ -20,11 +20,14 @@
 
 ## 登録済みの情報
 
+- [CASE-INPUT-20261125-02：演習後の再input](input/2026-11-25-feedback-methods.md)：継続/LTV・行動・既存施策・指標、一次/公式6資料。次版候補と未検証を分離。
+- [共通の測定・収益・工程の再input](../../../shared/knowledge/input/2026-11-25-followup-definitions.md)：初演習の不足から一次定義へ戻って確認。
+
 - [CASE-INPUT-20261125-01：初期input・複数資料比較](input/2026-11-25-initial-methods.md)：19URLの指定範囲、各社公式・大学・国内サービス等の共通点/相違点、読めなかった部分を記録。[方法カード候補v1](details/method-selection.md)へ統合。
 - [共通の概数・企業施策事例の初期input](../../../shared/knowledge/input/2026-11-25-facts-measures.md)：確認値とラフ値、事例事実と転用仮説を分離。
 
 - CM-001／CM-TEXT-001：[生成類題・参考解答・講評の試行記録](learning/2026-11-25-01-casematch-text-pilot.md)。サイト内AI生成、企業公式問題・実際の過去問ではない。教材本文は元のチャットで参照し、ここには自作回答・比較要点のみを保存する。
 - CM-001のAIチャットとGYM-001を①の同等の主要演習先として採用。[台帳](../../../shared/materials/README.md)の対象範囲・操作確認済み範囲に従う。
-- [CM-ARTの初期input資料](../../../shared/materials/CASEMATCH_ARTICLES.md)：ケース分類・解法記事の冒頭と見出しを確認。本文全体の読解・解法の確定は今後行う。
+- [CM-ARTの初期input資料](../../../shared/materials/CASEMATCH_ARTICLES.md)：後続の初期inputで指定節本文まで確認。閲覧した範囲と残る未読を資料台帳で区別する。
 
 公開/非公開の範囲を守り、原資料の全文を公開GitHubへ複製しない。
