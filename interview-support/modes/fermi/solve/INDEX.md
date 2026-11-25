@@ -19,7 +19,7 @@
 | [FERMI-SOLVE-B-001：制約差のある層で割合を作る](details/constraint-segmentation.md) | 解法・分解／利用や所有の制約差が重要な場合 | 候補、2026-11-25。別問題での再現は未確認 | [GYM-FERMI-001](learning/2026-11-25-01-gym-navigation-pilot.md)。旧状態なし、自己比較から新規。[変更](../../../logs/2026-11-25-research-and-casematch.md)。失効・後継なし |
 
 - [FERMI-SOLVE-B-002：問題型・条件に応じた方法選択](details/method-selection.md)：B候補v2。各分岐の適用/切替/検証条件と演習根拠を対応。未実施枝・仮定根拠を留保。
-- [FERMI-SOLVE-B-004/005：stock/更新と時間/群の加重](details/stock-time-weighting.md)：B採用済み情報版v1。一次定義と条件付き式のみ、個別の寿命/稼働/一般精度は未認定。
+- [FERMI-SOLVE-B-004/005：stock/更新と時間/群の加重](details/stock-time-weighting.md)：B採用済み情報版v2。調査対象/分母、寿命分布・残存の重み、推奨/行動・販売/装着を補強。条件付き式/定義の採用で、実係数・実数精度は未認定。
 - [KNOW-JP-003：年齢の概数](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-004：国土面積](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
 - [KNOW-JP-005：就業者](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
@@ -27,7 +27,7 @@
 
 - [FERMI-SOLVE-B-003：人流の境界と加重](details/flow-boundaries.md)：B候補v1。東京駅の対象ずれから登録、羽田/列車で転用を自己照合。
 - [KNOW-METHOD-002〜004：客室指標/価格、回避支出、工程能力](../../../shared/knowledge/methods/measurement-boundaries.md)：共通B、公式定義・条件付き代数・モデルの範囲で採用済みv1。問題全体の高精度認定とは分ける。
-- [KNOW-METHOD-005：状態/実人数・業務量/FTE/移管の境界](../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通B候補v1。状態stock/流入・再発、実人数と換算業務量が関わる場合に確認。現行制度・効果率は採用しない。
+- [KNOW-METHOD-005：状態/実人数・業務量/FTE/移管の境界](../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通B限定採用v2。状態stockと遷移、実人数と換算業務量が関わる場合の定義/条件付き確認。現行制度・効果率・未評価枝は未確定。
 
 - [KNOW-JP-007/008：住宅・車両の概数](../../../shared/knowledge/facts/housing-vehicles.md)：B採用済みv1。時点・居住/空き家・乗用/全車種の条件あり。世帯と戸数、保有と年販売を混ぜない。
 

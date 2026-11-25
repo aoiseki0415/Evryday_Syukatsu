@@ -9,5 +9,6 @@
 共通知識の本文はshared/knowledge等の1か所に置き、ここから参照する。教材の読解・比較ノートはinput/、①演習の実記録はlearning/に保持する。sessionsは②・本番の対話用。証拠と再利用する知識の本文を混ぜない。
 
 - [CASE-SOLVE-A-001/B-002：全体回答と型に応じた方法選択](method-selection.md)：現在はv2。標準手順は採用済み、型選択は枝別に限定採用/候補を区別。初期候補v1はGit履歴へ。
-- [CASE-SOLVE-B-006/007：段階投資・複合施策の検証](staged-decisions.md)：留保評価から戻った再inputによるB候補v1。追加別問の評価後に採否を更新する。
-- [KNOW-METHOD-005：状態stock・実人数/業務量/FTE/移管](../../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通のB候補v1。種類の違う量と、移管先の負荷/費用を区別。
+- [CASE-SOLVE-B-006/007：段階投資・複合施策の検証](staged-decisions.md)：B006は限定採用v2、B007は候補v1。追加別問の証拠と未検証を区別。
+- [CASE-MEASURE-B-001〜006：原因条件から選ぶ施策仮説](measure-hypotheses.md)：すべてB候補v1。複数演習から作用・実行費用・最終成果・反証を抽出。企業の公表事実や一般的な改善率と区別する。
+- [KNOW-METHOD-005：状態stock・実人数/業務量/FTE/移管](../../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通B限定採用v2。定義/条件付きモデルに限り、現実の効果・制度の現行適用は未確定。

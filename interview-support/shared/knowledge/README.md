@@ -1,6 +1,6 @@
 # 解法・前提知識・施策例
 
-状態：公的資料に基づく概数アンカー8項目、企業公式の施策事例4項目を登録。共通METHOD-001〜004に加え、状態/実人数・業務量/FTE/移管のMETHOD-005をB候補v1として整理。資料で確認できた事実、再利用候補、各演習への転用・効果の検証を区別する。
+状態：公的資料に基づく概数アンカー8項目、企業公式の施策事例4項目を登録。共通METHOD-001〜004に加え、状態/実人数・業務量/FTE/移管のMETHOD-005を定義/条件付きモデルの範囲でB限定採用v2へ更新。資料事実、再利用する確認手順、各演習への転用・現実の効果の検証を区別する。
 
 - [人口・世帯・年齢・面積・就業・期間の概数](facts/japan-anchors.md)：KNOW-JP-001〜006、v1。重要度A/B、採用済みの範囲・条件を各行に記載。
 - [住宅・車両の基数](facts/housing-vehicles.md)：KNOW-JP-007/008、B採用済みv1。空き家/居住戸、乗用/全用途を区別。[追加input](input/2026-11-25-additional-anchors.md)に未採用の事業所/教育の入口も記録。
@@ -8,7 +8,7 @@
 - [資料読解・比較の記録](input/2026-11-25-facts-measures.md)：原表・企業説明の読解範囲と未調査の穴。
 - [集計範囲・分母・効果実現の確認](methods/measurement-boundaries.md)：KNOW-METHOD-001〜004、v1。定義・代数・モデル条件の範囲でA/B採用。効果量や完答精度の保証とは分ける。
 - [初演習から戻った再input](input/2026-11-25-followup-definitions.md)：駅の定義、客室指標、回避支出、有限時間工程。
-- [状態stock・実人数と業務量/FTE/移管の境界](methods/state-workforce-boundaries.md)：KNOW-METHOD-005、B候補v1。Care3問の差分から整理し、追加別問は未評価。数値/効果率・制度の現行適用要件は採用しない。[Care再input](input/2026-11-25-care-followup.md)を根拠とし、一般のコホート/stock式は既存本文へ参照する。
+- [状態stock・実人数と業務量/FTE/移管の境界](methods/state-workforce-boundaries.md)：KNOW-METHOD-005、B限定採用v2。Care比較→再input→追加2問の条件付き適用を根拠とし、数値/効果率・制度の現行適用要件は採用しない。[Care再input](input/2026-11-25-care-followup.md)を保持し、一般のコホート/stock式は既存本文へ参照する。
 
 ## 分類
 

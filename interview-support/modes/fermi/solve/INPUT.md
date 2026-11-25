@@ -20,12 +20,13 @@
 
 ## 登録済みの情報
 
+- [FERMI-STOCK-INPUT-20261125：タイヤ交換後の再input](input/2026-11-25-stock-transfer-followup.md)：3一次資料の指定範囲、調査対象/設問・状態/推奨/行動・寿命分布/重み。初回答の係数や1200万本を実証した資料とはしない。
 - [住宅・車両の追加アンカーinput](../../../shared/knowledge/input/2026-11-25-additional-anchors.md)：公的な定義/時点、粗い数と未採用の探索入口。
-- [共通Care再input](../../../shared/knowledge/input/2026-11-25-care-followup.md)：状態stockと遷移、実人数/時間/FTEの境界。METHOD-005候補へ接続。
+- [共通Care再input](../../../shared/knowledge/input/2026-11-25-care-followup.md)：状態stockと遷移、実人数/時間/FTEの境界。METHOD-005本文へ接続。
 - [演習後の再input](input/2026-11-25-feedback-methods.md)：stock/flow・寿命、道路区分、平均と加重、現存と必要配置。一次/公式6資料、採用範囲と保留を分離。
 - [共通の測定・収益・工程の再input](../../../shared/knowledge/input/2026-11-25-followup-definitions.md)：駅・分母のずれ、期間、能力と実量を確認。
 
-- [FERMI-INPUT-20261125-METHODS：初期input・複数資料比較](input/2026-11-25-initial-methods.md)：CaseMatch・ジム・教育資料等の読解範囲と方法の違いを保存。[全体回答・型選択・検算の候補v1](details/method-selection.md)へ統合。
+- [FERMI-INPUT-20261125-METHODS：初期input・複数資料比較](input/2026-11-25-initial-methods.md)：CaseMatch・ジム・教育資料等の読解範囲と方法の違いを保存。初期候補v1へ統合した経緯を保持し、[現在の全体回答・型選択・検算の本文v2](details/method-selection.md)から旧版の固定Git履歴へ戻れる。
 - [概数アンカーの一次確認ノート](../../../shared/knowledge/input/2026-11-25-facts-measures.md) → [ラフ値と定義の本文](../../../shared/knowledge/facts/japan-anchors.md)。
 
 - [CM-ART-01：評価観点のinputノート](input/2026-11-25-casematch-evaluation.md)。本文確認済み、資料読解と採用済み解法を分離。
