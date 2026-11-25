@@ -1,6 +1,6 @@
 # フェルミ①｜回答全体を解く：input
 
-状態：主要演習先2件を採用。CaseMatchの評価観点の記事を初期確認し、GYM-001を1問試行。以下は今後も収集する情報の定義であり、網羅的inputの完了ではない。
+状態：複数発行者の無料本文を読んだ初期input v1を保存。網羅的な調査の完了ではなく、演習差分から再調査する。実績と採用状態はLEARNING・INDEXを参照。
 
 ## 対象
 
@@ -19,6 +19,9 @@
 両モードで使える知識の本文は[shared/knowledge](../../../shared/knowledge/README.md)に置き、ここから参照する。①の全体回答・解法を②へ全文複製しない。元資料や採用済みの知識と区別して保存する。
 
 ## 登録済みの情報
+
+- [FERMI-INPUT-20261125-METHODS：初期input・複数資料比較](input/2026-11-25-initial-methods.md)：CaseMatch・ジム・教育資料等の読解範囲と方法の違いを保存。[全体回答・型選択・検算の候補v1](details/method-selection.md)へ統合。
+- [概数アンカーの一次確認ノート](../../../shared/knowledge/input/2026-11-25-facts-measures.md) → [ラフ値と定義の本文](../../../shared/knowledge/facts/japan-anchors.md)。
 
 - [CM-ART-01：評価観点のinputノート](input/2026-11-25-casematch-evaluation.md)。本文確認済み、資料読解と採用済み解法を分離。
 - [CM-001／GYM-001の台帳](../../../shared/materials/README.md)。同等の主要演習先。GYM-001は[1問の比較記録](learning/2026-11-25-01-gym-navigation-pilot.md)あり。

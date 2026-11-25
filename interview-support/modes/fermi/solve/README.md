@@ -1,6 +1,6 @@
 # フェルミ①｜回答全体を解く
 
-更新：2026-11-25。主要演習先2件を採用し、初期資料確認と1問の自己比較を試行。改善候補1件。網羅的input・継続演習と精度確認は未完了。
+更新：2026-11-25。初期input v1を保存し、新規演習・照合・再inputを実行中。実績はLEARNING、採用状態はINDEX、全体の精度はREADINESSを確認する。
 
 ## 役割
 
@@ -13,10 +13,10 @@
 - [CURRENT](CURRENT.md)：CORE・INDEX・詳細へ案内する入口。採用情報の本文をここに重複管理しない。
 - 全保管項目の正本は[INFORMATION_MAP](../../../INFORMATION_MAP.md)、移行状態は[READINESS](../../../learning/READINESS.md)。
 
-情報を読むinput、問題で確かめる学習、採用する情報を分ける。資料と演習はINPUT・LEARNING、候補の本文はdetailsから参照。採用済みAはまだない。
+情報を読むinput、問題で確かめる学習、採用する情報を分ける。資料と演習はINPUT・LEARNING、候補の本文はdetailsから参照。共通の採用済みA概数と、方法候補を分けて読む。
 
 ## input・学習の成果を保存する文書
 
 [CORE](CORE.md)：重要な採用済みAの要約／[INDEX](INDEX.md)：全情報をA→B→Cで索引化／[details](details/README.md)：種類別の本文／[HISTORY](HISTORY.md)：議論・変更への入口。
 
-優先度と確からしさ・状態は別に管理する。現在はBの候補1件を登録し、採用済みAへ昇格していない。
+優先度と確からしさ・状態は別に管理する。方法候補は演習結果で採否更新し、採用済みAだけCOREへ置く。

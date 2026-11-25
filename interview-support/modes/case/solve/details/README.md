@@ -5,3 +5,5 @@
 各情報は[ひな形](../../../../templates/INFORMATION.md)に沿ってID、優先度と理由、状態、出典、適用条件、評価根拠、変更履歴を持つ。[INDEX](../INDEX.md)へ必ず登録し、採用済みA情報は[CORE](../CORE.md)にも短く要約する。
 
 共通知識の本文はshared/knowledge等の1か所に置き、ここから参照する。教材の読解・比較ノートはinput/、①演習の実記録はlearning/に保持する。sessionsは②・本番の対話用。証拠と再利用する知識の本文を混ぜない。
+
+- [CASE-SOLVE-B-002等：全体回答と型に応じた方法選択](method-selection.md)：初期inputからの候補v1。各情報ID・状態・条件・根拠を本文で管理。

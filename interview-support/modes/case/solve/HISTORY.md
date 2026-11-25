@@ -4,6 +4,8 @@
 
 ## 環境設計の記録
 
+- [本格input・演習・再inputの実行履歴](../../../logs/2026-11-25-solve-learning-execution.md)：初回答の版、比較、共通知識採用と方法候補、Notion反映。
+
 - [4領域の分離と①先行の学習方針](../../../logs/2026-11-25-four-track-learning.md)
 - [優先度と文書の役割の確定・環境整備](../../../logs/2026-11-25-priority-documentation.md)
 - [①の最終すり合わせ・反復学習環境の監査と補完](../../../logs/2026-11-25-solve-learning-alignment.md)

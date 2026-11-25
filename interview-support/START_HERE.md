@@ -26,4 +26,4 @@
 
 ## 現在地
 
-①の主要演習先は[CaseMatchとケース面接ジム](shared/materials/README.md)、同等に活用する。ケース・フェルミ各1問の試行と各B候補1件、CaseMatch記事の初期確認を保存。網羅的input・継続的な精度確認は未完了。②は開始前、本番準備未完了。次はROADMAPに従い、試行だけで高精度としない。アプリは作らない。
+①の主要演習先は[CaseMatchとケース面接ジム](shared/materials/README.md)、同等に活用する。[SOLVE-CYCLE-001](learning/cycles/2026-11-25-01-broad-input.md)で初期input・演習・差分からの再inputを実行中。最新の実施範囲と再開点はCYCLES、精度と未達はREADINESSを読む。②は開始前、本番準備未完了。アプリは作らない。

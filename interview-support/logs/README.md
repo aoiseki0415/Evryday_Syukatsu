@@ -11,3 +11,5 @@
 - [優先度と文書の役割・環境整備](2026-11-25-priority-documentation.md)：A/B/C、文書の分層、今回の実施と検証。
 - [①の調査・演習方針とCaseMatch](2026-11-25-research-and-casematch.md)：無料情報の比較・実践への活用、ログインと面接操作の確認状況、認証情報の保護。
 - [①の最終すり合わせ・学習環境の監査](2026-11-25-solve-learning-alignment.md)：情報の定義、反復手順・範囲管理・知識適用の記録、正本と証拠の分離、残る未実施範囲。
+
+- [①の本格input・反復演習の実行](2026-11-25-solve-learning-execution.md)：初回答→比較→再input、情報採用、Notion反映と未達。
