@@ -20,6 +20,8 @@
 
 ## 登録済みの情報
 
+- [FERMI-PHOTO-INPUT-20261125：写真プリント問題後の再input](input/2026-11-25-photo-print-followup.md)：一次4資料群で商品/経路/受取/送料、経験調査の分母、広い市場見込の範囲を確認。年間利用世帯率/同対象売上は取得できず、全国平均/新アンカーへ採用しない。
+- [FERMI-INDEPENDENT-INPUT-20261125：自由係数・幅・独立照合の再input](input/2026-11-25-independent-check-followup.md)：無料一次3文書の限定範囲。元情報/橋渡し/仮定、別方法・別担当・別観測の違い、制約/感度/シナリオを整理。A/Bの現行版は不変で、候補の実適用は演習へ分離する。
 - [FERMI-STOCK-INPUT-20261125：タイヤ交換後の再input](input/2026-11-25-stock-transfer-followup.md)：3一次資料の指定範囲、調査対象/設問・状態/推奨/行動・寿命分布/重み。初回答の係数や1200万本を実証した資料とはしない。
 - [住宅・車両の追加アンカーinput](../../../shared/knowledge/input/2026-11-25-additional-anchors.md)：公的な定義/時点、粗い数と未採用の探索入口。
 - [共通Care再input](../../../shared/knowledge/input/2026-11-25-care-followup.md)：状態stockと遷移、実人数/時間/FTEの境界。METHOD-005本文へ接続。

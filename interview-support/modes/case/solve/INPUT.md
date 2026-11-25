@@ -20,6 +20,7 @@
 
 ## 登録済みの情報
 
+- [CASE-INPUT-20261125-04：新規事業設計の再input](input/2026-11-25-new-business-followup.md)：3資料/2発信主体の指定部分。顧客課題・価値・提供/収益モデル・仮説検証を比較し、適用候補NB-C3-01へ整理。実際の顧客/需要の証拠や採用済み手順とは別。
 - [CASE-INPUT-20261125-03：留保評価後の再input](input/2026-11-25-unseen-followup.md)：段階投資の差分と、セット/個別施策・複数比較。指定3資料の限定範囲と適用推論を分ける。
 - [共通Care再input](../../../shared/knowledge/input/2026-11-25-care-followup.md)：状態/再発/退出、FTE/移管先とコホート。METHOD-005本文へ接続。
 - [住宅・車両の追加アンカーinput](../../../shared/knowledge/input/2026-11-25-additional-anchors.md)：公的な定義/時点、粗い数と未採用の探索入口。

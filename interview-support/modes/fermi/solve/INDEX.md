@@ -14,6 +14,7 @@
 
 ## B 重要
 
+- [FERMI-SOLVE-B-006：仮定の根拠・別経路・幅の扱い](details/evidence-and-checks.md)：B候補v1。元情報と橋渡し、共有入力と別観測、感度/シナリオ/上下限を区別。自由係数の実数精度や全型への定着は未確認。既存A-002 v2を補う。
 | ID・要点 | 種類・理由 | 状態・適用条件 | 根拠・履歴 |
 | --- | --- | --- | --- |
 | [FERMI-SOLVE-B-001：制約差のある層で割合を作る](details/constraint-segmentation.md) | 解法・分解／利用や所有の制約差が重要な場合 | 候補、2026-11-25。別問題での再現は未確認 | [GYM-FERMI-001](learning/2026-11-25-01-gym-navigation-pilot.md)。旧状態なし、自己比較から新規。[変更](../../../logs/2026-11-25-research-and-casematch.md)。失効・後継なし |

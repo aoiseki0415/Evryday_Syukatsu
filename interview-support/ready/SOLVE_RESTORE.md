@@ -10,6 +10,7 @@
 | 現行 | 対象solve/CURRENT→CORE→INDEX→method-selection | 回答全体の標準手順、型の第一候補と切替、採用/候補・未評価の範囲 |
 | 補助の方法 | ケースcohorts-behavior-metrics/staged-decisions、フェルミstock-time-weighting/flow-boundaries | コホート/採算/行動/実装、追加判断の基準、stock/flow/時間/群/境界の条件 |
 | 施策の選択 | ケースmeasure-hypothesesと、該当する企業事例/演習 | 原因条件に合う作用・費用・最終成果/反証。6件はB候補で、実証済み効果や一般改善率とはしない |
+| 未設計/自由係数の補助 | 必要時にケースnew-business-design、フェルミevidence-and-checks | B008/B006はいずれも候補v1。顧客/課金/提供の設計、根拠の橋渡しと別観測の限界を復元し、実需/個別係数の精度認定と分ける |
 | 共通知識 | knowledgeの概数8項目・企業施策4例・measurement-boundaries/state-workforce-boundaries | ラフ値、出典の定義/時点、事実と仮説、指標/利益/回避支出/工程・状態/技能/移管 |
 | 未解決と更新 | COVERAGE、READINESS、対象HISTORYの直近変更、必要時の演習根拠 | 何が分かり、何が未検証か、後置きの解説条件を与件へ遡及しない評価 |
 | 必要時の検索 | shared/research/PATHS | 決定に必要な事実を絞り、一次資料の時点・範囲へ戻る |
