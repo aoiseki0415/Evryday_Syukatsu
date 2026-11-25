@@ -2,6 +2,8 @@
 
 現行の主軸はケース/フェルミ × ①solve/②supportの4領域。input・演習・評価・採用済みの改善を各領域で分ける。本人の修正により、①が十分に高精度になる前に②へ進む案は採用しない。
 
+①の作業開始は[実行仕様](SOLVE_WORKFLOW.md) → [情報種類・問題型のカバレッジ](COVERAGE.md) → [サイクル索引・再開点](CYCLES.md)。広いinputと資料比較、知識の実適用による演習・照合・更新を繰り返し、使用版と更新の対応を残す。記録は[ひな形](../templates/README.md)を使う。
+
 | 領域 | input | 学習 | 採用済み |
 | --- | --- | --- | --- |
 | ケース① | [INPUT](../modes/case/solve/INPUT.md) | [LEARNING](../modes/case/solve/LEARNING.md) | [CURRENT](../modes/case/solve/CURRENT.md) |

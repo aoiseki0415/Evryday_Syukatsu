@@ -12,6 +12,8 @@
 
 ## 収集・参照のルール
 
+共通の[①実行仕様](../../../learning/SOLVE_WORKFLOW.md)と[カバレッジ](../../../learning/COVERAGE.md)に沿う。読解・比較は[資料ひな形](../../../templates/SOURCE.md)からinput/へ保存し、ここへ全件の参照を残す。比較後に再利用する解法・知識はdetails/または共通知識へ置き、INDEXへ登録する。inputノートを現行の知識本文と混同しない。
+
 資料ごとにsource_id、題名・版、参照箇所、要点、適用条件、確認日、確定/候補/失効を記録する。教材の所在と問題・解答・解説の有無は[共通台帳](../../../shared/materials/README.md)を参照する。
 
 両モードで使える知識の本文は[shared/knowledge](../../../shared/knowledge/README.md)に置き、ここから参照する。①の全体回答・解法を②へ全文複製しない。元資料や採用済みの知識と区別して保存する。

@@ -14,7 +14,7 @@
 | 推定そのものが単独出題 | [fermi/PLAYBOOK](modes/fermi/PLAYBOOK.md) |
 | 情報と学習の整理・教材受領 | [INFORMATION_MAP](INFORMATION_MAP.md)、shared/materials、対象領域INPUT |
 
-4. ①の学習では対象solveのINPUT・LEARNING、CURRENT→CORE→INDEXと必要な詳細を読む。本人に正誤の判定を求めず、教材の解答・解説を評価根拠にする。
+4. ①の学習では[SOLVE_WORKFLOW](learning/SOLVE_WORKFLOW.md) → [COVERAGE](learning/COVERAGE.md) → [CYCLESの再開点](learning/CYCLES.md)を読み、対象solveのINPUT・LEARNING、CURRENT→CORE→INDEXと必要な詳細を確認する。本人に正誤の判定を求めず、教材の解答・解説を評価根拠にする。使用知識のID・版・実適用箇所を演習記録に残し、inputと演習を繰り返す。
 5. ②の学習は①の十分な精度を確認してから。support側のCURRENT→CORE→INDEXと必要な詳細、①の現行情報を読む。②では本人のフィードバックを使う。
 6. 本番支援は[ready](ready/README.md)に従い、①②、共通知識、探索経路の現行本文を読み込む。未策定・未評価なら状態を短く伝え、準備完了と装わない。
 

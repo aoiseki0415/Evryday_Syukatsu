@@ -4,4 +4,4 @@
 
 各情報は[ひな形](../../../../templates/INFORMATION.md)に沿ってID、優先度と理由、状態、出典、適用条件、評価根拠、変更履歴を持つ。[INDEX](../INDEX.md)へ必ず登録し、採用済みA情報は[CORE](../CORE.md)にも短く要約する。
 
-共通知識の本文はshared/knowledge等の1か所に置き、ここから参照する。教材ノートはinput/、演習の実記録はlearning/またはsessionsに保持し、採用した知識の本文と混ぜない。
+共通知識の本文はshared/knowledge等の1か所に置き、ここから参照する。教材の読解・比較ノートはinput/、①演習の実記録はlearning/に保持する。sessionsは②・本番の対話用。証拠と再利用する知識の本文を混ぜない。

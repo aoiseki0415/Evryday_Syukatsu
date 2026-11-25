@@ -25,6 +25,7 @@
 - [OPERATIONS](OPERATIONS.md)：編集境界・記録・更新の運用。
 - [NOTION_INDEX](NOTION_INDEX.md)：4領域と目的別文書のNotion保存先。
 - [精度と移行条件](learning/READINESS.md)／[準備セット](ready/README.md)。
+- [①の反復学習手順](learning/SOLVE_WORKFLOW.md)／[調査・問題種類の範囲](learning/COVERAGE.md)／[サイクルと再開点](learning/CYCLES.md)。
 
 ## 保存構造
 
@@ -42,7 +43,8 @@ interview-support/
 │   ├── materials/   問題集・解答・解説の共通台帳
 │   ├── knowledge/   共通知識・ラフな値・施策・出典
 │   └── research/    必要時に素早く調べる探索経路
-├── learning/        4領域の索引・①の精度/移行状態
+├── learning/        4領域索引・①実行手順/カバレッジ/サイクル・精度/移行状態
+├── templates/       情報項目・資料比較・演習・サイクル・変更の記録ひな形
 ├── sessions/        ②や本番の対話記録
 ├── ready/           次のチャットが読む準備セット
 ├── logs/            議論・決定理由・操作の履歴
