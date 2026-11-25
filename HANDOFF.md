@@ -1,5 +1,9 @@
 # 就活戦略プロジェクト：引き継ぎ
 
+## ケース面接・フェルミ推定支援の再開点（11/25）
+
+本チャットでリアルタイム支援システムを新規検討。[専用README](interview-support/README.md) → [仕様](interview-support/SPEC.md) → [運用](interview-support/OPERATIONS.md) → [初回ログ](interview-support/logs/2026-11-25-storage-and-roles.md)を読む。保存先は本repoの `interview-support/` と、就活ワークスペース直下の[Notionホーム](https://app.notion.com/p/423161f2809781ff9677d9f3c6a9e488)。GitHubはCodex用の詳細、Notionは本人向けに最新の確定事項・重要な要点・構造を短く可視化する。入力・支援内容・回答形式等は未決定。次は具体的な支援仕様を議論する。以下の就活戦略・企業比較の11/15時点の記録は継続。
+
 更新：2026年11月15日。公式HPによる技術力・日本との接点を既存26企業ページに追記し、05の方法・06の選定を更新。デロイトES２問は11/12作成完了、提出済みとは扱わない。
 
 ## 最新の再開点（11/15）
