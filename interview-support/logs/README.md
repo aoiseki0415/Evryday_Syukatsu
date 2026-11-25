@@ -13,3 +13,4 @@
 - [①の最終すり合わせ・学習環境の監査](2026-11-25-solve-learning-alignment.md)：情報の定義、反復手順・範囲管理・知識適用の記録、正本と証拠の分離、残る未実施範囲。
 
 - [①の本格input・反復演習の実行](2026-11-25-solve-learning-execution.md)：初回答→比較→再input、情報採用、Notion反映と未達。
+- [①の追加学習](2026-11-26-solve-learning-execution.md)：未演習問題の確認、追加input、別問転用と記録。
