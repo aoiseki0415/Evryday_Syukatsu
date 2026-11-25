@@ -32,6 +32,8 @@
 
 - [KNOW-JP-007/008：住宅・車両の概数](../../../shared/knowledge/facts/housing-vehicles.md)：B採用済みv1。時点・居住/空き家・乗用/全車種の条件あり。世帯と戸数、保有と年販売を混ぜない。
 
+- [KNOW-METHOD-006：面積の定義と補集合](../../../shared/knowledge/methods/area-boundaries.md)：共通B限定採用v1。公式の可住地/林野/森林の定義・同一境界の代数を採用。全国比率・画像補正・独立観測成功は未評価。
+
 ## C 補足
 
 未登録。

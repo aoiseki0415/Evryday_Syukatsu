@@ -12,6 +12,8 @@
 
 ## 分類
 
+- [面積・可住地・林野・森林の境界](methods/area-boundaries.md)：KNOW-METHOD-006、B限定採用v1。公式定義と同一境界での代数のみ。森林の全国比率、画像分類の補正、独立観測の成功は未認定。[森林比較からの再input](input/2026-11-26-area-definitions.md)を根拠として保持。
+
 資料が生じたら、解法methods/、前提知識facts/、施策・企業事例measures/へ保存する。内容のないファイルを大量に作らない。共通知識はモード別に全文複製せず、適用範囲case/fermi/sharedと参照先を持たせる。
 
 ## 記録項目

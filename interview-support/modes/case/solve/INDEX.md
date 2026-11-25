@@ -20,7 +20,8 @@
 - [CASE-SOLVE-B-002：問題型・条件に応じた方法選択](details/method-selection.md)：v2。枝別に限定採用と候補を区別。適用/切替/検証条件を読み、全分岐を検証済みとしない。
 - [CASE-SOLVE-B-003/004/005：コホートと継続採算、行動障害、現行実装と最終指標](details/cohorts-behavior-metrics.md)：条件付きの確認手順として採用済みv2。具体的な原因/介入効果率は未検証。
 - [CASE-SOLVE-B-006/007：段階投資の限界判断・複合施策の検証](details/staged-decisions.md)：B006は条件付き確認手順として限定採用v2。追加差と判断基準を接続。B007は候補v1、セット/成分の検証実装は未評価。
-- [CASE-SOLVE-B-008：新規事業を設計し仮説を検証](details/new-business-design.md)：B候補v1。利用/支払/決定、提供/課金/費用、役割/月別能力、段階検証を接続。専用1問の整合を確認し、実需・反復・未見/速度は未確認。
+- [CASE-SOLVE-B-008：新規事業を設計し仮説を検証](details/new-business-design.md)：B候補v2。利用/支払/決定、提供/課金/費用、役割/月別能力、段階検証を接続。専用2問の比較から最大枠≠必要投入、事前判定、分岐量と能力/費用を補強。実需・独立未見/速度は未確認。
+- [CASE-SOLVE-B-009/010：買収・自力と撤退/転用の比較](details/acquisition-exit.md)：両B候補v1。価値と対価、配賦と回避支出、同じ目的/期間と閾値を接続。追加inputと閉条件各1問の比較を根拠とし、複雑な取引/現実の採算は未確認。
 - [CASE-MEASURE-B-001〜006：原因条件から選ぶ施策仮説](details/measure-hypotheses.md)：すべてB候補v1。継続価値、購買/訪問障害、制約工程、価格の純増、支援アクセス、技能/業務移管。演習から抽出した作用・費用・最終指標・反証であり、実際の効果率や企業報告の事実とは別。
 - [KNOW-METHOD-005：状態/実人数・業務量/FTE/移管の境界](../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通B限定採用v2。状態台帳/時間・技能/移管の定義・条件付き確認。効果率・公的FTEの現行制度・未評価枝は未確定。
 - [KNOW-JP-003：年齢の概数](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
@@ -35,6 +36,8 @@
 - [KNOW-METHOD-002〜004：客室指標/価格、回避支出、工程能力](../../../shared/knowledge/methods/measurement-boundaries.md)：共通B、公式定義・条件付き代数・モデルの範囲で採用済みv1。問題全体の高精度認定とは分ける。
 
 - [KNOW-JP-007/008：住宅・車両の概数](../../../shared/knowledge/facts/housing-vehicles.md)：B採用済みv1。時点・居住/空き家・乗用/全車種の条件あり。世帯と戸数、保有と年販売を混ぜない。
+
+- [KNOW-METHOD-006：面積の定義と補集合](../../../shared/knowledge/methods/area-boundaries.md)：共通B限定採用v1。面積・居住域・土地用途を扱う時だけ参照。公式定義と同一境界の代数を採用し、森林率や施策効果は未認定。
 
 ## C 補足
 
