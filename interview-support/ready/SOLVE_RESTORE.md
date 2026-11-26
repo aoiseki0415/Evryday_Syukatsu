@@ -4,6 +4,8 @@
 
 ## 最小の読込順
 
+単独フェルミ①の情報構造は[READING_MAP](../modes/fermi/solve/READING_MAP.md)。数字設定方法と参照索引を含む全30IDを辿れる。フェルミ②の本番準備を依頼された場合は[preparation](../modes/fermi/support/details/preparation.md)の順/完了条件へ。ケース側の施策や企業事例を単独フェルミの必読へ混ぜない。
+
 | 段階 | 必ず内容を読むもの | 復元する理解 |
 | --- | --- | --- |
 | 入口 | SPEC→OPERATIONS→DOCUMENTATION→対象PLAYBOOK | ケース/単独フェルミ、①/②、公開範囲、記録と承認不要の通常作業 |
@@ -11,6 +13,7 @@
 | 補助の方法 | ケースcohorts-behavior-metrics/staged-decisions、フェルミstock-time-weighting/flow-boundaries | コホート/採算/行動/実装、追加判断の基準、stock/flow/時間/群/境界の条件 |
 | 施策の選択 | ケースmeasure-hypothesesと、該当する企業事例/演習 | 原因条件に合う作用・費用・最終成果/反証。6件はB候補で、実証済み効果や一般改善率とはしない |
 | 未設計/自由係数の補助 | ケースnew-business-design/acquisition-exit、フェルミevidence-and-checks/geometry-capacity | ケースB008は候補v2、買収/撤退B009010とフェルミB006〜008は候補v1。条件/代替/未確認を復元、実需/個別係数の精度と分ける |
+| フェルミの数字設定/参照例 | solve/details/number-setting-methods→solve/references/NUMBER_INDEX | A003手順v1とC001参照用v1を分離。重要な基礎概数/観測と過去問設定を混ぜず、根拠→橋渡し→値を復元 |
 | 診断・制約・事業構造 | ケースdiagnosis-constraints/business-structures | B011〜013の候補。競合仮説/反証、全作業/各/毎/技能/日別再集計、支払/利用/取引単位と利益の境界を復元 |
 | 共通知識・分野別の概数 | shared/knowledgeのfacts/measures/methods、フェルミrough-anchors | 人口等の基本概数、企業報告、面積境界を含む共通定義と分野別のラフ値。観測/丸め/設問仮定、対象/時点、幅の性質、再探索を区別。全件は各INDEXに従う |
 | 未解決と更新 | COVERAGE、READINESS、対象HISTORYの直近変更、必要時の演習根拠 | 何が分かり、何が未検証か、後置きの解説条件を与件へ遡及しない評価 |

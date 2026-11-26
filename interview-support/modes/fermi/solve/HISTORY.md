@@ -2,6 +2,10 @@
 
 [GYM-FERMI-001](learning/2026-11-25-01-gym-navigation-pilot.md)の自己比較からFERMI-SOLVE-B-001を候補として新規登録。[主要演習先の採用と相談禁止の経緯](../../../logs/2026-11-25-research-and-casematch.md)も参照する。今後も情報IDごとの旧/新・理由・根拠・更新先を保持する。
 
+## 最新の記録
+
+- [2026-11-26：数字設定方法/参照索引と情報構造](../../../logs/2026-11-26-fermi-numbers-and-support.md)：無料10資料の方法比較と過去演習再検討からA-003手順v1、過去学習39問等/公開追加例からC-001参照用v1を新規登録。基礎概数・方法・設定例・過程を分離し、READING_MAPから②準備へ接続。新規演習/精度認定/旧原案改変は0。
+
 ## 環境設計の記録
 
 - [2026-11-26情報充足の監査・補強](../../../logs/2026-11-26-information-quality.md)：[追加4問/累計39問](LEARNING.md)。分野別の資料/本文が不足していたため、[input03](input/2026-11-26-03-assumption-anchors.md)からFACT001–004の4カードを新規B限定採用。分類の[input04](input/2026-11-26-04-food-boundaries-followup.md)とPC更新の[input05](input/2026-11-26-05-pc-renewal-followup.md)を経て003/004情報v1→v2、001/002はv1。GYM028/CMF010は旧v1、GYM029/CMF011はv2を事前使用し、原案/AI講評/自己比較を分離。旧初版Git2ffa58f、本文に使用時hash/変更理由を保存。主要自由係数/全国実数の精度はなお未認定。

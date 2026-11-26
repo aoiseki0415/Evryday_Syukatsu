@@ -1,6 +1,6 @@
 # 4領域の現行採用情報への入口
 
-更新：2026-11-26。両①の調査・演習・比較・再inputを反復。最新の実施範囲/再開点は[CYCLES](CYCLES.md)と[COVERAGE](COVERAGE.md)、精度は[READINESS](READINESS.md)を読む。知識の件数と充足は[情報監査](audits/2026-11-26-information-audit.md)へ。特定の過去サイクルの途中状態をここへ複製しない。②未開始、本番準備未完了。
+更新：2026-11-26。最新の実施範囲/再開点は[CYCLES](CYCLES.md)と[COVERAGE](COVERAGE.md)、精度は[READINESS](READINESS.md)を読む。フェルミ①の数字設定方法/参照例を調査・過去演習再検討で補強し、本人指示で開始したフェルミ②の準備と初回共有を仕様化。ケース②は未開始、①全体精度/10秒/実新規Work起動は未認定。知識の件数と構造は[最新のフェルミ監査](audits/2026-11-26-fermi-numbers-support-audit.md)へ。
 
 | 領域 | 現行の正本 |
 | --- | --- |

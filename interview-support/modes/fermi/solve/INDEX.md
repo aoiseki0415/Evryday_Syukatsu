@@ -2,12 +2,15 @@
 
 状態：初期input→演習→再input→別問題適用を経て標準手順v2へ更新。型選択の候補と、定義/条件付き式の採用を区別する。領域全体の十分な精度は未認定。優先度と状態を別に読む。
 
+更新2026-11-26。数字設定方法A-003と設定例参照層C-001を追加し、全30ID（A6/B23/C1）。[情報の構造と読込地図](READING_MAP.md)から本文へ辿れる。今回の学習は無料Web調査/過去演習再検討で、新規問題は0。
+
 ## A 必須
 
 | ID・要点 | 種類・状態・条件 | 根拠・版 |
 | --- | --- | --- |
 | [FERMI-SOLVE-A-001：全体回答](details/method-selection.md) | 方法／標準手順として採用済みv2。対象定義から検証・結論まで | 複数型の演習と再input、精度/速度の認定とは別 |
 | [FERMI-SOLVE-A-002：検算・感度](details/method-selection.md) | 検証／標準手順として採用済みv2。算術とモデル/独立性を分ける | 係数の裏付けと全体精度は別に評価 |
+| [FERMI-SOLVE-A-003：数字を合理的に設定する方法](details/number-setting-methods.md) | 方法／標準手順として採用済みv1。全型の主要係数を左右するためA。根拠選択/補正/加重/類推/制約/代表値/索引/検証 | [無料10資料の比較](input/2026-11-26-06-number-setting-methods.md)と[過去演習再検討](learning/2026-11-26-07-number-methods-retrospective.md)。個々の率/価格の実数精度と新問/速度は未検証 |
 | [KNOW-JP-001：人口](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。全国在住者、ラフ1.2億等 | 公的統計確認v1、使用条件あり |
 | [KNOW-JP-002：世帯](../../../shared/knowledge/facts/japan-anchors.md) | 共通概数／採用済み。ラフ6000万世帯・2人等 | 国勢調査確認v1、一般世帯の定義あり |
 | [KNOW-METHOD-001：集計範囲・分母](../../../shared/knowledge/methods/measurement-boundaries.md) | 共通確認規則／採用済みv1。対象・イベント・実人数・期間を合わせる | 公式定義と演習後の再input |
@@ -42,7 +45,11 @@
 
 ## C 補足
 
-未登録。
+| ID・要点 | 種類・優先度理由 | 状態・条件 | 根拠 |
+| --- | --- | --- | --- |
+| [FERMI-REF-C-001：数字設定の参照索引](references/NUMBER_INDEX.md) | 条件付きの例。暗記する基礎概数と独立した補助層なのでC | 参照用v1として登録/本文監査。47参照群の個別実数を一括認定しない。方法からの照合/導出困難時、元条件/性質を確認して使う | [資料ノート](input/2026-11-26-07-number-settings-sources.md)、[39学習問等の全件走査](learning/2026-11-26-08-number-settings-retrospective.md)。新規演習は0 |
+
+追加2IDはいずれも更新2026-11-26、前版/後継なし。変更理由/旧版は[今回のログ](../../../logs/2026-11-26-fermi-numbers-and-support.md)。FNUM行数を正式知識ID数へ足さず、旧演習の使用版へ後付けしない。
 
 ## 登録する項目
 

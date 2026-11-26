@@ -15,17 +15,17 @@
 | 情報と学習の整理・教材受領 | [INFORMATION_MAP](INFORMATION_MAP.md)、shared/materials、対象領域INPUT |
 
 4. ①の学習では[SOLVE_WORKFLOW](learning/SOLVE_WORKFLOW.md) → [COVERAGE](learning/COVERAGE.md) → [CYCLESの再開点](learning/CYCLES.md)を読み、対象solveのINPUT・LEARNING、CURRENT→CORE→INDEXと必要な詳細を確認する。本人に正誤の判定を求めず、教材の解答・解説を評価根拠にする。使用知識のID・版・実適用箇所を演習記録に残し、inputと演習を繰り返す。
-5. ②の学習は①の十分な精度を確認してから。support側のCURRENT→CORE→INDEXと必要な詳細、①の現行情報を読む。②では本人のフィードバックを使う。
+5. ②は原則①の十分な精度を確認してから。最新の本人指示でフェルミ②は開始済み、ケース②は未開始。support側のCURRENT→CORE→INDEXと必要な詳細、①の現行情報を読む。単独フェルミは[全体の順序](modes/fermi/support/details/workflow.md)→[準備](modes/fermi/support/details/preparation.md)→お題を待つ→[初回共有](modes/fermi/support/details/initial-response.md)。①精度認定と②開始を混同しない。
 6. 本番支援は[ready](ready/README.md)に従い、①②、共通知識、探索経路の現行本文を読み込む。未策定・未評価なら状態を短く伝え、準備完了と装わない。
 
 ## 本番の対応方針
 
 お題は文字またはスクショ。条件・数値・単位・制約を把握し、必要な根拠を使って回答全体を構築・確認したうえで、初手として必要な部分だけを素早く認識できる形で伝える。①の分析を初手で止めない。
 
-以後は本人の依頼を受け、共有された現在地と変更条件を優先する。未共有の思考過程を捏造せず、不可欠な不足だけ確認する。真因だけを伝えられた施策依頼等でも、最初の筋道へ戻すことを目的にしない。
+以後の本人の未共有の思考過程は捏造しない。ケースは共有された現在地を優先するという既存方針を維持する。フェルミの初回後の唐突な質問への具体的対応は、今後の議論事項であり今回の仕様化範囲外。
 
 ## 現在地
 
-①の主要演習先は[CaseMatchとケース面接ジム](shared/materials/README.md)、同等に活用する。最新の実施範囲と再開点は[CYCLES](learning/CYCLES.md)、精度と未達は[READINESS](learning/READINESS.md)を読む。特定サイクルの途中状態をこの入口へ複製しない。②は開始前、本番準備未完了。アプリは作らない。
+①の主要演習先は[CaseMatchとケース面接ジム](shared/materials/README.md)、同等に活用する。最新の実施範囲と再開点は[CYCLES](learning/CYCLES.md)、精度と未達は[READINESS](learning/READINESS.md)を読む。特定サイクルの途中状態をこの入口へ複製しない。フェルミ②は開始/合意仕様あり、ケース②は開始前。①全体精度・10秒達成・実新規Work起動は未認定。アプリは作らない。
 
 情報の充足確認は[情報監査](learning/audits/2026-11-26-information-audit.md)も参照。採用済み本文に加え、お題に必要な候補の条件/証拠/未評価も確認する。候補を利用しても採用済みへ昇格したことにはしない。
