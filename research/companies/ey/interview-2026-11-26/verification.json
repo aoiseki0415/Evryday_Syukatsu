@@ -1,0 +1,61 @@
+{
+  "checked_on": "2026-11-26",
+  "target_scope": "EY / 本選考（二次面接対策）",
+  "parent_properties_preserved": true,
+  "parent_full_width": true,
+  "pages": [
+    {
+      "page_id": "424161f2809780f0a27ffb272dcc082f",
+      "title": "🎯 本選考（二次面接対策）",
+      "url": "https://app.notion.com/p/424161f2809780f0a27ffb272dcc082f",
+      "ey_ancestor_verified": true,
+      "required_terms_present": true,
+      "child_page_count": 3,
+      "callout_count": 3,
+      "toggle_count": 0,
+      "unknown_blocks": false,
+      "body_chars": 1812
+    },
+    {
+      "page_id": "424161f2809781a0ae9fc83ef0e3abac",
+      "title": "🎯 01｜なぜEYか：自己分析との接続",
+      "url": "https://app.notion.com/p/424161f2809781a0ae9fc83ef0e3abac",
+      "ey_ancestor_verified": true,
+      "required_terms_present": true,
+      "child_page_count": 0,
+      "callout_count": 2,
+      "toggle_count": 3,
+      "unknown_blocks": false,
+      "body_chars": 5629
+    },
+    {
+      "page_id": "424161f2-8097-8131-8951-d1950ac144aa",
+      "title": "⚖️ 02｜アクセンチュアとの比較：EYを選ぶ理由",
+      "url": "https://app.notion.com/p/424161f2809781318951d1950ac144aa",
+      "ey_ancestor_verified": true,
+      "required_terms_present": true,
+      "child_page_count": 0,
+      "callout_count": 2,
+      "toggle_count": 1,
+      "unknown_blocks": false,
+      "body_chars": 3809
+    },
+    {
+      "page_id": "424161f2-8097-81ec-8bae-f34d6542b0b2",
+      "title": "💬 03｜AIの逆質問：社内活用と顧客支援",
+      "url": "https://app.notion.com/p/424161f2809781ec8baef34d6542b0b2",
+      "ey_ancestor_verified": true,
+      "required_terms_present": true,
+      "child_page_count": 0,
+      "callout_count": 2,
+      "toggle_count": 15,
+      "unknown_blocks": false,
+      "body_chars": 6831
+    }
+  ],
+  "scope_notes": [
+    "EY scope was verified from each page path and parent native child-page links.",
+    "Readback verified headings, links, tables, callouts, and question groups; no screenshot-based visual claim.",
+    "Public repository contains research summaries, source routes, and operation records; personal answer drafts remain in the requested Notion pages."
+  ]
+}
