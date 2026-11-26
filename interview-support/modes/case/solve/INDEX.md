@@ -22,6 +22,8 @@
 - [CASE-SOLVE-B-006/007：段階投資の限界判断・複合施策の検証](details/staged-decisions.md)：B006は条件付き確認手順として限定採用v2。追加差と判断基準を接続。B007は候補v1、セット/成分の検証実装は未評価。
 - [CASE-SOLVE-B-008：新規事業を設計し仮説を検証](details/new-business-design.md)：B候補v2。利用/支払/決定、提供/課金/費用、役割/月別能力、段階検証を接続。専用3問を比較し、最大枠≠必要投入、事前判定、分岐量と能力/費用を補強。3問目CM-C-014は改訂候補v2を事前使用。実需・独立未見/速度は未確認。
 - [CASE-SOLVE-B-009/010：買収・自力と撤退/転用の比較](details/acquisition-exit.md)：両B候補v1。価値と対価、配賦と回避支出、同じ目的/期間と閾値を接続。追加inputと閉条件各1問の比較を根拠とし、複雑な取引/現実の採算は未確認。
+- [CASE-SOLVE-B-011/012：原因の識別と、必要全作業/期間の制約照合](details/diagnosis-constraints.md)：両B候補v1。競合仮説ごとの予測/反証、実装/利用/成果/因果と、原文の各/毎/期間→全作業→同期間再集計を整理。C019/022の誤りを予防規則へ抽出し、資料読解のみで独立再現性を認定しない。
+- [CASE-SOLVE-B-013：顧客・取引・提供の構造6カード](details/business-structures.md)：B候補v1。物販/継続/仲介/人・施設サービス/B2B/公共の分析入口。誰が利用/支払/決定/提供し何で課金/費用となるかを接続。業界データの網羅や実需を証明したものではない。
 - [CASE-MEASURE-B-001〜006：原因条件から選ぶ施策仮説](details/measure-hypotheses.md)：すべてB候補v1。継続価値、購買/訪問障害、制約工程、価格の純増、支援アクセス、技能/業務移管。演習から抽出した作用・費用・最終指標・反証であり、実際の効果率や企業報告の事実とは別。
 - [KNOW-METHOD-005：状態/実人数・業務量/FTE/移管の境界](../../../shared/knowledge/methods/state-workforce-boundaries.md)：共通B限定採用v2。状態台帳/時間・技能/移管の定義・条件付き確認。効果率・公的FTEの現行制度・未評価枝は未確定。
 - [KNOW-JP-003：年齢の概数](../../../shared/knowledge/facts/japan-anchors.md)：共通B、出典・定義確認の範囲で採用済みv1。問題固有の率・頻度は別仮定。
@@ -32,6 +34,7 @@
 - [KNOW-MEASURE-002：自動化と運用](../../../shared/knowledge/measures/mechanisms.md)：共通B、企業公式の事例事実として採用済みv1。転用効果は仮説で演習検証対象。
 - [KNOW-MEASURE-003：食品ロス](../../../shared/knowledge/measures/mechanisms.md)：共通B、企業公式の事例事実として採用済みv1。転用効果は仮説で演習検証対象。
 - [KNOW-MEASURE-004：受取制約](../../../shared/knowledge/measures/mechanisms.md)：共通B、企業公式の事例事実として採用済みv1。転用効果は仮説で演習検証対象。
+- [KNOW-MEASURE-005：会費と商品販売を組み合わせる事業構造](../../../shared/knowledge/measures/business-models.md)：共通B、CostcoのFY2025公式報告の事例事実に限定採用v1。会費認識/更新率の母数・経過期間と構成差を確認。転用効果や2026年の現行条件を認定しない。
 
 - [KNOW-METHOD-002〜004：客室指標/価格、回避支出、工程能力](../../../shared/knowledge/methods/measurement-boundaries.md)：共通B、公式定義・条件付き代数・モデルの範囲で採用済みv1。問題全体の高精度認定とは分ける。
 
