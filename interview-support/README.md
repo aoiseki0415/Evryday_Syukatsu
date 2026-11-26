@@ -1,6 +1,6 @@
 # ケース面接・フェルミ推定｜対話支援の基盤
 
-更新：2026-11-26。SOLVE-CYCLE-001の49学習問に続き、002で調査⇄演習を反復し25問を追加、累計74問（ケース39・フェルミ35）の初回答と比較を保存。CaseMatch文字AIとケース面接ジムは全問終了未確認。最新の記録と再開点はlearning/CYCLES・COVERAGE、精度はREADINESSから確認する。②は未開始、①全体の十分な精度・本番準備は未認定。
+更新：2026-11-26。①情報全般の監査から根拠/条件と引継ぎを補修し、003で調査⇄演習8問を追加。累計82問（ケース43・フェルミ39）の初回答と比較を保存。再利用知識は重複除外53ID（解法/判断/概数/企業事例/施策仮説等）で、資料・演習・履歴とは別。CaseMatch文字AIとケース面接ジムは全問終了未確認。最新の再開点はlearning/CYCLES・COVERAGE、精度はREADINESSから確認する。②は未開始、①全体の十分な精度・本番準備は未認定。
 
 ## 目的と進め方
 
@@ -26,6 +26,7 @@
 - [NOTION_INDEX](NOTION_INDEX.md)：4領域と目的別文書のNotion保存先。
 - [精度と移行条件](learning/READINESS.md)／[準備セット](ready/README.md)。
 - [①の反復学習手順](learning/SOLVE_WORKFLOW.md)／[調査・問題種類の範囲](learning/COVERAGE.md)／[サイクルと再開点](learning/CYCLES.md)。
+- [情報量・内容・引継ぎの監査](learning/audits/2026-11-26-information-audit.md)：正式ID・値・資料/演習の数え方、補強した内容と残る不足。
 
 ## 保存構造
 

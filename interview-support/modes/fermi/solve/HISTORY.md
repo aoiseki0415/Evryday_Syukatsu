@@ -4,6 +4,8 @@
 
 ## 環境設計の記録
 
+- [2026-11-26情報充足の監査・補強](../../../logs/2026-11-26-information-quality.md)：[追加4問/累計39問](LEARNING.md)。分野別の資料/本文が不足していたため、[input03](input/2026-11-26-03-assumption-anchors.md)からFACT001–004の4カードを新規B限定採用。分類の[input04](input/2026-11-26-04-food-boundaries-followup.md)とPC更新の[input05](input/2026-11-26-05-pc-renewal-followup.md)を経て003/004情報v1→v2、001/002はv1。GYM028/CMF010は旧v1、GYM029/CMF011はv2を事前使用し、原案/AI講評/自己比較を分離。旧初版Git2ffa58f、本文に使用時hash/変更理由を保存。主要自由係数/全国実数の精度はなお未認定。
+
 - [2026-11-26追加学習](../../../logs/2026-11-26-solve-learning-execution.md)：追加12問。面積/密度・能力のinput、森林定義と生産/出荷の再input、別問転用からB007/008候補v1を登録。共通METHOD006は公式定義/同境界の代数のみB限定採用v1。自由係数の実測認定とは分離。
 - [本格input・演習・再inputの実行履歴](../../../logs/2026-11-25-solve-learning-execution.md)：初回答の版、比較、共通知識採用と方法候補、Notion反映。
 

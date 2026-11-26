@@ -14,3 +14,4 @@
 
 - [①の本格input・反復演習の実行](2026-11-25-solve-learning-execution.md)：初回答→比較→再input、情報採用、Notion反映と未達。
 - [①の追加学習](2026-11-26-solve-learning-execution.md)：未演習問題の確認、追加input、別問転用と記録。
+- [①情報全般の充足監査と補強](2026-11-26-information-quality.md)：情報種類/本文/証拠/引継ぎの監査、不足の再調査と両サイトへの適用、旧版/最新/Notionの同期。

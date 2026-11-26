@@ -18,7 +18,9 @@
 
 Xは検索を試したが、今回の初期調査では解法採用の根拠にできる元投稿本文を確保していない。検索抜粋やAIによる投稿要約を確認済み解法へ登録しない。有料情報の購入・相談申込は行っていない。
 
-## 演習から戻った再inputの全ノート
+## 演習から戻った再inputへの入口
+
+全ノートは[ケースINPUT](../../modes/case/solve/INPUT.md)・[フェルミINPUT](../../modes/fermi/solve/INPUT.md)から参照する。以下は共通する初期の経路例で、これだけが全件という意味ではない。最新の追加/変更は[CYCLES](../../learning/CYCLES.md)と各INPUTを正本にする。
 
 - [ケース：継続/採算・行動・既存施策・指標](../../modes/case/solve/input/2026-11-25-feedback-methods.md)。
 - [フェルミ：stock/flow・寿命・平均/加重・道路区分](../../modes/fermi/solve/input/2026-11-25-feedback-methods.md)。
