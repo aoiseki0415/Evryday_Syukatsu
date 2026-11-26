@@ -18,6 +18,8 @@
 
 ## 登録済みの情報
 
+- source_id FERMI-SUPPORT-CONVERSATION-002：本チャットの表示合意v2。[議論/採否](../../../logs/2026-11-26-fermi-display-v2.md)→[A003 v2](details/initial-response.md)。数字設定の方法そのものは①に維持する。
+
 - source_id FERMI-SUPPORT-CONVERSATION-001：本チャットの本人合意、2026-11-26に記録。[議論/旧案/確定事項](../../../logs/2026-11-26-fermi-numbers-and-support.md)→[全体/準備/初回の本文](details/README.md)。
 - 実際の表示とフィードバックの証拠：[SESSION-FERMI-001](../../../sessions/2026-11-26-01-glasses.md)、[評価](learning/2026-11-26-01-glasses-feedback.md)。
 

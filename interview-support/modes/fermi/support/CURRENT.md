@@ -6,4 +6,6 @@
 
 本文の正本は種類別の詳細または共通知識。採用情報をこの文書へもう一度複製しない。INDEXの候補・未確認・失効を現行採用済みと誤認しない。
 
+初回の表示はA003 v2。番号付きの式を括弧で粗く→細かく展開し、代入まで最大4行。数値は最後の行だけ、直前の1要素に1つの値。期間/単位量あたりを要素名に残す。[変更と本人評価](learning/2026-11-26-02-display-feedback.md)は現行本文と別。
+
 起動順は[全体の流れ](details/workflow.md)→[準備時の確認](details/preparation.md)→お題を待つ→[初回共有](details/initial-response.md)。①は[solve/CURRENT](../solve/CURRENT.md)から復元する。メガネの評価は[LEARNING](LEARNING.md)、議論/旧版はHISTORY。初回後の質問対応は未策定。
